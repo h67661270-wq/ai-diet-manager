@@ -2,7 +2,7 @@
 
 面向**电脑端 Web** 的健康饮食管理系统，拟用于华为 ICT 大赛创新赛赛题 1「基于华为云产品打造 AI 创新应用」。以大学生的校园用餐为首个场景，用户可以直接和 AI 助手商量吃什么、按预算换菜、确认打卡，再查看近一周记录或分享餐单。
 
-**当前进度** · 项目初始化。本仓库现阶段提供项目说明和开发约定，应用代码、可运行 Demo 和云部署属于后续里程碑。
+**当前进度** · 电脑端前端原型已可本地运行。支持示例餐单、打卡、统计、分享和档案。本地状态保存在浏览器，FastAPI、MaaS 和云部署待接入。
 
 ## 产品功能
 
@@ -27,7 +27,7 @@
 
 | 层 | 选型 |
 | --- | --- |
-| 前端 | Vue 3、TypeScript、Vite、Element Plus、ECharts |
+| 前端 | Vue 3、Vite 和原生 CSS。首版使用 CSS 绘制打卡与能量图表。 |
 | 后端 | Python、FastAPI、Pydantic、SQLAlchemy、Alembic |
 | 数据库 | PostgreSQL 存档案、用户保存的方案、确认打卡和社区内容。本地用 Docker Compose，云上用华为云 RDS for PostgreSQL。 |
 | 模型 | 华为云 MaaS。首测 DeepSeek-V4.1-Flash-1017，模型 ID 与超时从服务端配置读取。 |
@@ -57,15 +57,16 @@ flowchart LR
 
 ## 本地开发与里程碑
 
-拉取初始化仓库并用 VS Code 打开。
+使用 Git 和 Node.js 24 LTS。在 Windows 的 VS Code PowerShell 终端运行下面的命令。
 
-```bash
+```powershell
 git clone https://github.com/h67661270-wq/ai-diet-manager.git
-cd ai-diet-manager
-code .
+cd ai-diet-manager/frontend
+npm.cmd ci
+npm.cmd run dev
 ```
 
-计划使用 Git、Node.js 24 LTS、Python 3.13 和 Docker Compose。工程骨架合入后，将在这里补充依赖安装、数据库迁移、演示档案导入、配置变量与启动命令。
+打开终端显示的 `Local` 地址。首页点击「试用示例餐单」可体验保存、打卡与分享。运行 `npm.cmd run build` 可以在 `frontend/dist/` 生成打包后的网页。FastAPI 接口约定和模型模式的配置见 [前端 README](frontend/README.md)。
 
 | 里程碑 | 完成标准 |
 | --- | --- |
@@ -73,7 +74,7 @@ code .
 | M2 五项功能联通 | 登录后可编辑档案、查看打卡和周报、预览并分享餐单。覆盖预算、忌口、重复提交、隐私和模型失败。 |
 | M3 竞赛 Demo | 部署到华为云并提供电脑可访问的地址。队友能依据本地启动说明和部署文档复现。 |
 
-计划目录为 `frontend/`（桌面 Web）、`backend/`（API 和业务规则）、`data/`（虚构演示档案和已确认记录）和 `deploy/`（容器与云部署配置）。
+`frontend/` 存放桌面 Web 源码。后续目录包括 `backend/`（API 和业务规则）、`data/`（虚构演示档案和已确认记录）和 `deploy/`（容器与云部署配置）。
 
 ## 数据和协作约定
 
