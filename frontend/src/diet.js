@@ -33,8 +33,11 @@ export function dayOffset(offset) {
 
 export function createId() {
   if (typeof crypto.randomUUID === 'function') return crypto.randomUUID()
-  return [...crypto.getRandomValues(new Uint32Array(4))]
-    .map(value => value.toString(16).padStart(8, '0'))
+  const bytes = crypto.getRandomValues(new Uint8Array(16))
+  bytes[6] = (bytes[6] & 0x0f) | 0x40
+  bytes[8] = (bytes[8] & 0x3f) | 0x80
+  const hex = [...bytes].map(value => value.toString(16).padStart(2, '0')).join('')
+  return [hex.slice(0, 8), hex.slice(8, 12), hex.slice(12, 16), hex.slice(16, 20), hex.slice(20)]
     .join('-')
 }
 
@@ -73,30 +76,44 @@ export function writeLocal(key, value) {
   return true
 }
 
-export const useLiveAssistant = import.meta.env.VITE_ASSISTANT_MODE === 'api'
+export const useLiveAssistant = import.meta.env.VITE_ASSISTANT_MODE !== 'demo'
 export const heroImage = `${import.meta.env.BASE_URL}images/diet-bowl.webp`
 
-export async function askAssistant(message, previousMeal, recentMessages) {
+export async function askAssistant(message, profile, previousMeal, recentMessages) {
   const endpoint = import.meta.env.VITE_ASSISTANT_ENDPOINT || '/api/assistant/chat'
-  const response = await fetch(endpoint, {
-    method: 'POST',
-    credentials: 'same-origin',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      message,
-      previous_meal: previousMeal,
-      history: recentMessages.slice(-6).map(({ role, text }) => ({ role, content: text })),
-    }),
-    signal: AbortSignal.timeout(20000),
-  })
-  if (!response.ok) throw new Error('请求失败')
-  const data = await response.json()
-  if (typeof data.reply !== 'string' || !data.reply.trim()) throw new Error('响应格式无效')
+  const { budget, taste, dining, avoid } = profile
+  let previousRecommendation = null
+  if (previousMeal && !previousMeal.sample) {
+    const { title, reason, items } = previousMeal
+    previousRecommendation = { title, reason, items }
+  }
+  let response
+  try {
+    response = await fetch(endpoint, {
+      method: 'POST',
+      credentials: 'same-origin',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        message,
+        profile: { budget, taste, dining, avoid },
+        previous_meal: previousRecommendation,
+        history: recentMessages.slice(-6).map(({ role, text }) => ({ role, content: text })),
+      }),
+      signal: AbortSignal.timeout(60000),
+    })
+  } catch (error) {
+    if (error.name === 'TimeoutError') throw new Error('饮食助手响应超时，请重试。')
+    throw new Error('无法连接饮食助手，请检查后端是否启动。')
+  }
+  const data = await response.json().catch(() => null)
+  if (response.status === 404) throw new Error('当前后端没有饮食助手接口，请启动更新后的后端。')
+  if (!response.ok) throw new Error(typeof data?.detail === 'string' ? data.detail : '饮食助手请求失败，请重试。')
+  if (typeof data?.reply !== 'string' || !data.reply.trim()) throw new Error('助手返回的答复格式无效，请重试。')
   if (data.meal != null) {
     const meal = data.meal
     if (!Array.isArray(meal.items) || !meal.items.length || meal.items.some(
       item => !item || typeof item.name !== 'string' || typeof item.portion !== 'string',
-    )) throw new Error('餐单格式无效')
+    )) throw new Error('助手返回的餐单格式无效，请重试。')
     return {
       text: data.reply,
       meal: {
