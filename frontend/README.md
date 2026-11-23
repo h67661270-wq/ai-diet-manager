@@ -11,9 +11,9 @@ npm.cmd ci
 npm.cmd run dev
 ```
 
-打开终端打印的 `Local` 地址。首页点「试用示例餐单」，再点「记入打卡」，即可走完打卡、查看统计和分享的演示流程。
+打开终端打印的 `Local` 地址。首页点「拍照打卡 → 试用示例照片」，可以体验分析结果、保存打卡、查看统计和带图分享。
 
-默认使用本地演示模式。餐单示例用于展示交互。档案、手动打卡、保存的餐单和社区分享保存在当前浏览器。演示统计提供能量和打卡频率。
+饮食助手默认调用后端。照片打卡上传 JPG、PNG 或 WebP 后会自动调用照片分析接口。已确认的打卡会更新能量、蛋白质、脂肪和碳水统计。社区支持独立发帖、上传一张配图，也可以从打卡记录带入照片。打卡照片保存在 IndexedDB。后端运行时，帖子和配图保存到共享社区。后端未启动时，社区显示本地演示并将新帖保存在当前浏览器。
 
 ## 生成网页文件
 
@@ -24,11 +24,15 @@ npm.cmd run preview
 
 构建输出到 `dist/`。本地打开预览命令打印的地址。部署时由 Nginx 提供 `dist/` 中的文件，并将 `/api/` 转发给 FastAPI。
 
-## 接入 FastAPI 和 MaaS
+## 接入照片分析
 
-复制 `.env.example` 为 `.env.local`，把 `VITE_ASSISTANT_MODE` 改为 `api`，再重启 Vite。开发服务器默认把 `/api` 代理到 `http://127.0.0.1:8000`，可通过 `DIET_API_PROXY_TARGET` 修改。正式运行时使用同源反向代理。
+先按 [后端启动说明](../backend/README.md) 启动 FastAPI。Vite 默认把 `/api` 代理到 `http://127.0.0.1:8000`，可通过 `DIET_API_PROXY_TARGET` 修改。照片以 `multipart/form-data` 的 `file` 字段提交到 `POST /api/meal-analysis`。后端设置 `DEEPSEEK_API_KEY` 后即可分析真实照片。正式运行时由 Nginx 提供同源反向代理。
 
-前端调用 `POST /api/assistant/chat`，提交本轮 `message`、可选的 `previous_meal` 和最近对话 `history`。后端按登录身份读取相关档案，再让 MaaS 实时生成结果。服务端需实现账号鉴权、档案读取和真正的模型调用。这个原型中的档案、打卡、分享继续保存在浏览器，跨账号和跨设备同步属于后端联调。
+## 饮食助手
+
+按后端说明在 `8001` 启动 FastAPI 时，在前端的 `.env.local` 中设置 `DIET_API_PROXY_TARGET=http://127.0.0.1:8001`。如需离线演示，可设置 `VITE_ASSISTANT_MODE=demo`。
+
+前端调用 `POST /api/assistant/chat`，提交本轮 `message`、档案 `profile`、可选的 `previous_meal` 和最近对话 `history`。档案保存在当前浏览器，随聊天发送的字段包括预算、口味、用餐场景和忌口。FastAPI 将这四项作为系统提示词的上下文交给 DeepSeek，称呼与打卡记录由浏览器保留。
 
 返回值示例：
 
@@ -46,13 +50,17 @@ npm.cmd run preview
 }
 ```
 
-需要追问时返回 `{"reply":"你打算在家做还是在食堂吃？","meal":null}`。MaaS 密钥只由 FastAPI 读取。前端收到有效餐单后显示可保存和可确认打卡的卡片。
+需要追问时返回 `{"reply":"你打算在家做还是在食堂吃？","meal":null}`。前端收到有效餐单后显示可保存的卡片，用户用餐后可以打开照片打卡入口。
 
 ## 源码入口
 
 - `src/App.vue` · 页面和交互
 - `src/style.css` · 桌面布局和响应式样式
 - `src/diet.js` · 本地演示数据、记录存储和对话接口
+- `src/MealPhotoForm.vue` · 上传、照片分析与确认打卡
+- `src/PhotoPostForm.vue` · 编辑图文帖子
+- `src/community.js` · 读取和发布共享社区帖子
+- `src/photos.js` · 照片压缩、本地图片存储和照片分析接口
 - `public/images/diet-bowl.webp` · 内置图像生成工具制作的餐食配图
 
 <details>

@@ -229,8 +229,46 @@ input, select, .dialog-form textarea { min-width: 0; border: 1px solid #dce5da; 
 .icon-button:hover { background: var(--green-soft); }
 .dialog-form { display: grid; gap: 15px; }
 .dialog-form .primary { justify-self: end; }
-.share-preview { background: #f0f5ee; border-radius: 9px; padding: 12px; line-height: 1.55; overflow-wrap: anywhere; }
-.share-preview p { color: var(--muted); font-size: .88rem; margin-top: 4px; }
+.photo-dialog { width: min(580px, calc(100vw - 24px)); max-height: calc(100dvh - 32px); }
+.photo-intro { color: #405044; line-height: 1.55; }
+.dialog-form > label.photo-upload {
+  position: relative; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 9px; min-height: 126px; padding: 15px; border: 1px dashed #a5bcaa; border-radius: 12px;
+  color: var(--green-dark); background: #f1f6ef; cursor: pointer; text-align: center;
+}
+.photo-upload:hover, .photo-upload:focus-within { border-color: var(--green); background: #e8f1e7; }
+.photo-upload:focus-within { outline: 2px solid #83ad89; outline-offset: 2px; }
+.photo-upload input { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; cursor: pointer; }
+.photo-upload:has(input:disabled) { opacity: .7; cursor: default; }
+.dialog-form > label.photo-upload.compact { min-height: 43px; flex-direction: row; padding: 9px 12px; }
+.photo-upload span, .photo-note { color: var(--muted); font-size: .83rem; line-height: 1.5; }
+.photo-form > .photo-example { justify-self: start; }
+.upload-preview { position: relative; overflow: hidden; border-radius: 12px; background: #edf1ec; }
+.upload-preview img { display: block; width: 100%; height: clamp(120px, 24dvh, 220px); object-fit: contain; }
+.remove-photo { position: absolute; top: 8px; right: 8px; box-shadow: 0 2px 7px #203d2b33; }
+.photo-status { display: flex; align-items: center; gap: 8px; color: var(--green); font-size: .9rem; }
+.spin { animation: photo-spin .85s linear infinite; }
+@keyframes photo-spin { to { transform: rotate(360deg); } }
+.photo-error { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 7px; color: #9b3538; font-size: .86rem; }
+.photo-error button { display: inline-flex; align-items: center; gap: 4px; }
+.analysis { display: grid; gap: 9px; }
+.analysis-heading { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.analysis-heading span { display: flex; align-items: center; gap: 6px; color: var(--green-dark); font-weight: 700; }
+.analysis-heading small { font-size: .75rem; }
+.nutrient-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; margin: 0; }
+.nutrient-grid div { padding: 10px 8px; border-radius: 9px; background: #f0f5ee; }
+.nutrient-grid dt { color: var(--muted); font-size: .78rem; }
+.nutrient-grid dd { margin: 3px 0 0; color: var(--green-dark); font-weight: 740; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.nutrient-grid dd small { font-size: .72rem; }
+.analysis-foods { list-style: none; padding: 0; }
+.analysis-foods li { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 7px; align-items: baseline; padding: 7px 0; border-bottom: 1px solid var(--stroke); font-size: .84rem; overflow-wrap: anywhere; }
+.analysis-foods li small { text-align: right; }
+.analysis-foods li span { color: var(--green); }
+.primary:disabled { color: #506455; background: #e0e8dd; }
+.logged-food { display: flex; align-items: center; gap: 9px; }
+.logged-food small { display: block; margin-top: 3px; }
+.log-photo { flex: 0 0 auto; width: 44px; height: 44px; border-radius: 7px; object-fit: cover; }
+.post-image { display: block; width: min(100%, 560px); max-height: 335px; margin: 12px 0; border-radius: 11px; object-fit: cover; background: #edf1ec; }
 .toast { position: fixed; z-index: 4; right: 23px; bottom: 22px; display: flex; gap: 8px; align-items: center; max-width: calc(100% - 46px); padding: 11px 14px; border-radius: 9px; color: #fff; background: var(--green-dark); box-shadow: 0 4px 15px #1f392e38; font-size: .9rem; }
 .v-enter-active, .v-leave-active { transition: opacity .15s; }
 .v-enter-from, .v-leave-to { opacity: 0; }
@@ -289,8 +327,10 @@ input, select, .dialog-form textarea { min-width: 0; border: 1px solid #dce5da; 
   .stat-tile strong { margin-top: 6px; }
   .field-grid { grid-template-columns: minmax(0, 1fr); gap: 10px; }
   .energy-track i span { font-size: .58rem; }
+  .nutrient-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
+  .spin { animation: none; }
 }
