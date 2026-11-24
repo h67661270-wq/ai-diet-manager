@@ -44,9 +44,10 @@ export async function preparePhoto(file) {
   }
 }
 
-export async function analyzeMeal(photo, signal) {
+export async function analyzeMeal(photo, signal, mealHint = '') {
   const body = new FormData()
   body.append('file', photo, 'meal.jpg')
+  if (mealHint) body.append('meal_hint', mealHint)
   let response
   try {
     response = await fetch('/api/meal-analysis', { method: 'POST', body, signal })

@@ -1,6 +1,6 @@
 # 食合 · FastAPI 饮食管理
 
-提供 `POST /api/meal-analysis`。上传一张餐食照片后，后端清理图片元数据、缩放并调用 DeepSeek 官方 API。响应包含识别出的食物类型、估计份量及整餐的能量、蛋白质、脂肪和碳水。缺失的数值用 `null` 表示。
+提供饮食助手、照片打卡和共享社区接口。
 
 ## Windows 本地启动
 
@@ -20,7 +20,15 @@ uv run --with-requirements requirements.txt -m uvicorn main:app --host 127.0.0.1
 
 `POST /api/assistant/chat` 接收本轮消息、档案中的预算、口味、用餐场景和忌口，以及最近最多六条对话和可选的上一份餐单。后端将档案和餐单作为 JSON 数据加入系统提示词，通过 DeepSeek 官方 API 请求 `deepseek-flash` 生成答案。接口返回文本 `reply` 和可选的结构化 `meal`。服务端不保存档案和对话。
 
-后端将照片发送到 `https://api.deepseek.com/chat/completions`，使用支持图片的 `deepseek-flash`。密钥从 [DeepSeek 开放平台](https://platform.deepseek.com/api_keys) 获取，只用于后端。照片分析服务本身不保存上传文件。用户点击确认后，前端把记录和压缩图保存在本浏览器。
+## 照片打卡与营养知识库
+
+`POST /api/meal-analysis` 接收图片字段 `file` 和可选的 `meal_hint`（最多 240 字）。后端清理图片元数据、缩放并交给 `deepseek-flash` 识别。识别结果通过中文名称和别名查询本地知识库；检索有结果时，后端把条目和食物信息交给模型复核。后端只采纳本次检索中的 FDC ID，按「每 100 克营养值 × 可食重量 ÷ 100」计算数值。
+
+[data/usda_sr_legacy.csv](data/usda_sr_legacy.csv) 包含从 USDA FoodData Central SR Legacy（2018-04）官方归档提取的 34 种常见食品。表内保留 FDC ID、原始名称及每 100 克的能量、蛋白质、脂肪和碳水，中文名称和别名用于检索。源字段的 Nutrient ID 分别为 1008、1003、1004、1005。添加条目时需对应食品的实际烹饪方式与可食部分。数据以 CC0 发布。可在 [USDA 数据下载](https://fdc.nal.usda.gov/download-datasets/) 获取同版 CSV，并查阅 [许可说明](https://fdc.nal.usda.gov/api-guide/#licensing)。
+
+食物、烹饪方式或份量不能确定时，界面允许补充后重新分析，也可先保存打卡。未知营养值返回 `null`。一个项目缺少依据时，整餐相应总量保留为未知。首批语料以基础食物为主，复杂中式菜品可能查不到可用条目。
+
+照片和用户补充会发给 DeepSeek，后端不保存上传文件。点击确认后，浏览器保存记录和压缩图。
 
 ## 社区
 

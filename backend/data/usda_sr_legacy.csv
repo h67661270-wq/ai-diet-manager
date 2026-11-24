@@ -1,0 +1,35 @@
+fdc_id,name,aliases,source_name,energy_kcal,protein_g,fat_g,carbs_g
+168930,白米饭,米饭|白饭|熟白米饭,"Rice, white, medium-grain, cooked, unenriched",130,2.38,0.21,28.59
+169704,熟糙米饭,糙米饭|熟糙米,"Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",123,2.74,0.97,25.58
+169737,熟意大利面（无酱）,水煮意面|白煮意面,"Pasta, cooked, enriched, without added salt",158,5.8,0.93,30.86
+173905,清水煮燕麦,水煮燕麦|原味燕麦粥,"Cereals, oats, regular and quick, unenriched, cooked with water (includes boiling and microwaving), without salt",71,2.54,1.52,12
+172688,全麦面包,全麦吐司,"Bread, whole-wheat, commercially prepared",252,12.45,3.5,42.71
+173424,水煮鸡蛋,白煮蛋|煮鸡蛋|白煮鸡蛋,"Egg, whole, cooked, hard-boiled",155,12.58,10.61,1.12
+172186,水波蛋,水煮荷包蛋,"Egg, whole, cooked, poached",143,12.51,9.47,0.71
+171477,烤鸡胸肉（去皮）,烤去皮鸡胸肉,"Chicken, broilers or fryers, breast, meat only, cooked, roasted",165,31.02,3.57,0
+171478,炖鸡胸肉（去皮）,炖去皮鸡胸肉,"Chicken, broilers or fryers, breast, meat only, cooked, stewed",151,28.98,3.03,0
+168250,烤猪里脊（瘦肉）,烤瘦猪里脊,"Pork, fresh, loin, tenderloin, separable lean only, cooked, roasted",143,26.17,3.51,0
+175168,烤三文鱼,烤大西洋三文鱼,"Fish, salmon, Atlantic, farmed, cooked, dry heat",206,22.1,12.35,0
+175177,烤罗非鱼,,"Fish, tilapia, cooked, dry heat",128,26.15,2.65,0
+171971,水煮虾肉,白灼虾肉|水煮虾仁|白灼虾仁,"Crustaceans, shrimp, mixed species, cooked, moist heat (may contain additives to retain moisture)",119,22.78,1.7,1.52
+172451,炸豆腐,油炸豆腐|豆腐泡|油豆腐,"Tofu, fried",270,18.82,20.18,8.86
+168411,熟毛豆仁,水煮毛豆仁|煮毛豆仁,"Edamame, frozen, prepared",121,11.91,5.2,8.91
+174257,水煮绿豆（无糖）,无糖煮绿豆|煮绿豆,"Mung beans, mature seeds, cooked, boiled, without salt",105,7.02,0.38,19.15
+169967,水煮西兰花,焯西兰花|白灼西兰花,"Broccoli, cooked, boiled, drained, without salt",35,2.38,0.41,7.18
+170394,水煮胡萝卜,水煮红萝卜,"Carrots, cooked, boiled, drained, without salt",35,0.76,0.18,8.22
+170391,水煮小白菜,白灼小白菜|焯小白菜,"Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt",12,1.56,0.16,1.78
+168463,水煮菠菜,白灼菠菜|焯菠菜,"Spinach, cooked, boiled, drained, without salt",23,2.97,0.26,3.75
+168449,水煮南瓜,煮南瓜,"Pumpkin, cooked, boiled, drained, without salt",20,0.72,0.07,4.9
+169141,水煮四季豆,水煮菜豆,"Beans, snap, green, cooked, boiled, drained, without salt",35,1.89,0.28,7.88
+168483,烤红薯（去皮）,烤番薯肉|烤地瓜肉,"Sweet potato, cooked, baked in skin, flesh, without salt",90,2.01,0.15,20.71
+170440,水煮土豆（去皮）,水煮马铃薯（去皮）,"Potatoes, boiled, cooked without skin, flesh, without salt",86,1.71,0.1,20.01
+169999,水煮甜玉米粒,水煮甜玉米仁,"Corn, sweet, yellow, cooked, boiled, drained, without salt",96,3.41,1.5,20.98
+168409,生黄瓜（带皮）,生黄瓜|带皮黄瓜,"Cucumber, with peel, raw",15,0.65,0.11,3.63
+170457,生番茄,生西红柿,"Tomatoes, red, ripe, raw, year round average",18,0.88,0.2,3.89
+173944,香蕉（果肉）,香蕉,"Bananas, raw",89,1.09,0.33,22.84
+171688,苹果（带皮）,带皮苹果,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",52,0.26,0.17,13.81
+169097,鲜橙（果肉）,橙子|鲜橙,"Oranges, raw, all commercial varieties",47,0.94,0.12,11.75
+167765,西瓜（果肉）,西瓜,"Watermelon, raw",30,0.61,0.15,7.55
+171265,全脂牛奶,原味全脂牛奶,"Milk, whole, 3.25% milkfat, with added vitamin D",61,3.15,3.25,4.8
+171284,原味全脂酸奶,全脂原味酸奶,"Yogurt, plain, whole milk",61,3.47,3.25,4.66
+170567,杏仁（原味未烘烤）,生巴旦木|原味生杏仁,"Nuts, almonds",579,21.15,49.93,21.55

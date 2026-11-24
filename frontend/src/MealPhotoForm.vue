@@ -9,9 +9,15 @@ const photo = shallowRef(null)
 const preview = ref('')
 const result = shallowRef(null)
 const error = ref('')
+const mealHint = ref('')
 const isExample = ref(false)
 const busy = ref(false)
 let request
+const estimateLabels = {
+  needs_confirmation: '菜名待确认',
+  missing_reference: '暂无匹配的营养资料',
+  missing_portion: '份量待确认',
+}
 
 function setPhoto(blob) {
   if (preview.value) URL.revokeObjectURL(preview.value)
@@ -31,9 +37,9 @@ function beginRequest() {
 
 async function runAnalysis(blob, run) {
   run.signal.throwIfAborted()
-  const timeoutSignal = AbortSignal.timeout(60000)
+  const timeoutSignal = AbortSignal.timeout(80000)
   try {
-    const data = await analyzeMeal(blob, AbortSignal.any([run.signal, timeoutSignal]))
+    const data = await analyzeMeal(blob, AbortSignal.any([run.signal, timeoutSignal]), mealHint.value.trim())
     if (!run.signal.aborted) result.value = data
   } catch (failure) {
     if (!run.signal.aborted) {
@@ -46,6 +52,7 @@ async function useUpload(event) {
   const file = event.target.files?.[0]
   event.target.value = ''
   if (!file) return
+  mealHint.value = ''
   const run = beginRequest()
   setPhoto(null)
   try {
@@ -68,6 +75,12 @@ async function retry() {
   } finally {
     if (!run.signal.aborted) busy.value = false
   }
+}
+
+function submitHint(event) {
+  if (event.isComposing || event.keyCode === 229) return
+  event.preventDefault()
+  retry()
 }
 
 async function useExample() {
@@ -116,10 +129,9 @@ function confirm() {
       <ImageUp :size="17" />试用示例照片
     </button>
 
-    <p v-if="busy" class="photo-status" role="status"><LoaderCircle :size="18" class="spin" />正在识别食物并估算营养…</p>
+    <p v-if="busy" class="photo-status" role="status"><LoaderCircle :size="18" class="spin" />正在识别食物并核对营养资料…</p>
     <div v-if="error" class="photo-error" role="alert">
       <p>{{ error }}</p>
-      <button v-if="preview" class="text-button" type="button" @click="retry"><RotateCcw :size="14" />重新分析</button>
     </div>
 
     <section v-if="result" class="analysis" aria-label="照片分析结果">
@@ -135,12 +147,28 @@ function confirm() {
       </dl>
       <ul class="analysis-foods">
         <li v-for="(food, index) in result.foods" :key="index">
-          <strong>{{ food.name }}</strong><span>{{ food.category }}</span><small>{{ food.portion || '份量未知' }}</small>
+          <strong>{{ food.name }}</strong><span>{{ food.category }}</span>
+          <small>{{ food.estimated_grams != null ? `约 ${formatNutrient(food.estimated_grams)} g` : food.portion || '份量未知' }}</small>
+          <div v-if="food.reference || estimateLabels[food.status]" class="analysis-evidence">
+            <span v-if="food.energy_kcal != null">约 {{ formatNutrient(food.energy_kcal) }} kcal</span>
+            <span v-if="estimateLabels[food.status]">{{ estimateLabels[food.status] }}</span>
+            <a v-if="food.reference" :href="food.reference.url" target="_blank" rel="noreferrer">USDA · {{ food.reference.name }}</a>
+          </div>
         </li>
       </ul>
-      <p v-if="result.notes" class="photo-note">{{ result.notes }}</p>
-      <p class="photo-note">照片难以判断完整配料和烹调油，请确认这是你实际吃的一餐。</p>
+      <p v-if="result.follow_up" class="photo-question">{{ result.follow_up }}</p>
+      <p v-if="result.notes && result.notes !== result.follow_up" class="photo-note">{{ result.notes }}</p>
+      <p v-if="result.foods.some(food => estimateLabels[food.status])" class="photo-note">部分食物还无法换算。你可以先保存食物记录，整餐营养会标为未知。</p>
     </section>
+
+    <div v-if="preview && !isExample && !busy && (result || error)" class="photo-refinement">
+      <label>
+        补充菜名、做法或实际吃的量（选填）
+        <input v-model="mealHint" type="text" maxlength="240" :disabled="saving"
+          placeholder="例如：水煮鸡蛋 1 个，白米饭吃了约 120 克" @keydown.enter="submitHint" />
+      </label>
+      <button class="button quiet" type="button" :disabled="saving" @click="retry"><RotateCcw :size="14" />重新分析</button>
+    </div>
 
     <button class="button primary" type="submit" :disabled="!result || busy || saving"><Check :size="17" />{{ saving ? '正在保存…' : '确认打卡' }}</button>
   </form>
