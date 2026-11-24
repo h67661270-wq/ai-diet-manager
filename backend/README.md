@@ -22,11 +22,11 @@ uv run --with-requirements requirements.txt -m uvicorn main:app --host 127.0.0.1
 
 ## 照片打卡与营养知识库
 
-`POST /api/meal-analysis` 接收图片字段 `file` 和可选的 `meal_hint`（最多 240 字）。后端清理图片元数据、缩放并交给 `deepseek-flash` 识别。识别结果通过中文名称和别名查询本地知识库；检索有结果时，后端把条目和食物信息交给模型复核。后端只采纳本次检索中的 FDC ID，按「每 100 克营养值 × 可食重量 ÷ 100」计算数值。
+`POST /api/meal-analysis` 接收图片字段 `file` 和可选的 `meal_hint`（最多 240 字）。后端清理图片元数据、缩放并交给 `deepseek-flash` 识别。识别结果通过中英文名称和别名查询本地知识库。有检索结果时，模型复核条目和食物信息，后端只采纳该食物本次检索中的 ID。
 
-[data/usda_sr_legacy.csv](data/usda_sr_legacy.csv) 包含从 USDA FoodData Central SR Legacy（2018-04）官方归档提取的 34 种常见食品。表内保留 FDC ID、原始名称及每 100 克的能量、蛋白质、脂肪和碳水，中文名称和别名用于检索。源字段的 Nutrient ID 分别为 1008、1003、1004、1005。添加条目时需对应食品的实际烹饪方式与可食部分。数据以 CC0 发布。可在 [USDA 数据下载](https://fdc.nal.usda.gov/download-datasets/) 获取同版 CSV，并查阅 [许可说明](https://fdc.nal.usda.gov/api-guide/#licensing)。
+[本地营养知识库](data/README.md) 包含 6,280 条记录。食药署和 USDA 的数据按「每 100 克营养值 × 可食重量 ÷ 100」换算。中式整菜库保留每份参考配方的营养值，在界面单独显示。等到有与该配方对应的可食成品重量，才可换算到实际摄入克数。
 
-食物、烹饪方式或份量不能确定时，界面允许补充后重新分析，也可先保存打卡。未知营养值返回 `null`。一个项目缺少依据时，整餐相应总量保留为未知。首批语料以基础食物为主，复杂中式菜品可能查不到可用条目。
+食物、烹饪方式或份量不能确定时，界面允许补充后重新分析，也可先保存打卡。未知营养值返回 `null`。一个项目缺少实际摄入依据时，整餐相应总量保留为未知。
 
 照片和用户补充会发给 DeepSeek，后端不保存上传文件。点击确认后，浏览器保存记录和压缩图。
 

@@ -267,6 +267,7 @@ input, select, .dialog-form textarea { min-width: 0; border: 1px solid #dce5da; 
 .analysis-evidence { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: .78rem; }
 .analysis-evidence a { color: var(--green-dark); text-decoration: underline; text-underline-offset: 2px; }
 .analysis-evidence span { color: var(--muted); }
+.analysis-reference-serving { flex-basis: 100%; display: flex; flex-wrap: wrap; gap: 4px 10px; }
 .photo-question { color: var(--green-dark); font-size: .9rem; line-height: 1.5; }
 .photo-refinement { display: grid; gap: 8px; align-items: end; }
 .photo-refinement .button { justify-self: end; }

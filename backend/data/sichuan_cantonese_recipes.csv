@@ -1,0 +1,998 @@
+id,name,aliases,source_name,energy_kcal,protein_g,fat_g,carbs_g
+sc-DZ001,麻婆豆腐,Mapo Tofu,川菜 · Mapo Tofu,252.3,15.47,13.51,17.13
+sc-DZ002,Homestyle Braised Tofu,,川菜 · Homestyle Braised Tofu,188.15,11.67,10.03,12.78
+sc-DZ003,Home-cooked Braised Tofu,,川菜 · Home-cooked Braised Tofu,172.18,10.0,9.84,10.97
+sc-DZ004,Duck Blood and Tofu Stew,,川菜 · Duck Blood and Tofu Stew,147.89,9.88,8.76,7.61
+sc-DZ005,Seafood Tofu Pot,,川菜 · Seafood Tofu Pot,182.17,14.96,8.14,12.04
+sc-DZ006,Farmhouse Pan-fried Tofu,,川菜 · Farmhouse Pan-fried Tofu,180.54,10.81,10.62,10.36
+sc-DZ007,Braised Broad Beans with Pork,,川菜 · Braised Broad Beans with Pork,400.5,32.74,22.39,28.99
+sc-DZ008,Three Delicacies Tofu Stir-fry,,川菜 · Three Delicacies Tofu Stir-fry,207.89,14.59,10.81,13.06
+sc-DZ009,Beef and Tofu Stew,,川菜 · Beef and Tofu Stew,203.97,17.28,9.69,11.84
+sc-DZ010,Fish Roe Braised Tofu,,川菜 · Fish Roe Braised Tofu,312.78,14.5,18.24,22.78
+sc-DZ011,Green Pepper Tossed with Dried Tofu,,川菜 · Green Pepper Tossed with Dried Tofu,163.16,5.67,11.07,11.82
+sc-DZ012,Pea Jelly Salad,,川菜 · Pea Jelly Salad,120.31,1.12,5.66,16.17
+sc-DZ013,Cabbage and Tofu Rolls,,川菜 · Cabbage and Tofu Rolls,118.2,6.45,6.98,7.45
+sc-DZ014,Steamed Dried Tofu with Edamame,,川菜 · Steamed Dried Tofu with Edamame,244.93,12.43,12.27,21.15
+sc-DZ015,"Stir-fried Vegetarian Shredded ""Meat""",,"川菜 · Stir-fried Vegetarian Shredded ""Meat""",614.46,47.46,29.77,39.05
+sc-DZ016,Spicy Dried Tofu,,川菜 · Spicy Dried Tofu,259.28,13.92,12.75,22.05
+sc-DZ017,Red Oil Dried Tofu Pot,,川菜 · Red Oil Dried Tofu Pot,238.46,31.05,7.83,10.0
+sc-DZ018,Pickled Pepper with Snow Peas,,川菜 · Pickled Pepper with Snow Peas,221.48,4.38,13.73,20.2
+sc-DZ019,Stir-fried Tofu Skin with Pork,,川菜 · Stir-fried Tofu Skin with Pork,441.15,29.62,29.04,15.75
+sc-DZ020,Minced Pork with Tofu Pudding,,川菜 · Minced Pork with Tofu Pudding,415.85,25.72,24.95,22.49
+sc-DZ021,Stir-fried Tofu with Dried Shrimp,,川菜 · Stir-fried Tofu with Dried Shrimp,186.18,14.67,7.59,14.47
+sc-DZ022,Sweet and Spicy Tofu,,川菜 · Sweet and Spicy Tofu,253.87,11.07,16.27,21.59
+sc-DZ023,Steamed Tofu with Chili,,川菜 · Steamed Tofu with Chili,217.26,10.09,14.0,12.66
+sc-DZ024,Kung Pao Japanese Tofu,,川菜 · Kung Pao Japanese Tofu,273.25,11.4,20.31,11.48
+sc-DZ025,Green Vegetable and Tofu Soup,,川菜 · Green Vegetable and Tofu Soup,185.39,6.68,15.77,5.05
+sc-DZ026,Home-style Tomato Sauce Frozen Tofu,,川菜 · Home-style Tomato Sauce Frozen Tofu,94.45,4.65,5.79,6.04
+sc-DZ027,Flavorful Firewood Tofu,,川菜 · Flavorful Firewood Tofu,226.46,8.77,17.65,8.45
+sc-DZ028,Hundred Flowers Tofu,,川菜 · Hundred Flowers Tofu,235.05,25.13,12.85,4.73
+sc-DZ029,Tofu-stuffed Cucumber,,川菜 · Tofu-stuffed Cucumber,105.44,3.53,8.08,4.85
+sc-JL001,Stir-fried Cabbage with Bacon,,川菜 · Stir-fried Cabbage with Bacon,282.92,6.57,23.73,11.38
+sc-JL002,Creamy Cabbage Soup,,川菜 · Creamy Cabbage Soup,50.47,3.35,0.94,7.22
+sc-JL003,Braised Pork with Radish,,川菜 · Braised Pork with Radish,148.33,3.62,12.23,6.7
+sc-JL004,Braised Pork with Cauliflower,,川菜 · Braised Pork with Cauliflower,259.94,5.48,22.13,10.35
+sc-JL005,Stir-fried Kimchi with Vermicelli,,川菜 · Stir-fried Kimchi with Vermicelli,163.26,1.76,6.81,23.67
+sc-JL006,Spicy Stir-fried Cabbage,,川菜 · Spicy Stir-fried Cabbage,87.2,1.74,6.34,5.92
+sc-JL007,Stir-fried Bitter Melon with Hangzhou Pepper,,川菜 · Stir-fried Bitter Melon with Hangzhou Pepper,104.72,1.69,7.8,7.12
+sc-JL008,Stir-fried Bitter Melon with Yam,,川菜 · Stir-fried Bitter Melon with Yam,117.62,2.38,4.22,17.35
+sc-JL009,Braised Carrot with Yam,,川菜 · Braised Carrot with Yam,148.48,1.98,5.27,23.08
+sc-JL010,Wild Mushroom Mashed Potatoes,,川菜 · Wild Mushroom Mashed Potatoes,154.92,3.87,4.39,24.77
+sc-JL011,Wild Mushroom with Baby Bok Choy,,川菜 · Wild Mushroom with Baby Bok Choy,89.52,3.58,4.16,10.61
+sc-JL012,Stewed Cabbage with Bacon,,川菜 · Stewed Cabbage with Bacon,275.9,6.18,23.7,10.13
+sc-JL013,Stir-fried Flat Beans with Bacon,,川菜 · Stir-fried Flat Beans with Bacon,354.71,8.37,29.67,14.31
+sc-JL014,Stir-fried Pickled Cowpea with Minced Pork,,川菜 · Stir-fried Pickled Cowpea with Minced Pork,171.06,5.72,13.19,7.66
+sc-JL015,Stir-fried Octopus with Leek,,川菜 · Stir-fried Octopus with Leek,173.22,16.68,5.58,14.22
+sc-JL016,Braised Pumpkin with Oyster Sauce,,川菜 · Braised Pumpkin with Oyster Sauce,84.77,1.43,4.13,10.58
+sc-JL017,Salt and Pepper Pumpkin,,川菜 · Salt and Pepper Pumpkin,114.33,1.57,7.3,10.5
+sc-JL018,Kung Pao Pumpkin Cubes,,川菜 · Kung Pao Pumpkin Cubes,156.15,1.81,7.13,21.05
+sc-JL019,Stir-fried Chicken Slices with Loofah,,川菜 · Stir-fried Chicken Slices with Loofah,211.44,15.72,10.23,14.06
+sc-JL020,Braised Mushrooms with Pork,,川菜 · Braised Mushrooms with Pork,161.97,4.02,10.32,13.38
+sc-JL021,Stir-fried Eggplant Cubes,,川菜 · Stir-fried Eggplant Cubes,107.64,1.52,5.17,13.69
+sc-JL022,Fish-flavored Eggplant Strips,,川菜 · Fish-flavored Eggplant Strips,170.67,4.44,7.45,21.35
+sc-JL023,Unique-flavored Stuffed Eggplant Pancake,,川菜 · Unique-flavored Stuffed Eggplant Pancake,252.41,8.27,16.7,17.54
+sc-JL024,Stir-fried Garlic Sprouts with Bacon,,川菜 · Stir-fried Garlic Sprouts with Bacon,359.61,8.38,33.68,6.82
+sc-JL025,Braised Sliced Pork with Mushrooms,,川菜 · Braised Sliced Pork with Mushrooms,455.72,34.52,21.38,31.12
+sc-JL026,Spicy Lotus Root Cubes,,川菜 · Spicy Lotus Root Cubes,134.53,2.91,5.75,17.65
+sc-JL027,Crispy Lotus Root Sandwich,,川菜 · Crispy Lotus Root Sandwich,421.74,13.65,17.68,51.66
+sc-JL028,Chopped Chili Taro,,川菜 · Chopped Chili Taro,125.34,2.38,4.2,19.43
+sc-JL029,Scallion-flavored Taro Puree,,川菜 · Scallion-flavored Taro Puree,71.87,2.21,0.2,15.72
+sc-JL030,Mom's Braised Baby Taro,,川菜 · Mom's Braised Baby Taro,145.3,3.41,7.46,16.78
+sc-JL031,Sliced Pork with Mushrooms,,川菜 · Sliced Pork with Mushrooms,422.54,12.62,32.12,21.46
+sc-JL032,Meiji Mushroom Strips,,川菜 · Meiji Mushroom Strips,120.99,2.16,6.8,12.91
+sc-JL033,Minced Pork with Winged Beans,,川菜 · Minced Pork with Winged Beans,90.42,2.72,5.59,8.39
+sc-JL034,Dry-fried Green Beans,,川菜 · Dry-fried Green Beans,141.88,4.98,8.18,12.24
+sc-JL035,Stir-fried Pork with Lettuce,,川菜 · Stir-fried Pork with Lettuce,187.27,5.69,15.19,7.35
+sc-JL036,Braised Minced Pork with Edamame,,川菜 · Braised Minced Pork with Edamame,172.26,8.7,10.38,11.12
+sc-JL037,Stir-fried Mung Bean Sprouts,,川菜 · Stir-fried Mung Bean Sprouts,141.78,3.25,6.83,16.73
+sc-JL038,Braised Hangzhou Peppers in Oil,,川菜 · Braised Hangzhou Peppers in Oil,97.78,1.66,4.28,13.11
+sc-JL039,Braised Broccoli with Potato Strips,,川菜 · Braised Broccoli with Potato Strips,159.11,3.78,4.4,25.81
+sc-JL040,Braised Bok Choy with Potato Strips,,川菜 · Braised Bok Choy with Potato Strips,90.02,1.98,3.56,12.41
+sc-JL041,Braised Onion with Potato Strips,,川菜 · Braised Onion with Potato Strips,198.03,4.1,11.07,20.52
+sc-JL042,Chopped Chili Baby Bok Choy,,川菜 · Chopped Chili Baby Bok Choy,66.74,2.38,4.03,6.59
+sc-JL043,Sweet Peas with Cured Meat,,川菜 · Sweet Peas with Cured Meat,357.12,5.39,17.68,43.46
+sc-JL044,Braised Eggplant with Roasted Peppers,,川菜 · Braised Eggplant with Roasted Peppers,96.16,1.79,4.21,12.4
+sc-JL045,Stir-fried Kale with Bacon,,川菜 · Stir-fried Kale with Bacon,328.87,7.52,29.58,9.02
+sc-JL046,Green Boletus Mushrooms,,川菜 · Green Boletus Mushrooms,75.65,2.21,4.2,7.27
+sc-JL047,Spinach with Poached Egg,,川菜 · Spinach with Poached Egg,164.21,8.06,11.9,6.42
+sc-JL048,Stir-fried Vegetable Shoots,,川菜 · Stir-fried Vegetable Shoots,137.96,3.23,10.71,7.41
+sc-JL049,Millet with Seasonal Vegetables,,川菜 · Millet with Seasonal Vegetables,189.18,3.95,10.68,19.38
+sc-JL050,Braised Sweet Potato with Rape,,川菜 · Braised Sweet Potato with Rape,343.02,2.22,7.05,66.85
+sc-JL051,Stir-fried Carrot with Pork,,川菜 · Stir-fried Carrot with Pork,173.13,8.03,9.48,14.05
+sc-JL052,Stir-fried Radish Shreds with Vermicelli,,川菜 · Stir-fried Radish Shreds with Vermicelli,282.16,4.7,13.43,35.52
+sc-JL053,Ants Climbing Trees (Spicy Vermicelli with Minced Pork),,川菜 · Ants Climbing Trees (Spicy Vermicelli with Minced Pork),556.95,6.65,19.57,87.81
+sc-JL054,Shredded Chicken with Snow Peas,,川菜 · Shredded Chicken with Snow Peas,134.28,8.04,6.48,10.88
+sc-JL055,Braised Minced Pork with Winter Melon,,川菜 · Braised Minced Pork with Winter Melon,155.12,4.05,11.85,8.36
+sc-JL056,Blanched Vegetable Stems,,川菜 · Blanched Vegetable Stems,89.58,3.11,7.03,3.63
+sc-JL057,Blanched King Oyster Mushrooms,,川菜 · Blanched King Oyster Mushrooms,105.97,1.78,6.8,9.47
+sc-JL058,Dry-fried Tea Tree Mushrooms,,川菜 · Dry-fried Tea Tree Mushrooms,325.86,16.7,11.99,43.1
+sc-JL059,Hangzhou Peppers with White Mushrooms,,川菜 · Hangzhou Peppers with White Mushrooms,88.3,3.02,6.36,6.2
+sc-JL060,Delicious Pan-fried Matsutake Mushrooms,,川菜 · Delicious Pan-fried Matsutake Mushrooms,409.93,21.0,10.13,57.43
+sc-JL061,Osmanthus Potato Puree,,川菜 · Osmanthus Potato Puree,133.01,1.77,7.64,14.32
+sc-JL062,Golden Corn,,川菜 · Golden Corn,122.02,4.87,6.6,10.81
+sc-LC001,Gluttonous Lotus Root Cubes,,川菜 · Gluttonous Lotus Root Cubes,129.39,2.53,8.71,10.3
+sc-LC002,Braised Goose Intestines with Roasted Peppers,,川菜 · Braised Goose Intestines with Roasted Peppers,131.3,8.51,10.17,1.5
+sc-LC003,Chicken Gizzards in Chili Oil,,川菜 · Chicken Gizzards in Chili Oil,103.02,8.51,5.59,4.52
+sc-LC004,Ginger Sauce Green Beans,,川菜 · Ginger Sauce Green Beans,83.68,1.97,6.33,4.84
+sc-LC005,Tripe Shreds in Chili Oil,,川菜 · Tripe Shreds in Chili Oil,89.44,7.03,5.11,3.87
+sc-LC006,Double Crispy in Chili Oil,,川菜 · Double Crispy in Chili Oil,84.06,7.74,3.92,4.42
+sc-LC007,Shredded Pig Heart,,川菜 · Shredded Pig Heart,160.06,16.75,9.6,1.74
+sc-LC008,Sichuan-style Seaweed,,川菜 · Sichuan-style Seaweed,13.4,1.05,0.11,1.93
+sc-LC009,Scallion-flavored Tofu,,川菜 · Scallion-flavored Tofu,56.54,3.98,3.0,3.64
+sc-LC010,Spicy Beef Tongue,,川菜 · Spicy Beef Tongue,208.46,8.63,17.02,5.62
+sc-LC011,Sliced Pork with Garlic Sauce,,川菜 · Sliced Pork with Garlic Sauce,306.81,12.47,28.25,1.42
+sc-LC012,Beef Tongue with Garlic Sauce,,川菜 · Beef Tongue with Garlic Sauce,184.36,9.65,14.22,4.59
+sc-LC013,Couple's Sliced Beef and Ox Tripe,,川菜 · Couple's Sliced Beef and Ox Tripe,169.69,11.37,12.15,3.65
+sc-LC014,Tendon Mixed with Tofu Shreds,,川菜 · Tendon Mixed with Tofu Shreds,286.27,24.32,14.9,12.5
+sc-LC015,Wild Vegetables with Oil Dressing,,川菜 · Wild Vegetables with Oil Dressing,72.86,0.65,7.51,0.93
+sc-LC016,Scallion-flavored Snow Mountain Bamboo Shoots,,川菜 · Scallion-flavored Snow Mountain Bamboo Shoots,100.05,2.61,7.82,4.99
+sc-LC017,Leek-flavored Dried Tofu,,川菜 · Leek-flavored Dried Tofu,107.58,4.68,8.42,3.46
+sc-LC018,Wild Walnut Blossom,,川菜 · Wild Walnut Blossom,70.6,1.32,6.67,1.54
+sc-LC019,Eggplant with Garlic Sauce,,川菜 · Eggplant with Garlic Sauce,90.51,1.97,5.2,8.81
+sc-LC020,Roasted Peppers with Eggplant,,川菜 · Roasted Peppers with Eggplant,101.46,2.05,7.7,6.14
+sc-LC021,Wheat Mixed with Eggplant,,川菜 · Wheat Mixed with Eggplant,70.93,3.81,0.49,12.88
+sc-LC022,Pepper Oil Tofu Shreds,,川菜 · Pepper Oil Tofu Shreds,560.91,45.81,32.62,21.21
+sc-LC023,Pickled Vegetables with Edamame,,川菜 · Pickled Vegetables with Edamame,104.29,4.05,7.83,4.56
+sc-LC024,Tendon in Chili Oil,,川菜 · Tendon in Chili Oil,203.52,30.87,6.02,5.93
+sc-LC025,Spicy Tendon,,川菜 · Spicy Tendon,188.46,7.86,14.22,1.71
+sc-LC026,Scallion-flavored Pig Ear Shreds,,川菜 · Scallion-flavored Pig Ear Shreds,134.01,10.24,9.27,2.44
+sc-LC027,Assorted Pickled Vegetables,,川菜 · Assorted Pickled Vegetables,41.44,0.93,2.15,4.44
+sc-LC028,Spicy Dried Tofu,,川菜 · Spicy Dried Tofu,108.77,6.3,7.18,4.83
+sc-LC029,Refreshing Tofu Shreds,,川菜 · Refreshing Tofu Shreds,254.79,23.3,12.14,12.98
+sc-LC030,Scallion-flavored Radish Shreds,,川菜 · Scallion-flavored Radish Shreds,48.58,0.87,3.4,3.68
+sc-LC031,Fermented Bean Sauce Vegetarian Chicken,,川菜 · Fermented Bean Sauce Vegetarian Chicken,277.88,13.27,21.95,7.16
+sc-LC032,Five-spice Tofu Cubes,,川菜 · Five-spice Tofu Cubes,153.18,9.87,8.33,9.55
+sc-LC033,Cucumber Shreds with Garlic Sauce,,川菜 · Cucumber Shreds with Garlic Sauce,89.58,1.4,7.69,3.92
+sc-LC034,Vinegar-flavored Kelp Shreds,,川菜 · Vinegar-flavored Kelp Shreds,77.06,1.07,6.72,3.28
+sc-LC035,Mustard-flavored Bamboo Shreds,,川菜 · Mustard-flavored Bamboo Shreds,40.35,0.86,3.39,1.7
+sc-LC036,Refreshing Lettuce,,川菜 · Refreshing Lettuce,40.66,0.88,3.4,1.73
+sc-LC037,Three Shreds in Chili Oil,,川菜 · Three Shreds in Chili Oil,116.25,2.24,4.2,17.08
+sc-LC038,Cold Mixed Cauliflower,,川菜 · Cold Mixed Cauliflower,68.29,1.9,5.13,3.76
+sc-LC039,Pig Snout in Chili Oil,,川菜 · Pig Snout in Chili Oil,263.75,13.97,20.47,6.15
+sc-LC040,Cold Mixed Pork Head Meat,,川菜 · Cold Mixed Pork Head Meat,138.06,5.84,4.59,18.38
+sc-LC041,Spicy Beef,,川菜 · Spicy Beef,195.08,15.5,11.5,7.29
+sc-LC042,Pickled Pepper Pig Tail,,川菜 · Pickled Pepper Pig Tail,692.79,29.88,60.2,5.09
+sc-LC043,Walnut with Tripe,,川菜 · Walnut with Tripe,169.07,15.99,9.77,5.32
+sc-LC044,Crispy Pepper Squid Shreds,,川菜 · Crispy Pepper Squid Shreds,65.4,13.17,1.17,0.38
+sc-LC045,Fermented Bean Sauce Vegetable Stems,,川菜 · Fermented Bean Sauce Vegetable Stems,73.18,3.39,5.33,3.02
+sc-LC046,Scallion-flavored Clam Tips,,川菜 · Scallion-flavored Clam Tips,84.15,3.59,7.25,1.31
+sc-LC047,Cold Mixed Local Chicken,,川菜 · Cold Mixed Local Chicken,260.47,37.69,11.07,2.21
+sc-LC048,Edamame with Mouthwatering Chicken,,川菜 · Edamame with Mouthwatering Chicken,321.87,18.37,23.31,9.7
+sc-LC049,Bang Bang Chicken Shreds,,川菜 · Bang Bang Chicken Shreds,282.96,38.28,12.99,2.86
+sc-LC050,Cold Mixed Potato Shreds,,川菜 · Cold Mixed Potato Shreds,177.38,3.55,6.97,24.9
+sc-LC051,Sichuan-style Boiled Chicken,,川菜 · Sichuan-style Boiled Chicken,233.8,28.38,13.13,0.5
+sc-LC052,Dry Mixed Chicken Chunks,,川菜 · Dry Mixed Chicken Chunks,219.44,38.47,5.63,3.17
+sc-LC053,Flavored Duck Leg,,川菜 · Flavored Duck Leg,340.17,28.58,21.95,5.32
+sc-LC054,Fresh Pepper Duck Intestines,,川菜 · Fresh Pepper Duck Intestines,138.73,8.72,10.83,1.87
+sc-LC055,Chicken Gizzards with Oil Dressing,,川菜 · Chicken Gizzards with Oil Dressing,161.74,15.69,8.02,6.67
+sc-LC056,Unique-flavored Duck Feet,,川菜 · Unique-flavored Duck Feet,179.04,16.92,7.98,9.5
+sc-LC057,Pickled Pepper Chicken Feet,,川菜 · Pickled Pepper Chicken Feet,161.7,15.3,9.89,2.83
+sc-LC058,Unique-flavored Mashed Beans,,川菜 · Unique-flavored Mashed Beans,491.39,9.32,14.51,80.04
+sc-LC059,Scallion-flavored Pea Tips,,川菜 · Scallion-flavored Pea Tips,91.81,3.25,5.11,8.21
+sc-LC060,Harmonious Flavor White Mushroom,,川菜 · Harmonious Flavor White Mushroom,212.19,3.63,20.27,4.5
+sc-LC061,Roasted Peppers with Enoki Mushrooms,,川菜 · Roasted Peppers with Enoki Mushrooms,107.37,3.29,5.83,10.42
+sc-LC062,Fermented Bean Sauce King Oyster Mushrooms,,川菜 · Fermented Bean Sauce King Oyster Mushrooms,203.08,3.19,20.02,3.25
+sc-LC063,Chicken Leg Mushrooms Mixed with Cabbage,,川菜 · Chicken Leg Mushrooms Mixed with Cabbage,268.3,18.99,8.08,35.98
+sc-LC064,Razor Clams with Kale,,川菜 · Razor Clams with Kale,72.54,5.6,4.32,2.78
+sc-LC065,Wood Ear Mushrooms Mixed with Peanuts,,川菜 · Wood Ear Mushrooms Mixed with Peanuts,87.47,4.2,1.45,14.14
+sc-LC066,Juicy Fern Root Noodles,,川菜 · Juicy Fern Root Noodles,78.17,3.42,0.47,15.87
+sc-LC067,Sichuan-style Mixed Delicacies,,川菜 · Sichuan-style Mixed Delicacies,158.79,13.61,4.56,15.37
+sc-LC068,Refreshing Radish Strips,,川菜 · Refreshing Radish Strips,279.03,0.8,0.08,64.99
+sc-LC069,Blueberry and Snow Pear,,川菜 · Blueberry and Snow Pear,236.01,1.45,1.61,50.48
+sc-LC070,Cold Mixed Houttuynia Cordata,,川菜 · Cold Mixed Houttuynia Cordata,101.48,1.7,6.85,10.92
+sc-LC071,Stir-fried Pickled Mustard with Konjac,,川菜 · Stir-fried Pickled Mustard with Konjac,97.77,1.3,8.1,6.64
+sc-LC072,Mountain Pepper Jade Ribs,,川菜 · Mountain Pepper Jade Ribs,22.17,1.12,0.21,3.79
+sc-LC073,Mustard Cabbage Dumplings,,川菜 · Mustard Cabbage Dumplings,677.82,4.76,4.77,151.87
+sc-LC074,Pickled Mustard with Bitter Melon,,川菜 · Pickled Mustard with Bitter Melon,166.54,1.34,16.7,3.3
+sc-LC075,Fermented Black Beans with Asparagus,,川菜 · Fermented Black Beans with Asparagus,79.55,2.77,4.19,7.68
+sc-LC076,Sesame Sauce Phoenix Tail,,川菜 · Sesame Sauce Phoenix Tail,226.06,5.09,18.97,8.9
+sc-LC077,Shadowy Sweet Potato Slices,,川菜 · Shadowy Sweet Potato Slices,1953.78,1.0,209.78,22.85
+sc-LC078,Scallion Paste Bamboo Fungus,,川菜 · Scallion Paste Bamboo Fungus,357.39,15.93,9.42,51.6
+sc-LC079,Raw Mixed Gastrodia,,川菜 · Raw Mixed Gastrodia,61.69,0.78,5.03,3.47
+sc-LC080,Rose Ginkgo Fruit,,川菜 · Rose Ginkgo Fruit,223.73,3.71,6.17,38.19
+sc-LC081,Fermented Black Beans with Cauliflower,,川菜 · Fermented Black Beans with Cauliflower,83.37,3.5,5.43,4.41
+sc-QD001,Double Pepper Stir-fried Chicken,,川菜 · Double Pepper Stir-fried Chicken,229.06,10.96,15.32,12.06
+sc-QD002,Chopped Chili Tender Chicken,,川菜 · Chopped Chili Tender Chicken,154.55,5.65,10.78,9.14
+sc-QD003,Braised Baby Chicken with Taro,,川菜 · Braised Baby Chicken with Taro,388.45,10.15,15.71,51.15
+sc-QD004,Stir-fried Spicy Chicken,,川菜 · Stir-fried Spicy Chicken,333.33,12.1,19.09,28.19
+sc-QD005,Homestyle Pickled Mustard Chicken,,川菜 · Homestyle Pickled Mustard Chicken,170.08,10.88,13.01,2.55
+sc-QD006,Stir-fried Chicken Gizzards,,川菜 · Stir-fried Chicken Gizzards,208.15,19.93,7.83,14.28
+sc-QD007,Spicy Chicken Gizzards,,川菜 · Spicy Chicken Gizzards,308.56,24.96,11.18,26.64
+sc-QD008,Crispy Fried Chicken,,川菜 · Crispy Fried Chicken,232.52,30.57,10.12,4.96
+sc-QD009,Sichuan-style Red Braised Chicken,,川菜 · Sichuan-style Red Braised Chicken,340.14,32.76,19.16,9.29
+sc-QD010,Fish-flavored Eight-piece Chicken,,川菜 · Fish-flavored Eight-piece Chicken,340.14,32.76,19.16,9.29
+sc-QD011,Homestyle Braised Chicken Wings,,川菜 · Homestyle Braised Chicken Wings,267.96,14.07,15.47,18.24
+sc-QD012,Stir-fried Chicken Mid-wings,,川菜 · Stir-fried Chicken Mid-wings,249.15,13.29,15.28,14.77
+sc-QD013,Double Pepper Chicken Mid-wings,,川菜 · Double Pepper Chicken Mid-wings,240.46,13.82,16.6,9.22
+sc-QD014,Wine-flavored Imperial Chicken Wings,,川菜 · Wine-flavored Imperial Chicken Wings,228.75,12.52,14.82,11.51
+sc-QD015,Stir-fried Chicken with Green Peppers,,川菜 · Stir-fried Chicken with Green Peppers,333.22,32.58,19.2,7.64
+sc-QD016,Chopped Chili Chicken Slices,,川菜 · Chopped Chili Chicken Slices,161.74,23.71,2.52,10.63
+sc-QD017,Fresh Pepper Chicken Breast,,川菜 · Fresh Pepper Chicken Breast,263.88,24.82,12.62,12.63
+sc-QD018,Pickled Pepper Chicken Slices,,川菜 · Pickled Pepper Chicken Slices,235.15,21.32,11.75,11.01
+sc-QD019,Sour and Spicy Chicken Slices,,川菜 · Sour and Spicy Chicken Slices,258.48,22.58,12.1,14.66
+sc-QD020,Green Stir-fried Chicken Shreds,,川菜 · Green Stir-fried Chicken Shreds,288.71,22.57,15.11,15.63
+sc-QD021,Bean Sprouts with Chicken Shreds,,川菜 · Bean Sprouts with Chicken Shreds,296.83,23.33,15.12,16.81
+sc-QD022,Chestnut Chicken,,川菜 · Chestnut Chicken,306.85,9.37,11.71,40.7
+sc-QD023,Pickled Pepper Chicken,,川菜 · Pickled Pepper Chicken,324.45,32.28,18.88,6.45
+sc-QD024,Dry-braised Chicken Wings,,川菜 · Dry-braised Chicken Wings,267.22,12.82,18.18,13.37
+sc-QD025,Mountain City Chicken,,川菜 · Mountain City Chicken,244.39,10.72,17.3,11.8
+sc-QD026,Ancient-style Salt-baked Chicken Wings,,川菜 · Ancient-style Salt-baked Chicken Wings,163.68,14.81,9.45,4.82
+sc-QD027,Fruity Soft-fried Chicken,,川菜 · Fruity Soft-fried Chicken,289.13,21.07,13.49,20.75
+sc-QD028,Unique-flavored Fried Chicken Breast,,川菜 · Unique-flavored Fried Chicken Breast,330.32,22.43,18.87,17.81
+sc-QD029,Sesame Chicken Strips,,川菜 · Sesame Chicken Strips,267.84,24.68,15.75,6.98
+sc-QD030,Lettuce Duck,,川菜 · Lettuce Duck,83.03,4.0,5.35,4.8
+sc-QD031,Delicious Boletus Mushrooms with Chicken Breast,,川菜 · Delicious Boletus Mushrooms with Chicken Breast,182.78,12.96,9.37,11.65
+sc-QD032,Braised Local Chicken with Mushrooms,,川菜 · Braised Local Chicken with Mushrooms,168.42,19.68,8.35,3.64
+sc-QD033,New-style Taibai Chicken,,川菜 · New-style Taibai Chicken,241.86,11.59,15.16,14.94
+sc-QD034,Boiled Duck Intestines,,川菜 · Boiled Duck Intestines,223.92,11.97,14.99,10.55
+sc-QD035,Double Pepper Stir-fried Chicken Gizzards,,川菜 · Double Pepper Stir-fried Chicken Gizzards,236.56,20.5,9.95,16.08
+sc-QD036,Dry Pot Chicken Offal,,川菜 · Dry Pot Chicken Offal,279.98,14.68,18.42,14.17
+sc-QD037,Pickled Pepper Chicken Hearts,,川菜 · Pickled Pepper Chicken Hearts,273.46,17.08,18.53,9.73
+sc-QD038,宫保鸡丁,宮保雞丁|Kung Pao Chicken,川菜 · Kung Pao Chicken,389.69,26.95,20.03,25.39
+sc-QD039,Sichuan Pepper Chicken Cubes,,川菜 · Sichuan Pepper Chicken Cubes,255.31,21.76,12.18,14.6
+sc-QD040,Colorful Chicken Cubes,,川菜 · Colorful Chicken Cubes,235.88,21.48,11.77,10.98
+sc-QD041,Ginkgo with Chicken Balls,,川菜 · Ginkgo with Chicken Balls,411.07,26.89,15.56,40.42
+sc-QD042,Wonderful Stir-fried Duck,,川菜 · Wonderful Stir-fried Duck,284.4,27.57,18.1,1.24
+sc-QD043,Tiger Skin Peppers with Duck Breast,,川菜 · Tiger Skin Peppers with Duck Breast,173.11,13.49,7.97,11.98
+sc-QD044,Sour and Spicy Duck Intestines,,川菜 · Sour and Spicy Duck Intestines,142.52,8.0,10.6,3.92
+sc-QD045,Spicy Duck Intestines,,川菜 · Spicy Duck Intestines,203.56,7.03,13.5,13.53
+sc-QD046,Pickled Mustard Duck,,川菜 · Pickled Mustard Duck,364.98,7.8,35.11,4.48
+sc-QD047,Braised Fatty Duck with Pickles,,川菜 · Braised Fatty Duck with Pickles,582.86,12.83,55.32,8.33
+sc-QD048,Fresh Pepper Duck Intestines,,川菜 · Fresh Pepper Duck Intestines,178.77,7.43,10.19,14.38
+sc-QD049,Stir-fried Marinated Duck with Young Ginger,,川菜 · Stir-fried Marinated Duck with Young Ginger,306.54,27.69,18.16,6.51
+sc-QD051,Unique-flavored Chicken,,川菜 · Unique-flavored Chicken,319.17,44.93,12.34,6.62
+sc-QD052,Chicken Tofu Pudding,,川菜 · Chicken Tofu Pudding,1864.25,75.53,15.64,342.86
+sc-QD053,Double-flavored Chicken Slices,,川菜 · Double-flavored Chicken Slices,223.15,29.76,9.51,4.36
+sc-SC001,Boiled Grass Carp,,川菜 · Boiled Grass Carp,187.33,14.07,8.31,14.26
+sc-SC002,Dongpo Fish Stew,,川菜 · Dongpo Fish Stew,188.62,13.66,12.45,5.69
+sc-SC003,Bashu Grilled Fish,,川菜 · Bashu Grilled Fish,311.31,23.1,19.0,12.03
+sc-SC004,Pickled Mustard with Crucian Carp,,川菜 · Pickled Mustard with Crucian Carp,242.5,24.19,8.76,16.41
+sc-SC005,Bashu Gluttonous Fish,,川菜 · Bashu Gluttonous Fish,261.11,19.73,17.26,6.96
+sc-SC006,Braised Crucian Carp with Pickled Cowpea,,川菜 · Braised Crucian Carp with Pickled Cowpea,166.36,10.71,8.29,12.22
+sc-SC007,Homestyle Fish Cubes,,川菜 · Homestyle Fish Cubes,169.16,13.77,9.17,7.9
+sc-SC008,Braised Crucian Carp with Fried Tofu,,川菜 · Braised Crucian Carp with Fried Tofu,211.41,14.82,10.82,13.67
+sc-SC009,Spicy Fish Strips,,川菜 · Spicy Fish Strips,193.95,13.39,10.27,11.98
+sc-SC010,Mountain Pepper Crucian Carp,,川菜 · Mountain Pepper Crucian Carp,149.41,12.28,6.91,9.44
+sc-SC011,Thai-style Mandarin Fish,,川菜 · Thai-style Mandarin Fish,227.19,15.66,13.59,10.62
+sc-SC012,Braised Crucian Carp with Poached Egg,,川菜 · Braised Crucian Carp with Poached Egg,147.72,12.62,7.29,7.88
+sc-SC013,Fresh Pepper Grass Carp,,川菜 · Fresh Pepper Grass Carp,159.98,12.85,8.88,7.22
+sc-SC014,Braised Crucian Carp with Tofu,,川菜 · Braised Crucian Carp with Tofu,223.55,17.97,9.55,16.27
+sc-SC015,Fresh Pepper Fish Slices,,川菜 · Fresh Pepper Fish Slices,147.1,11.47,8.08,7.18
+sc-SC016,Braised Crucian Carp with Pickled Radish,,川菜 · Braised Crucian Carp with Pickled Radish,170.92,12.37,6.94,14.99
+sc-SC017,Chopped Chili Fish Slices,,川菜 · Chopped Chili Fish Slices,147.66,11.43,8.08,7.47
+sc-SC018,Squirrel-shaped Carp,,川菜 · Squirrel-shaped Carp,175.78,17.37,7.46,9.68
+sc-SC019,Stone Pot Yellow Spicy Fish,,川菜 · Stone Pot Yellow Spicy Fish,278.39,9.27,8.14,42.49
+sc-SC020,Oil-soaked Live Fish,,川菜 · Oil-soaked Live Fish,203.55,19.88,10.06,8.3
+sc-SC021,Stone Pot Pepper-flavored Fish Slices,,川菜 · Stone Pot Pepper-flavored Fish Slices,452.36,12.6,14.28,68.56
+sc-SC022,Blanched Live Fish,,川菜 · Blanched Live Fish,171.11,16.55,8.41,7.25
+sc-SC023,King Pepper Fish Slices,,川菜 · King Pepper Fish Slices,168.4,11.94,8.56,10.91
+sc-SC024,Scallion-flavored Fish Strips,,川菜 · Scallion-flavored Fish Strips,192.99,11.28,9.72,15.06
+sc-SC025,Braised Eel with Garlic,,川菜 · Braised Eel with Garlic,190.77,23.44,6.79,8.75
+sc-SC026,Sesame Fish Strips,,川菜 · Sesame Fish Strips,355.32,16.58,23.71,19.24
+sc-SC027,Stir-fried Eel,,川菜 · Stir-fried Eel,151.25,18.67,5.49,6.68
+sc-SC028,Spicy Fish Strips,,川菜 · Spicy Fish Strips,191.36,11.02,9.71,14.93
+sc-SC029,Bamboo-jointed Eel,,川菜 · Bamboo-jointed Eel,198.22,24.25,7.18,8.94
+sc-SC030,Dry Pot Fish,,川菜 · Dry Pot Fish,196.37,12.15,12.41,9.12
+sc-SC031,Crispy Spicy Eel,,川菜 · Crispy Spicy Eel,217.35,18.92,12.09,8.19
+sc-SC032,Sweet and Sour Tile Fish,,川菜 · Sweet and Sour Tile Fish,178.97,13.87,8.81,10.99
+sc-SC033,Pickled Pepper Fish Head,,川菜 · Pickled Pepper Fish Head,182.13,13.4,9.2,11.39
+sc-SC034,Mountain Delicacies Twice-cooked Fish,,川菜 · Mountain Delicacies Twice-cooked Fish,217.46,12.49,13.45,12.54
+sc-SC035,Stir-fried Eel Shreds with Leek,,川菜 · Stir-fried Eel Shreds with Leek,177.4,15.6,7.9,10.86
+sc-SC036,Pan-fried and Braised Fish Belly,,川菜 · Pan-fried and Braised Fish Belly,164.86,14.82,9.25,5.61
+sc-SC037,Braised Eel with Pickled Peppers,,川菜 · Braised Eel with Pickled Peppers,163.75,18.67,5.48,9.7
+sc-SC038,Pan-fried Fish Belly,,川菜 · Pan-fried Fish Belly,142.1,11.8,8.17,5.38
+sc-SC039,Tofu Pudding with Fish Slices,,川菜 · Tofu Pudding with Fish Slices,208.86,17.01,10.46,11.82
+sc-SC040,Pan-fried Fish with Fermented Bean Sauce,,川菜 · Pan-fried Fish with Fermented Bean Sauce,175.48,11.58,11.15,7.4
+sc-SC041,Mapo Tofu Fish,,川菜 · Mapo Tofu Fish,148.03,10.59,7.75,8.96
+sc-SC042,Chopped Chili Bullfrog,,川菜 · Chopped Chili Bullfrog,86.68,7.69,4.33,4.67
+sc-SC043,Dry-fried Squid Shreds,,川菜 · Dry-fried Squid Shreds,252.86,18.36,16.25,8.37
+sc-SC044,Sichuan and Hunan-style Stir-fried Squid,,川菜 · Sichuan and Hunan-style Stir-fried Squid,200.81,32.04,5.52,5.4
+sc-SC045,Stir-fried Octopus with Soy Sauce,,川菜 · Stir-fried Octopus with Soy Sauce,231.15,19.71,6.39,25.08
+sc-SC046,Stir-fried Squid with Pickled Mustard,,川菜 · Stir-fried Squid with Pickled Mustard,209.28,18.04,11.65,8.15
+sc-SC047,Gluttonous Bullfrog,,川菜 · Gluttonous Bullfrog,177.57,7.15,12.38,9.73
+sc-SC048,Pickled Pepper Bullfrog,,川菜 · Pickled Pepper Bullfrog,87.37,7.77,4.34,4.42
+sc-SC049,Leek-flavored Spring Water Bullfrog,,川菜 · Leek-flavored Spring Water Bullfrog,90.52,6.82,4.63,5.48
+sc-SC050,Braised Bullfrog with Mountain Delicacies,,川菜 · Braised Bullfrog with Mountain Delicacies,133.28,7.46,8.08,7.88
+sc-SC051,Pickled Mustard Fish,,川菜 · Pickled Mustard Fish,120.71,13.23,6.39,2.51
+sc-SC052,Crucian Carp with Fermented Bean Sauce,,川菜 · Crucian Carp with Fermented Bean Sauce,198.64,12.49,8.89,17.07
+sc-SC053,Boiled Eel,,川菜 · Boiled Eel,200.65,20.2,10.13,7.14
+sc-SC054,Sichuan-style Pickled Mustard with Razor Clams,,川菜 · Sichuan-style Pickled Mustard with Razor Clams,93.97,5.14,4.86,8.44
+sc-SC055,Scallion Oil Shrimp Balls,,川菜 · Scallion Oil Shrimp Balls,245.52,44.43,6.67,1.47
+sc-SC056,Spicy Stir-fried Razor Clams,,川菜 · Spicy Stir-fried Razor Clams,98.03,4.76,4.71,10.08
+sc-SC057,Chopped Chili Scallops,,川菜 · Chopped Chili Scallops,117.72,4.53,10.26,2.42
+sc-SC058,Spicy Shrimp,,川菜 · Spicy Shrimp,175.07,13.79,9.69,8.21
+sc-SC059,Fish-flavored Shrimp Balls,,川菜 · Fish-flavored Shrimp Balls,245.79,36.76,6.4,9.82
+sc-SC060,Kung Pao Shrimp Balls,,川菜 · Kung Pao Shrimp Balls,242.18,37.46,5.92,9.27
+sc-SC061,Creamy Shrimp Balls,,川菜 · Creamy Shrimp Balls,363.95,36.98,8.92,33.2
+sc-SC062,Millet with Sea Cucumber,,川菜 · Millet with Sea Cucumber,581.78,15.97,22.29,78.88
+sc-SC063,Braised Sea Cucumber with Pork,,川菜 · Braised Sea Cucumber with Pork,234.88,13.18,16.14,9.52
+sc-SC064,Braised Sea Cucumber with Tendon,,川菜 · Braised Sea Cucumber with Tendon,178.65,24.03,4.37,10.45
+sc-SC065,Braised Sea Cucumber with Minced Pork,,川菜 · Braised Sea Cucumber with Minced Pork,620.88,30.96,28.71,59.53
+sc-SC066,Homestyle Braised Sea Cucumber,,川菜 · Homestyle Braised Sea Cucumber,157.62,17.57,4.52,11.43
+sc-TG001,Angelica Oxtail Soup,,川菜 · Angelica Oxtail Soup,3.03,0.27,0.01,0.45
+sc-TG002,Eucommia Tail Soup,,川菜 · Eucommia Tail Soup,69.07,10.16,2.62,1.14
+sc-TG003,Crucian Carp and Bitter Melon Soup,,川菜 · Crucian Carp and Bitter Melon Soup,95.21,9.64,4.82,3.31
+sc-TG004,Mountain Delicacies Black Chicken Soup,,川菜 · Mountain Delicacies Black Chicken Soup,168.61,28.4,3.35,5.95
+sc-TG005,Anti-cancer Wild Mushroom Soup,,川菜 · Anti-cancer Wild Mushroom Soup,99.3,5.2,3.85,11.13
+sc-TG006,Angelica Wild Mushroom Soup,,川菜 · Angelica Wild Mushroom Soup,50.52,4.76,0.41,6.94
+sc-TG007,Red Fermented Boletus Soup,,川菜 · Red Fermented Boletus Soup,270.95,16.35,2.83,66.92
+sc-TG008,Delicious Boletus and Local Chicken Soup,,川菜 · Delicious Boletus and Local Chicken Soup,207.73,33.77,7.21,1.68
+sc-TG009,Matsutake and Bamboo Shoot Soup,,川菜 · Matsutake and Bamboo Shoot Soup,19.59,1.6,0.17,2.85
+sc-TG010,Black Chicken and Matsutake Soup,,川菜 · Black Chicken and Matsutake Soup,148.83,27.91,2.92,2.41
+sc-TG011,Tomato Hangover Soup,,川菜 · Tomato Hangover Soup,23.82,1.27,0.2,4.15
+sc-TG012,Farmhouse Health Soup,,川菜 · Farmhouse Health Soup,97.06,0.77,6.72,8.51
+sc-TG013,Sour and Spicy Shrimp Soup,,川菜 · Sour and Spicy Shrimp Soup,158.56,3.72,11.49,12.87
+sc-TG014,Lotus Root and Pork Bone Soup,,川菜 · Lotus Root and Pork Bone Soup,171.33,9.89,12.56,4.91
+sc-TG015,Mountain Mushroom and Pig Trotter Soup,,川菜 · Mountain Mushroom and Pig Trotter Soup,330.76,28.51,22.75,3.38
+sc-TG016,Radish Shreds and Crucian Carp Soup,,川菜 · Radish Shreds and Crucian Carp Soup,146.26,14.64,7.33,5.43
+sc-TG017,Three Delicacies Fish Ball Soup,,川菜 · Three Delicacies Fish Ball Soup,142.71,14.65,4.72,10.19
+sc-TG018,Green Shrimp Ball Soup,,川菜 · Green Shrimp Ball Soup,306.45,46.3,8.64,10.34
+sc-TG019,Silver Thread Ball Soup,,川菜 · Silver Thread Ball Soup,258.08,7.04,20.13,12.66
+sc-TG020,Seaweed Egg Drop Soup,,川菜 · Seaweed Egg Drop Soup,75.06,7.15,3.91,2.82
+sc-TG021,Fried Egg with Seasonal Vegetable Soup,,川菜 · Fried Egg with Seasonal Vegetable Soup,92.02,4.4,7.07,2.86
+sc-TG022,Fried Egg and Tomato Soup,,川菜 · Fried Egg and Tomato Soup,88.53,3.68,7.03,2.8
+sc-TG023,Egg Drop with Water Shield Soup,,川菜 · Egg Drop with Water Shield Soup,49.59,2.7,0.31,8.71
+sc-TG024,Melon Slices and White Fungus Soup,,川菜 · Melon Slices and White Fungus Soup,70.22,0.73,6.71,1.95
+sc-TG025,Winter Melon and Lamb Soup,,川菜 · Winter Melon and Lamb Soup,112.17,9.51,7.07,2.81
+sc-TG026,Beef and Radish Soup,,川菜 · Beef and Radish Soup,84.18,10.25,2.8,4.37
+sc-TG027,Salted Vegetable with Tender Pork Soup,,川菜 · Salted Vegetable with Tender Pork Soup,170.2,4.99,10.87,13.24
+sc-TG028,American Ginseng and Black Chicken Soup,,川菜 · American Ginseng and Black Chicken Soup,105.35,20.48,2.09,0.9
+sc-TG029,Health-preserving Three Bean Soup,,川菜 · Health-preserving Three Bean Soup,183.46,10.95,8.17,17.71
+sc-TG030,Potato and Soybean Soup,,川菜 · Potato and Soybean Soup,139.58,5.82,7.2,12.89
+sc-TG031,Red Bean and Pumpkin Soup,,川菜 · Red Bean and Pumpkin Soup,82.19,2.9,0.07,17.1
+sc-TG032,Crucian Carp and Tofu Soup,,川菜 · Crucian Carp and Tofu Soup,179.32,18.3,9.06,6.12
+sc-TG033,Crispy Pork and Kelp Soup,,川菜 · Crispy Pork and Kelp Soup,224.16,4.98,20.79,4.96
+sc-TG034,Duck Blood Soup,,川菜 · Duck Blood Soup,178.86,14.37,7.22,13.97
+sc-TG035,Bok Choy and Potato Soup,,川菜 · Bok Choy and Potato Soup,100.31,2.26,5.37,10.75
+sc-TG036,Pork Liver and Spinach Soup,,川菜 · Pork Liver and Spinach Soup,75.02,8.47,1.37,6.99
+sc-TG037,"Dried Tofu, Chicken Shreds, and Seaweed Soup",,"川菜 · Dried Tofu, Chicken Shreds, and Seaweed Soup",247.77,15.41,16.71,9.25
+sc-TG038,"Tomato, Dried Tofu, and Egg Soup",,"川菜 · Tomato, Dried Tofu, and Egg Soup",263.59,14.44,19.09,8.89
+sc-TG039,Bacon and Lettuce Soup,,川菜 · Bacon and Lettuce Soup,112.14,12.25,4.79,4.94
+sc-TG040,Carrot and Oxtail Soup,,川菜 · Carrot and Oxtail Soup,32.33,2.69,1.02,3.06
+sc-TG041,Seafood Water Shield Soup,,川菜 · Seafood Water Shield Soup,76.48,4.99,0.43,12.97
+sc-TG042,Health-preserving Vegetable Soup,,川菜 · Health-preserving Vegetable Soup,62.85,1.6,0.51,12.82
+sc-TG044,Rock Sugar and White Fungus Soup,,川菜 · Rock Sugar and White Fungus Soup,128.49,2.75,0.38,28.05
+sc-TG045,Mountain Delicacies Health Soup,,川菜 · Mountain Delicacies Health Soup,97.94,2.97,2.17,16.53
+sc-TG046,Health-preserving Pumpkin Soup,,川菜 · Health-preserving Pumpkin Soup,70.96,0.69,0.09,16.55
+sc-TG047,Shrimp and Tofu Soup,,川菜 · Shrimp and Tofu Soup,118.95,12.9,2.37,11.48
+sc-TG048,Three Delicacies Seasonal Vegetable Soup,,川菜 · Three Delicacies Seasonal Vegetable Soup,105.19,7.56,5.5,6.8
+sc-TG049,Health-preserving Yam Soup,,川菜 · Health-preserving Yam Soup,73.78,1.95,0.17,15.8
+sc-TG050,Fish Puree and Egg Drop Soup,,川菜 · Fish Puree and Egg Drop Soup,91.46,8.2,3.47,6.75
+sc-TG051,Shredded Pork and Spinach Porridge,,川菜 · Shredded Pork and Spinach Porridge,114.99,4.61,2.1,19.12
+sc-TG052,Sugar-lowering Pumpkin Porridge,,川菜 · Sugar-lowering Pumpkin Porridge,90.76,1.87,0.26,19.91
+sc-TG053,Colorful Matsutake Porridge,,川菜 · Colorful Matsutake Porridge,117.2,3.81,0.46,24.04
+sc-TG054,Mountain Delicacies Health Porridge,,川菜 · Mountain Delicacies Health Porridge,113.63,3.08,1.21,22.29
+sc-TG055,Peanut and Radish Porridge,,川菜 · Peanut and Radish Porridge,114.83,3.35,1.86,21.24
+sc-TG056,Shrimp and Seasonal Vegetable Porridge,,川菜 · Shrimp and Seasonal Vegetable Porridge,105.15,4.76,0.41,20.23
+sc-TG057,Purple Sweet Potato Porridge,,川菜 · Purple Sweet Potato Porridge,123.22,2.07,0.29,27.61
+sc-TG058,Bitter Melon Porridge,,川菜 · Bitter Melon Porridge,95.25,2.51,0.26,20.37
+sc-TG059,Health-preserving Tofu Pudding,,川菜 · Health-preserving Tofu Pudding,118.6,6.32,8.68,4.53
+sc-TG060,Soybean and Pig Trotter Stew,,川菜 · Soybean and Pig Trotter Stew,333.15,28.07,16.49,18.04
+sc-TG061,Papaya and Pork Rib Stew,,川菜 · Papaya and Pork Rib Stew,99.71,5.34,6.73,4.57
+sc-TG062,"Pork Bone, Mung Bean, and Kelp Stew",,"川菜 · Pork Bone, Mung Bean, and Kelp Stew",238.44,14.79,14.2,13.01
+sc-TG063,"Pork Rib, Winter Melon, and Kelp Stew",,"川菜 · Pork Rib, Winter Melon, and Kelp Stew",125.65,6.97,8.65,5.13
+sc-TG064,Pork Rib with Two-color Radish Stew,,川菜 · Pork Rib with Two-color Radish Stew,121.0,6.89,8.42,4.56
+sc-TG065,Bamboo Shoot and Squab Stew,,川菜 · Bamboo Shoot and Squab Stew,138.36,5.29,12.03,2.57
+sc-TG066,Gastrodia and Squab Stew,,川菜 · Gastrodia and Squab Stew,132.07,4.35,12.05,1.93
+sc-XR001,Stir-fried Beef with Celery,,川菜 · Stir-fried Beef with Celery,147.1,13.67,5.84,9.83
+sc-XR002,Stir-fried Beef Shreds with Yellow Chives,,川菜 · Stir-fried Beef Shreds with Yellow Chives,159.91,11.52,7.17,12.21
+sc-XR003,Pickled Vegetables with Tender Beef,,川菜 · Pickled Vegetables with Tender Beef,181.31,16.54,7.45,11.82
+sc-XR004,Spicy Lamb Chops,,川菜 · Spicy Lamb Chops,363.07,18.58,29.11,7.23
+sc-XR005,Sour Soup with Fatty Beef,,川菜 · Sour Soup with Fatty Beef,277.76,20.26,20.34,4.25
+sc-XR006,Spicy Tripe,,川菜 · Spicy Tripe,148.37,15.47,5.92,8.11
+sc-XR007,Iron Pot Beef and Lamb,,川菜 · Iron Pot Beef and Lamb,191.01,23.61,7.87,5.85
+sc-XR008,Chopped Chili Tender Beef,,川菜 · Chopped Chili Tender Beef,235.53,22.27,10.95,12.08
+sc-XR009,Boiled Tender Beef,,川菜 · Boiled Tender Beef,261.76,26.83,8.8,18.51
+sc-XR010,Mountain Pepper Beef Shreds,,川菜 · Mountain Pepper Beef Shreds,240.74,22.7,10.98,12.53
+sc-XR011,Sizzling Beef Cubes,,川菜 · Sizzling Beef Cubes,220.04,24.78,7.64,12.58
+sc-XR012,Hand-shredded Beef,,川菜 · Hand-shredded Beef,566.17,36.05,12.77,30.17
+sc-XR013,Scallion-flavored Beef,,川菜 · Scallion-flavored Beef,157.54,16.83,7.49,5.88
+sc-XR014,Red Braised Beef,,川菜 · Red Braised Beef,234.21,16.61,16.16,5.88
+sc-XR015,Double Pepper Stir-fried Beef,,川菜 · Double Pepper Stir-fried Beef,160.54,17.89,5.8,9.06
+sc-XR016,Matsutake Braised Beef,,川菜 · Matsutake Braised Beef,170.09,15.37,7.98,9.13
+sc-XR017,Edamame with Beef Cubes,,川菜 · Edamame with Beef Cubes,193.11,16.88,8.47,12.6
+sc-XR018,Stone Pot Beef,,川菜 · Stone Pot Beef,214.49,13.48,12.02,13.12
+sc-XR019,Secret Recipe Golden Beef,,川菜 · Secret Recipe Golden Beef,173.05,13.07,8.18,11.64
+sc-XR020,Matsutake Beef Cubes,,川菜 · Matsutake Beef Cubes,261.91,21.07,13.19,15.3
+sc-XR021,Stir-fried Beef with Salted Vegetables,,川菜 · Stir-fried Beef with Salted Vegetables,191.13,15.22,9.58,11.06
+sc-XR022,Stir-fried and Grilled Beef,,川菜 · Stir-fried and Grilled Beef,127.16,14.69,4.56,6.67
+sc-XR023,Dry-fried Beef Shreds,,川菜 · Dry-fried Beef Shreds,178.48,14.53,11.57,4.13
+sc-XR024,Stir-fried and Grilled Lamb Chops,,川菜 · Stir-fried and Grilled Lamb Chops,250.22,11.65,20.29,5.92
+sc-XR025,Seasonal Vegetables with Beef Cubes,,川菜 · Seasonal Vegetables with Beef Cubes,132.38,14.34,4.73,8.21
+sc-XR026,Stir-fried Lamb,,川菜 · Stir-fried Lamb,111.73,11.33,6.41,2.33
+sc-XR027,Iron Pot Goat,,川菜 · Iron Pot Goat,220.5,14.63,13.94,7.45
+sc-XR028,Scallion-flavored Lamb,,川菜 · Scallion-flavored Lamb,254.11,12.1,20.55,5.79
+sc-XR029,Double Pepper Lamb,,川菜 · Double Pepper Lamb,166.93,10.39,11.23,4.81
+sc-XR030,Spicy Boiling Lamb,,川菜 · Spicy Boiling Lamb,246.86,11.9,16.85,12.19
+sc-XR031,Red Braised Lamb,,川菜 · Red Braised Lamb,349.69,14.13,30.4,5.88
+sc-XR032,Sour and Spicy Lamb,,川菜 · Sour and Spicy Lamb,482.3,5.66,48.61,4.85
+sc-XR033,Sichuan-style Stir-fried Lamb,,川菜 · Sichuan-style Stir-fried Lamb,199.71,12.38,13.47,5.69
+sc-XR034,Premium Spicy Blood Tofu,,川菜 · Premium Spicy Blood Tofu,248.41,12.26,15.52,15.13
+sc-XR035,Mountain Delicacies Spicy Blood Tofu,,川菜 · Mountain Delicacies Spicy Blood Tofu,380.76,22.87,12.57,48.77
+sc-XR036,Fish-flavored Tender Pork,,川菜 · Fish-flavored Tender Pork,176.35,12.71,9.37,10.29
+sc-XR037,Spicy Tender Pork Slices,,川菜 · Spicy Tender Pork Slices,177.2,13.87,8.96,10.19
+sc-XR038,Tomato Pork Slices,,川菜 · Tomato Pork Slices,182.31,12.41,9.14,12.53
+sc-XR039,Stir-fried Pork Face with Hangzhou Peppers,,川菜 · Stir-fried Pork Face with Hangzhou Peppers,269.52,12.47,22.11,5.24
+sc-XR040,Twice-cooked Bacon,,川菜 · Twice-cooked Bacon,179.18,15.23,9.81,7.51
+sc-XR041,Stir-fried Bacon with Dried Tofu,,川菜 · Stir-fried Bacon with Dried Tofu,235.1,21.61,13.0,7.98
+sc-XR042,Stir-fried King Oyster Mushrooms with Pig Snout,,川菜 · Stir-fried King Oyster Mushrooms with Pig Snout,334.61,15.82,27.3,6.27
+sc-XR043,Stir-fried Charcoal-grilled Pork,,川菜 · Stir-fried Charcoal-grilled Pork,351.76,11.07,32.82,4.17
+sc-XR044,Farmhouse Stir-fried Pork,,川菜 · Farmhouse Stir-fried Pork,336.16,7.3,27.97,14.45
+sc-XR045,Stir-fried Salted Pork,,川菜 · Stir-fried Salted Pork,290.36,7.12,27.95,3.5
+sc-XR046,回锅肉,回鍋肉|Twice-cooked Pork,川菜 · Twice-cooked Pork,302.75,7.25,28.4,5.37
+sc-XR047,Spicy Pork Cubes,,川菜 · Spicy Pork Cubes,219.43,16.34,11.24,13.2
+sc-XR048,Soy Sauce Pork Cubes,,川菜 · Soy Sauce Pork Cubes,178.56,16.56,9.91,5.8
+sc-XR049,Tomato Pork Cubes,,川菜 · Tomato Pork Cubes,222.61,17.18,10.97,13.72
+sc-XR050,Kung Pao Pork Cubes,,川菜 · Kung Pao Pork Cubes,284.27,20.36,16.87,12.88
+sc-XR051,Fish-flavored Pork Knuckle,,川菜 · Fish-flavored Pork Knuckle,269.49,13.58,19.3,10.75
+sc-XR052,Rock Sugar Pork Knuckle,,川菜 · Rock Sugar Pork Knuckle,271.67,12.6,19.05,12.79
+sc-XR053,Braised Pork Knuckle with Duck Gizzard,,川菜 · Braised Pork Knuckle with Duck Gizzard,281.44,17.13,19.36,9.99
+sc-XR054,Stir-fried Pork Tripe with Green Peppers,,川菜 · Stir-fried Pork Tripe with Green Peppers,196.96,14.4,9.47,13.99
+sc-XR055,Edamame and Kelp with Pork Knuckle,,川菜 · Edamame and Kelp with Pork Knuckle,259.88,14.53,19.23,7.43
+sc-XR056,Dongpo Pork Knuckle,,川菜 · Dongpo Pork Knuckle,348.26,17.38,25.42,12.99
+sc-XR057,Braised Pig Trotter with Soybeans,,川菜 · Braised Pig Trotter with Soybeans,229.7,17.0,16.41,3.81
+sc-XR058,Spicy Beauty Pig Trotters,,川菜 · Spicy Beauty Pig Trotters,277.92,18.28,18.09,10.76
+sc-XR059,Steamed Pig Trotters,,川菜 · Steamed Pig Trotters,163.46,14.19,11.34,1.35
+sc-XR060,Red Braised Pig Trotters,,川菜 · Red Braised Pig Trotters,265.98,17.65,17.49,9.76
+sc-XR061,Steamed Crispy Pork,,川菜 · Steamed Crispy Pork,360.34,8.3,35.09,4.03
+sc-XR062,Steamed Assorted Dish,,川菜 · Steamed Assorted Dish,294.07,12.33,25.55,4.43
+sc-XR063,Longan Meat,,川菜 · Longan Meat,366.15,7.17,15.57,49.08
+sc-XR064,Stir-fried Caramelized Pork,,川菜 · Stir-fried Caramelized Pork,356.03,6.57,35.0,4.89
+sc-XR065,Radish Meatballs,,川菜 · Radish Meatballs,326.43,10.2,28.2,8.76
+sc-XR066,Steamed Meatballs in Original Flavor,,川菜 · Steamed Meatballs in Original Flavor,215.99,7.72,18.54,5.09
+sc-XR067,Crispy Steamed Pork with Rice Flour,,川菜 · Crispy Steamed Pork with Rice Flour,515.25,16.45,31.06,43.15
+sc-XR068,Pumpkin Steamed Pork with Rice Flour,,川菜 · Pumpkin Steamed Pork with Rice Flour,266.45,7.1,18.66,18.16
+sc-XR069,Taro Steamed Pork Ribs,,川菜 · Taro Steamed Pork Ribs,174.36,8.1,13.13,6.55
+sc-XR070,Chopped Chili Steamed Pork Ribs,,川菜 · Chopped Chili Steamed Pork Ribs,283.33,15.35,24.16,1.88
+sc-XR071,Boneless Pork Ribs,,川菜 · Boneless Pork Ribs,232.19,10.68,17.24,8.92
+sc-XR072,Steamed Pork Ribs with Kelp Shreds,,川菜 · Steamed Pork Ribs with Kelp Shreds,205.65,8.54,13.57,12.54
+sc-XR073,Steamed Pork with Mountain Fern,,川菜 · Steamed Pork with Mountain Fern,264.87,5.55,24.04,7.72
+sc-XR074,Steamed Pork with Dried Beans,,川菜 · Steamed Pork with Dried Beans,300.89,6.05,27.64,7.88
+sc-XR075,Preserved Vegetables with Braised Pork,,川菜 · Preserved Vegetables with Braised Pork,291.02,6.25,28.45,3.7
+sc-XR076,Spicy Pork Liver,,川菜 · Spicy Pork Liver,213.81,14.12,9.23,18.4
+sc-XR077,Boiled Tender Liver Slices,,川菜 · Boiled Tender Liver Slices,239.34,14.1,12.85,16.82
+sc-XR078,Scallion-flavored Pork Liver,,川菜 · Scallion-flavored Pork Liver,174.62,13.12,7.31,13.93
+sc-XR079,Plain Pork Liver,,川菜 · Plain Pork Liver,173.03,10.89,7.18,16.08
+sc-XR080,Sichuan-style Stir-fried Liver,,川菜 · Sichuan-style Stir-fried Liver,182.73,13.05,7.35,15.94
+sc-XR081,Japanese-style Stir-fried Liver,,川菜 · Japanese-style Stir-fried Liver,160.67,11.3,6.83,13.34
+sc-XR082,Stir-fried Liver and Kidney,,川菜 · Stir-fried Liver and Kidney,212.17,17.95,8.3,16.09
+sc-XR083,Boiled Kidney Slices,,川菜 · Boiled Kidney Slices,238.96,16.98,12.19,15.29
+sc-XR084,Double Pepper Kidney Slices,,川菜 · Double Pepper Kidney Slices,145.42,15.26,7.05,5.23
+sc-XR085,Kidney with Fermented Bean Sauce,,川菜 · Kidney with Fermented Bean Sauce,143.19,15.2,7.03,4.77
+sc-XR086,Scallion-flavored Kidney,,川菜 · Scallion-flavored Kidney,181.91,15.46,7.08,13.9
+sc-XR087,Spicy Kidney,,川菜 · Spicy Kidney,179.41,15.3,7.08,13.47
+sc-XR088,Fried and Braised Pork Shreds,,川菜 · Fried and Braised Pork Shreds,397.08,25.39,31.05,4.58
+sc-XR089,Stir-fried Pork Shreds with Bean Sprouts and Yellow Chives,,川菜 · Stir-fried Pork Shreds with Bean Sprouts and Yellow Chives,179.17,12.78,9.05,11.6
+sc-XR090,Fish-flavored Pork Shreds,,川菜 · Fish-flavored Pork Shreds,340.62,27.48,16.49,20.47
+sc-XR091,Stir-fried Pork Shreds with Pickled Mustard,,川菜 · Stir-fried Pork Shreds with Pickled Mustard,194.15,13.18,9.25,14.47
+sc-XR092,Stir-fried Pork Shreds with Sweet Peppers,,川菜 · Stir-fried Pork Shreds with Sweet Peppers,182.67,12.29,9.09,12.96
+sc-XR093,Stir-fried Pork Shreds with Young Ginger,,川菜 · Stir-fried Pork Shreds with Young Ginger,178.0,12.07,9.23,11.64
+sc-XR094,Spicy Pork Shreds,,川菜 · Spicy Pork Shreds,214.37,15.25,9.88,15.91
+sc-XR095,Pickled Pepper Pork Intestines,,川菜 · Pickled Pepper Pork Intestines,265.64,7.67,22.75,8.13
+sc-XR096,Stir-fried Tender Pork with Salted Vegetables,,川菜 · Stir-fried Tender Pork with Salted Vegetables,228.77,15.97,12.01,14.16
+sc-XR097,Boiled Pork Slices,,川菜 · Boiled Pork Slices,303.73,11.6,22.99,13.1
+sc-XR098,Hechuan Pork Slices,,川菜 · Hechuan Pork Slices,281.46,10.32,22.0,11.06
+sc-XR099,Sweet and Sour Pork Rolls,,川菜 · Sweet and Sour Pork Rolls,226.3,16.47,9.07,19.47
+sc-XR100,Tangerine Peel Beef,,川菜 · Tangerine Peel Beef,194.33,21.73,5.55,14.24
+sc-XR101,Beef Heart with Fermented Bean Sauce and Peppers,,川菜 · Beef Heart with Fermented Bean Sauce and Peppers,171.17,14.93,8.49,9.02
+sc-XR102,Sichuan-style Braised Beef with Soy Sauce,,川菜 · Sichuan-style Braised Beef with Soy Sauce,174.15,25.27,2.12,12.61
+sc-XR103,Braised Beef Cubes,,川菜 · Braised Beef Cubes,207.73,27.91,7.63,6.91
+sc-ZS001,Dan Dan Noodles,,川菜 · Dan Dan Noodles,1251.95,34.88,62.71,137.04
+sc-ZS002,Braised Beef Noodles,,川菜 · Braised Beef Noodles,1285.01,49.64,61.11,133.7
+sc-ZS003,Noodles with Mushroom and Chicken,,川菜 · Noodles with Mushroom and Chicken,1303.75,39.46,66.63,136.48
+sc-ZS004,Spicy Pork Rib Noodles,,川菜 · Spicy Pork Rib Noodles,1538.25,47.95,85.06,145.58
+sc-ZS005,Fried Egg Noodles with Seasonal Vegetables,,川菜 · Fried Egg Noodles with Seasonal Vegetables,997.49,30.81,39.18,129.48
+sc-ZS006,Spicy Noodles with Seasonal Vegetables,,川菜 · Spicy Noodles with Seasonal Vegetables,914.82,20.47,35.03,128.47
+sc-ZS007,Spicy Chicken Shred Noodles,,川菜 · Spicy Chicken Shred Noodles,1666.97,36.54,75.36,209.75
+sc-ZS008,Sichuan-style Braised Pork Noodles,,川菜 · Sichuan-style Braised Pork Noodles,1312.98,29.04,76.49,127.68
+sc-ZS009,Pickled Mustard and Pork Shred Noodles,,川菜 · Pickled Mustard and Pork Shred Noodles,926.09,20.31,35.36,130.72
+sc-ZS010,Spicy Pork Shred Noodles,,川菜 · Spicy Pork Shred Noodles,995.63,21.3,35.69,146.1
+sc-ZS011,Pickled Vegetables and Pork Shred Noodles,,川菜 · Pickled Vegetables and Pork Shred Noodles,1085.2,25.03,37.55,160.39
+sc-ZS012,Three Delicacies Fish Ball Noodles,,川菜 · Three Delicacies Fish Ball Noodles,901.1,24.28,31.98,127.96
+sc-ZS013,Fish-flavored Pork Shred Fried Noodles,,川菜 · Fish-flavored Pork Shred Fried Noodles,1029.94,24.17,36.63,149.63
+sc-ZS014,Fried Noodles with Egg and Ham,,川菜 · Fried Noodles with Egg and Ham,1154.17,37.92,52.93,131.01
+sc-ZS015,Braised Pork Intestine Noodles,,川菜 · Braised Pork Intestine Noodles,1390.05,32.09,81.06,133.7
+sc-ZS016,Sesame Balls,,川菜 · Sesame Balls,213.96,6.22,9.83,64.95
+sc-ZS017,Hollow Corn Cakes,,川菜 · Hollow Corn Cakes,421.2,7.41,7.82,85.72
+sc-ZS018,Crispy Lotus Root Cakes,,川菜 · Crispy Lotus Root Cakes,370.2,10.72,9.79,59.09
+sc-ZS019,Sweet Potato Cakes,,川菜 · Sweet Potato Cakes,210.25,6.32,10.04,63.11
+sc-ZS020,Pumpkin Cakes,,川菜 · Pumpkin Cakes,221.36,6.38,5.92,57.17
+sc-ZS021,Vegetable Cakes,,川菜 · Vegetable Cakes,129.44,3.7,7.82,19.39
+sc-ZS022,Leek-flavored Pancakes,,川菜 · Leek-flavored Pancakes,237.84,7.04,6.53,37.3
+sc-ZS023,Egg-stuffed Pancakes,,川菜 · Egg-stuffed Pancakes,320.86,9.89,13.62,39.45
+sc-ZS024,Brown Sugar Pancakes,,川菜 · Brown Sugar Pancakes,315.29,6.38,9.73,50.06
+sc-ZS025,Sticky Corn Cakes,,川菜 · Sticky Corn Cakes,125.38,3.8,8.91,24.16
+sc-ZS026,Steamed Dumplings with Soy Sauce Pork,,川菜 · Steamed Dumplings with Soy Sauce Pork,322.17,13.71,16.97,28.64
+sc-ZS027,Steamed Dumplings with Bacon and Beans,,川菜 · Steamed Dumplings with Bacon and Beans,242.91,7.29,11.92,26.55
+sc-ZS028,Chili Oil Dumplings,,川菜 · Chili Oil Dumplings,503.56,15.06,26.21,51.84
+sc-ZS029,Black Sesame Glutinous Rice Balls,,川菜 · Black Sesame Glutinous Rice Balls,379.66,7.4,22.43,70.2
+sc-ZS030,Fermented Glutinous Rice Balls,,川菜 · Fermented Glutinous Rice Balls,375.61,10.46,0.95,114.41
+sc-ZS031,Mountain City Small Glutinous Rice Balls,,川菜 · Mountain City Small Glutinous Rice Balls,119.88,3.96,0.45,58.41
+sc-ZS032,Sour and Spicy Noodles,,川菜 · Sour and Spicy Noodles,1405.45,36.61,39.99,222.64
+sc-ZS033,Pork Intestine Noodles,,川菜 · Pork Intestine Noodles,1419.55,31.7,42.23,225.78
+sc-ZS034,Three Delicacies Rice Noodles,,川菜 · Three Delicacies Rice Noodles,1042.52,25.48,30.88,163.89
+sc-ZS035,Beef Rice Noodles,,川菜 · Beef Rice Noodles,1343.8,39.74,57.21,166.5
+sc-ZS036,Chicken Rice Noodles,,川菜 · Chicken Rice Noodles,1427.87,39.45,66.06,168.21
+sc-ZS037,Pork Rib Rice Noodles,,川菜 · Pork Rib Rice Noodles,742.96,25.56,56.21,35.84
+sc-ZS038,Lamb Rice Noodles,,川菜 · Lamb Rice Noodles,918.34,19.62,21.59,159.41
+sc-ZS039,Fried Rice with Minced Pork and Pickled Cowpea,,川菜 · Fried Rice with Minced Pork and Pickled Cowpea,644.91,10.96,34.6,72.4
+sc-ZS040,Fried Rice with Pork Shreds and Pickled Mustard,,川菜 · Fried Rice with Pork Shreds and Pickled Mustard,626.43,10.42,34.49,68.63
+gd-DZ001,咸鱼鸡粒豆腐煲,鹹魚雞粒豆腐煲|Salted Fish and Chicken Tofu Pot,粤菜 · Salted Fish and Chicken Tofu Pot,166.42,10.5,11.2,6.13
+gd-DZ002,Braised Tofu,,粤菜 · Braised Tofu,226.52,22.42,4.89,22.97
+gd-DZ003,Five-spice Dried Tofu,,粤菜 · Five-spice Dried Tofu,533.51,56.07,23.03,25.08
+gd-DZ004,Claypot Tofu,,粤菜 · Claypot Tofu,122.51,8.37,6.71,7.37
+gd-DZ005,Colorful Vegetarian Tofu,,粤菜 · Colorful Vegetarian Tofu,212.44,10.65,8.57,23.02
+gd-DZ006,Braised Tofu,,粤菜 · Braised Tofu,160.11,3.78,12.61,8.17
+gd-DZ007,Fried Tofu Box,,粤菜 · Fried Tofu Box,153.81,4.28,14.22,2.62
+gd-DZ008,Chicken Kidney Tofu,,粤菜 · Chicken Kidney Tofu,356.35,29.34,20.57,13.79
+gd-DZ009,Sweet and Sour Tofu,,粤菜 · Sweet and Sour Tofu,109.92,2.2,3.89,16.54
+gd-DZ010,Ginger and Scallion Tofu,,粤菜 · Ginger and Scallion Tofu,91.26,7.88,2.6,8.92
+gd-DZ011,Shrimp Tofu,,粤菜 · Shrimp Tofu,599.71,22.64,30.7,57.29
+gd-DZ012,Osmanthus Tofu,,粤菜 · Osmanthus Tofu,153.37,4.26,10.16,11.44
+gd-DZ013,Tofu Egg Pancake,,粤菜 · Tofu Egg Pancake,206.99,6.11,18.87,3.76
+gd-DZ014,Braised Tofu with Three Shreds,,粤菜 · Braised Tofu with Three Shreds,301.38,11.99,21.51,15.43
+gd-DZ015,Braised Tofu with Pork Shreds,,粤菜 · Braised Tofu with Pork Shreds,284.12,6.05,28.35,2.22
+gd-DZ016,Stir-fried Tofu with Green Peppers,,粤菜 · Stir-fried Tofu with Green Peppers,90.32,1.59,5.37,9.19
+gd-DZ017,Dongjiang Tofu Pot,,粤菜 · Dongjiang Tofu Pot,176.72,18.76,6.7,9.49
+gd-DZ018,Nanhua Tofu,,粤菜 · Nanhua Tofu,81.72,1.4,6.5,4.64
+gd-DZ019,Fish Ball Tofu Pot with Fermented Bean Curd,,粤菜 · Fish Ball Tofu Pot with Fermented Bean Curd,108.32,5.9,6.85,5.86
+gd-DZ020,Steamed Imitation Tofu with Golden Grains,,粤菜 · Steamed Imitation Tofu with Golden Grains,188.07,11.37,14.19,4.1
+gd-DZ021,Braised Mushrooms with Carrot and Tofu Skin,,粤菜 · Braised Mushrooms with Carrot and Tofu Skin,973.43,37.42,71.43,46.77
+gd-DZ022,Pepper Oil Bean Sprouts,,粤菜 · Pepper Oil Bean Sprouts,127.64,2.29,11.43,4.1
+gd-DZ023,Tofu and Fresh Fish Soup,,粤菜 · Tofu and Fresh Fish Soup,96.95,9.34,2.52,9.8
+gd-DZ024,Lingnan Stuffed Fried Tofu,,粤菜 · Lingnan Stuffed Fried Tofu,434.24,11.18,38.65,11.62
+gd-DZ025,Steamed Tofu with Fish Puree and Sausage,,粤菜 · Steamed Tofu with Fish Puree and Sausage,197.79,8.32,16.1,5.32
+gd-DZ026,Oyster Sauce Tofu,,粤菜 · Oyster Sauce Tofu,57.25,0.97,5.04,2.19
+gd-DZ027,Orange Juice Japanese Tofu,,粤菜 · Orange Juice Japanese Tofu,132.07,0.92,10.03,9.7
+gd-DZ028,Soft Braised Jade Tofu,,粤菜 · Soft Braised Jade Tofu,199.16,1.15,20.03,4.27
+gd-DZ029,Tangerine Peel Sprouted Beans,,粤菜 · Tangerine Peel Sprouted Beans,41.92,3.39,1.15,4.88
+gd-DZ030,Stuffed Tofu with Crab Roe,,粤菜 · Stuffed Tofu with Crab Roe,269.76,37.81,10.25,6.34
+gd-DZ031,Fish and Tofu Cubes Pot,,粤菜 · Fish and Tofu Cubes Pot,121.94,8.51,7.48,5.28
+gd-DZ032,Stir-fried Dried Tofu with Pork Shreds,,粤菜 · Stir-fried Dried Tofu with Pork Shreds,165.95,5.61,15.41,1.71
+gd-DZ033,"Ginkgo, Tofu Skin, and Water Chestnuts",,"粤菜 · Ginkgo, Tofu Skin, and Water Chestnuts",336.46,31.96,11.81,25.14
+gd-DZ034,Braised Tofu with Pork and Chicken Cubes,,粤菜 · Braised Tofu with Pork and Chicken Cubes,210.9,10.96,15.54,7.16
+gd-DZ035,Black Emperor Tofu,,粤菜 · Black Emperor Tofu,1359.38,17.59,141.46,9.06
+gd-DZ036,Tofu with Red Snapper,,粤菜 · Tofu with Red Snapper,158.37,6.68,11.03,8.3
+gd-DZ037,Stuffed Japanese Tofu with XO Sauce,,粤菜 · Stuffed Japanese Tofu with XO Sauce,80.44,1.18,7.11,3.08
+gd-DZ038,Braised Stuffed Tofu with Sunkist Sauce,,粤菜 · Braised Stuffed Tofu with Sunkist Sauce,136.74,6.91,8.03,9.28
+gd-DZ039,Six Treasures Braised Tofu,,粤菜 · Six Treasures Braised Tofu,293.2,9.71,22.81,12.58
+gd-DZ040,Stir-fried Tofu with Leek,,粤菜 · Stir-fried Tofu with Leek,144.1,0.89,15.11,1.69
+gd-DZ041,Tofu with Scallops and Western Vegetables,,粤菜 · Tofu with Scallops and Western Vegetables,254.93,27.25,11.59,10.28
+gd-DZ042,Golden Pipa Tofu,,粤菜 · Golden Pipa Tofu,399.97,19.36,30.85,11.92
+gd-DZ043,Braised Tofu with Fresh Mushrooms,,粤菜 · Braised Tofu with Fresh Mushrooms,168.74,1.58,15.18,6.97
+gd-DZ044,Stuffed Japanese Tofu with Shrimp,,粤菜 · Stuffed Japanese Tofu with Shrimp,87.86,8.42,5.71,0.8
+gd-DZ045,Braised Tofu with Fish,,粤菜 · Braised Tofu with Fish,226.37,19.0,14.73,4.72
+gd-DZ046,Crispy Fried Tofu,,粤菜 · Crispy Fried Tofu,99.58,2.71,5.28,10.06
+gd-DZ047,Steamed Tofu with Fish,,粤菜 · Steamed Tofu with Fish,184.15,6.75,15.53,4.76
+gd-DZ048,Clear Lotus Tofu,,粤菜 · Clear Lotus Tofu,313.32,28.58,18.15,9.28
+gd-DZ049,Seafood-soaked Stuffed Tofu,,粤菜 · Seafood-soaked Stuffed Tofu,253.66,12.7,17.65,11.53
+gd-DZ050,Braised Tofu with Shrimp,,粤菜 · Braised Tofu with Shrimp,161.08,3.38,14.22,5.28
+gd-DZ051,Thick Soup Braised Tofu,,粤菜 · Thick Soup Braised Tofu,149.24,11.56,9.41,3.07
+gd-DZ052,Crispy Carrot Tofu,,粤菜 · Crispy Carrot Tofu,354.2,8.59,26.25,21.6
+gd-DZ053,Stir-fried Dried Tofu with Pickled Mustard,,粤菜 · Stir-fried Dried Tofu with Pickled Mustard,122.91,7.69,7.08,7.14
+gd-DZ054,Sweet and Sour Crispy Tofu,,粤菜 · Sweet and Sour Crispy Tofu,194.49,3.57,11.09,19.89
+gd-DZ055,Braised Tofu with Fresh Shrimp,,粤菜 · Braised Tofu with Fresh Shrimp,128.07,12.5,6.69,4.58
+gd-DZ056,Soy Sauce Dried Tofu Shreds,,粤菜 · Soy Sauce Dried Tofu Shreds,89.98,0.72,7.47,5.28
+gd-DZ057,Braised Tofu with Crab Meat,,粤菜 · Braised Tofu with Crab Meat,105.97,5.3,6.64,6.49
+gd-DZ058,Tofu Skin Rolls with Yellow Chives,,粤菜 · Tofu Skin Rolls with Yellow Chives,226.09,18.5,9.37,16.73
+gd-DZ059,Stir-fried Dried Tofu with Celery,,粤菜 · Stir-fried Dried Tofu with Celery,246.3,12.27,17.87,8.66
+gd-DZ060,Fish-flavored Dried Tofu,,粤菜 · Fish-flavored Dried Tofu,1013.18,11.72,103.53,12.35
+gd-DZ061,Twice-cooked Vegetarian Slices,,粤菜 · Twice-cooked Vegetarian Slices,196.58,14.79,6.08,20.55
+gd-DZ062,Original Pot Tofu Skin Rolls,,粤菜 · Original Pot Tofu Skin Rolls,620.88,25.98,24.78,75.29
+gd-DZ063,Fragrant Jade Gold Bricks,,粤菜 · Fragrant Jade Gold Bricks,113.56,3.01,7.13,6.35
+gd-DZ064,Tofu Skin with Mushrooms,,粤菜 · Tofu Skin with Mushrooms,161.22,9.61,3.81,21.86
+gd-DZ065,Braised Twin Tofu with Shrimp,,粤菜 · Braised Twin Tofu with Shrimp,211.76,23.94,8.2,8.57
+gd-DZ066,Fresh Water Chestnut Mushroom Fragrance,,粤菜 · Fresh Water Chestnut Mushroom Fragrance,99.11,4.12,4.75,9.94
+gd-DZ067,Tofu Skin with Ginkgo and Pork Belly,,粤菜 · Tofu Skin with Ginkgo and Pork Belly,389.31,23.81,19.14,30.35
+gd-DZ068,Steamed Tofu Puffs with Fish,,粤菜 · Steamed Tofu Puffs with Fish,259.83,13.08,15.61,11.68
+gd-JL001,Glass Cabbage,,粤菜 · Glass Cabbage,227.66,14.68,6.26,27.39
+gd-JL002,Fan-shaped Golden Vegetable,,粤菜 · Fan-shaped Golden Vegetable,359.53,10.86,23.24,26.84
+gd-JL003,Garlic Lettuce,,粤菜 · Garlic Lettuce,38.95,1.74,2.45,1.91
+gd-JL004,Cured Meat Cabbage Rolls,,粤菜 · Cured Meat Cabbage Rolls,328.66,9.44,22.48,22.57
+gd-JL005,Inch-long Golden Cabbage,,粤菜 · Inch-long Golden Cabbage,119.5,6.17,8.18,5.42
+gd-JL006,Scallop Soup with Tianjin Cabbage,,粤菜 · Scallop Soup with Tianjin Cabbage,104.07,8.5,5.82,4.57
+gd-JL007,Celery with Macadamia Nuts,,粤菜 · Celery with Macadamia Nuts,377.02,3.22,38.9,8.27
+gd-JL008,Original Pot Cabbage,,粤菜 · Original Pot Cabbage,128.42,7.03,9.3,4.32
+gd-JL009,Sour and Spicy Celery,,粤菜 · Sour and Spicy Celery,68.85,1.33,5.2,4.23
+gd-JL010,Braised Three-color Melon with Scallops,,粤菜 · Braised Three-color Melon with Scallops,103.45,6.68,3.82,10.49
+gd-JL011,Braised Cabbage Heart,,粤菜 · Braised Cabbage Heart,284.55,7.41,24.8,8.7
+gd-JL012,Stir-fried Celery with Ham,,粤菜 · Stir-fried Celery with Ham,220.79,6.68,19.17,5.92
+gd-JL013,Stir-fried Celery with Pork Shreds,,粤菜 · Stir-fried Celery with Pork Shreds,181.52,4.7,16.09,4.94
+gd-JL014,Duck Breast with Cabbage,,粤菜 · Duck Breast with Cabbage,310.69,13.21,22.34,14.58
+gd-JL015,Braised Cabbage Heart with Cured Duck Breast in White Sauce,,粤菜 · Braised Cabbage Heart with Cured Duck Breast in White Sauce,138.34,8.74,5.66,13.0
+gd-JL016,Stir-fried Winter Melon with Salted Egg Yolk,,粤菜 · Stir-fried Winter Melon with Salted Egg Yolk,225.81,4.64,20.59,6.16
+gd-JL017,Stir-fried Celery with Squid,,粤菜 · Stir-fried Celery with Squid,262.69,14.32,16.93,12.69
+gd-JL018,Claypot Lettuce Heart,,粤菜 · Claypot Lettuce Heart,82.73,3.14,5.58,5.1
+gd-JL019,Oyster Sauce Lettuce,,粤菜 · Oyster Sauce Lettuce,61.45,2.79,1.69,7.82
+gd-JL020,Original Pot Radish Balls,,粤菜 · Original Pot Radish Balls,172.03,10.9,10.12,9.54
+gd-JL021,Braised Amaranth with Mushrooms,,粤菜 · Braised Amaranth with Mushrooms,356.82,8.14,27.24,20.41
+gd-JL022,Walnut Oyster Sauce Lettuce,,粤菜 · Walnut Oyster Sauce Lettuce,254.1,5.23,22.86,7.0
+gd-JL023,Stir-fried Lettuce with Mushrooms,,粤菜 · Stir-fried Lettuce with Mushrooms,125.99,2.74,6.88,13.32
+gd-JL024,Braised Melon with Ham Sauce,,粤菜 · Braised Melon with Ham Sauce,149.73,3.75,10.36,10.91
+gd-JL025,Braised Mustard Greens with Ham,,粤菜 · Braised Mustard Greens with Ham,276.65,7.9,20.66,15.29
+gd-JL026,Straw Mushroom Lettuce with Fish Slices,,粤菜 · Straw Mushroom Lettuce with Fish Slices,120.62,6.7,6.3,8.39
+gd-JL027,Garlic Amaranth,,粤菜 · Garlic Amaranth,183.45,3.29,15.98,7.08
+gd-JL028,Dried Scallop Melon Strips,,粤菜 · Dried Scallop Melon Strips,374.17,10.37,31.59,13.28
+gd-JL029,Fried Eggplant Pancake,,粤菜 · Fried Eggplant Pancake,253.63,9.06,16.86,16.7
+gd-JL030,Stir-fried Bean Sprouts with Fermented Bean Sauce,,粤菜 · Stir-fried Bean Sprouts with Fermented Bean Sauce,81.12,2.56,5.36,5.75
+gd-JL031,Stir-fried Bean Sprouts,,粤菜 · Stir-fried Bean Sprouts,273.04,8.16,21.72,11.74
+gd-JL032,Braised Winter Melon with Scallops,,粤菜 · Braised Winter Melon with Scallops,2762.87,14.41,298.87,15.2
+gd-JL033,Stir-fried Cabbage with Ham,,粤菜 · Stir-fried Cabbage with Ham,354.94,11.33,29.14,12.61
+gd-JL034,Braised Winter Melon with Duck Cubes,,粤菜 · Braised Winter Melon with Duck Cubes,245.41,18.82,10.37,18.59
+gd-JL035,Stir-fried Fish with Garlic Stems,,粤菜 · Stir-fried Fish with Garlic Stems,664.02,12.56,57.0,26.7
+gd-JL036,Stir-fried Bitter Melon Shreds,,粤菜 · Stir-fried Bitter Melon Shreds,236.75,2.02,20.45,11.74
+gd-JL037,Spinach with Pepper Shreds,,粤菜 · Spinach with Pepper Shreds,81.69,4.18,0.46,15.33
+gd-JL038,Snowflake Amaranth,,粤菜 · Snowflake Amaranth,440.18,12.93,40.41,7.48
+gd-JL039,Orchid with Golden Mushrooms,,粤菜 · Orchid with Golden Mushrooms,357.95,3.1,30.33,15.66
+gd-JL040,Sesame Spinach,,粤菜 · Sesame Spinach,150.03,8.35,6.75,13.87
+gd-JL041,Garlic Water Spinach,,粤菜 · Garlic Water Spinach,185.37,4.53,13.88,10.87
+gd-JL042,Pine-fried Tomatoes,,粤菜 · Pine-fried Tomatoes,252.99,5.53,10.48,33.91
+gd-JL043,Braised Winter Melon with Ham,,粤菜 · Braised Winter Melon with Ham,233.01,12.18,15.82,10.96
+gd-JL044,Crispy Pickled Radish,,粤菜 · Crispy Pickled Radish,233.34,2.22,3.43,47.74
+gd-LC001,Rose Hand-shredded Chicken,,粤菜 · Rose Hand-shredded Chicken,480.01,26.69,12.82,42.2
+gd-LC002,Cold Mixed Purslane,,粤菜 · Cold Mixed Purslane,122.07,0.46,13.33,0.58
+gd-LC003,Mustard Greens with Vermicelli,,粤菜 · Mustard Greens with Vermicelli,226.21,3.67,13.96,21.59
+gd-LC004,Chilled Fish Cubes,,粤菜 · Chilled Fish Cubes,325.86,14.11,26.39,8.64
+gd-LC005,Three Skin Shreds,,粤菜 · Three Skin Shreds,581.2,20.38,53.75,5.27
+gd-LC006,Cold Mixed Bitter Melon,,粤菜 · Cold Mixed Bitter Melon,101.65,1.77,5.14,12.16
+gd-LC007,Dried Shrimp with Lettuce,,粤菜 · Dried Shrimp with Lettuce,161.11,3.57,14.25,5.09
+gd-LC008,Cold Mixed Pork Belly with Magnolia,,粤菜 · Cold Mixed Pork Belly with Magnolia,325.21,16.33,23.94,11.78
+gd-LC009,Vegetable Shred Salad,,粤菜 · Vegetable Shred Salad,282.59,3.0,16.74,31.55
+gd-LC010,Colorful Mixed Chicken Cubes,,粤菜 · Colorful Mixed Chicken Cubes,669.49,26.54,29.41,74.22
+gd-LC011,Green Spinach with Red Pigeon,,粤菜 · Green Spinach with Red Pigeon,602.39,24.72,43.5,28.96
+gd-LC012,Mixed Chicken Comb and Pork Belly,,粤菜 · Mixed Chicken Comb and Pork Belly,166.07,18.49,9.45,1.85
+gd-LC013,Colorful Cold Duck Shreds,,粤菜 · Colorful Cold Duck Shreds,576.33,16.34,47.89,20.95
+gd-LC014,Pork Belly with Chrysanthemum,,粤菜 · Pork Belly with Chrysanthemum,171.79,18.49,9.54,2.84
+gd-LC015,Chili Oil Cowpea Cubes,,粤菜 · Chili Oil Cowpea Cubes,196.47,5.93,11.27,17.69
+gd-LC016,Braised Pork Intestine,,粤菜 · Braised Pork Intestine,561.44,21.5,31.19,15.0
+gd-LC017,Honeydew Seafood Boat,,粤菜 · Honeydew Seafood Boat,386.69,7.16,31.22,20.0
+gd-LC018,Chaoshan Braised Goose,,粤菜 · Chaoshan Braised Goose,648.09,36.64,50.56,12.84
+gd-LC019,Celery with Chicken Gizzards,,粤菜 · Celery with Chicken Gizzards,142.63,11.25,6.84,8.15
+gd-LC020,Mustard Greens with Dried Tofu,,粤菜 · Mustard Greens with Dried Tofu,209.33,6.42,14.55,13.4
+gd-LC021,Imitation Crab Salad,,粤菜 · Imitation Crab Salad,582.56,14.79,41.55,36.38
+gd-LC022,Chilled Crab Claws,,粤菜 · Chilled Crab Claws,120.33,16.62,4.27,3.78
+gd-LC023,Three-color Pepper Oil Radish Shreds,,粤菜 · Three-color Pepper Oil Radish Shreds,137.44,1.62,7.82,15.04
+gd-LC024,Mango Salad with Lobster,,粤菜 · Mango Salad with Lobster,440.76,16.13,40.32,4.59
+gd-LC025,Smoked Pomfret,,粤菜 · Smoked Pomfret,404.53,23.01,23.02,26.34
+gd-LC026,Lettuce and Egg Salad,,粤菜 · Lettuce and Egg Salad,325.19,9.01,25.53,14.72
+gd-LC027,Cold Mixed Imitation Jellyfish,,粤菜 · Cold Mixed Imitation Jellyfish,535.51,15.15,11.84,90.88
+gd-LC028,Three Shreds with Drunken Chicken Leg,,粤菜 · Three Shreds with Drunken Chicken Leg,230.05,14.08,14.55,10.56
+gd-LC029,Beef Tripe with Ginger and Scallion,,粤菜 · Beef Tripe with Ginger and Scallion,189.96,20.6,10.87,2.72
+gd-LC030,Mixed Lettuce,,粤菜 · Mixed Lettuce,64.14,2.07,4.01,4.41
+gd-LC031,Sesame Hand-shredded Chicken,,粤菜 · Sesame Hand-shredded Chicken,400.59,16.82,30.91,14.51
+gd-LC032,Braised Goose Wings,,粤菜 · Braised Goose Wings,442.63,33.5,21.2,9.0
+gd-LC033,Drunken Shrimp,,粤菜 · Drunken Shrimp,109.23,9.51,2.97,10.64
+gd-LC034,Chaoshan-style Mixed Jellyfish,,粤菜 · Chaoshan-style Mixed Jellyfish,185.03,4.45,13.19,12.37
+gd-LC035,Thai-style Jellyfish,,粤菜 · Thai-style Jellyfish,51.31,4.06,0.93,6.46
+gd-LC036,Cold Mixed Eggplant,,粤菜 · Cold Mixed Eggplant,180.01,3.16,14.47,9.7
+gd-LC037,Chaozhou-style Chilled Meat,,粤菜 · Chaozhou-style Chilled Meat,539.1,25.91,45.99,6.69
+gd-LC038,Bitter Melon with Jellyfish and Dried Shrimp,,粤菜 · Bitter Melon with Jellyfish and Dried Shrimp,136.99,10.07,8.46,5.23
+gd-LC039,Sesame Oil Conch Slices,,粤菜 · Sesame Oil Conch Slices,122.3,7.75,6.27,8.57
+gd-LC040,Garlic Peanuts,,粤菜 · Garlic Peanuts,622.19,25.19,48.3,22.81
+gd-LC041,Crystal Crab Meat Rolls,,粤菜 · Crystal Crab Meat Rolls,166.7,8.27,7.28,16.8
+gd-LC042,Pineapple and Green Pepper with Cold Duck,,粤菜 · Pineapple and Green Pepper with Cold Duck,537.0,16.28,44.39,19.63
+gd-LC043,Chicken Shreds with Jellyfish,,粤菜 · Chicken Shreds with Jellyfish,329.07,19.17,23.74,9.27
+gd-LC044,Chilled Golden Bell Chicken,,粤菜 · Chilled Golden Bell Chicken,132.67,12.76,7.92,2.71
+gd-LC045,Pepper and Celery Hand-shredded Chicken,,粤菜 · Pepper and Celery Hand-shredded Chicken,324.77,36.32,8.49,10.96
+gd-LC046,Beef Jerky with Coriander and Scallion,,粤菜 · Beef Jerky with Coriander and Scallion,230.87,21.38,13.65,5.52
+gd-LC047,Toona and Nut Dried Tofu Rolls,,粤菜 · Toona and Nut Dried Tofu Rolls,149.12,4.05,10.76,6.24
+gd-LC048,Roasted Pepper with Century Egg and Chicken,,粤菜 · Roasted Pepper with Century Egg and Chicken,515.62,17.55,29.33,17.15
+gd-LC049,Spicy Salmon with Okra,,粤菜 · Spicy Salmon with Okra,140.9,6.44,5.59,9.01
+gd-LC050,Flavorful Opium Fish,,粤菜 · Flavorful Opium Fish,267.71,22.87,7.23,27.29
+gd-QD001,Wrapped Chicken in Wafer Paper,,粤菜 · Wrapped Chicken in Wafer Paper,732.78,25.1,65.98,11.62
+gd-QD002,Braised Chicken with Chestnuts,,粤菜 · Braised Chicken with Chestnuts,508.87,28.22,17.36,59.23
+gd-QD003,Sizzling Chicken,,粤菜 · Sizzling Chicken,265.31,22.5,14.64,10.93
+gd-QD004,Claypot Scallion Oil Chicken,,粤菜 · Claypot Scallion Oil Chicken,570.48,25.27,49.23,8.11
+gd-QD005,Taiye Chicken,,粤菜 · Taiye Chicken,1771.4,81.62,56.94,165.3
+gd-QD006,Poached Chicken,,粤菜 · Poached Chicken,409.33,32.72,27.87,7.37
+gd-QD007,Steamed Chicken with Mushrooms,,粤菜 · Steamed Chicken with Mushrooms,356.19,21.15,13.51,37.1
+gd-QD008,Poached Chicken with Chestnuts,,粤菜 · Poached Chicken with Chestnuts,1896.68,87.56,48.65,268.56
+gd-QD009,Soy Sauce Chicken,,粤菜 · Soy Sauce Chicken,1868.59,98.51,15.51,102.14
+gd-QD010,Chicken and Turtle,,粤菜 · Chicken and Turtle,165.18,23.28,6.53,3.38
+gd-QD011,Braised Chicken with Vegetable Heart,,粤菜 · Braised Chicken with Vegetable Heart,611.41,34.95,49.14,8.93
+gd-QD012,Claypot Wine-flavored Chicken,,粤菜 · Claypot Wine-flavored Chicken,471.71,48.92,28.62,4.87
+gd-QD013,Tender Drunken Chicken with Sichuan Pepper,,粤菜 · Tender Drunken Chicken with Sichuan Pepper,283.32,32.05,15.66,3.6
+gd-QD014,Fragrant Whole Chicken,,粤菜 · Fragrant Whole Chicken,298.14,32.94,16.36,4.95
+gd-QD015,Hundred Flowers Chicken,,粤菜 · Hundred Flowers Chicken,574.78,60.11,33.88,7.64
+gd-QD016,Green Chicken in Superior Soup,,粤菜 · Green Chicken in Superior Soup,438.19,28.16,29.96,14.57
+gd-QD017,Stir-fried Chicken with Scallion and Pepper,,粤菜 · Stir-fried Chicken with Scallion and Pepper,453.48,32.88,30.73,11.85
+gd-QD018,Local Fried Sauce Chicken,,粤菜 · Local Fried Sauce Chicken,372.02,30.68,24.05,8.42
+gd-QD019,Chicken Puree with Bamboo Shoots,,粤菜 · Chicken Puree with Bamboo Shoots,243.6,12.12,18.42,7.75
+gd-QD020,Grilled Chicken,,粤菜 · Grilled Chicken,791.13,42.9,51.77,38.23
+gd-QD021,Scallion Oil Fragrant Chicken,,粤菜 · Scallion Oil Fragrant Chicken,504.13,34.21,28.78,25.36
+gd-QD022,Homestyle Roast Chicken,,粤菜 · Homestyle Roast Chicken,348.02,32.43,20.66,8.34
+gd-QD023,Guangzhou Wenchang Chicken,,粤菜 · Guangzhou Wenchang Chicken,1668.83,41.44,165.96,7.71
+gd-QD024,Crispy Chicken Sticks,,粤菜 · Crispy Chicken Sticks,333.03,13.21,21.46,22.05
+gd-QD025,Ginger and Scallion Hand-shredded Chicken,,粤菜 · Ginger and Scallion Hand-shredded Chicken,233.86,24.31,14.19,2.36
+gd-QD026,Jellyfish with Chicken Strips,,粤菜 · Jellyfish with Chicken Strips,126.91,8.39,7.63,6.22
+gd-QD027,Oyster Sauce Hand-shredded Chicken,,粤菜 · Oyster Sauce Hand-shredded Chicken,316.93,20.77,19.63,14.53
+gd-QD028,Soy Sauce Lotus Leaf Chicken,,粤菜 · Soy Sauce Lotus Leaf Chicken,198.61,9.31,13.96,9.18
+gd-QD029,Garden Fragrant Chicken,,粤菜 · Garden Fragrant Chicken,395.4,21.58,31.6,6.97
+gd-QD030,White-cut Chicken,,粤菜 · White-cut Chicken,314.18,32.09,19.19,3.48
+gd-QD031,Chicken with Mushrooms,,粤菜 · Chicken with Mushrooms,261.52,24.32,16.77,3.82
+gd-QD032,Coconut Oil Curry Chicken,,粤菜 · Coconut Oil Curry Chicken,1691.89,40.33,146.19,58.67
+gd-QD033,Steamed Tender Chicken,,粤菜 · Steamed Tender Chicken,178.01,11.4,11.91,6.49
+gd-QD034,Steamed Chicken with Fresh Mushrooms,,粤菜 · Steamed Chicken with Fresh Mushrooms,351.87,31.28,21.24,9.11
+gd-QD035,Glass Crispy Chicken,,粤菜 · Glass Crispy Chicken,430.75,30.59,27.37,15.87
+gd-QD036,Eight Treasures Whole Chicken,,粤菜 · Eight Treasures Whole Chicken,591.57,53.59,17.69,51.2
+gd-QD037,American Ginseng Steamed Chicken,,粤菜 · American Ginseng Steamed Chicken,124.56,7.27,7.51,7.09
+gd-QD038,Chaozhou Tofu Chicken,,粤菜 · Chaozhou Tofu Chicken,372.59,31.66,24.29,7.17
+gd-QD039,Yellow Wine Braised Fat Chicken,,粤菜 · Yellow Wine Braised Fat Chicken,399.11,35.94,23.08,12.06
+gd-QD040,Jinhua Jade Tree Chicken,,粤菜 · Jinhua Jade Tree Chicken,577.81,38.49,26.31,45.7
+gd-QD041,Clay Pot Chicken,,粤菜 · Clay Pot Chicken,402.67,27.46,24.42,18.51
+gd-QD042,Celery with Chicken Gizzards,,粤菜 · Celery with Chicken Gizzards,184.74,7.44,10.98,14.12
+gd-QD043,Dongjiang Salted Chicken,,粤菜 · Dongjiang Salted Chicken,490.52,32.03,39.4,3.06
+gd-QD044,Braised Chicken with Pickled Cabbage,,粤菜 · Braised Chicken with Pickled Cabbage,413.45,36.79,19.52,22.28
+gd-QD045,White Cut He Tian Chicken,,粤菜 · White Cut He Tian Chicken,291.65,31.91,17.21,2.42
+gd-QD046,Roasted Baby Chicken,,粤菜 · Roasted Baby Chicken,310.72,32.6,18.9,2.65
+gd-QD047,Peacock Display Chicken,,粤菜 · Peacock Display Chicken,594.9,22.98,54.05,5.67
+gd-QD048,Mixed Stewed Chicken,,粤菜 · Mixed Stewed Chicken,298.19,25.09,20.5,3.53
+gd-QD049,Chicken Cubes with Goji Berries,,粤菜 · Chicken Cubes with Goji Berries,201.81,11.6,10.95,14.25
+gd-QD050,Chicken Cubes with Green Peas,,粤菜 · Chicken Cubes with Green Peas,432.82,17.46,32.32,17.03
+gd-SC001,Steamed Mandarin Fish,,粤菜 · Steamed Mandarin Fish,283.05,19.1,17.98,11.43
+gd-SC002,Bean Paste Crucian Carp,,粤菜 · Bean Paste Crucian Carp,429.41,16.36,33.49,16.69
+gd-SC003,Pan-Fried Bass,,粤菜 · Pan-Fried Bass,799.58,27.28,74.05,8.35
+gd-SC004,Plum Steamed Bass,,粤菜 · Plum Steamed Bass,335.84,32.27,14.77,18.24
+gd-SC005,Green Mandarin Fish Rolls,,粤菜 · Green Mandarin Fish Rolls,225.05,17.41,15.49,4.25
+gd-SC006,Fresh Fried Carp,,粤菜 · Fresh Fried Carp,683.73,23.69,64.02,5.27
+gd-SC007,Goji Berry Braised Crucian Carp,,粤菜 · Goji Berry Braised Crucian Carp,171.14,18.18,7.82,6.94
+gd-SC008,Steamed Bass with Fresh Ingredients,,粤菜 · Steamed Bass with Fresh Ingredients,219.07,23.79,9.98,8.43
+gd-SC009,Sticky Rice Wrapped Bass,,粤菜 · Sticky Rice Wrapped Bass,199.27,11.81,6.14,24.17
+gd-SC010,Tomato Braised Carp,,粤菜 · Tomato Braised Carp,214.42,24.45,8.98,8.81
+gd-SC011,Braised Carp with Garlic,,粤菜 · Braised Carp with Garlic,196.67,24.91,9.45,2.94
+gd-SC012,Braised Carp,,粤菜 · Braised Carp,400.02,16.35,32.76,10.81
+gd-SC013,Garlic Steamed Mandarin Fish,,粤菜 · Garlic Steamed Mandarin Fish,186.44,20.82,10.95,1.23
+gd-SC014,Triple Flavored Bass with Ham,,粤菜 · Triple Flavored Bass with Ham,377.4,19.34,28.33,12.02
+gd-SC015,Steamed Jia Fish,,粤菜 · Steamed Jia Fish,395.25,17.54,34.3,5.15
+gd-SC016,Crucian Carp with Ham,,粤菜 · Crucian Carp with Ham,133.58,16.54,3.48,8.78
+gd-SC017,Beer Fish,,粤菜 · Beer Fish,221.78,16.31,15.16,5.23
+gd-SC018,Hot-Pot Fish,,粤菜 · Hot-Pot Fish,142.65,17.12,5.45,6.08
+gd-SC019,West Lake Whole Fish,,粤菜 · West Lake Whole Fish,791.63,33.09,47.94,57.6
+gd-SC020,Grilled Sea Fish with Soy Sauce Flavor,,粤菜 · Grilled Sea Fish with Soy Sauce Flavor,259.9,35.03,9.23,8.9
+gd-SC021,Oil Poached Fresh Fish,,粤菜 · Oil Poached Fresh Fish,198.77,19.58,12.75,1.57
+gd-SC022,Double Flavor Dragon Fish,,粤菜 · Double Flavor Dragon Fish,675.7,14.27,46.47,51.16
+gd-SC023,Five-Cooked Grass Carp,,粤菜 · Five-Cooked Grass Carp,304.25,17.24,19.81,14.56
+gd-SC024,Soy Sauce Fortune Fish,,粤菜 · Soy Sauce Fortune Fish,552.4,29.37,12.21,17.29
+gd-SC025,Fresh Fruit and Pine Nut Fish,,粤菜 · Fresh Fruit and Pine Nut Fish,602.23,16.49,25.74,75.86
+gd-SC026,Braised Ink Fish,,粤菜 · Braised Ink Fish,381.72,25.61,2.02,21.68
+gd-SC027,Steamed Catfish,,粤菜 · Steamed Catfish,310.64,17.79,25.29,3.63
+gd-SC028,Five-Leaf Chrysanthemum Fish,,粤菜 · Five-Leaf Chrysanthemum Fish,570.36,19.03,40.15,33.94
+gd-SC029,Bamboo Tube Grilled Fish with Bamboo Shoots,,粤菜 · Bamboo Tube Grilled Fish with Bamboo Shoots,160.8,17.9,7.86,4.57
+gd-SC030,Steamed Jiali Fish,,粤菜 · Steamed Jiali Fish,222.22,32.6,8.77,1.16
+gd-SC031,Steamed Sole Fish,,粤菜 · Steamed Sole Fish,733.68,50.78,28.51,20.82
+gd-SC032,Hot Pine Nut Fish,,粤菜 · Hot Pine Nut Fish,712.44,26.55,46.35,47.92
+gd-SC033,Kirin Fish,,粤菜 · Kirin Fish,600.97,37.89,34.57,34.73
+gd-SC034,Garlic-Scented Catfish,,粤菜 · Garlic-Scented Catfish,462.94,36.64,30.47,11.0
+gd-SC035,Spicy Chicken Eyes Fish,,粤菜 · Spicy Chicken Eyes Fish,417.87,31.43,8.96,52.3
+gd-SC036,White Sauce Crabapple Fish,,粤菜 · White Sauce Crabapple Fish,468.26,19.03,42.07,4.67
+gd-SC037,Red-Braised Sea Dogfish,,粤菜 · Red-Braised Sea Dogfish,366.79,32.7,10.79,34.1
+gd-SC038,Fresh Lotus Steamed Water Fish,,粤菜 · Fresh Lotus Steamed Water Fish,285.43,20.77,20.54,4.65
+gd-SC039,Red Braised Water Fish,,粤菜 · Red Braised Water Fish,508.44,41.91,26.67,25.54
+gd-SC040,Schooling Fish Chasing the Moon,,粤菜 · Schooling Fish Chasing the Moon,359.78,18.98,24.27,16.74
+gd-SC041,Blanched Fish Fillets,,粤菜 · Blanched Fish Fillets,147.54,19.49,4.91,6.14
+gd-SC042,Fish Fillet Steamed Eggs,,粤菜 · Fish Fillet Steamed Eggs,178.84,16.37,10.51,4.79
+gd-SC043,Garlic Heart Fish Fillets,,粤菜 · Garlic Heart Fish Fillets,202.34,10.58,14.42,7.88
+gd-TG001,Mixed Winter Melon Soup,,粤菜 · Mixed Winter Melon Soup,95.93,8.16,5.59,3.31
+gd-TG002,"Almond, Walnut, and Lean Pork Soup",,"粤菜 · Almond, Walnut, and Lean Pork Soup",245.89,23.7,12.79,8.51
+gd-TG003,Osmanthus and White Fungus Soup,,粤菜 · Osmanthus and White Fungus Soup,38.68,2.28,1.06,5.22
+gd-TG004,Black Fungus and Tofu Soup,,粤菜 · Black Fungus and Tofu Soup,105.98,6.94,4.11,10.6
+gd-TG005,Pigeon Egg and Osmanthus Soup,,粤菜 · Pigeon Egg and Osmanthus Soup,105.33,8.13,4.8,8.03
+gd-TG006,White Fungus and Pigeon Egg Soup,,粤菜 · White Fungus and Pigeon Egg Soup,232.1,10.77,14.91,15.38
+gd-TG007,Clear Stewed Asparagus Fern Soup,,粤菜 · Clear Stewed Asparagus Fern Soup,232.99,6.9,12.77,22.63
+gd-TG008,Straw Mushroom and Black Fungus,,粤菜 · Straw Mushroom and Black Fungus,60.89,4.05,1.47,8.14
+gd-TG009,Seven-Star Fish Ball Soup,,粤菜 · Seven-Star Fish Ball Soup,906.51,39.85,17.23,143.36
+gd-TG010,Goji and Fish Slice Soup,,粤菜 · Goji and Fish Slice Soup,236.84,28.3,6.3,16.76
+gd-TG011,Bagua Soup,,粤菜 · Bagua Soup,233.47,23.49,14.37,2.96
+gd-TG012,Taiji Vegetarian Soup,,粤菜 · Taiji Vegetarian Soup,328.66,9.23,7.51,55.61
+gd-TG013,Jade Fish Ball Soup,,粤菜 · Jade Fish Ball Soup,324.57,31.39,17.08,11.37
+gd-TG014,Fenxiang Fish Head Soup,,粤菜 · Fenxiang Fish Head Soup,602.19,31.78,47.77,13.12
+gd-TG015,Monkey Head Mushroom Chicken Soup,,粤菜 · Monkey Head Mushroom Chicken Soup,315.13,32.96,19.0,4.82
+gd-TG016,Dried Straw Mushroom Fish Head Soup,,粤菜 · Dried Straw Mushroom Fish Head Soup,150.89,14.36,6.85,8.03
+gd-TG017,Turtle and Lamb Soup,,粤菜 · Turtle and Lamb Soup,350.09,25.17,25.58,5.42
+gd-TG018,Longan Meat Stewed Chicken Soup,,粤菜 · Longan Meat Stewed Chicken Soup,185.6,26.53,7.94,1.83
+gd-TG019,"Ginseng, Astragalus, and Loach Soup",,"粤菜 · Ginseng, Astragalus, and Loach Soup",140.52,17.03,6.34,2.43
+gd-TG020,Three Fresh Ingredients Snake Soup,,粤菜 · Three Fresh Ingredients Snake Soup,205.35,19.33,12.63,3.81
+gd-TG021,Chicken and Soft-Shelled Turtle Soup,,粤菜 · Chicken and Soft-Shelled Turtle Soup,416.18,46.28,23.55,5.07
+gd-TG022,"Fish Mint, Almond, and Egg Custard Soup",,"粤菜 · Fish Mint, Almond, and Egg Custard Soup",248.96,11.65,7.71,33.75
+gd-TG023,Dried Scallop and Shredded Chicken Soup,,粤菜 · Dried Scallop and Shredded Chicken Soup,340.23,27.22,15.06,23.42
+gd-TG024,Green and Red Radish Stewed Beef,,粤菜 · Green and Red Radish Stewed Beef,214.6,12.19,17.25,2.7
+gd-TG025,Hami Melon and Sea Snail Fish Cloud Soup,,粤菜 · Hami Melon and Sea Snail Fish Cloud Soup,230.66,33.45,4.04,14.25
+gd-TG026,Large Fish Head,,粤菜 · Large Fish Head,523.86,44.64,28.71,19.26
+gd-TG027,Purple Bamboo Lotus Pond,,粤菜 · Purple Bamboo Lotus Pond,63.81,3.8,0.75,10.39
+gd-TG028,Beef and Tofu Soup,,粤菜 · Beef and Tofu Soup,60.36,4.55,1.39,7.22
+gd-TG029,West Lake Beef Soup,,粤菜 · West Lake Beef Soup,111.36,9.1,6.04,5.17
+gd-TG030,Fresh Lotus Duck Soup,,粤菜 · Fresh Lotus Duck Soup,597.36,24.36,40.78,33.51
+gd-TG031,Egg and Beef Soup,,粤菜 · Egg and Beef Soup,241.14,15.49,15.78,9.51
+gd-TG032,Angelica and Lamb Soup,,粤菜 · Angelica and Lamb Soup,385.09,14.41,28.12,18.89
+gd-TG033,"Dried Tangerine Peel, Crucian Carp, and Apricot Soup",,"粤菜 · Dried Tangerine Peel, Crucian Carp, and Apricot Soup",212.81,28.52,5.82,12.26
+gd-TG034,Original Stewed Mountain Herb,,粤菜 · Original Stewed Mountain Herb,341.24,32.73,20.01,8.19
+gd-TG035,Clay Pot Wonton Chicken,,粤菜 · Clay Pot Wonton Chicken,315.88,30.81,15.48,13.61
+gd-TG036,Snake Soup,,粤菜 · Snake Soup,130.43,8.3,6.4,10.2
+gd-TG037,Clear Stewed Soft-Shelled Turtle,,粤菜 · Clear Stewed Soft-Shelled Turtle,192.01,20.98,9.36,6.09
+gd-TG038,Yam and Milk Stewed Pork,,粤菜 · Yam and Milk Stewed Pork,228.09,27.71,9.82,7.06
+gd-TG039,Deer Antler and Lean Meat Stew,,粤菜 · Deer Antler and Lean Meat Stew,253.47,37.81,9.37,3.63
+gd-TG040,Codonopsis and Pigeon Soup,,粤菜 · Codonopsis and Pigeon Soup,348.41,11.34,25.54,18.82
+gd-TG041,Shiitake Mushroom Stewed Chicken,,粤菜 · Shiitake Mushroom Stewed Chicken,619.08,44.71,45.35,9.19
+gd-TG042,Lotus Root and Beef Brisket Soup,,粤菜 · Lotus Root and Beef Brisket Soup,616.37,30.15,49.05,13.29
+gd-TG043,Watermelon Stewed Chicken Breast,,粤菜 · Watermelon Stewed Chicken Breast,205.36,25.34,6.39,11.33
+gd-TG044,Mixed Sea Cucumber Soup,,粤菜 · Mixed Sea Cucumber Soup,535.42,75.92,17.46,18.3
+gd-TG045,Shrimp and Egg Stew,,粤菜 · Shrimp and Egg Stew,83.54,11.23,3.19,2.41
+gd-TG046,Double Ginseng Stewed Fish Head,,粤菜 · Double Ginseng Stewed Fish Head,157.57,12.22,8.45,6.39
+gd-TG047,Raw Fish and Pork Clay Pot,,粤菜 · Raw Fish and Pork Clay Pot,243.09,21.4,15.8,4.04
+gd-TG048,Cordyceps Stewed Clam and Duck,,粤菜 · Cordyceps Stewed Clam and Duck,725.68,49.31,57.29,5.39
+gd-TG049,Silver Threaded Flower Snail Clay Pot,,粤菜 · Silver Threaded Flower Snail Clay Pot,316.31,13.05,11.12,40.56
+gd-TG050,Kelp and Soybean Fish Clay Pot,,粤菜 · Kelp and Soybean Fish Clay Pot,89.16,8.67,3.81,4.62
+gd-TG051,Peanut and Mung Bean Chicken Clay Pot,,粤菜 · Peanut and Mung Bean Chicken Clay Pot,260.93,18.71,12.72,17.83
+gd-TG052,Phoenix Fish Roe Soup,,粤菜 · Phoenix Fish Roe Soup,248.46,22.16,13.45,9.71
+gd-TG053,Ba Wang Flower and Old Chicken Clay Pot,,粤菜 · Ba Wang Flower and Old Chicken Clay Pot,143.2,13.38,7.72,5.39
+gd-TP001,Crispy Lychee,,粤菜 · Crispy Lychee,437.67,5.03,27.72,43.29
+gd-TP002,Fried Banana Fritters,,粤菜 · Fried Banana Fritters,320.72,14.27,14.89,41.77
+gd-TP003,Lotus Seed Soup,,粤菜 · Lotus Seed Soup,773.28,13.03,1.5,174.03
+gd-TP004,Sweet and Clear Lotus Seeds,,粤菜 · Sweet and Clear Lotus Seeds,321.92,4.36,0.5,73.78
+gd-TP005,Avocado Fruit,,粤菜 · Avocado Fruit,458.28,9.59,13.19,93.74
+gd-TP006,Crystal Bayberry Cups,,粤菜 · Crystal Bayberry Cups,59.15,0.31,0.07,14.09
+gd-TP007,Mint and Peach Dessert,,粤菜 · Mint and Peach Dessert,285.57,1.14,0.14,68.45
+gd-TP008,Honey Soaked Loquat,,粤菜 · Honey Soaked Loquat,410.52,4.21,12.03,70.68
+gd-TP009,Ice Soaked Sweet Apricots,,粤菜 · Ice Soaked Sweet Apricots,278.51,1.79,0.4,66.33
+gd-TP010,Original Fried Tangerine,,粤菜 · Original Fried Tangerine,1868.12,4.74,189.1,45.47
+gd-TP011,Roasted Lamb with Ginkgo,,粤菜 · Roasted Lamb with Ginkgo,523.92,7.61,8.89,102.1
+gd-TP012,Hawthorn and Pearl Soup,,粤菜 · Hawthorn and Pearl Soup,268.21,0.83,0.29,64.43
+gd-TP013,New Style Crispy Fried Stuffed Apple,,粤菜 · New Style Crispy Fried Stuffed Apple,163.8,5.27,8.07,17.02
+gd-TP014,Fragrant Sweet Lotus Paste,,粤菜 · Fragrant Sweet Lotus Paste,565.02,6.52,10.73,109.2
+gd-TP015,Stuffed Date Cake/Fried Sour Date Rolls,,粤菜 · Stuffed Date Cake/Fried Sour Date Rolls,506.25,20.8,34.58,14.63
+gd-TP016,Watermelon Jelly,,粤菜 · Watermelon Jelly,207.62,3.98,1.68,43.31
+gd-TP017,Sweet Potato in Syrup,,粤菜 · Sweet Potato in Syrup,266.52,1.28,5.23,52.93
+gd-TP018,Taiji Taro Paste,,粤菜 · Taiji Taro Paste,157.79,3.32,3.7,21.65
+gd-TP019,Motherwort and Egg Soup,,粤菜 · Motherwort and Egg Soup,97.84,6.8,4.56,6.88
+gd-TP020,Steamed Pumpkin with Lily,,粤菜 · Steamed Pumpkin with Lily,77.54,1.55,0.15,17.18
+gd-TP021,Jade Liquid Four Treasures,,粤菜 · Jade Liquid Four Treasures,742.95,9.24,4.41,162.84
+gd-TP022,Rock Sugar Stewed White Fungus,,粤菜 · Rock Sugar Stewed White Fungus,341.57,1.83,0.85,80.4
+gd-TP023,Seasonal Fruit and Watermelon Soup,,粤菜 · Seasonal Fruit and Watermelon Soup,474.93,4.71,0.7,111.16
+gd-TP024,Milk-Flavored Watermelon Balls,,粤菜 · Milk-Flavored Watermelon Balls,174.45,3.47,10.62,16.35
+gd-TP025,Longan in Syrup,,粤菜 · Longan in Syrup,387.89,0.79,0.95,93.27
+gd-TP026,Stuffed Bananas,,粤菜 · Stuffed Bananas,2181.48,8.27,198.68,96.47
+gd-TP027,Dragon Emperor Apricot Juice Mock Bird's Nest,,粤菜 · Dragon Emperor Apricot Juice Mock Bird's Nest,150.15,0.76,0.33,35.51
+gd-TP028,Celery Juice and Rock Sugar Soup,,粤菜 · Celery Juice and Rock Sugar Soup,38.6,1.06,0.13,8.13
+gd-TP029,Ginger Potato and Carp,,粤菜 · Ginger Potato and Carp,629.77,7.12,3.79,139.58
+gd-TP030,Radish and Rock Sugar Soup,,粤菜 · Radish and Rock Sugar Soup,225.33,0.86,0.1,54.4
+gd-TP031,Double Flower Jue Ming Soup,,粤菜 · Double Flower Jue Ming Soup,89.93,2.09,1.93,16.24
+gd-TP032,Bitter Melon and Coconut Milk Drink,,粤菜 · Bitter Melon and Coconut Milk Drink,465.45,2.66,1.71,108.12
+gd-TP033,Honey-Glazed Sweet Potato,,粤菜 · Honey-Glazed Sweet Potato,155.82,1.02,4.25,28.08
+gd-TP034,Pine Cake,,粤菜 · Pine Cake,553.17,7.79,0.8,126.6
+gd-TP035,Green Bean Paste,,粤菜 · Green Bean Paste,806.95,15.3,0.59,182.05
+gd-TP036,Sweet Water Chestnut Paste,,粤菜 · Sweet Water Chestnut Paste,292.39,1.04,0.36,70.19
+gd-TP037,Rock Sugar Snow Fungus and Coconut Soup,,粤菜 · Rock Sugar Snow Fungus and Coconut Soup,1078.7,13.2,39.93,165.35
+gd-TP038,Chilled Cake,,粤菜 · Chilled Cake,588.26,6.63,2.63,132.54
+gd-TP039,Sesame Paste,,粤菜 · Sesame Paste,1163.04,12.32,26.38,213.16
+gd-XR001,Stir-fried Pork Belly with Rice Wine,,粤菜 · Stir-fried Pork Belly with Rice Wine,264.07,5.72,25.36,3.89
+gd-XR002,Braised Pork with Preserved Mustard Greens,,粤菜 · Braised Pork with Preserved Mustard Greens,430.12,10.58,40.67,8.07
+gd-XR003,Lychee Pork,,粤菜 · Lychee Pork,229.87,16.84,11.07,15.69
+gd-XR004,Deep-fried Fruit Meat,,粤菜 · Deep-fried Fruit Meat,830.82,15.29,83.49,7.48
+gd-XR005,Sweet and Sour Wrapped Meat,,粤菜 · Sweet and Sour Wrapped Meat,409.34,13.9,34.08,12.7
+gd-XR006,Hakka Braised Red Pork,,粤菜 · Hakka Braised Red Pork,309.14,7.79,30.11,3.07
+gd-XR007,Sweet and Sour Pork,,粤菜 · Sweet and Sour Pork,555.11,19.23,32.13,47.42
+gd-XR008,Bamboo Aroma Taro and Braised Pork,,粤菜 · Bamboo Aroma Taro and Braised Pork,423.05,8.18,37.84,13.71
+gd-XR009,Powdered Sugar Crispy Pork,,粤菜 · Powdered Sugar Crispy Pork,970.95,8.83,97.12,18.77
+gd-XR010,Steamed Pork with Green Peas and Flour,,粤菜 · Steamed Pork with Green Peas and Flour,442.03,11.33,37.16,16.46
+gd-XR011,Potato Braised Pork,,粤菜 · Potato Braised Pork,337.02,9.23,25.54,18.14
+gd-XR012,Bamboo Shoot Braised Cured Meat,,粤菜 · Bamboo Shoot Braised Cured Meat,546.11,22.58,42.23,19.7
+gd-XR013,Pork Braised with Cabbage,,粤菜 · Pork Braised with Cabbage,346.76,10.49,24.24,21.69
+gd-XR014,Sweet and Sour Pork (Crispy),,粤菜 · Sweet and Sour Pork (Crispy),577.79,12.19,43.65,34.97
+gd-XR015,Li Pu Braised Pork,,粤菜 · Li Pu Braised Pork,356.76,5.98,31.62,13.06
+gd-XR016,Spring Flower,,粤菜 · Spring Flower,246.09,17.7,15.43,9.09
+gd-XR017,Peanut and Pork Cubes,,粤菜 · Peanut and Pork Cubes,575.96,27.66,44.04,18.24
+gd-XR018,Roast Suckling Pig,,粤菜 · Roast Suckling Pig,2579.99,84.53,237.63,33.33
+gd-XR019,Longevity Pork Cubes,,粤菜 · Longevity Pork Cubes,529.7,26.92,35.3,26.41
+gd-XR020,Sweet and Sour Ribs,,粤菜 · Sweet and Sour Ribs,517.74,28.47,42.14,7.29
+gd-XR021,Pineapple Sweet and Sour Pork,,粤菜 · Pineapple Sweet and Sour Pork,226.26,13.05,10.79,19.08
+gd-XR022,Snow Vegetables and Bamboo Shoots with Shredded Pork,,粤菜 · Snow Vegetables and Bamboo Shoots with Shredded Pork,250.79,13.96,11.67,22.35
+gd-XR023,Crispy Fried Meatballs,,粤菜 · Crispy Fried Meatballs,724.35,14.71,56.59,40.4
+gd-XR024,Roasted Pig Trotters,,粤菜 · Roasted Pig Trotters,1644.42,23.7,171.45,7.87
+gd-XR025,Tender Meatballs in Steamer,,粤菜 · Tender Meatballs in Steamer,256.97,9.86,20.95,7.62
+gd-XR026,Colorful Stir-fried Shredded Pork,,粤菜 · Colorful Stir-fried Shredded Pork,202.61,12.28,11.02,13.64
+gd-XR027,Red-Braised Lion’s Head Meatballs,,粤菜 · Red-Braised Lion’s Head Meatballs,603.33,18.18,54.15,12.28
+gd-XR028,Prosperous Pig’s Trotters,,粤菜 · Prosperous Pig’s Trotters,476.34,27.12,22.94,40.19
+gd-XR029,Fruit Juice Fried Pork Chop,,粤菜 · Fruit Juice Fried Pork Chop,624.44,23.7,43.15,35.74
+gd-XR030,Pearl Meatballs,,粤菜 · Pearl Meatballs,380.59,12.16,23.82,29.65
+gd-XR031,Peanut and Pig’s Trotters,,粤菜 · Peanut and Pig’s Trotters,202.58,14.36,14.69,3.52
+gd-XR032,Sesame Sauce Kidney,,粤菜 · Sesame Sauce Kidney,183.0,13.33,11.61,6.48
+gd-XR033,Olive Vegetable Steamed Ribs,,粤菜 · Olive Vegetable Steamed Ribs,286.77,23.52,16.64,10.67
+gd-XR034,Stir-fried Crispy Stomach,,粤菜 · Stir-fried Crispy Stomach,235.05,24.99,13.22,4.08
+gd-XR035,Pan-fried Pork Chop,,粤菜 · Pan-fried Pork Chop,183.33,15.05,10.59,7.02
+gd-XR036,Paper-wrapped Ribs,,粤菜 · Paper-wrapped Ribs,421.28,23.41,34.59,4.9
+gd-XR037,Phoenix Stewed Stomach,,粤菜 · Phoenix Stewed Stomach,240.47,9.46,20.13,5.9
+gd-XR038,Steamed Ribs in Black Bean Sauce,,粤菜 · Steamed Ribs in Black Bean Sauce,169.06,14.1,9.69,6.45
+gd-XR039,Deep-fried Rabbit Balls,,粤菜 · Deep-fried Rabbit Balls,245.47,21.03,14.37,8.01
+gd-XR040,Iron Grilled Beef,,粤菜 · Iron Grilled Beef,266.05,27.64,11.97,11.86
+gd-XR041,Spicy Stir-fried Beef,,粤菜 · Spicy Stir-fried Beef,232.04,20.4,9.36,16.33
+gd-XR042,Plum Steamed Ribs,,粤菜 · Plum Steamed Ribs,257.44,28.05,13.74,5.77
+gd-XR043,Stir-fried Rabbit Slices,,粤菜 · Stir-fried Rabbit Slices,232.52,15.81,13.65,11.72
+gd-XR044,Stir-fried Choy Sum with Pig’s Liver,,粤菜 · Stir-fried Choy Sum with Pig’s Liver,181.49,13.14,11.52,6.4
+gd-XR045,Stir-fried Pork with Salted Vegetables,,粤菜 · Stir-fried Pork with Salted Vegetables,187.75,15.09,11.82,5.39
+gd-XR046,Poached Beef Tripe,,粤菜 · Poached Beef Tripe,130.63,13.74,6.55,4.32
+gd-XR047,Green Willow Rabbit Shreds,,粤菜 · Green Willow Rabbit Shreds,225.64,21.66,8.7,14.78
+gd-XR048,Deep-fried Kidney,,粤菜 · Deep-fried Kidney,239.75,15.19,18.55,3.36
+gd-XR049,Spicy Beef with Peas,,粤菜 · Spicy Beef with Peas,230.59,22.13,10.32,12.5
+gd-XR050,Braised Lamb Brisket,,粤菜 · Braised Lamb Brisket,448.3,20.88,32.96,17.71
+gd-YP001,Red-Braised Abalone,,粤菜 · Red-Braised Abalone,378.11,28.01,23.23,14.45
+gd-YP002,Shark’s Fin Soup,,粤菜 · Shark’s Fin Soup,125.19,10.38,5.27,8.97
+gd-YP003,Pan-fried Fresh Abalone,,粤菜 · Pan-fried Fresh Abalone,264.02,16.57,12.43,21.4
+gd-YP004,Orchid Pearl Abalone,,粤菜 · Orchid Pearl Abalone,689.06,17.56,52.95,36.86
+gd-YP005,Stir-fried Osmanthus Fish Fins,,粤菜 · Stir-fried Osmanthus Fish Fins,1259.32,102.66,89.78,12.02
+gd-YP006,Onion Braised Sea Cucumber,,粤菜 · Onion Braised Sea Cucumber,360.56,48.06,12.18,13.75
+gd-YP007,Leek and Cream Abalone,,粤菜 · Leek and Cream Abalone,60.5,6.22,0.43,7.74
+gd-YP008,Butterfly Sea Cucumber,,粤菜 · Butterfly Sea Cucumber,946.28,60.99,50.64,61.72
+gd-YP009,Red-braised Abalone Fins,,粤菜 · Red-braised Abalone Fins,310.29,24.78,17.79,12.54
+gd-YP010,Cream Soup Braised Abalone,,粤菜 · Cream Soup Braised Abalone,454.26,21.07,10.74,66.29
+gd-YP011,Stir-fried Abalone Shreds with Delightful Decoration,,粤菜 · Stir-fried Abalone Shreds with Delightful Decoration,149.35,5.01,7.43,15.48
+gd-YP012,Green Tree Abalone Slices,,粤菜 · Green Tree Abalone Slices,191.98,20.11,6.79,11.59
+gd-YP013,Oyster Sauce Net Abalone Slices,,粤菜 · Oyster Sauce Net Abalone Slices,406.84,21.33,29.24,14.13
+gd-YP014,Steamed Abalone in Original Shell,,粤菜 · Steamed Abalone in Original Shell,130.75,14.37,2.74,9.24
+gd-YP015,Pearl Abalone,,粤菜 · Pearl Abalone,784.2,60.65,50.85,21.76
+gd-YP016,Shredded Chicken and Fish Fins,,粤菜 · Shredded Chicken and Fish Fins,598.56,96.89,20.57,5.67
+gd-YP017,Lingnan Buddha Jump Over the Wall,,粤菜 · Lingnan Buddha Jump Over the Wall,2550.72,230.74,156.98,55.86
+gd-YP018,Steamed Live Abalone,,粤菜 · Steamed Live Abalone,356.9,12.61,11.92,14.02
+gd-YP019,Sesame Paste Abalone,,粤菜 · Sesame Paste Abalone,993.46,89.68,58.21,27.76
+gd-YP021,Red-braised Fish Fins,,粤菜 · Red-braised Fish Fins,801.46,122.22,30.84,7.93
+gd-YP022,Two Shrimp and Braised Sea Cucumber,,粤菜 · Two Shrimp and Braised Sea Cucumber,715.53,48.49,54.66,8.61
+gd-YP023,Oyster Sauce Abalone,,粤菜 · Oyster Sauce Abalone,421.94,56.46,12.39,20.27
+gd-YP024,Dry Braised Fish Fins,,粤菜 · Dry Braised Fish Fins,632.91,90.88,26.73,6.64
+gd-YP025,Cordyceps Flower and Abalone Soup,,粤菜 · Cordyceps Flower and Abalone Soup,147.25,18.42,4.46,9.16
+gd-YP026,Abalone in Original Shell with Wenchang Chicken,,粤菜 · Abalone in Original Shell with Wenchang Chicken,389.54,43.98,17.93,12.89
+gd-YP027,Supreme Royal Dish,,粤菜 · Supreme Royal Dish,151.82,25.66,2.32,6.99
+gd-YP028,Braised Abalone with Baby Potatoes,,粤菜 · Braised Abalone with Baby Potatoes,205.15,10.01,4.39,30.75
+gd-YP029,A-One Abalone,,粤菜 · A-One Abalone,1482.16,111.63,107.52,19.09
+gd-YP030,Black Pepper Live Liaoning Sea Cucumber,,粤菜 · Black Pepper Live Liaoning Sea Cucumber,52.98,9.2,0.5,2.71
+gd-YP031,Hetian Cherry Blossom Abalone Rice,,粤菜 · Hetian Cherry Blossom Abalone Rice,417.11,68.52,7.03,18.82
+gd-YP032,Dry Stir-fried Guangdong Sea Cucumber,,粤菜 · Dry Stir-fried Guangdong Sea Cucumber,66.45,4.74,3.89,3.15
+gd-YP033,Dalian Abalone Stuffed Bitter Melon,,粤菜 · Dalian Abalone Stuffed Bitter Melon,496.73,32.56,2.34,86.42
+gd-YP034,Embellished Blood Swallow’s Nest,,粤菜 · Embellished Blood Swallow’s Nest,220.6,17.37,10.17,46.37
+gd-YP035,Red-braised Premium Bird’s Nest,,粤菜 · Red-braised Premium Bird’s Nest,245.88,21.36,29.06,5.69
+gd-YP036,Wheat Fragrant Abalone,,粤菜 · Wheat Fragrant Abalone,706.68,28.98,5.55,134.21
+gd-YP037,Stir-fried Pot Abalone and Chicken,,粤菜 · Stir-fried Pot Abalone and Chicken,692.87,106.71,16.26,28.45
+gd-YP038,Jade Matsutake and Grilled Abalone,,粤菜 · Jade Matsutake and Grilled Abalone,265.5,25.33,4.19,30.86
+gd-YP039,Passionfruit Steamed Abalone,,粤菜 · Passionfruit Steamed Abalone,223.96,15.31,9.73,14.9
+gd-YP040,Eight Delicacies Crossing Jade Bridge,,粤菜 · Eight Delicacies Crossing Jade Bridge,96.3,11.09,1.99,8.96
+gd-YP041,Smooth Mushroom and Oolong Soup,,粤菜 · Smooth Mushroom and Oolong Soup,169.72,25.22,5.03,5.63
+gd-YP042,Abalone Sauce Braised Sea Cucumber,,粤菜 · Abalone Sauce Braised Sea Cucumber,137.41,20.35,0.7,9.67
+gd-YP043,Steamed Sea Cucumber and Egg Custard,,粤菜 · Steamed Sea Cucumber and Egg Custard,439.79,35.83,20.87,12.93
+gd-YP044,Sea Cucumber and Lamb Soup,,粤菜 · Sea Cucumber and Lamb Soup,260.32,27.29,16.44,0.97
+gd-YP045,Asparagus and Mushroom Braised Sea Cucumber,,粤菜 · Asparagus and Mushroom Braised Sea Cucumber,200.03,13.86,6.92,20.34
+gd-YP046,Minced Meat Sea Cucumber,,粤菜 · Minced Meat Sea Cucumber,266.69,26.11,14.2,8.66
+gd-YP047,Stir-fried Fish Fins with Osmanthus,,粤菜 · Stir-fried Fish Fins with Osmanthus,540.76,28.25,46.03,4.64
+gd-YP048,Abalone Sauce Family Fortune,,粤菜 · Abalone Sauce Family Fortune,392.16,32.34,22.04,12.94
+gd-YP049,Fish Fins in Lotus Shape,,粤菜 · Fish Fins in Lotus Shape,778.89,95.59,41.9,4.95
+gd-YP050,Crab Roe and Fish Fins,,粤菜 · Crab Roe and Fish Fins,312.31,31.29,16.39,9.8
+gd-YP051,Three Shreds Braised Fish Fins,,粤菜 · Three Shreds Braised Fish Fins,1581.85,69.7,127.25,42.67
+gd-YP052,Shrimp and Beijing Scallion Sea Cucumber,,粤菜 · Shrimp and Beijing Scallion Sea Cucumber,248.07,26.62,13.55,4.97
+gd-YP053,Blanched Chicken and Braised Sea Cucumber,,粤菜 · Blanched Chicken and Braised Sea Cucumber,265.25,42.11,8.37,5.01
+gd-ZS001,Stir-fried Sticky Rice,,粤菜 · Stir-fried Sticky Rice,1276.26,40.15,33.05,201.87
+gd-ZS002,Stir-fried Pumpkin Fried Rice,,粤菜 · Stir-fried Pumpkin Fried Rice,720.02,18.23,38.59,74.93
+gd-ZS003,Vegetable Pancakes,,粤菜 · Vegetable Pancakes,214.17,4.04,15.33,15.3
+gd-ZS004,Chaozhou Spring Pancakes,,粤菜 · Chaozhou Spring Pancakes,720.2,18.27,50.02,49.47
+gd-ZS005,Pan-fried Tomato Pancakes,,粤菜 · Pan-fried Tomato Pancakes,274.83,7.45,23.82,8.34
+gd-ZS006,Hui-style Fried Oil Pancakes,,粤菜 · Hui-style Fried Oil Pancakes,1003.85,11.82,51.96,123.59
+gd-ZS007,Cotton Cake,,粤菜 · Cotton Cake,574.01,7.43,0.11,134.49
+gd-ZS008,Xiqiao Big Pancake,,粤菜 · Xiqiao Big Pancake,374.61,7.65,6.14,72.26
+gd-ZS009,Wife Cake,,粤菜 · Wife Cake,715.83,6.59,42.26,77.69
+gd-ZS010,Rice Cake,,粤菜 · Rice Cake,364.6,3.3,3.15,79.59
+gd-ZS011,Pingzhou Fortune Meat Cake,,粤菜 · Pingzhou Fortune Meat Cake,844.54,20.75,45.62,131.78
+gd-ZS012,Ice Flower Egg Crisps,,粤菜 · Ice Flower Egg Crisps,643.08,12.43,9.46,135.3
+gd-ZS013,Pea Paste Cake,,粤菜 · Pea Paste Cake,480.09,2.97,4.49,105.68
+gd-ZS014,Sweet and Fragrant Thousand-layer Puff Pastry,,粤菜 · Sweet and Fragrant Thousand-layer Puff Pastry,636.97,11.37,32.42,74.84
+gd-ZS015,Colorful Egg Roll,,粤菜 · Colorful Egg Roll,420.15,11.14,32.23,39.49
+gd-ZS016,Mixed Roasted Wheat Gluten Porridge,,粤菜 · Mixed Roasted Wheat Gluten Porridge,265.79,11.73,4.12,44.71
+gd-ZS017,Egg Crisps,,粤菜 · Egg Crisps,795.31,12.26,54.8,67.44
+gd-ZS018,Radish and Ham Porridge,,粤菜 · Radish and Ham Porridge,91.1,4.28,4.99,7.46
+gd-ZS019,Millet and Honeycomb Cake,,粤菜 · Millet and Honeycomb Cake,393.37,15.76,7.51,64.73
+gd-ZS020,Jade Steamed Wheat,,粤菜 · Jade Steamed Wheat,484.54,18.87,20.66,55.28
+gd-ZS021,Cured Meat Clay Pot Rice,,粤菜 · Cured Meat Clay Pot Rice,667.71,24.32,25.18,85.21
+gd-ZS022,Chicken Cake,,粤菜 · Chicken Cake,646.33,9.13,45.12,51.75
+gd-ZS023,Cantonese Golden Cake,,粤菜 · Cantonese Golden Cake,505.12,4.45,14.04,92.73
+gd-ZS024,Shiitake Mushroom and Chestnut Braised Rice,,粤菜 · Shiitake Mushroom and Chestnut Braised Rice,630.54,15.01,21.21,94.02
+gd-ZS025,Chaozhou Fresh Shrimp Congee,,粤菜 · Chaozhou Fresh Shrimp Congee,283.83,22.12,2.46,41.73
+gd-ZS026,Sugar Sand Wonton,,粤菜 · Sugar Sand Wonton,402.54,13.79,14.14,54.52
+gd-ZS027,Cantonese Fresh Meat Wonton,,粤菜 · Cantonese Fresh Meat Wonton,696.16,21.42,42.23,57.38
+gd-ZS028,Cantonese Glutinous Rice Roll,,粤菜 · Cantonese Glutinous Rice Roll,931.62,27.22,11.04,177.95
+gd-ZS029,Exploding Custard Lava Bun,,粤菜 · Exploding Custard Lava Bun,431.3,8.37,18.8,56.92
+gd-ZS030,Fresh Shrimp Red Rice Sausage,,粤菜 · Fresh Shrimp Red Rice Sausage,377.59,37.53,18.79,14.86
+gd-ZS031,Cantonese Brown Sugar Malagao Cake,,粤菜 · Cantonese Brown Sugar Malagao Cake,365.85,8.4,11.73,56.24
+gd-ZS032,Cantonese Scallion Oil Pancakes,,粤菜 · Cantonese Scallion Oil Pancakes,222.3,5.91,3.52,41.14
+gd-ZS033,White Sugar Cake,,粤菜 · White Sugar Cake,198.25,2.49,1.03,44.06
+gd-ZS034,Mugwort Rice Cake,,粤菜 · Mugwort Rice Cake,485.77,9.44,25.24,54.66
+gd-ZS035,Honeycomb Cake,,粤菜 · Honeycomb Cake,918.79,18.87,40.38,119.85
+gd-ZS036,Taro Shred Cake,,粤菜 · Taro Shred Cake,182.54,2.81,12.54,14.98
+gd-ZS037,Red Date Cake,,粤菜 · Red Date Cake,312.99,2.25,0.59,50.36
+gd-ZS038,Black Rice Cup,,粤菜 · Black Rice Cup,316.17,7.11,1.7,68.87
+gd-ZS039,Cantonese Cured Meat and Taro Cake,,粤菜 · Cantonese Cured Meat and Taro Cake,219.9,7.48,6.19,33.15
+gd-ZS040,Dry Fried Beef Ho Fun,,粤菜 · Dry Fried Beef Ho Fun,331.74,13.51,3.42,60.7
+gd-ZS041,Guangdong Rice Noodle Roll,,粤菜 · Guangdong Rice Noodle Roll,482.87,9.36,18.93,70.37
+gd-ZS042,Bamboo-made Noodles,,粤菜 · Bamboo-made Noodles,235.13,12.04,4.58,35.86
+gd-ZS043,Cantonese Ginger Cake,,粤菜 · Cantonese Ginger Cake,1028.68,6.98,4.94,236.2
+gd-ZS044,Cantonese Char Siu Puff Pastry,,粤菜 · Cantonese Char Siu Puff Pastry,530.64,16.75,37.84,31.29
+gd-ZS045,Glutinous Rice Chicken,,粤菜 · Glutinous Rice Chicken,342.71,16.37,13.63,38.14
+gd-ZS046,Lotus Root Cake,,粤菜 · Lotus Root Cake,318.65,10.79,18.12,28.2
+gd-ZS047,Reverse Sand Taro,,粤菜 · Reverse Sand Taro,449.12,2.38,18.18,68.68
+gd-ZS048,Cantonese Meat Zongzi (Sticky Rice Dumplings),,粤菜 · Cantonese Meat Zongzi (Sticky Rice Dumplings),414.84,12.63,15.71,55.29
+gd-ZS049,Walnut Bun,,粤菜 · Walnut Bun,167.45,3.84,6.71,22.78
+gd-ZS050,Char Siu Bun,,粤菜 · Char Siu Bun,269.35,8.04,12.88,30.23

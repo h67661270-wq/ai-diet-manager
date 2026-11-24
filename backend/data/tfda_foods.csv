@@ -1,0 +1,2161 @@
+id,name,aliases,source_name,energy_kcal,protein_g,fat_g,carbs_g
+J0200201,双髻鲨,雙髻鯊|丫髻鯊(鮫)|丫髻鲨(鲛)|犛頭沙|牦头沙|雙過仔|双过仔|Hammerhead|Hammerhead shark,雙髻鯊,117.0,27.4,0.1,0.0
+J0405301,斑点九刺鮨(含皮),斑點九刺鮨(含皮)|眼斑鱠|眼斑鲙|過魚|过鱼|石斑|油鱠|油鲙|青貓|青猫|黑鱠僅|黑鲙仅|黑鱠仔(澎湖)|黑鲙仔(澎湖)|Seabass|Peacock hind|Peacock grouper|Peacock cod|Peacock rockcod|Peacock rock-cod|Peacock coral cod|Peacock rock cod|Worldwide-peacock rockcod|Blue spotted grouper|Bluespotted grouper,斑點九刺鮨(含皮),84.0,19.4,0.1,0.0
+J0410601,小黄鱼(含皮),小黃魚(含皮)|黃魚|黄鱼|小黃瓜|小黄瓜|厚鱗仔|厚鳞仔|黃口|黄口|黃順|黄顺|黃瓜|黄瓜|紅瓜|红瓜|Yellow croaker|Yellowfish|Croaker|Little yellow croaker,小黃魚(含皮),100.0,19.4,1.9,0.0
+J0412401,蔷薇项鳍鱼(去皮),薔薇項鰭魚(去皮)|薔薇連鰭唇魚|蔷薇连鳍唇鱼|薔薇連鰭脣魚|扁礫仔|扁砾仔|紅姑娘仔|红姑娘仔|紅新娘|红新娘|豎停仔|竖停仔|胭脂冷|角龍|角龙|平倍良|薔薇楔鯛|蔷薇楔鲷|薔薇離鰭鯛|蔷薇离鳍鲷|薔薇虹彩|蔷薇虹彩|Rosed razorfish,薔薇項鰭魚(去皮),96.0,17.3,2.4,0.0
+J0403107,"鲻(12月,雌鱼)","鯔(12月,雌魚)|青頭仔(幼魚)|青头仔(幼鱼)|奇目仔(成魚)|奇目仔(成鱼)|信魚|信鱼|正烏|正乌|烏魚|乌鱼|正頭烏|正头乌|回頭烏|回头乌|大烏(澎湖)|大乌(澎湖)|Sea mullet|River mullet|Springer|Striped mullet|Common grey mullet|Common mullet|Black mullet|Bright mullet|Black true mullet|Bully mullet|Callifaver mullet|Flathead grey mullet|Mullet","鯔(12月,雌魚)",149.0,21.8,6.2,0.2
+J0411901,花身副丽鱼,花身副麗魚|珍珠石斑|淡水石斑|馬拉麗體魚|马拉丽体鱼|Jaguar guapote|Managuense|Guapote tiger,花身副麗魚,112.0,17.7,4.1,1.1
+J2600101,蟹脚肉,蟹腳肉|Crab meat,蟹腳肉,53.0,11.6,0.3,1.2
+J0402201,白肉鲑鱼切片,白肉鮭魚切片|Salmon,白肉鮭魚切片,151.0,22.6,6.1,0.3
+J0402301,红肉鲑鱼切片,紅肉鮭魚切片|Salmon,紅肉鮭魚切片,158.0,24.3,6.0,0.0
+J0400801,鱙仔鱼(加工),鱙仔魚(加工)|針魩仔|针魩仔|鱙仔|寮仔魚|寮仔鱼|Anchovy,鱙仔魚(加工),101.0,21.0,1.3,0.0
+J0404801,鳜,鱖,鱖,89.0,17.7,1.5,0.0
+J0405201,斑点九刺鮨(去皮),斑點九刺鮨(去皮)|眼斑鱠|眼斑鲙|過魚|过鱼|石斑|油鱠|油鲙|青貓|青猫|黑鱠僅|黑鲙仅|黑鱠仔(澎湖)|黑鲙仔(澎湖)|Seabass|Peacock hind|Peacock grouper|Peacock cod|Peacock rockcod|Peacock rock-cod|Peacock coral cod|Peacock rock cod|Worldwide-peacock rockcod|Blue spotted grouper|Bluespotted grouper,斑點九刺鮨(去皮),82.0,18.8,0.2,0.9
+J0411101,𩾃,鮸|鮸仔|𩾃仔|敏魚|敏鱼|米魚|米鱼|水鮸仔|水𩾃仔|Mi-iuy croaker,鮸,104.0,23.3,0.5,0.0
+J3101301,环文蛤,環文蛤|赤嘴蛤|赤嘴仔|青蛤|海蜆|海蚬|公代|Chinese Venus,環文蛤,46.0,8.7,1.0,3.7
+J3100202,带壳真牡蛎(生蚝),帶殼真牡蠣(生蠔)|正(大/長/鑄大)牡蠣|正(大/长/铸大)牡蛎|正(青)蚵|蚵仔|蚵|蠔|蚝|Giant pacific oyster|Japanese oyster,帶殼真牡蠣(生蠔),59.0,9.8,1.9,6.7
+J0414807,"鲭鱼(烤,210度,10分)","鯖魚(烤,210度,10分)|Mackerel","鯖魚(烤,210度,10分)",472.0,19.0,43.4,0.0
+J2101301,须赤虾,須赤蝦|鬚赤蝦|鬚赤對蝦|须赤对虾|厚殼蝦(仔)|厚壳虾(仔)|火燒蝦|火烧虾|狗蝦|狗虾|大厚殼|大厚壳|Whiskered velvet shrimp,鬚赤蝦,92.0,20.7,0.4,0.6
+J0403301,斑鳍飞鱼,斑鰭飛魚|小烏|小乌|飛烏|飞乌|花烏(澎湖)|花乌(澎湖)|Yellowing flyingfish|Yellowfin flying fish|Yellow-wing flyingfish|Spotwing flyingfish|Spotted flyingfish,斑鰭飛魚,94.0,22.0,0.1,0.2
+J0412901,蓝点鹦哥鱼,藍點鸚哥魚|鸚哥|鹦哥|黃衣魚|黄衣鱼|青衫(雄)|紅蠔魚(雌)|红蚝鱼(雌)|紅衫|红衫|蠔魚(雌)(澎湖)|蚝鱼(雌)(澎湖)|Parrot fish|Parrotfish|Yellowscale parrotfish|Yellow scale parrot fish|Cream parrotfish|Bluebarred parrotfish|Blue-barred parrotfish|Blue barred parrotfish|Blue trim parrotfish,藍點鸚哥魚,86.0,20.1,0.1,0.6
+J0401004,虱目鱼(9月),蝨目魚(9月)|虱目魚(9月)|海草魚|海草鱼|遮目魚|遮目鱼|殺目魚|杀目鱼|安平魚|安平鱼|國姓魚|国姓鱼|麻虱目仔|麻蝨目仔|虱目/麻虱目(澎湖)|蝨目/麻蝨目(澎湖)|Salmon herring|Bangos|Bony salmon|Milkfish|Milk fish,虱目魚(9月),208.0,22.0,12.7,0.0
+J0403106,"鲻(12月,雄鱼)","鯔(12月,雄魚)|青頭仔(幼魚)|青头仔(幼鱼)|奇目仔(成魚)|奇目仔(成鱼)|信魚|信鱼|正烏|正乌|烏魚|乌鱼|正頭烏|正头乌|回頭烏|回头乌|大烏(澎湖)|大乌(澎湖)|Sea mullet|River mullet|Springer|Striped mullet|Common grey mullet|Common mullet|Black mullet|Bright mullet|Black true mullet|Bully mullet|Callifaver mullet|Flathead grey mullet|Mullet","鯔(12月,雄魚)",137.0,21.1,5.2,0.9
+J4100401,红海参,紅海蔘|紅海參|Red sea cucumber,紅海參,33.0,7.5,0.1,0.0
+B0400401,红肉甘𫉄,紅肉甘藷|甘薯|番薯|甜薯|地瓜|田薯|土薯|Sweet potato,紅肉甘藷,114.0,1.8,0.2,25.4
+J0403103,鲻(8月),鯔(8月)|青頭仔(幼魚)|青头仔(幼鱼)|奇目仔(成魚)|奇目仔(成鱼)|信魚|信鱼|正烏|正乌|烏魚|乌鱼|正頭烏|正头乌|回頭烏|回头乌|大烏(澎湖)|大乌(澎湖)|Sea mullet|River mullet|Springer|Striped mullet|Common grey mullet|Common mullet|Black mullet|Bright mullet|Black true mullet|Bully mullet|Callifaver mullet|Flathead grey mullet|Mullet,鯔(8月),224.0,17.3,16.7,0.0
+J0414901,旗鱼切片,旗魚切片|翹翅仔|翘翅仔|白肉旗魚|白肉旗鱼|闊胸仔|阔胸仔|立翅旗魚|立翅旗鱼|白皮丁挽|白皮旗魚|白皮旗鱼|Short nosed sword fish|Pacific black marlin|Silver marlin|Silver marlin fish|Short-nosed swordfish|Black marlin fish|Black marlin|Giant black marlin|Marlin,旗魚切片,111.0,26.0,0.0,0.8
+J0413601,鳞网带䲠切片,鱗網帶鰆切片|油魚|油鱼|細鱗仔|细鳞仔|玉梭魚|玉梭鱼|白玉豚|Escolar,鱗網帶鰆切片,272.0,17.3,22.0,0.0
+J4100201,仿刺参,仿刺蔘|仿刺參|刺參|刺参|Japanese common sea cucumber,仿刺參,36.0,8.2,0.1,0.8
+J0403105,"鲻(11月,雌鱼)","鯔(11月,雌魚)|青頭仔(幼魚)|青头仔(幼鱼)|奇目仔(成魚)|奇目仔(成鱼)|信魚|信鱼|正烏|正乌|烏魚|乌鱼|正頭烏|正头乌|回頭烏|回头乌|大烏(澎湖)|大乌(澎湖)|Sea mullet|River mullet|Springer|Striped mullet|Common grey mullet|Common mullet|Black mullet|Bright mullet|Black true mullet|Bully mullet|Callifaver mullet|Flathead grey mullet|Mullet","鯔(11月,雌魚)",141.0,21.5,5.5,0.0
+J0415303,银鲳(5月),銀鯧(5月)|白鯧|白鲳|正鯧|正鲳|銀鯧|银鲳|支子|Silver pomfret|White pomfret,銀鯧(5月),105.0,16.4,3.9,0.0
+J0200301,鲨鱼切片,鯊魚切片|沙魚|沙鱼|Shark,鯊魚切片,106.0,24.8,0.0,0.0
+J0412102,台湾鲷鱼片(油煎),臺灣鯛魚片(油煎)|台灣鯛魚片(油煎)|Tilapia,台灣鯛魚片(油煎),162.0,23.1,6.9,1.9
+B0700301,小马铃薯(珍珠马铃薯),小馬鈴薯(珍珠馬鈴薯)|洋芋|洋薯|洋山芋|荷蘭薯|荷兰薯|日本番薯|塊茄|块茄|Potato|White potato|Irish potato,小馬鈴薯(珍珠馬鈴薯),59.0,1.7,0.0,12.8
+J0402403,大西洋鲑鱼切片(尾段),大西洋鮭魚切片(尾段)|Atlantic salmon,大西洋鮭魚切片(尾段),204.0,20.7,12.8,0.0
+J0402404,大西洋鲑鱼生鱼片,大西洋鮭魚生魚片|Atlantic salmon,大西洋鮭魚生魚片,222.0,19.6,15.3,0.0
+J0409701,平鲷,平鯛|黃錫鯛|黄锡鲷|枋頭|枋头|邦頭/枋頭/白嘉鱲(澎湖)|邦头/枋头/白嘉𫚭(澎湖)|Silver sea bream|Natal stumpnose|Silver bream|Yellowfin bream|Yellow fin bream|Tarwhine|Goldlined seabream|Gold-line sea bream|Goldloned seabream,平鯛,158.0,21.0,7.6,0.5
+B0100203,山药(大汕3号),山藥(大汕3號)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: Da-Shen 3,山藥(大汕3號),73.0,2.6,0.1,15.0
+J0401301,草鱼切片,草魚切片|鯇|鲩|鯤|鲲|池魚|池鱼|草根魚|草根鱼|草鰱(高屏地區)|草鲢(高屏地区)|White amur|Grass carp|Gardd carp,草魚切片,166.0,21.4,8.3,2.1
+J0415901,单角革单棘鲀(去皮),單角革單棘魨(去皮)|白達仔|白达仔|一角剝|一角剥|薄葉剝|薄叶剥|光復魚|光复鱼|剝皮魚|剥皮鱼|狄仔魚(興達)|狄仔鱼(兴达)|掃帚|扫帚|Rough leatherjacket|Unicorn leatherjacket|Unicorn leather jacket|Unicorn filefish|Triggerfish|Batfish|Filefish,單角革單棘魨(去皮),79.0,17.2,0.6,0.0
+K0100801,鸡蛋(高维生素A&E),雞蛋(高維生素A&E)|Hen's egg: vitamin A&E enriched,雞蛋(高維生素A&E),134.0,12.1,9.0,0.0
+K0321101,鹌鹑铁蛋,鵪鶉鐵蛋|鳥蛋|鸟蛋|Quail's iron  egg,鵪鶉鐵蛋,439.0,28.8,26.9,20.4
+J0414805,"鲭鱼(烤,150度,30分)","鯖魚(烤,150度,30分)|Mackerel","鯖魚(烤,150度,30分)",536.0,19.9,50.0,0.0
+J0414806,"鲭鱼(烤,180度,10分)","鯖魚(烤,180度,10分)|Mackerel","鯖魚(烤,180度,10分)",373.0,20.2,31.8,0.0
+J0403601,金鳞鱼,金鱗魚|Squirrelfish,金鱗魚,85.0,19.5,0.2,1.3
+B0400301,芋心甘𫉄,芋心甘藷|甘薯|番薯|甜薯|地瓜|田薯|土薯|紅薯|红薯|紫心甘薯|芋頭(仔)番薯|芋头(仔)番薯|Sweet potato,芋心甘藷,122.0,1.1,0.1,28.5
+J0402001,香鱼,香魚|桀(加魚邊)魚|桀(加鱼边)鱼|Ayu|年魚|年鱼|Sweet-fish|Sweetfish|Ayu sweetfish|Ko-ayu,香魚,147.0,18.5,7.5,0.0
+J0404402,日本花鲈((3月),日本花鱸((3月)|七星鱸|七星鲈|花鱸|花鲈|青鱸|青鲈|鱸魚|鲈鱼|日本真鱸|日本真鲈|Perch|Sea bass|Japanese seaperch|Japanese sea bass|Japan sea bass,日本花鱸((3月),100.0,20.0,1.6,0.5
+J0415302,银鲳(3月),銀鯧(3月)|白鯧|白鲳|正鯧|正鲳|銀鯧|银鲳|支子|Silver pomfret|White pomfret,銀鯧(3月),120.0,17.6,5.0,0.7
+J0409501,青嘴龙占鱼,青嘴龍佔魚|青嘴龍占魚|龍尖|龙尖|龍占|龙占|龍佔|青嘴仔|青嘴/尖嘴仔(澎湖)|Sand snapper|Parrot-fish|North-west snapper|Norwest snapper|Snuppy|Spangled emperor|Scavenger|Red-finned emperor|Pig-faced bream|Tricky snapper|Starry pigface bream|Yellow sweetlip,青嘴龍占魚,128.0,22.7,3.4,0.0
+J0408901,叶唇笛鲷,葉脣笛鯛|葉唇笛鯛|厚唇仔|厚脣仔|紅魚|红鱼|Tang's snapper,葉唇笛鯛,118.0,19.9,3.7,0.0
+J2101201,蓝对虾,藍對蝦|藍蝦|蓝虾,藍對蝦,95.0,20.9,0.6,0.0
+K0313101,鹌鹑皮蛋,鵪鶉皮蛋|鳥蛋|鸟蛋|Quail's egg: alkalized,鵪鶉皮蛋,160.0,13.8,10.9,1.8
+J0410001,黄鳍棘鲷,黃鰭棘鯛|黃鰭鯛|黄鳍鲷|黃鰭|黄鳍|赤翅仔|赤翅|花身|鏡鯛|镜鲷|Yellow-finned black porgy|Yellow fin seabream|Yellow seabream|Yellow sea bream|Yellowfin seabream|Japanese silver bream,黃鰭棘鯛,136.0,19.2,6.0,0.6
+J0404401,日本花鲈(2月),日本花鱸(2月)|七星鱸|七星鲈|花鱸|花鲈|青鱸|青鲈|鱸魚|鲈鱼|日本真鱸|日本真鲈|Perch|Sea bass|Japanese seaperch|Japanese sea bass|Japan sea bass,日本花鱸(2月),95.0,20.1,1.0,1.9
+J0403104,"鲻(11月,雄鱼)","鯔(11月,雄魚)|青頭仔(幼魚)|青头仔(幼鱼)|奇目仔(成魚)|奇目仔(成鱼)|信魚|信鱼|正烏|正乌|烏魚|乌鱼|正頭烏|正头乌|回頭烏|回头乌|大烏(澎湖)|大乌(澎湖)|Sea mullet|River mullet|Springer|Striped mullet|Common grey mullet|Common mullet|Black mullet|Bright mullet|Black true mullet|Bully mullet|Callifaver mullet|Flathead grey mullet|Mullet","鯔(11月,雄魚)",129.0,21.3,4.2,0.0
+J0415305,银鲳(12月),銀鯧(12月)|白鯧|白鲳|正鯧|正鲳|銀鯧|银鲳|支子|Silver pomfret|White pomfret,銀鯧(12月),126.0,19.1,5.0,0.2
+J0415301,银鲳(2月),銀鯧(2月)|白鯧|白鲳|正鯧|正鲳|銀鯧|银鲳|支子|Silver pomfret|White pomfret,銀鯧(2月),123.0,17.9,5.1,0.0
+J3600101,乌贼精囊,烏賊精囊|烏賊鰾(膘)|乌贼鳔(膘)|花枝鰾(膘)|花枝鳔(膘)|Squid bladder,烏賊精囊,43.0,9.8,0.2,6.4
+J3501101,雪螺,,雪螺,40.0,8.9,0.3,0.0
+R7501101,龙虾卵(调味),龍蝦卵(調味)|Lobster egg,龍蝦卵(調味),64.0,6.7,1.8,5.2
+J0412107,台湾鲷鱼片(清蒸),臺灣鯛魚片(清蒸)|台灣鯛魚片(清蒸)|Tilapia,台灣鯛魚片(清蒸),112.0,19.3,3.3,2.2
+J0402402,大西洋鲑鱼切片(中段),大西洋鮭魚切片(中段)|Atlantic salmon,大西洋鮭魚切片(中段),174.0,20.7,9.5,0.0
+J2100301,东方异腕虾,東方異腕蝦|米諾蝦|米诺虾|鐵甲蝦|铁甲虾|蝦母|虾母|大頭蝦|大头虾|Armoured lobster,東方異腕蝦,78.0,17.7,0.3,0.0
+J2500201,蛙形蟹,旭蟹|蝦姑頭|虾姑头|候貝切|候贝切|紅面猴|红面猴|海臭蟲|海臭虫|西姑麻|Crimson crab|Frog crab|Snanner crab,蛙形蟹,72.0,16.6,0.1,2.8
+B0400601,黄肉甘𫉄,黃肉甘藷|甘薯|番薯|甜薯|地瓜|田薯|土薯|Sweet potato,黃肉甘藷,121.0,1.3,0.2,27.8
+J3500401,泡鱿鱼,泡魷魚|Squid,泡魷魚,50.0,11.3,0.2,3.0
+J3501001,泥螺,黃泥螺|黄泥螺,泥螺,95.0,21.5,0.3,0.3
+R7500701,圆鳕鱼卵(加工),圓鱈魚卵(加工)|Toothfish roe,圓鱈魚卵(加工),84.0,11.2,4.4,0.0
+J0412002,台湾鲷鱼片(生),臺灣鯛魚片(生)|台灣鯛魚片(生)|Tilapia,台灣鯛魚片(生),110.0,18.2,3.6,2.5
+J0412108,台湾鲷鱼片(微波),臺灣鯛魚片(微波)|台灣鯛魚片(微波)|Tilapia,台灣鯛魚片(微波),140.0,24.9,3.7,1.4
+J0405401,棕点石斑鱼,棕點石斑魚|老虎斑|過魚|过鱼|Tiger grouper|Blotch grouper|Blotchy rockcod|Black-tipped cod|Blotchy grouper|Brown-marbled grouper|Flower cod|Flowery cod|Marble grouper|Grouper,棕點石斑魚,115.0,19.1,3.7,0.0
+B0200301,紫山药,紫山藥|山薯|田薯|薯蕷|薯蓣|長薯|长薯|血薯|淮山(加工後)|淮山(加工后)|Chinese yam: Horng-Shuu,紫山藥,92.0,2.8,0.1,19.6
+J0416401,低眼无齿芒鱼片(芒加鱼边),低眼無齒芒魚片(芒加魚邊),低眼無齒芒魚片(芒加魚邊),76.0,14.2,1.7,0.0
+J4100301,南美刺参,南美刺蔘|南美刺參,南美刺參,52.0,12.0,0.0,0.0
+J0415201,星斑真鲳,"星斑真鯧|(市售稱""花鯧"")|(市售称""花鲳"")|Starry butterfish",星斑真鯧,214.0,15.6,16.3,0.0
+J0414902,旗鱼腹肉,旗魚腹肉|翹翅仔|翘翅仔|白肉旗魚|白肉旗鱼|闊胸仔|阔胸仔|立翅旗魚|立翅旗鱼|白皮丁挽|白皮旗魚|白皮旗鱼|Short nosed sword fish|Pacific black marlin|Silver marlin|Silver marlin fish|Short-nosed swordfish|Black marlin fish|Black marlin|Giant black marlin|Marlin,旗魚腹肉,105.0,22.2,1.1,0.0
+J0409201,星鸡鱼,星雞魚|雞仔魚|鸡仔鱼|石鱸|石鲈|厚鱸|厚鲈|頭額/金龍/刣額(澎湖)|头额/金龙/刣额(澎湖)|Silver grunt|Common javelinfish|Javelin grunter|Javelin grunt,星雞魚,99.0,20.6,1.2,0.4
+R6800501,鲑鱼松,鮭魚鬆|Stir fried salmon fish floss,鮭魚鬆,452.0,29.0,21.6,35.3
+J0600601,鲨鱼皮,鯊魚皮|Shark skin,鯊魚皮,54.0,12.4,0.2,0.0
+J0404405,日本花鲈((12月),日本花鱸((12月)|七星鱸|七星鲈|花鱸|花鲈|青鱸|青鲈|鱸魚|鲈鱼|日本真鱸|日本真鲈|Perch|Sea bass|Japanese seaperch|Japanese sea bass|Japan sea bass,日本花鱸((12月),101.0,19.6,1.9,0.4
+J0409903,真鲷(5月),真鯛(5月)|嘉鱲魚|嘉𫚭鱼|正鯛|正鲷|加臘|加腊|加蚋|加魶|真鯛|真鲷|加幾魚|加几鱼|銅盆魚|铜盆鱼|棘鬣魚|棘鬣鱼|Red seabream|Red tail|Red porgy|Silver seabream|Red sea bream|Red pargo|Genuine porgy|Japanese seabream|Madai|Japanese porgy,真鯛(5月),87.0,20.0,0.1,0.0
+J2100902,白对虾(小),白對蝦(小)|南美白蝦|南美白虾|美洲白蝦|美洲白虾|南美白對蝦|南美白对虾|白蝦|白虾|Pacific white shrimp,白對蝦(小),96.0,21.4,0.5,0.0
+J0400902,日本银带鲱鱼干(丁香鱼脯),日本銀帶鯡魚乾(丁香魚脯)|日本銀帶鯡魚干(丁香魚脯)|日本銀帶鯡魚幹(丁香魚脯)|針嘴鰮|针嘴鳁|丁香魚|丁香鱼|魩仔|丁香|鱙仔|灰海荷鰮|灰海荷鳁|Silver stripe round herring,日本銀帶鯡魚干(丁香魚脯),275.0,51.8,6.0,1.7
+J0700301,𩾃鱼卵(加工),鮸魚卵(加工)|Brown croaker roe,鮸魚卵(加工),184.0,21.9,10.1,3.6
+J0410801,眼斑拟石首鱼,眼斑擬石首魚|紅鼓魚|红鼓鱼|Red drum,眼斑擬石首魚,95.0,19.7,1.2,0.9
+J0402401,大西洋鲑鱼(台湾养殖),大西洋鮭魚(臺灣養殖)|大西洋鮭魚(台灣養殖)|Atlantic salmon,大西洋鮭魚(台灣養殖),155.0,23.6,6.0,0.0
+J0700601,䲠鱼卵,鰆魚卵|土魠魚卵|土魠鱼卵|Barred Spanish mackerel egg|King mackerel egg|Narrowbarred spanish mackerel egg,鰆魚卵,193.0,23.5,10.2,0.2
+R6800401,旗鱼松,旗魚鬆|Stir fried marlin fish floss,旗魚鬆,481.0,31.3,22.9,37.4
+J0401002,虱目鱼(5月),蝨目魚(5月)|虱目魚(5月)|海草魚|海草鱼|遮目魚|遮目鱼|殺目魚|杀目鱼|安平魚|安平鱼|國姓魚|国姓鱼|麻虱目仔|麻蝨目仔|虱目/麻虱目(澎湖)|蝨目/麻蝨目(澎湖)|Salmon herring|Bangos|Bony salmon|Milkfish|Milk fish,虱目魚(5月),189.0,22.3,10.4,0.0
+J0404404,日本花鲈((11月),日本花鱸((11月)|七星鱸|七星鲈|花鱸|花鲈|青鱸|青鲈|鱸魚|鲈鱼|日本真鱸|日本真鲈|Perch|Sea bass|Japanese seaperch|Japanese sea bass|Japan sea bass,日本花鱸((11月),99.0,20.5,1.3,0.1
+J0409902,真鲷(3月),真鯛(3月)|嘉鱲魚|嘉𫚭鱼|正鯛|正鲷|加臘|加腊|加蚋|加魶|真鯛|真鲷|加幾魚|加几鱼|銅盆魚|铜盆鱼|棘鬣魚|棘鬣鱼|Red seabream|Red tail|Red porgy|Silver seabream|Red sea bream|Red pargo|Genuine porgy|Japanese seabream|Madai|Japanese porgy,真鯛(3月),101.0,20.8,1.3,0.7
+J0400602,"魩仔鱼(加工,小)","魩仔魚(加工,小)|魩仔|Anchovy","魩仔魚(加工,小)",151.0,31.8,1.7,0.9
+J0404701,条纹狼鲈,條紋狼鱸|Striped bass,條紋狼鱸,147.0,21.4,6.2,0.0
+J0412001,红色吴郭鱼,紅色吳郭魚|尼羅魚|尼罗鱼|台灣鯛|台湾鲷|臺灣鯛|紅色尼羅魚|红色尼罗鱼|姬鯛|姬鲷|紅吳郭魚|红吴郭鱼|濱鯛|滨鲷|Red mouthbreeder|Red tilapia,紅色吳郭魚,108.0,18.3,3.3,1.3
+J0404201,尖嘴鲈(去皮),尖嘴鱸(去皮)|金目鱸|金目鲈|盲槽|扁紅目鱸|扁红目鲈|Palmer|Sea bass|Silver perch|Silver barramundi|White sea bass|Asian seabass|Cock-up|Barramundi perch|Barramundi|Giant seaperch|Giant perch|Giant sea-perch|Giant sea perch,尖嘴鱸(去皮),98.0,20.6,1.2,0.1
+J0403108,鲻切片,鯔切片|青頭仔(幼魚)|青头仔(幼鱼)|奇目仔(成魚)|奇目仔(成鱼)|信魚|信鱼|正烏|正乌|烏魚|乌鱼|正頭烏|正头乌|回頭烏|回头乌|大烏(澎湖)|大乌(澎湖)|Sea mullet|River mullet|Springer|Striped mullet|Common grey mullet|Common mullet|Black mullet|Bright mullet|Black true mullet|Bully mullet|Callifaver mullet|Flathead grey mullet|Mullet,鯔切片,170.0,21.2,8.8,0.0
+B0100204,山药(大刺),山藥(大刺)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: Da-Tsyh,山藥(大刺),85.0,3.5,0.1,17.1
+J0406401,鬼头刀鱼片,鬼頭刀魚片|鱰魚|鱰鱼|萬魚|万鱼|飛烏虎|飞乌虎|鬼頭刀(臺東)|鬼头刀(台东)|鱰|萬引|万引|扁頭刀(澎湖)|扁头刀(澎湖)|九萬仔(澎湖)|九万仔(澎湖)|Common dolphifish|Dolphinfish|Dolphin fish|Common dolphin|Dolphin|Dorado|Common dolphinfish|Common dolphin fish|Mahimahi|Green dolphin|Mahi-mahi|Mahi mahi,鬼頭刀魚片,78.0,17.2,0.5,0.0
+J0413001,金钱鱼,金錢魚|變身苦|变身苦|遍身苦(澎湖)|金鼓|Scat|Spotted scad|Spotted butter fish|Spotted butt|Spotted scat|Spotted butterfish|Argus fish|Butterfish|Common scat|Leopard scat,金錢魚,196.0,19.3,12.6,0.0
+J0401001,虱目鱼(2月),蝨目魚(2月)|虱目魚(2月)|海草魚|海草鱼|遮目魚|遮目鱼|殺目魚|杀目鱼|安平魚|安平鱼|國姓魚|国姓鱼|麻虱目仔|麻蝨目仔|虱目/麻虱目(澎湖)|蝨目/麻蝨目(澎湖)|Salmon herring|Bangos|Bony salmon|Milkfish|Milk fish,虱目魚(2月),180.0,19.8,10.6,1.3
+J0700401,鲻鱼卵,鯔魚卵|烏魚卵|乌鱼卵|Common mullet egg|Flathead mullet egg|Grey mullet egg|Striped mullet egg,鯔魚卵,256.0,26.3,15.9,3.2
+R7500801,鲻鱼卵(加工),鯔魚卵(加工)|烏魚卵|乌鱼卵|烏魚子|乌鱼子|Mullet roe,鯔魚卵(加工),297.0,36.6,8.5,18.7
+J2200501,草虾仁,草蝦仁|Grass shelled shrimp,草蝦仁,44.0,9.7,0.3,0.9
+J2102001,正樱虾干,正櫻蝦乾|櫻花蝦|樱花虾|花殼仔|花壳仔|櫻桃蝦|樱桃虾|玫瑰蝦|玫瑰虾|火焰蝦|火焰虾|Sergestid shrimp,正櫻蝦乾,253.0,52.6,3.1,13.4
+J0405801,大口黑鲈,大口黑鱸|黑鱸|黑鲈|加州鱸|加州鲈|淡水鱸|淡水鲈|Largemouth black bass,大口黑鱸,130.0,20.7,4.6,0.0
+J2100201,北方长额虾(加工),北方長額蝦(加工)|北極蝦|北极虾|北極甜蝦|北极甜虾|冷水蝦|冷水虾,北方長額蝦(加工),122.0,19.9,4.1,2.7
+B0100206,山药(台农1号),山藥(臺農1號)|山藥(台農1號)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: TNu 1,山藥(台農1號),93.0,2.6,0.1,19.9
+J0405701,横纹九刺鮨,橫紋九刺鮨|橫帶鱠|横带鲙|過魚|过鱼|石斑|黑貓仔|黑猫仔|黑絲貓|黑丝猫|竹鱠仔|竹鲙仔|黑青貓仔(澎湖)|黑青猫仔(澎湖)|烏絲(香港)|乌丝(香港)|Overcast grouper|Chocolate hind|Brown-barred rockcod|Brownbarred rockcod|Brownbarred grouper|Charcoal grouper|Brown coral cod|Brown coral-cod,橫紋九刺鮨,85.0,19.3,0.3,0.0
+J3700101,小卷干,小卷幹|鎖管干(乾)|锁管干(干)|鎖管幹(乾)|Dried swordtip squid,小卷干,246.0,53.2,2.1,4.7
+J2100901,白对虾(大),白對蝦(大)|南美白蝦|南美白虾|美洲白蝦|美洲白虾|南美白對蝦|南美白对虾|白蝦|白虾|Pacific white shrimp,白對蝦(大),109.0,22.3,1.5,0.0
+J0413101,褐臭肚鱼,褐臭肚魚|臭肚|象魚|象鱼|樹魚|树鱼|羊鍋|羊锅|疏網|疏网|茄冬仔|象耳/臭肚仔/羊矮仔/盧矮仔(澎湖)|象耳/臭肚仔/羊矮仔/卢矮仔(澎湖)|Rabbitfish|Pinspotted spinefoot|Sandy spinefoot|Spinefoot|Doctor fish|Dusky rabbitfish|Dusky spinefoot|Fuscous spinefoot|Mottled spinefoot|Fuscescens rabbitfish,褐臭肚魚,164.0,19.9,8.8,0.6
+J3100801,台湾蚬,臺灣蜆|台灣蜆|蜆(蜊/拉)仔|蚬(蜊/拉)仔|河蜆|河蚬|Corbicula Clam|Freshwater Clam|Taiwanese freshwater clam,台灣蜆,51.0,8.9,1.4,9.8
+J5100101,海蜇皮,瑝魚|瑝鱼|海蛇|紅(面)蜇|红(面)蜇|鮓魚|鲊鱼|Jelly fish,海蜇皮,19.0,4.4,0.0,2.2
+J0700701,鲣鱼卵,鰹魚卵|Bonito egg|Skipjack egg|Skipjack tuna egg,鰹魚卵,184.0,21.5,10.2,0.6
+J0402101,银鱼,銀魚|水晶魚|水晶鱼|小銀魚|小银鱼|Silver fish,銀魚,69.0,14.3,0.9,0.9
+J0400601,"魩仔鱼(加工,大)","魩仔魚(加工,大)|魩仔|Anchovy","魩仔魚(加工,大)",97.0,20.7,1.0,1.1
+J0800201,扁鱼干,扁魚乾|扁魚干|扁魚幹|Dried roughscale flounder,扁魚干,354.0,66.3,7.9,1.1
+J0707201,鲔鱼肚,鮪魚肚|Tuna stomach,鮪魚肚,106.0,23.4,0.7,0.0
+J0405101,斑带石斑鱼,斑帶石斑魚|石斑|過魚|过鱼|罔仔|竹節鱠|竹节鲙|擬青石斑魚|拟青石斑鱼|Rock grouper,斑帶石斑魚,90.0,20.2,0.5,0.0
+J0401201,虱目鱼腹肉(虱目鱼肚),蝨目魚腹肉(蝨目魚肚)|虱目魚腹肉(虱目魚肚),虱目魚腹肉(虱目魚肚),342.0,17.4,29.6,0.0
+J2200601,凤尾虾仁,鳳尾蝦仁|Shelled shrimp,鳳尾蝦仁,64.0,13.4,0.8,0.3
+K0120101,鸡卤蛋(市售),雞滷蛋(市售)|Hen's egg: stewed,雞滷蛋(市售),191.0,15.7,11.4,6.4
+K0400101,鸽蛋,鴿蛋|鳥蛋|鸟蛋|Pigeon's egg,鴿蛋,96.0,10.2,5.7,2.5
+K0500102,鹅蛋,鵝蛋|Goose's egg,鵝蛋,179.0,10.0,15.0,3.2
+R6800201,鲭鱼肉脯,鯖魚肉脯|Stir fried mackerel fish floss,鯖魚肉脯,685.0,33.8,60.4,1.5
+J0414803,"鲭鱼(烤,150度,10分)","鯖魚(烤,150度,10分)|Mackerel","鯖魚(烤,150度,10分)",412.0,16.5,37.8,0.0
+J0411401,斑点鸡笼鲳,斑點雞籠鯧|銅盤仔|铜盘仔|鏡鯧|镜鲳|金鏡|金镜|定盤|定盘|咬破埔|金鐘(澎湖)|金钟(澎湖)|Sicklefish|Spotted bat fish|Spotted sicklefish|Spotted drepane|Spotted batfish|Drepane,斑點雞籠鯧,97.0,21.9,0.4,0.0
+J0401801,斑海鲶,斑海鯰|成仔魚|成仔鱼|成仔丁|銀成|银成|白肉成|臭臊成|生仔魚|生仔鱼|鰻鯰|鳗鲶|賓士魚|宾士鱼|Sea barbel|Sea catfish|Spotted catfish|Spotted sea catfish|Giant cat-fish|Marine catfish,斑海鯰,86.0,19.2,0.5,0.0
+J0401005,虱目鱼(12月),蝨目魚(12月)|虱目魚(12月)|海草魚|海草鱼|遮目魚|遮目鱼|殺目魚|杀目鱼|安平魚|安平鱼|國姓魚|国姓鱼|麻虱目仔|麻蝨目仔|虱目/麻虱目(澎湖)|蝨目/麻蝨目(澎湖)|Salmon herring|Bangos|Bony salmon|Milkfish|Milk fish,虱目魚(12月),192.0,21.4,11.2,0.1
+J0409901,真鲷(1月),真鯛(1月)|嘉鱲魚|嘉𫚭鱼|正鯛|正鲷|加臘|加腊|加蚋|加魶|真鯛|真鲷|加幾魚|加几鱼|銅盆魚|铜盆鱼|棘鬣魚|棘鬣鱼|Red seabream|Red tail|Red porgy|Silver seabream|Red sea bream|Red pargo|Genuine porgy|Japanese seabream|Madai|Japanese porgy,真鯛(1月),100.0,20.1,1.6,0.7
+B0500301,槟榔心芋,檳榔心芋|芋頭|芋头|芋艿|芋乃|芋仔|青芋|土芝|Taro|Dasheen|Cocoyam|Eddoe,檳榔心芋,121.0,1.3,0.0,28.1
+J2200301,红虾仁,紅蝦仁|Shelled shrimp,紅蝦仁,43.0,9.5,0.3,1.5
+J0410101,黑棘鲷(去皮),黑棘鯛(去皮)|黑鯛|黑鲷|烏格|乌格|黑格|厚唇|厚脣|烏毛|乌毛|烏鱠|乌鲙|黑頰(澎湖)|黑颊(澎湖)|Black sea bream|Blackhead seabream|Black porgy,黑棘鯛(去皮),136.0,20.3,5.5,0.6
+J0402501,麦奇钩吻鲑(去皮),麥奇鉤吻鮭(去皮)|麥奇鈎吻鮭(去皮)|鱒魚|鳟鱼|虹鱒|虹鳟|麥奇鉤吻鱒|麦奇钩吻鳟|Rainbow trout,麥奇鈎吻鮭(去皮),160.0,20.9,7.8,0.0
+J0413301,后刺尾鲷,後刺尾鯛|倒吊|粗皮仔|番倒吊(澎湖)|半水吊|Striped surgeonfish|Yellowmask surgeonfish|White-tail lancet|Blue-lined surgeonfish|Bleeker's surgeonfish|Elongate surgeonfish|Mata surgeonfish|Elongate surgeon,後刺尾鯛,102.0,20.4,1.7,0.0
+J0402801,印度镰齿鱼,印度鐮齒魚|水狗母|粉粘|那哥|那個魚|那个鱼|Bombay duck|Bombay duck (India)|Bombay duck fish|Bombay-duck,印度鐮齒魚,49.0,10.4,0.5,0.4
+B0700201,马铃薯,馬鈴薯|洋芋|洋薯|洋山芋|荷蘭薯|荷兰薯|日本番薯|塊茄|块茄|Potato|White potato|Irish potato,馬鈴薯,77.0,2.6,0.2,15.8
+J0707101,旗鱼肚,旗魚肚|Marlin stomach or Sailfish stomach or Spearfish stomach,旗魚肚,99.0,22.5,0.4,2.9
+B0900201,熟莲藕,熟蓮藕|蓮根|莲根|藕|芙蕖|荷花藕|Lotus root|Indian lotus tuber|East Indian lotus,熟蓮藕,50.0,1.1,0.1,11.0
+J0403102,鲻(4月),鯔(4月)|青頭仔(幼魚)|青头仔(幼鱼)|奇目仔(成魚)|奇目仔(成鱼)|信魚|信鱼|正烏|正乌|烏魚|乌鱼|正頭烏|正头乌|回頭烏|回头乌|大烏(澎湖)|大乌(澎湖)|Sea mullet|River mullet|Springer|Striped mullet|Common grey mullet|Common mullet|Black mullet|Bright mullet|Black true mullet|Bully mullet|Callifaver mullet|Flathead grey mullet|Mullet,鯔(4月),133.0,20.4,5.0,0.9
+B0900101,莲藕,蓮藕|蓮根|莲根|藕|芙蕖|荷花藕|Lotus root|Indian lotus tuber|East Indian lotus,蓮藕,65.0,2.0,0.2,13.5
+J0409904,真鲷(8月),真鯛(8月)|嘉鱲魚|嘉𫚭鱼|正鯛|正鲷|加臘|加腊|加蚋|加魶|真鯛|真鲷|加幾魚|加几鱼|銅盆魚|铜盆鱼|棘鬣魚|棘鬣鱼|Red seabream|Red tail|Red porgy|Silver seabream|Red sea bream|Red pargo|Genuine porgy|Japanese seabream|Madai|Japanese porgy,真鯛(8月),176.0,20.6,9.8,1.7
+J0415304,银鲳(8月),銀鯧(8月)|白鯧|白鲳|正鯧|正鲳|銀鯧|银鲳|支子|Silver pomfret|White pomfret,銀鯧(8月),101.0,17.7,2.9,1.6
+J0414301,康氏马加䲠切片(去皮),康氏馬加鰆切片(去皮)|土魠|馬加|马加|馬鮫|马鲛|梭齒|梭齿|頭魠|头魠|鰆|䲠|土托|土託|康氏馬發|康氏马发|塗魠(澎湖)|涂魠(澎湖)|Spaniard|Spanish mackerel|Seer|Snook|Striped seer|Doggie|Cybium|Barred mackerel|Barred Spanish mackerel|Commerson's mackerel|Narrowbarred mackerel|King seer|Katonkel barracuda kuda,康氏馬加鰆切片(去皮),193.0,18.7,12.5,0.0
+J0415601,大口鳒切片(含皮),大口鰜切片(含皮)|咬龍狗|咬龙狗|左口|扁魚|扁鱼|皇帝魚|皇帝鱼|比目魚|比目鱼|咬網狗/肉瞇仔(澎湖)|咬网狗/肉瞇仔(澎湖)|Queensland halibut|Tropical halibut|Adalah|False halibut|Indian spiny turbot|Indian halibut,大口鰜切片(含皮),166.0,14.7,11.5,0.0
+J0408101,史氏红谐鱼,史氏紅諧魚|紅鰱魚|红鲢鱼|紅肉欉仔|红肉欉仔|紅嘴唇仔|红嘴唇仔|紅嘴脣仔|紅唇仔|红唇仔|紅脣仔|紅魚仔|红鱼仔|白肉蒜|紅肉蒜|红肉蒜|Japanese rubyfish,史氏紅諧魚,97.0,21.1,0.7,0.0
+J0414804,"鲭鱼(烤,150度,20分)","鯖魚(烤,150度,20分)|Mackerel","鯖魚(烤,150度,20分)",396.0,19.1,34.8,0.0
+J0403401,斑鱵,補網師|补网师|水針|水针|莎優莉|莎优莉|簪針(澎湖)|簪针(澎湖)|七星針(南部)|七星针(南部)|Spotted halfbeak|Barred garfish|Black barred garfish|Blackbarred halfbeak|Black-barred halfbeak|Black-barred garfish|Barred halfbeak|Halfbeak,斑鱵,91.0,20.6,0.3,0.3
+J2100101,罗氏沼虾,羅氏沼蝦|泰國蝦|泰国虾|泰國長臂大蝦|泰国长臂大虾|淡水長臂大蝦|淡水长臂大虾|Giant river shrimp (prawn),羅氏沼蝦,88.0,20.3,0.2,0.2
+J0404403,日本花鲈((8月),日本花鱸((8月)|七星鱸|七星鲈|花鱸|花鲈|青鱸|青鲈|鱸魚|鲈鱼|日本真鱸|日本真鲈|Perch|Sea bass|Japanese seaperch|Japanese sea bass|Japan sea bass,日本花鱸((8月),95.0,19.0,1.6,1.5
+R1700201,面肠(未调味),面腸(未調味)|麵腸(未調味)|Rolled flour gluten,麵腸(未調味),138.0,20.6,1.9,9.7
+J0408501,前鳞笛鲷,前鱗笛鯛|赤筆仔|赤笔仔|Indian snapper,前鱗笛鯛,101.0,22.0,0.8,0.9
+J0407301,范氏副叶鲹,範氏副葉鰺|范氏副葉鰺|甘仔魚|甘仔鱼|Blackfin scad|Herring scad,范氏副葉鰺,108.0,20.9,2.1,2.1
+J0406602,海鲡鱼片,海鱺魚片|海麗仔|海丽仔|軍曹魚|军曹鱼|海龍魚|海龙鱼|黑魽|黑𫠐|海麗(臺東)|海丽(台东)|海魚戾魚|海鱼戾鱼|錫臘白|锡腊白|海鱺/鱺魚/紅目鱺(澎湖)|海鲡/鲡鱼/红目鲡(澎湖)|Runner|Prodigal son|Sergeant fish|Sergeantfish|Crabeater|Black salmon|Cubby yew|Cabio|Black king fish|Cobia|Black kingfish|Cod|Kingfish,海鱺魚片,264.0,19.3,20.1,0.0
+J2200401,海鲈虾仁,海鱸蝦仁|Shelled shrimp,海鱸蝦仁,73.0,16.3,0.4,1.3
+J3101201,菲律宾帘蛤,菲律賓簾蛤|菲律賓蛤仔|菲律宾蛤仔|海瓜子(仔)蛤|花蛤|Filipino Venus,菲律賓簾蛤,37.0,7.5,0.5,4.1
+J0404901,白缘星鲙,白緣星鱠|闊嘴格仔|阔嘴格仔|鱠|鲙|過魚|过鱼|石斑|紅朱鱠(臺東)|红朱鲙(台东)|粉條(澎湖)|粉条(澎湖)|Painted coral trout|Whitemargin lyretail grouper|White-edged lyretail|Moontail seabass|Lunar-tailed grouper|Lyretail trout|Lyretail grouper|Lyre-tail trout,白緣星鱠,101.0,19.9,1.8,0.0
+B0700101,红马铃薯(粉红珍珠马铃薯),紅馬鈴薯(粉紅珍珠馬鈴薯)|洋芋|洋薯|洋山芋|荷蘭薯|荷兰薯|日本番薯|塊茄|块茄|Potato|White potato|Irish potato,紅馬鈴薯(粉紅珍珠馬鈴薯),66.0,1.6,0.0,14.4
+J3100601,绿壳菜蛤干,綠殼菜蛤幹|綠殼菜蛤干|孔雀蛤干|孔雀蛤幹|淡菜干|淡菜乾|翡翠貽貝干|翡翠贻贝干|翡翠貽貝幹|Green Mussel,綠殼菜蛤干,263.0,43.7,8.5,23.9
+J3100401,虾夷海扇蛤,蝦夷海扇蛤|扇貝|扇贝|立帆蛤|帆立貝|帆立贝|Yesso Scallop,蝦夷海扇蛤,70.0,13.7,1.2,2.3
+J0409906,真鲷(11月),真鯛(11月)|嘉鱲魚|嘉𫚭鱼|正鯛|正鲷|加臘|加腊|加蚋|加魶|真鯛|真鲷|加幾魚|加几鱼|銅盆魚|铜盆鱼|棘鬣魚|棘鬣鱼|Red seabream|Red tail|Red porgy|Silver seabream|Red sea bream|Red pargo|Genuine porgy|Japanese seabream|Madai|Japanese porgy,真鯛(11月),105.0,20.3,2.0,0.0
+J0403101,鲻(2月),鯔(2月)|青頭仔(幼魚)|青头仔(幼鱼)|奇目仔(成魚)|奇目仔(成鱼)|信魚|信鱼|正烏|正乌|烏魚|乌鱼|正頭烏|正头乌|回頭烏|回头乌|大烏(澎湖)|大乌(澎湖)|Sea mullet|River mullet|Springer|Striped mullet|Common grey mullet|Common mullet|Black mullet|Bright mullet|Black true mullet|Bully mullet|Callifaver mullet|Flathead grey mullet|Mullet,鯔(2月),137.0,20.4,5.5,1.6
+J0401003,虱目鱼(8月),蝨目魚(8月)|虱目魚(8月)|海草魚|海草鱼|遮目魚|遮目鱼|殺目魚|杀目鱼|安平魚|安平鱼|國姓魚|国姓鱼|麻虱目仔|麻蝨目仔|虱目/麻虱目(澎湖)|蝨目/麻蝨目(澎湖)|Salmon herring|Bangos|Bony salmon|Milkfish|Milk fish,虱目魚(8月),124.0,23.7,2.6,0.5
+J2200201,明虾仁,明蝦仁|Shelled shrimp,明蝦仁,52.0,11.9,0.1,0.0
+J0412106,"台湾鲷鱼片(烤,230℃,20分钟)","臺灣鯛魚片(烤,230℃,20分鐘)|台灣鯛魚片(烤,230℃,20分鐘)|Tilapia","台灣鯛魚片(烤,230℃,20分鐘)",142.0,24.6,4.1,2.5
+J3501501,蜗牛肉,蝸牛肉|Snail meat,蝸牛肉,78.0,16.7,0.7,0.0
+J0411001,黑䱛,黑口|烏喉|乌喉|黑喉(臺東)|黑喉(台东)|加正|烏加網|乌加网|黑喉|臭魚|臭鱼|Croaker|Black croaker|Blackmouth croaker|Longfin kob,黑䱛,149.0,17.9,8.0,1.2
+J0702101,鲻鱼精囊,鯔魚精囊|鯔(烏)魚鰾(膘)|鲻(乌)鱼鳔(膘)|Mullet swim bladder,鯔魚精囊,89.0,17.3,1.7,0.0
+J3100501,绿壳菜蛤,綠殼菜蛤|孔雀蛤|淡菜|翡翠貽貝|翡翠贻贝|Green Mussel,綠殼菜蛤,96.0,17.8,2.2,2.6
+J0410401,大黄鱼,大黃魚|黃魚|黄鱼|黃瓜|黄瓜|黃花魚|黄花鱼|黃口|黄口|火口|大黃花|大黄花|Croceine croaker|Large yellow croaker,大黃魚,142.0,16.8,7.8,0.2
+J0409801,阿部牙鲷,阿部牙鯛|赤鯮|阿部赤鯮,阿部牙鯛,124.0,18.9,4.8,0.0
+J2200101,大头虾仁,大頭蝦仁|Big head shelled shrimp,大頭蝦仁,40.0,8.8,0.2,0.0
+B0500201,小芋头(山芋),小芋頭(山芋)|芋頭|芋头|芋艿|芋乃|芋仔|青芋|土芝|Taro|Dasheen|Cocoyam|Eddoe,小芋頭(山芋),113.0,2.3,1.2,22.8
+J0412104,"台湾鲷鱼片(烤,190℃,20分钟)","臺灣鯛魚片(烤,190℃,20分鐘)|台灣鯛魚片(烤,190℃,20分鐘)|Tilapia","台灣鯛魚片(烤,190℃,20分鐘)",134.0,23.0,4.0,2.1
+J0412105,"台湾鲷鱼片(烤,230℃,10分钟)","臺灣鯛魚片(烤,230℃,10分鐘)|台灣鯛魚片(烤,230℃,10分鐘)|Tilapia","台灣鯛魚片(烤,230℃,10分鐘)",127.0,21.3,4.0,1.5
+B0100207,山药(台农2号),山藥(臺農2號)|山藥(台農2號)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: TNu 2,山藥(台農2號),95.0,3.2,0.1,19.9
+J3500301,阿根廷鱿,阿根廷魷|阿根廷滑柔魚|阿根廷滑柔鱼|Argentine shortfin squid,阿根廷魷,71.0,12.4,2.0,0.4
+J0408401,孟加拉笛鲷,孟加拉笛鯛|赤筆仔|赤笔仔|黃雞母(澎湖)|黄鸡母(澎湖)|Red snapper|Bengal snapper,孟加拉笛鯛,87.0,19.8,0.3,0.0
+J3500701,软翅仔,軟翅仔|萊氏擬烏賊|莱氏拟乌贼|軟翅鎖管|软翅锁管|軟翅(薯/絲)|软翅(薯/丝)|泥障鰂|泥障鲗|擬烏賊|拟乌贼|柔魚|柔鱼|Bigfin reef squid|Loligo|Neritic squid,軟翅仔,70.0,14.7,0.8,0.8
+J0412701,福氏鹦哥鱼(去皮),福氏鸚哥魚(去皮)|紅鸚哥|红鹦哥|青鸚哥仔|青鹦哥仔|青衣|青衫(雄)|蠔魚(雌)|蚝鱼(雌)|紅海逮|红海逮|紅咬齒|红咬齿|番仔魚(臺東)|番仔鱼(台东)|Rainbow parrotfish|Princess parrotfish|Tricolor parrotfish|Whitespot parrotfish|Big belly parrotfish|Forsten's parrotfish|Forsten parrotfish,福氏鸚哥魚(去皮),84.0,19.6,0.0,0.2
+J0415001,刺鲳(去皮),刺鯧(去皮)|肉魚|肉鱼|肉鯽仔|肉鲫仔|土肉|肉鯽|肉鲫|瓜仔鯧|瓜仔鲳|刺鯧|刺鲳|Japanese butterfish|Melon seed,刺鯧(去皮),95.0,18.8,1.6,0.1
+J0412201,台湾鲷鱼汤(水煮),臺灣鯛魚湯(水煮)|台灣鯛魚湯(水煮)|Tilapia soup,台灣鯛魚湯(水煮),5.0,0.9,0.2,0.0
+J0412103,"台湾鲷鱼片(烤,190℃,10分钟)","臺灣鯛魚片(烤,190℃,10分鐘)|台灣鯛魚片(烤,190℃,10分鐘)|Tilapia","台灣鯛魚片(烤,190℃,10分鐘)",111.0,19.7,3.0,1.8
+J3100201,真牡蛎,真牡蠣|正(大/長/鑄大)牡蠣|正(大/长/铸大)牡蛎|正(青)蚵|蚵仔|蚵|蠔|蚝|Giant pacific oyster|Japanese oyster,真牡蠣,49.0,9.0,1.2,1.8
+J0600101,圆鳕鱼鳃肉,圓鱈魚鰓肉,圓鱈魚鰓肉,84.0,14.5,2.5,3.9
+K0112101,茶叶蛋(市售),茶葉蛋(市售)|Hen's egg: hard-boiled with salt and tea leaves,茶葉蛋(市售),147.0,13.5,8.7,3.5
+K0206101,鸭蛋白,鴨蛋白|Duck's egg white,鴨蛋白,47.0,10.8,0.0,1.4
+K0113101,鸡皮蛋,雞皮蛋|Hen's egg: alkalized,雞皮蛋,142.0,12.8,8.5,3.6
+K0200201,红面番鸭蛋,紅面番鴨蛋|Duck's egg: muscovy,紅面番鴨蛋,198.0,13.1,15.6,0.0
+R8100801,杏仁茶冲泡包,杏仁茶沖泡包|綜合堅果穀粉|综合坚果谷粉,杏仁茶沖泡包,399.0,3.5,5.2,84.7
+L0124401,中脂调味乳(钙强化),中脂調味乳(鈣強化)|牛乳|牛奶|Reduced fat flavored composite and recombined milk: calcium enriched,中脂調味乳(鈣強化),68.0,2.3,2.6,8.9
+L0318101,脱脂浓稠发酵乳,脫脂濃稠發酵乳|優酪乳|优酪乳|Skimmed concentrated fermented milk,脫脂濃稠發酵乳,64.0,3.0,0.4,12.1
+M0200201,高油酸猪油,高油酸豬油|Lard: high oleic,高油酸豬油,893.0,0.0,100.0,0.0
+M9900201,调合植物油,調合植物油|蔬菜油|Vegetable oil,調合植物油,887.0,0.0,100.3,0.0
+M1100201,大豆油(卵磷脂强化),大豆油(卵磷脂強化)|Soybean oil: lecithin enriched,大豆油(卵磷脂強化),880.0,0.0,99.6,0.0
+M1000301,人造奶油(低热量),人造奶油(低熱量)|Margarine: low calorie,人造奶油(低熱量),94.0,2.5,10.6,29.6
+M1700101,油菜籽油,Rapeseed oil,油菜籽油,883.0,0.0,99.9,0.0
+L0102103,全脂鲜乳(6月取样),全脂鮮乳(6月取樣)|牛乳|牛奶|Whole fresh milk,全脂鮮乳(6月取樣),63.0,3.2,3.6,4.6
+J0412101,台湾鲷鱼片(水煮),臺灣鯛魚片(水煮)|台灣鯛魚片(水煮)|Tilapia,台灣鯛魚片(水煮),130.0,23.4,3.3,1.3
+J0416301,犬牙南极鱼切片,犬牙南極魚切片|南極鱈|南极鳕|美露鱈|美露鳕|黑狗鱈|黑狗鳕|智利海鱸(圓鱈)|智利海鲈(圆鳕)|Antarctic toothfish或Patagonian toothfish,犬牙南極魚切片,282.0,12.1,25.5,0.0
+J0401901,长体油胡瓜鱼,長體油胡瓜魚|柳葉魚|柳叶鱼|Shishamo,長體油胡瓜魚,104.0,15.0,4.4,0.0
+B0100211,山药(花莲3号),山藥(花蓮3號)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: Hua-Lian 3,山藥(花蓮3號),93.0,1.7,0.1,20.9
+K0213101,鸭皮蛋,鴨皮蛋|Duck's  egg: alkalized,鴨皮蛋,164.0,12.8,11.4,2.7
+K0100401,鸡蛋(高DHA),雞蛋(高DHA)|Hen's egg: DHA enriched,雞蛋(高DHA),132.0,12.5,8.6,1.8
+K0120102,鸡卤蛋(现煮),雞滷蛋(現煮)|Hen's egg: stewed,雞滷蛋(現煮),178.0,16.6,11.1,3.1
+K0120601,鸡卤蛋白(现煮),雞滷蛋白(現煮)|Hen's egg white: stewed,雞滷蛋白(現煮),84.0,16.6,0.2,3.9
+L0124301,中脂调味乳(果汁),中脂調味乳(果汁)|牛乳|牛奶|Low-fat flavored composite and recombined milk: low fat|fruit flavor,中脂調味乳(果汁),54.0,1.6,1.6,8.4
+L0102106,全脂鲜乳(11月取样),全脂鮮乳(11月取樣)|牛乳|牛奶|Whole fresh milk,全脂鮮乳(11月取樣),62.0,3.1,3.5,4.6
+M9900301,中链脂肪酸油,中鏈脂肪酸油|Medium chain triglyceride oil,中鏈脂肪酸油,883.0,0.0,99.9,0.0
+M2200101,油茶油,苦茶(籽)油|山茶油|天綠果油|天绿果油|大果種油茶油|大果种油茶油,油茶油,883.0,0.0,99.9,0.0
+K0111801,鸡水煮蛋黄,雞水煮蛋黃|Hen's egg yolk: hard-boiled,雞水煮蛋黃,343.0,15.5,30.5,2.9
+B0100209,山药(尖石原生种),山藥(尖石原生種)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: Jian-Shyr,山藥(尖石原生種),65.0,3.1,0.1,12.4
+Q2200101,巧克力冰淇淋,Ice cream: chocolate flavor,巧克力冰淇淋,192.0,4.2,10.6,19.9
+Q2200201,香草冰淇淋,Ice cream: vanilla flavor,香草冰淇淋,182.0,2.5,9.1,22.6
+L0224201,部份脱脂调味奶粉(果汁),部份脫脂調味奶粉(果汁)|乳粉|Partly skimmed modified milk powder: fruit flavor,部份脫脂調味奶粉(果汁),435.0,19.8,12.3,61.4
+L0126101,低脂调味乳(木瓜),低脂調味乳(木瓜)|牛乳|牛奶|Low-fat flavored composite and recombined milk: papaya flavor,低脂調味乳(木瓜),61.0,1.8,1.3,10.5
+L0214301,部份脱脂强化奶粉(纤维&钙强化),部份脫脂強化奶粉(纖維&鈣強化)|乳粉|Partly skimmed fortified milk powder: fiber & calcium enriched,部份脫脂強化奶粉(纖維&鈣強化),375.0,35.9,3.7,48.9
+L0204301,部份脱脂低乳糖奶粉,部份脫脂低乳糖奶粉|乳粉|Partly skimmed low lactose milk powder,部份脫脂低乳糖奶粉,416.0,34.6,10.4,45.6
+L0110101,高脂强化鲜乳(钙强化),高脂強化鮮乳(鈣強化)|牛乳|牛奶|High fat fortified fresh milk : calcium enriched,高脂強化鮮乳(鈣強化),68.0,3.2,3.9,5.2
+M1000201,中脂人造奶油,植物性奶油|Margarine,中脂人造奶油,674.0,0.0,76.2,1.3
+M2600101,葡萄籽油,Grape seed oil,葡萄籽油,884.0,0.0,100.0,0.0
+K0122101,鸡水波蛋,雞水波蛋|(不帶殼水煮蛋)|(不带壳水煮蛋)|Hen's egg: poached,雞水波蛋,147.0,11.6,10.7,0.8
+K0111601,鸡水煮蛋白,雞水煮蛋白|Hen's egg white: hard-boiled,雞水煮蛋白,61.0,13.6,0.2,1.5
+L0207201,脱脂奶粉(即溶),脫脂奶粉(即溶)|乳粉|Skimmed milk powder: instant,脫脂奶粉(即溶),360.0,38.0,1.0,48.8
+P1400201,奶精粉,奶精|植物性奶精|Non-dairy creamer|Creamer(powder),奶精粉,544.0,2.2,33.0,59.5
+L0217401,脱脂强化奶粉(钙&铁强化),脫脂強化奶粉(鈣&鐵強化)|乳粉|Skimmed fortified milk powder: calcium & iron enriched,脫脂強化奶粉(鈣&鐵強化),360.0,35.6,0.7,52.3
+L0102105,全脂鲜乳(10月取样),全脂鮮乳(10月取樣)|牛乳|牛奶|Whole fresh milk,全脂鮮乳(10月取樣),64.0,3.0,3.7,4.8
+L0102101,全脂鲜乳(1月取样),全脂鮮乳(1月取樣)|牛乳|牛奶|Whole fresh milk,全脂鮮乳(1月取樣),62.0,2.9,3.6,4.7
+L0102102,全脂鲜乳(4月取样),全脂鮮乳(4月取樣)|牛乳|牛奶|Whole fresh milk,全脂鮮乳(4月取樣),62.0,2.9,3.6,4.6
+L0116201,低脂强化鲜乳(寡糖强化),低脂強化鮮乳(寡糖強化)|低脂強化鮮乳(寡醣強化)|牛乳|牛奶|Low-fat fortified fresh milk: oligo enriched,低脂強化鮮乳(寡醣強化),46.0,3.1,1.3,5.5
+L0130101,高脂保久乳,牛乳|牛奶|High fat sterilized milk,高脂保久乳,71.0,3.1,5.1,3.4
+M1100101,大豆油,黃豆油|黄豆油|沙拉油|Soybean oil,大豆油,884.0,0.0,100.0,0.0
+C1620101,黑芝麻粉,Black sesame powder,黑芝麻粉,601.0,15.7,55.2,20.8
+M1600101,花生油,Peanut (arachis) oil,花生油,883.0,0.0,99.9,0.0
+O0900101,即溶咖啡粉,Instant coffee,即溶咖啡粉,363.0,16.6,1.3,71.2
+O0200601,龟苓茶,龜苓茶,龜苓茶,33.0,0.0,0.0,8.3
+R2000201,油面条,油麪條|油麵條|油麵|油面|Raw oil noodle (dry),油麵條,361.0,11.4,1.2,76.3
+J0407001,布氏鲳鲹(去皮),布氏鯧鰺(去皮)|金槍|金枪|金鯧|金鲳|紅杉|红杉|紅沙瓜仔|红沙瓜仔|長鰭黃臘鰺|长鳍黄腊鲹|甘仔魚(臺東)|甘仔鱼(台东)|紅紗(澎湖)|红纱(澎湖)|Snubnose pompano|Silver pampano|Silver pompano|Snub-nosed dart|Snub-nosed swallowtail|Permit|Pompio|Ovate pompano|Round pompano|Pompano|Snubnose dart|Spinous dory,布氏鯧鰺(去皮),192.0,20.3,11.7,0.0
+K0100101,鸡蛋(白壳),雞蛋(白殼)|Hen's egg: white eggshell,雞蛋(白殼),139.0,12.9,9.2,1.3
+K0150101,煎蛋(不加油),Hen's egg: fried without oil,煎蛋(不加油),161.0,13.5,11.3,4.9
+K0150201,炒蛋(加油3大匙),Hen's egg: scrambled with 3 tablespoons of oil,炒蛋(加油3大匙),215.0,12.9,16.1,4.6
+L0124601,中脂调味乳(纤维&维生素E强化),中脂調味乳(纖維&維生素E強化)|牛乳|牛奶|Reduced fat flavored composite and recombined milk: fiber & vitamin E enriched,中脂調味乳(纖維&維生素E強化),66.0,2.4,2.1,9.3
+L0217101,脱脂强化奶粉(抗氧化),脫脂強化奶粉(抗氧化)|乳粉|Skimmed fortified milk powder: antioxidant,脫脂強化奶粉(抗氧化),366.0,32.3,1.0,56.6
+R7101701,甘草葵瓜子(带壳),甘草葵瓜子(帶殼)|Sunflower seeds: spiced|cooked,甘草葵瓜子(帶殼),564.0,26.8,39.3,25.8
+A0100101,大麦仁,大麥仁|小薏仁|洋薏仁|珍珠薏仁|Barley,大麥仁,365.0,8.6,1.6,77.1
+L0214201,部份脱脂强化奶粉(纤维&DHA强化),部份脫脂強化奶粉(纖維&DHA強化)|乳粉|Partly skimmed fortified milk powder: fiber & DHA enriched,部份脫脂強化奶粉(纖維&DHA強化),476.0,23.2,22.1,47.3
+J3500601,尖锁管,尖鎖管|尖仔鎖管|尖仔锁管|詩博加槍烏賊|诗博加枪乌贼|尖仔|小卷(幼體)|小卷(幼体)|Inshore squids|Loligo|Neritic squid|Siboga squid,尖鎖管,100.0,20.2,1.5,2.4
+J3500102,真乌贼(小),真烏賊(小)|花枝|墨魚|墨鱼|金烏賊|金乌贼|烏鰂|乌鲗|墨鬥魚|墨斗鱼|Cuttlefish,真烏賊(小),53.0,10.5,0.9,6.6
+K0150301,蒸蛋(市售),芙蓉豆腐|Hen's egg custard,蒸蛋(市售),32.0,3.6,1.8,3.4
+B0100212,山药(青森),山藥(青森)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: Ching-Sen,山藥(青森),94.0,2.6,0.2,19.9
+K0314101,鹌鹑咸蛋,鵪鶉鹹蛋|鳥蛋|鸟蛋|Quail's egg: salted,鵪鶉鹹蛋,173.0,13.7,12.3,1.9
+L0400101,淡炼乳,淡煉乳|蒸發乳|蒸发乳|奶水|Evaporated milk,淡煉乳,137.0,6.5,8.3,9.1
+L0132101,全脂保久乳,牛乳|牛奶|Whole sterilized milk,全脂保久乳,62.0,3.0,3.4,5.1
+L0134101,中脂保久乳,牛乳|牛奶|Medium fat sterilized milk,中脂保久乳,48.0,3.2,1.8,4.8
+R7100801,玉桂西瓜子,Watermelon seeds: spiced|cooked,玉桂西瓜子,529.0,31.1,34.4,23.8
+Q2102101,鲜奶布丁,鮮奶布丁|白布丁|Milk pudding,鮮奶布丁,110.0,3.0,5.1,13.1
+L0204201,部份脱脂奶粉(即溶),部份脫脂奶粉(即溶)|乳粉|Partly skimmed milk powder: instant,部份脫脂奶粉(即溶),445.0,23.7,16.4,51.6
+L0338101,脱脂保久稀释发酵乳,脫脂保久稀釋發酵乳|乳酸飲料|乳酸饮料|Skimmed diluted fermented milk: sterilized,脫脂保久稀釋發酵乳,46.0,0.1,0.1,11.0
+L0314301,中脂浓稠发酵乳(草莓),中脂濃稠發酵乳(草莓)|優酪乳|优酪乳|Medium fat concentrated fermented milk: strawberry flavor,中脂濃稠發酵乳(草莓),89.0,3.1,2.7,13.0
+Q2102301,黄布丁,黃布丁|雞蛋布丁|鸡蛋布丁|Pudding,黃布丁,110.0,2.3,3.5,17.3
+L0102104,全脂鲜乳(9月取样),全脂鮮乳(9月取樣)|牛乳|牛奶|Whole fresh milk,全脂鮮乳(9月取樣),64.0,2.8,3.6,5.3
+R7500601,油鱼卵(加工),油魚卵(加工)|油魚子|油鱼子|Escolar roe,油魚卵(加工),416.0,46.6,27.3,0.0
+J4100501,黑乌参,黑烏參|Black sea cucumber,黑烏參,29.0,6.5,0.1,0.0
+K0100201,土鸡蛋,土雞蛋|Hen's egg: wild,土雞蛋,129.0,12.9,8.1,1.7
+K0111101,鸡水煮蛋,雞水煮蛋|Hen's egg: hard-boiled,雞水煮蛋,144.0,14.0,9.2,1.7
+K0106102,鸡蛋白(黄壳),雞蛋白(黃殼)|Hen's egg white: yellow eggshell,雞蛋白(黃殼),52.0,11.6,0.2,1.2
+K0108102,鸡蛋黄(黄壳),雞蛋黃(黃殼)|Hen's egg yolk: yellow eggshell,雞蛋黃(黃殼),286.0,14.5,24.7,5.6
+B0100205,山药(中国长品),山藥(中國長品)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: Tong-Gwo-Taang-Piin,山藥(中國長品),74.0,2.5,0.1,15.5
+K0123101,荷包蛋(不加油),Hen's egg: over medium without oil,荷包蛋(不加油),162.0,14.0,11.2,1.4
+B0100208,山药(白皮削),山藥(白皮削)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: Bair-Pyi-Shiau,山藥(白皮削),75.0,2.5,0.1,15.7
+K0108201,乌骨鸡蛋黄,烏骨雞蛋黃|Hen's egg yolk: Silky fowl,烏骨雞蛋黃,344.0,15.5,30.6,1.4
+L0318301,脱脂浓稠发酵乳(草莓),脫脂濃稠發酵乳(草莓)|優酪乳|优酪乳|Skimmed concentrated fermented milk: strawberry flavor,脫脂濃稠發酵乳(草莓),68.0,2.3,0.4,13.8
+K0300101,鹌鹑蛋,鵪鶉蛋|鳥蛋|鸟蛋|Quail's egg,鵪鶉蛋,172.0,12.7,13.0,1.2
+K0123201,荷包蛋(加油1小匙),Hen's egg: over medium with 1 teaspoon of oil,荷包蛋(加油1小匙),192.0,13.0,14.9,1.6
+L0308101,脱脂稀释发酵乳,脫脂稀釋發酵乳|活菌乳酸飲料|活菌乳酸饮料|Skimmed diluted fermented milk,脫脂稀釋發酵乳,68.0,1.1,0.1,15.8
+L0154201,中脂调味保久乳(布丁),中脂調味保久乳(布丁)|牛乳|牛奶|Reduced fat flavored composite and recombined sterilized milk: pudding flavor,中脂調味保久乳(布丁),61.0,1.6,1.7,9.8
+L1154201,中脂调味保久羊乳(果汁),中脂調味保久羊乳(果汁)|羊奶|Reduced fat flavored composite and recombined sterilized goat milk: fruit flavor,中脂調味保久羊乳(果汁),75.0,2.9,2.8,9.5
+R7101602,调味南瓜子(带壳),調味南瓜子(帶殼)|白瓜子|Pumpkin seeds: spiced|cooked,調味南瓜子(帶殼),607.0,25.9,47.2,19.5
+L0314101,中脂浓稠发酵乳,中脂濃稠發酵乳|優酪乳|优酪乳|Medium fat concentrated fermented milk,中脂濃稠發酵乳,82.0,2.9,2.3,12.6
+M2400101,椰子油,Coconut oil,椰子油,883.0,0.0,99.9,0.0
+M0100201,牛油(精炼),牛油(精煉)|Tallow,牛油(精煉),885.0,0.0,99.1,0.6
+M0300101,鸡油,雞油|Chicken oil,雞油,891.0,0.0,99.8,0.0
+M1300101,米油(籼米),米油(秈米)|米糠油|玄米油|胚芽米油|Rice oil|Rice bran oil,米油(秈米),883.0,0.1,99.9,0.0
+M1650101,调合花生油,調合花生油|Blending peanut oil,調合花生油,884.0,0.0,100.0,0.0
+J0403001,𩽾𩾌,鮟鱇,鮟鱇,68.0,14.9,0.5,0.6
+J0705101,𩽾𩾌鱼肝,鮟鱇魚肝|Blackmouth angler liver,鮟鱇魚肝,136.0,13.6,8.6,1.9
+K0113201,土鸡皮蛋,土雞皮蛋|Hen's egg: wild|alkalized,土雞皮蛋,127.0,12.2,7.6,2.3
+K0214103,鸭熟咸蛋(薄盐),鴨熟鹹蛋(薄鹽)|Duck's  egg: salted,鴨熟鹹蛋(薄鹽),194.0,13.7,13.8,3.5
+K0106201,乌骨鸡蛋白,烏骨雞蛋白|Hen's egg white: Silky fowl,烏骨雞蛋白,47.0,10.6,0.0,1.7
+L0124201,中脂调味乳(多谷类),中脂調味乳(多穀類)|牛乳|牛奶|Reduced fat flavored composite and recombined milk: cereal flavor,中脂調味乳(多穀類),67.0,2.4,3.1,7.6
+L0118301,脱脂强化鲜乳(铁强化),脫脂強化鮮乳(鐵強化)|牛乳|牛奶|Skimmed fortified fresh milk:  iron enriched,脫脂強化鮮乳(鐵強化),41.0,4.2,0.2,5.6
+R7101301,油炸花生仁,土豆|長生果|长生果|落花生|Peanut: fried,油炸花生仁,623.0,28.9,48.4,18.0
+M1500101,白芝麻油,Sesame oil: white,白芝麻油,884.0,0.1,100.0,0.0
+O0702301,奶茶冲泡包(三合一),奶茶沖泡包(三合一)|Instant tea powder mix,奶茶沖泡包(三合一),452.0,1.7,12.9,82.3
+R2001101,卫生油面,衛生油麪|衛生油麵|Oil noodle (cooked),衛生油麵,163.0,5.5,1.8,31.2
+K0108301,鸡蛋黄(高维生素E),雞蛋黃(高維生素E)|Hen's egg yolk: vitamin E enriched,雞蛋黃(高維生素E),314.0,16.2,27.0,5.4
+K0112601,茶叶蛋白(浸泡隔夜),茶葉蛋白(浸泡隔夜)|Hen's egg whiet: hard-boiled with salt and tea leaves,茶葉蛋白(浸泡隔夜),54.0,12.9,0.1,0.4
+K0112801,茶叶蛋黄(浸泡隔夜),茶葉蛋黃(浸泡隔夜)|Hen's egg yolk: hard-boiled with salt and tea leaves,茶葉蛋黃(浸泡隔夜),344.0,15.7,30.3,2.2
+L0324101,中脂凝态发酵乳(草莓),中脂凝態發酵乳(草莓)|優格|优格|Medium fat yoghurt: strawberry flavor,中脂凝態發酵乳(草莓),102.0,3.7,2.7,15.7
+L0316101,低脂浓稠发酵乳,低脂濃稠發酵乳|優酪乳|优酪乳|Low-fat concentrated fermented milk,低脂濃稠發酵乳,73.0,2.3,1.1,13.6
+L0124501,中脂调味乳(维生素强化),中脂調味乳(維生素強化)|牛乳|牛奶|Reduced fat flavored composite and recombined milk: multi-vitamins enriched,中脂調味乳(維生素強化),60.0,2.0,1.9,8.6
+L0116101,低脂强化鲜乳(维生素E强化),低脂強化鮮乳(維生素E強化)|牛乳|牛奶|Low-fat fortified fresh milk : vitamin E enriched,低脂強化鮮乳(維生素E強化),41.0,3.0,1.3,4.2
+L0114101,中脂强化鲜乳(脂肪酸调整),中脂強化鮮乳(脂肪酸調整)|牛乳|牛奶|Medium fat fortified fresh milk : fatty acid modified,中脂強化鮮乳(脂肪酸調整),59.0,2.0,2.0,8.6
+L0102107,全脂鲜乳(12月取样),全脂鮮乳(12月取樣)|牛乳|牛奶|Whole fresh milk,全脂鮮乳(12月取樣),64.0,3.2,3.4,5.2
+L0500301,刨丝干酪,"刨絲乾酪|起司|芝士(市售亦稱""乳酪"")|芝士(市售亦称""乳酪"")|Cheese",刨絲乾酪,323.0,25.1,22.6,4.4
+P1400101,液体奶精,液體奶精|奶精|Creamer(liquid),液體奶精,262.0,3.9,26.3,2.5
+L0100101,高脂鲜乳,高脂鮮乳|牛乳|牛奶|High fat fresh milk,高脂鮮乳,73.0,3.2,4.0,6.1
+L1104101,中脂鲜羊乳,中脂鮮羊乳|羊奶|Medium fat fresh goat milk,中脂鮮羊乳,48.0,2.7,2.4,3.9
+L0154101,中脂调味保久乳(巧克力),中脂調味保久乳(巧克力)|牛乳|牛奶|Reduced fat flavored composite and recombined sterilized milk: chocolate flavor,中脂調味保久乳(巧克力),60.0,1.9,1.7,9.3
+L0124101,中脂调味乳(巧克力),中脂調味乳(巧克力)|牛乳|牛奶|Reduced fat flavored composite and recombined milk: chocolate flavor,中脂調味乳(巧克力),63.0,1.9,2.0,9.2
+J0406901,日本竹䇲鱼,日本竹筴魚|巴攏|巴拢|竹莢魚|竹荚鱼|瓜仔魚|瓜仔鱼|真鰺|真鲹|巴蘭|巴兰|瓜魚|瓜鱼|巴弄/硬尾(澎湖)|黑尾|Japanese scad|Japanese jack mackerel|Japanese horse mackerel|Jack mackerel,日本竹筴魚,116.0,23.0,2.0,0.0
+J0403701,鳞马鞭鱼,鱗馬鞭魚|馬鞭魚|马鞭鱼|馬戍|马戍|槍管|枪管|火管|剃仔|土管(臺東)|土管(台东)|Rough flutemouth|Red cornet fish|Red cornetfish|Serrate flutemouth|Pipefish|Rough flute mouth|Cornet fish|Flute mouth|Flutemouth|Lacepede's cornetfish,鱗馬鞭魚,84.0,18.5,0.5,0.0
+K0121101,鸡铁蛋,雞鐵蛋|hen's iron  egg,雞鐵蛋,288.0,26.6,17.5,5.9
+B0100210,山药(宜兰原生种),山藥(宜蘭原生種)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: Yi-Lan,山藥(宜蘭原生種),140.0,4.8,0.2,29.1
+K0100901,鸡蛋(高维生素E),雞蛋(高維生素E)|Hen's egg: vitamin E enriched,雞蛋(高維生素E),143.0,12.8,9.7,1.4
+K0311101,鹌鹑水煮蛋,鵪鶉水煮蛋|鳥蛋|鸟蛋|Quail's egg: hard-boiled,鵪鶉水煮蛋,163.0,12.3,12.1,0.0
+K0110101,温泉蛋,溫泉蛋|Japanese-style flavered spa egg,溫泉蛋,137.0,12.9,7.8,3.8
+L0322101,全脂凝态发酵乳,全脂凝態發酵乳|優格|优格|Whole yoghurt,全脂凝態發酵乳,97.0,3.1,3.3,13.6
+L1132101,保久羊乳,羊奶|Sterilized goat milk,保久羊乳,59.0,3.0,3.3,4.5
+L0217301,"脱脂强化奶粉(钙&维生素C,E强化)","脫脂強化奶粉(鈣&維生素C,E強化)|乳粉|Skimmed fortified milk powder: calcium & vitamin C/E enriched","脫脂強化奶粉(鈣&維生素C,E強化)",360.0,32.8,0.7,55.4
+J0403801,黄鳝,黃鱔|鱔魚|鳝鱼|田鱔|田鳝|田鰻|田鳗|長魚|长鱼|血魚|血鱼|羅魚|罗鱼|無鱗公子|无鳞公子|Rice (paddy) field eel|Rice swampeel|Rice paddy eel|Rice eel|Swamp eel,黃鱔,88.0,17.6,1.4,1.0
+B0100202,山药(大汕1号),山藥(大汕1號)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: Da-Shan 1,山藥(大汕1號),80.0,2.4,0.1,17.0
+J3100901,大文蛤,文蛤|普通文蛤|Hard clam,大文蛤,21.0,4.4,0.2,1.5
+K0112102,茶叶蛋(浸泡隔夜),茶葉蛋(浸泡隔夜)|Hen's egg: hard-boiled with salt and tea leaves,茶葉蛋(浸泡隔夜),143.0,13.8,9.4,0.9
+K0150303,蒸蛋(电锅),蒸蛋(電鍋)|Hen's egg custard,蒸蛋(電鍋),80.0,5.8,6.0,1.3
+K0100301,乌骨鸡蛋,烏骨雞蛋|Hen's egg: Silky fowl,烏骨雞蛋,160.0,12.7,11.6,2.4
+K0100701,初卵鸡蛋,初卵雞蛋|Hen's egg at the early stage,初卵雞蛋,136.0,12.3,9.2,1.4
+L0106101,低脂鲜乳,低脂鮮乳|牛乳|牛奶|Low-fat fresh milk,低脂鮮乳,43.0,3.3,1.1,5.0
+L0211101,全脂强化奶粉(纤维强化),全脂強化奶粉(纖維強化)|乳粉|Whole fortified milk powder: fiber enriched,全脂強化奶粉(纖維強化),500.0,25.6,27.0,39.5
+K0108101,鸡蛋黄(白壳),雞蛋黃(白殼)|Hen's egg yolk: white eggshell,雞蛋黃(白殼),330.0,16.0,28.9,1.6
+K0214102,鸭熟咸蛋,鴨熟鹹蛋|Duck's  egg: salted,鴨熟鹹蛋,183.0,13.7,13.8,0.8
+K0214801,鸭咸蛋黄,鴨鹹蛋黃|Duck's  egg yolk: salted,鴨鹹蛋黃,528.0,23.6,47.6,1.3
+K0214101,鸭生咸蛋,鴨生鹹蛋|Duck's  egg: salted,鴨生鹹蛋,178.0,12.5,14.7,0.0
+K0120802,鸡卤蛋黄(浸泡隔夜),雞滷蛋黃(浸泡隔夜)|Hen's egg yolk: stewed,雞滷蛋黃(浸泡隔夜),382.0,17.4,33.6,2.6
+B0100213,山药(高田),山藥(高田)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: Gau-Tyan,山藥(高田),71.0,3.1,0.1,14.0
+L0400201,加糖部份脱脂炼乳,加糖部份脫脂煉乳|Sweetened condensed partly skim milk,加糖部份脫脂煉乳,325.0,7.5,7.8,56.2
+L0348101,脱脂保久浓稠发酵乳(草莓&苹果),脫脂保久濃稠發酵乳(草莓&蘋果)|保久優酪乳|保久优酪乳|Skimmed concentrated fermented milk: sterilized|strawberry & apple flavor,脫脂保久濃稠發酵乳(草莓&蘋果),68.0,3.0,0.2,13.6
+P1400301,奶精粉(低脂),奶精|植物性奶精|Non-dairy creamer (low fat)|Creamer(powder),奶精粉(低脂),450.0,2.1,15.7,75.2
+L0500201,切片干酪(低脂),"切片乾酪(低脂)|起司|芝士(市售亦稱""乳酪"")|芝士(市售亦称""乳酪"")|Cheese: low-fat|slice",切片乾酪(低脂),241.0,21.7,13.0,8.8
+M1300201,米油(粳米),米糠油|玄米油|胚芽米油|Rice oil|Rice bran oil,米油(粳米),883.0,0.0,99.9,0.0
+R8100901,芝麻糊冲泡包,芝麻糊沖泡包|Seasame paste,芝麻糊沖泡包,458.0,9.3,15.4,70.7
+M1100301,大豆油(多种维生素强化),大豆油(多種維生素強化)|沙拉油|Soybean oil: multi-vitamins enriched,大豆油(多種維生素強化),883.0,0.0,99.9,0.0
+N0600101,枫糖,楓糖|Maples,楓糖,258.0,0.1,0.1,66.6
+J2100802,日本对虾(小),日本對蝦(小)|斑節蝦|斑节虾|雷公蝦|雷公虾|明蝦|明虾|九節蝦|九节虾|Japanese king prawn|Japanese tiger prawn|Kuruma prawn|Striped prawn,日本對蝦(小),96.0,20.9,0.8,1.8
+R6800101,鱼肉脯,魚肉脯|Stir fried shredded fish floss,魚肉脯,104.0,21.9,1.7,0.2
+K0120103,鸡卤蛋(浸泡隔夜),雞滷蛋(浸泡隔夜)|Hen's egg: stewed,雞滷蛋(浸泡隔夜),182.0,16.9,10.8,4.4
+K0120602,鸡卤蛋白(浸泡隔夜),雞滷蛋白(浸泡隔夜)|Hen's egg white: stewed,雞滷蛋白(浸泡隔夜),89.0,16.7,0.2,5.2
+K0150302,蒸蛋(微波炉),蒸蛋(微波爐)|Hen's egg custard,蒸蛋(微波爐),82.0,6.4,6.0,1.8
+L1200101,全脂羊奶粉,羊乳粉|Whole goat milk powder,全脂羊奶粉,510.0,26.7,29.8,34.8
+L0500101,切片干酪,"切片乾酪|起司|芝士(市售亦稱""乳酪"")|芝士(市售亦称""乳酪"")|Cheese: slice",切片乾酪,309.0,18.3,23.7,5.9
+L0204101,部份脱脂奶粉,部份脫脂奶粉|乳粉|Partly skimmed milk powder,部份脫脂奶粉,420.0,32.8,11.6,46.1
+L0217201,脱脂强化奶粉(钙&维生素A强化),脫脂強化奶粉(鈣&維生素A強化)|乳粉|Skimmed fortified milk powder: calcium & vitamin A enriched,脫脂強化奶粉(鈣&維生素A強化),360.0,38.0,1.0,48.8
+L0328101,脱脂凝态发酵乳(纤维强化),脫脂凝態發酵乳(纖維強化)|優格|优格|Skimmed yoghurt: fiber enriched,脫脂凝態發酵乳(纖維強化),84.0,4.1,0.5,15.9
+L0320101,高脂凝态发酵乳(纤维强化),高脂凝態發酵乳(纖維強化)|優格|优格|High fat yoghurt: fiber enriched,高脂凝態發酵乳(纖維強化),95.0,3.2,3.8,11.9
+M2700101,橄榄油,橄欖油|Olive oil,橄欖油,884.0,0.0,100.0,0.0
+M2000101,红花籽油,紅花籽油|Safflower oil,紅花籽油,884.0,0.0,100.0,0.0
+M1550101,调合芝麻油,調合芝麻油|Blending sesame oil,調合芝麻油,884.0,0.1,100.0,0.0
+M0100101,牛油(未精炼),牛油(未精煉)|Tallow,牛油(未精煉),642.0,0.0,71.9,4.2
+Q2300101,花生仁汤,花生仁湯|Peanut soup,花生仁湯,108.0,2.8,5.1,12.7
+J3200202,珠贝(干),珠貝(幹)|珠貝(乾)|珍珠干貝|珍珠干贝|珍珠幹貝|Scallop,珠貝(乾),228.0,48.9,2.2,6.1
+J3101101,波纹横帘蛤,波紋橫簾蛤|波紋巴非蛤|波纹巴非蛤|山瓜仔(子)|海瓜仔(子)|Undulating Venus,波紋橫簾蛤,48.0,9.2,1.0,4.6
+K0106101,鸡蛋白(白壳),雞蛋白(白殼)|Hen's egg white: white eggshell,雞蛋白(白殼),48.0,10.7,0.1,0.0
+B0100201,山药(二刺),山藥(二刺)|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam: Ell-Tsyh,山藥(二刺),89.0,2.7,0.1,18.9
+K0100102,鸡蛋(黄壳),雞蛋(黃殼)|Hen's egg: yellow eggshell,雞蛋(黃殼),132.0,12.5,8.6,2.0
+L0104101,中脂鲜乳,中脂鮮乳|牛乳|牛奶|Medium fat fresh milk,中脂鮮乳,48.0,3.1,1.9,4.8
+Q9900201,冰淇淋粉(香草),Ice cream powder: vanilla flavor,冰淇淋粉(香草),430.0,15.9,11.7,65.3
+L0308201,脱脂稀释发酵乳(钙强化),脫脂稀釋發酵乳(鈣強化)|活菌乳酸飲料|活菌乳酸饮料|Skimmed diluted fermented milk: calcium enriched,脫脂稀釋發酵乳(鈣強化),72.0,1.0,0.1,16.9
+L0312101,全脂浓稠发酵乳,全脂濃稠發酵乳|優酪乳|优酪乳|Whole concentrated fermented milk,全脂濃稠發酵乳,90.0,4.1,3.2,11.3
+P1003201,辣椒酱,辣椒醬|Hot sauce|Chili sauce|Pungent sauce|Chili paste,辣椒醬,83.0,2.6,2.9,11.5
+P1002501,甜辣酱,甜辣醬,甜辣醬,116.0,1.0,0.0,28.1
+P1002601,甜面酱,甜麪醬|甜麵醬,甜麵醬,216.0,4.5,2.4,44.0
+P1003901,蒜味豆豉酱,蒜味豆豉醬,蒜味豆豉醬,270.0,9.5,17.0,19.7
+R7100301,蜜汁松子仁,Pine-seed: honey roasted,蜜汁松子仁,697.0,14.9,62.4,19.0
+J2100401,胭脂虾,"胭脂蝦|文蝦(""葉狀擬鬚蝦或雄壯鬚蝦"")|文虾(""叶状拟须虾或雄壮须虾"")",胭脂蝦,114.0,13.8,6.1,0.7
+J0400901,日本银带鲱(加工),日本銀帶鯡(加工)|針嘴鰮|针嘴鳁|丁香魚|丁香鱼|魩仔|丁香|鱙仔|灰海荷鰮|灰海荷鳁|Silver stripe round herring,日本銀帶鯡(加工),111.0,21.5,2.1,1.2
+K0208101,鸭蛋黄,鴨蛋黃|Duck's egg yolk,鴨蛋黃,347.0,15.8,30.8,2.0
+K0100601,鸡蛋(高亚麻油酸),雞蛋(高亞麻油酸)|Hen's egg: linoleic acid enriched,雞蛋(高亞麻油酸),133.0,13.0,8.4,0.8
+K0100501,鸡蛋(高次亚麻油酸),雞蛋(高次亞麻油酸)|Hen's egg: linolenic acid enriched,雞蛋(高次亞麻油酸),139.0,12.4,9.4,2.8
+K0120801,鸡卤蛋黄(现煮),雞滷蛋黃(現煮)|Hen's egg yolk: stewed,雞滷蛋黃(現煮),376.0,16.6,33.8,1.3
+Q6900201,羊乳片,Goat milk tablet,羊乳片,410.0,23.4,10.0,56.6
+R7100101,蒜味甘扁桃仁,蒜味杏仁果|Garlic Almonds,蒜味甘扁桃仁,648.0,23.3,53.6,18.0
+L0200101,全脂奶粉,乳粉|Whole milk powder,全脂奶粉,504.0,26.4,28.2,37.0
+Q2102201,烤布丁,Pudding,烤布丁,138.0,4.7,7.1,13.8
+N0700201,蜂蜜(春蜜),Honey: spring,蜂蜜(春蜜),308.0,0.2,0.2,79.6
+P1100101,沙拉酱,沙拉醬|Mayonnaise sauce|Mayonnaise|Salad dressing,沙拉醬,645.0,1.9,65.7,11.4
+P1003401,糖醋酱,糖醋醬,糖醋醬,131.0,1.9,2.6,25.1
+P0300101,岩盐,岩鹽|巖鹽|Salt,岩鹽,2.0,0.0,0.1,0.4
+P0200901,蒜头酥,蒜頭酥,蒜頭酥,452.0,11.7,17.8,61.2
+Q0100401,冷藏广式萝卜糕,冷藏廣式蘿蔔糕|菜頭粿|菜头粿|Turnip cake|Radish cake,冷藏廣式蘿蔔糕,111.0,2.2,2.3,20.4
+Q0100301,冷藏广式芋头粿,冷藏廣式芋頭粿|Taro cake,冷藏廣式芋頭粿,109.0,2.1,1.6,21.5
+Q0500601,萝卜酥,蘿蔔酥|Turnip cake,蘿蔔酥,427.0,7.5,20.9,52.3
+R5900301,猪脚冻,豬腳凍,豬腳凍,145.0,16.6,7.8,2.0
+R5400101,冷冻珍珠丸,冷凍珍珠丸,冷凍珍珠丸,225.0,9.5,11.5,20.9
+R6200401,冷冻虾饼,冷凍蝦餅|Shrimp croquette,冷凍蝦餅,127.0,9.6,2.1,17.3
+R7100201,杏仁霜,杏仁粉|杏仁茶|Apricot Kernel powder,杏仁霜,554.0,9.7,36.4,47.1
+Q6900401,绿豆球,綠豆球,綠豆球,346.0,6.2,1.1,77.9
+O0600501,沙士(低糖),Root beer: diet,沙士(低糖),43.0,0.0,0.0,10.9
+D4410101,无花果干,無花果乾|無花果|无花果|Fig|dried,無花果乾,328.0,3.6,4.3,77.8
+O0702101,"珍珠奶茶(去冰,半糖)",,"珍珠奶茶(去冰,半糖)",84.0,0.2,2.7,14.5
+O0702001,"珍珠奶茶(去冰,微糖)",,"珍珠奶茶(去冰,微糖)",75.0,0.2,2.3,13.5
+P0200601,油葱酥,油蔥酥|Fried shallots,油蔥酥,518.0,7.4,28.8,57.1
+P0101801,辣椒粉,Shili powder|Cayenne|paprika,辣椒粉,387.0,14.7,14.1,59.1
+P0200201,沙茶粉,,沙茶粉,507.0,15.0,28.8,47.0
+P0500201,高汤块(鸡肉),高湯塊(雞肉),高湯塊(雞肉),340.0,14.7,24.8,14.5
+P0500301,高汤(猪大骨),高湯(豬大骨),高湯(豬大骨),49.0,4.2,0.7,6.6
+P0300201,低钠盐,低鈉鹽|Salt: low sodium,低鈉鹽,11.0,0.0,0.0,2.8
+R2300901,冷冻猪肉包子,冷凍豬肉包子|Pork bun,冷凍豬肉包子,266.0,7.6,9.2,38.2
+R2301001,冷冻猪肉汤包,冷凍豬肉湯包|Pork bun,冷凍豬肉湯包,235.0,10.1,14.3,16.3
+R0700101,肉圆,肉圓|肉丸,肉圓,136.0,3.1,1.6,27.3
+R0400101,肉粽,肉糉,肉粽,235.0,8.2,8.8,30.7
+C2300101,莲子,蓮子|Lotus nut|Lotus seed,蓮子,141.0,9.3,0.5,25.6
+Q0500401,蛋黄酥,蛋黃酥|Egg-yolk cake,蛋黃酥,461.0,11.4,26.4,44.5
+P1002301,烤肉酱,烤肉醬|Barbecue sauce,烤肉醬,157.0,5.2,0.8,32.1
+P1001901,黄芥茉酱,黃芥茉醬|Mustard sauce,黃芥茉醬,74.0,4.1,3.7,6.2
+P1003801,米豆酱,米豆醬,米豆醬,128.0,7.4,3.0,17.9
+P1004701,虾酱,蝦醬|Shrimp paste,蝦醬,99.0,19.6,1.7,1.3
+P1000601,炸酱,炸醬,炸醬,398.0,14.6,34.7,6.7
+C1005101,山粉圆,山粉圓,山粉圓,400.0,16.3,12.8,58.0
+P1000701,素食炸酱,素食炸醬,素食炸醬,391.0,13.9,35.3,4.5
+P1100301,千岛沙拉酱,千島沙拉醬,千島沙拉醬,515.0,1.0,49.3,16.7
+P1200101,味噌,,味噌,215.0,10.6,4.5,33.1
+R0700201,清蒸虾仁肉圆,清蒸蝦仁肉圓|肉丸,清蒸蝦仁肉圓,152.0,4.6,7.4,16.7
+C1700201,冷冻带壳花生(熟),冷凍帶殼花生(熟)|土豆|長生果|长生果|落花生|Peanut,冷凍帶殼花生(熟),344.0,17.2,27.4,13.3
+R2100201,泡面(牛肉口味),泡麪(牛肉口味)|泡麵(牛肉口味)|Instant noodle,泡麵(牛肉口味),473.0,9.6,24.5,53.6
+R2100301,泡面(鲜虾口味),泡麪(鮮蝦口味)|泡麵(鮮蝦口味)|Instant noodle,泡麵(鮮蝦口味),475.0,9.6,23.8,55.5
+R0900201,冷冻花生汤圆,冷凍花生湯圓,冷凍花生湯圓,350.0,5.2,15.6,47.1
+R5900201,冷冻咕咾肉,冷凍咕咾肉,冷凍咕咾肉,184.0,6.4,9.5,18.3
+R2200801,冷冻猪肉熟水饺,冷凍豬肉熟水餃|Dumpling: pork|cooked,冷凍豬肉熟水餃,235.0,7.2,10.1,28.9
+R7101901,糖渍莲子,糖漬蓮子|Lotus nut|Lotus seed,糖漬蓮子,230.0,5.7,0.1,51.4
+R2301201,冷冻素菜包子,冷凍素菜包子|Vegetable bun,冷凍素菜包子,234.0,8.6,3.8,41.4
+R2300601,冷冻莲蓉包,冷凍蓮蓉包|Lotus seed paste bun,冷凍蓮蓉包,292.0,7.9,5.5,52.8
+R2800401,牛肉馅饼,牛肉餡餅,牛肉餡餅,225.0,9.6,10.4,23.3
+R8100301,麦片冲泡包(三合一),麥片沖泡包(三合一),麥片沖泡包(三合一),409.0,11.0,7.5,74.3
+R6200301,冷冻鲔排,冷凍鮪排,冷凍鮪排,143.0,13.4,0.9,20.4
+R6700101,冷冻蟹味棒,冷凍蟹味棒|蟹肉棒,冷凍蟹味棒,118.0,9.3,0.7,18.6
+R5500201,冷冻鸡块,冷凍雞塊|Chicken nugget,冷凍雞塊,228.0,15.3,12.9,12.6
+R2200401,冷冻猪肉蟹黄水饺,冷凍豬肉蟹黃水餃|Dumpling,冷凍豬肉蟹黃水餃,223.0,7.8,9.8,26.0
+R2400701,冷冻银丝卷(奶黄),冷凍銀絲捲(奶黃)|冷凍銀絲卷(奶黃),冷凍銀絲卷(奶黃),283.0,8.9,3.3,54.5
+Q6400101,太妃糖,Toffee,太妃糖,438.0,2.7,13.9,75.6
+Q6400401,苦茶糖,Candy,苦茶糖,396.0,0.1,0.2,98.5
+Q6800201,酵母菌咀嚼锭,酵母菌咀嚼錠,酵母菌咀嚼錠,391.0,23.6,5.6,61.4
+Q1000101,土司,Toast,土司,289.0,9.5,6.3,48.6
+P1000501,义式乳酪酱,義式乳酪醬,義式乳酪醬,216.0,8.8,17.0,6.9
+P1301101,法式香蒜酱,法式香蒜醬,法式香蒜醬,791.0,1.1,85.7,3.8
+P1500301,蒸肉粉(五香),,蒸肉粉(五香),350.0,10.3,1.1,74.8
+P1500401,热狗粉,熱狗粉,熱狗粉,355.0,8.4,0.9,78.4
+P1300401,葡萄果酱,葡萄果醬|Jam: grape,葡萄果醬,261.0,0.0,1.9,60.9
+M2200201,熟油茶油,苦茶(籽)油|山茶油|天綠果油|天绿果油|大果種油茶油|大果种油茶油,熟油茶油,883.0,0.0,99.9,0.0
+M0900201,"奶油(固态,加盐)","奶油(固態,加鹽)|動物性奶油(CNS命名""乳酪"")|动物性奶油(CNS命名""乳酪"")|Butter: salted","奶油(固態,加鹽)",699.0,0.7,77.5,3.7
+N0100401,黑砂糖,黑糖|Black sugar|Brown sugar,黑砂糖,369.0,0.5,0.7,95.3
+P0101101,白胡椒粉,White pepper powder,白胡椒粉,342.0,3.7,1.1,78.8
+P0100401,五香粉,,五香粉,363.0,8.7,8.9,68.1
+P0500401,低脂高汤,低脂高湯,低脂高湯,2.0,0.3,0.0,0.3
+R7100401,盐酥夏威夷豆,鹽酥夏威夷豆|夏威夷火山豆|Hawaii nut|Macadamia nut,鹽酥夏威夷豆,773.0,9.4,76.3,12.0
+C2005101,爱玉子,愛玉子|愛玉|爱玉|草子仔|草枳子|天拋藤|天抛藤|玉枳|枳子|天拋|天抛|風不動|风不动|Awkeotsang|Jelly-fig|Moraceae,愛玉子,407.0,12.2,12.5,63.7
+P1300801,黑芝麻面包酱,黑芝麻麪包醬|黑芝麻麵包醬,黑芝麻麵包醬,667.0,10.6,57.4,27.0
+P1300201,巧克力酱(液体),巧克力醬(液體),巧克力醬(液體),277.0,2.0,0.8,65.4
+R2300501,冷冻芝麻包,冷凍芝麻包|Sesame bun,冷凍芝麻包,341.0,7.2,11.7,51.7
+Q0500201,牛舌饼,牛舌餅,牛舌餅,411.0,5.7,13.2,67.4
+Q0300201,月饼(枣泥),月餅(棗泥)|Moon cake,月餅(棗泥),419.0,6.0,18.2,57.9
+R1300101,米浆(散装),米漿(散裝),米漿(散裝),62.0,0.6,0.5,13.7
+L0214101,部份脱脂强化奶粉(钙强化),部份脫脂強化奶粉(鈣強化)|乳粉|Partly skimmed fortified milk powder: calcium enriched,部份脫脂強化奶粉(鈣強化),408.0,25.0,11.8,51.0
+L0224101,部份脱脂调味奶粉(巧克力),部份脫脂調味奶粉(巧克力)|乳粉|Partly skimmed modified milk powder: chocolate flavor,部份脫脂調味奶粉(巧克力),406.0,14.1,6.9,71.9
+M1200101,玉米油,粟米油|玉米胚芽油|Corn oil|Maize oil,玉米油,883.0,0.0,99.8,0.1
+M2500301,高油酸葵花籽油,Sunflower seed oil: high oleic acid,高油酸葵花籽油,883.0,0.0,99.9,0.0
+C1710101,红土带壳花生(熟),紅土帶殼花生(熟)|土豆|長生果|长生果|落花生|Peanut,紅土帶殼花生(熟),555.0,31.2,43.9,19.5
+C0500101,栗子(生),Chestnut: raw,栗子(生),186.0,3.5,0.6,41.5
+O0702901,乳酸饮料,乳酸飲料,乳酸飲料,45.0,0.2,0.0,11.0
+O0701701,"乌龙奶茶(去冰,微糖)","烏龍奶茶(去冰,微糖)","烏龍奶茶(去冰,微糖)",59.0,0.2,2.9,8.1
+O0702201,"珍珠奶茶(去冰,全糖)",,"珍珠奶茶(去冰,全糖)",94.0,0.2,2.4,17.9
+C0805101,腰果(生),Cashew nuts: raw,腰果(生),568.0,18.3,45.5,30.3
+P0101301,黑胡椒粉,Black pepper powder,黑胡椒粉,372.0,11.6,6.7,67.7
+P1004201,辣豆瓣酱,辣豆瓣醬,辣豆瓣醬,100.0,4.5,3.3,13.1
+L0110201,高脂强化鲜乳(寡糖强化),高脂強化鮮乳(寡糖強化)|高脂強化鮮乳(寡醣強化)|牛乳|牛奶|High fat fortified fresh milk : oligo enriched,高脂強化鮮乳(寡醣強化),69.0,3.2,4.1,5.1
+L0214401,部份脱脂强化奶粉(脂肪酸调整),部份脫脂強化奶粉(脂肪酸調整)|乳粉|Partly skimmed fortified milk powder: fatty acid modified,部份脫脂強化奶粉(脂肪酸調整),481.0,22.7,23.5,45.9
+L1100101,高脂鲜羊乳,高脂鮮羊乳|羊奶|Whole fresh goat milk,高脂鮮羊乳,65.0,3.4,4.0,4.2
+L0318401,脱脂浓稠发酵乳(啤酒酵母),脫脂濃稠發酵乳(啤酒酵母)|優酪乳|优酪乳|Skimmed concentrated fermented milk,脫脂濃稠發酵乳(啤酒酵母),34.0,2.1,0.1,6.4
+L0314201,中脂浓稠发酵乳(无糖&纤维强化),中脂濃稠發酵乳(無糖&纖維強化)|優酪乳|优酪乳|Medium fat concentrated fermented milk: non-sugar|fiber enriched,中脂濃稠發酵乳(無糖&纖維強化),74.0,3.2,2.2,10.4
+M9900101,烤酥油,Shortening,烤酥油,883.0,0.0,99.9,0.0
+M2000201,高油酸红花籽油,高油酸紅花籽油|Safflower oil: high oleic acid,高油酸紅花籽油,880.0,0.0,99.6,0.4
+M1000101,人造奶油(维生素强化),人造奶油(維生素強化)|植物性奶油|Margarine,人造奶油(維生素強化),725.0,0.1,82.0,0.0
+N0100301,红砂糖,紅砂糖|紅糖|红糖|Brown sugar,紅砂糖,384.0,0.0,0.5,99.3
+O0700401,咖啡(三合一),咖啡牛奶|Coffee drink,咖啡(三合一),39.0,0.9,0.4,8.2
+R1300201,保久米浆,保久米漿,保久米漿,62.0,1.0,1.5,11.3
+O0901501,姜茶冲泡包,薑茶沖泡包|Instant ginger tea powder,薑茶沖泡包,399.0,0.3,0.3,98.7
+R1300501,糯米浆,糯米漿,糯米漿,51.0,0.8,0.8,10.2
+O0701201,"乌龙茶(去冰,全糖)","烏龍茶(去冰,全糖)","烏龍茶(去冰,全糖)",36.0,0.1,0.0,8.8
+O0701101,"乌龙茶(去冰,半糖)","烏龍茶(去冰,半糖)","烏龍茶(去冰,半糖)",21.0,0.1,0.0,5.2
+O0701001,"乌龙茶(去冰,微糖)","烏龍茶(去冰,微糖)","烏龍茶(去冰,微糖)",16.0,0.1,0.0,3.8
+P0400301,鲜鸡精,鮮雞精|Granulated chicken stock,鮮雞精,267.0,10.8,10.1,33.3
+P0800201,鲜味露,鮮味露,鮮味露,75.0,20.1,0.1,0.0
+P1001501,牛排酱,牛排醬|Steak sauce,牛排醬,130.0,2.5,0.0,30.1
+P1003701,蘑菇酱,蘑菇醬|Mushroom sauce,蘑菇醬,58.0,1.5,2.4,7.7
+P0700901,薄盐黑豆酱油膏,薄鹽黑豆醬油膏,薄鹽黑豆醬油膏,124.0,7.6,0.1,23.3
+Q0600701,凤眼糕,鳳眼糕,鳳眼糕,379.0,3.8,0.8,89.0
+Q0500101,太阳饼,太陽餅|Sun cake,太陽餅,460.0,5.3,20.5,63.6
+R6300401,冷冻花枝块,冷凍花枝塊,冷凍花枝塊,180.0,11.3,7.5,17.0
+R5300701,冷冻小香肠,冷凍小香腸|Sausage,冷凍小香腸,249.0,14.8,17.8,7.4
+Q6200101,白芝麻糖,Candy,白芝麻糖,521.0,8.4,26.2,62.9
+Q6310101,牛奶软糖,牛奶軟糖|Candy,牛奶軟糖,424.0,2.9,11.1,78.0
+P1000801,海苔酱,海苔醬,海苔醬,223.0,6.4,0.0,49.3
+P1300301,草莓果酱,草莓果醬|Jam: strawberry,草莓果醬,272.0,0.4,1.2,65.0
+Q1000801,菠萝面包,菠蘿麪包|菠蘿麵包|Bread,菠蘿麵包,378.0,9.2,15.0,51.5
+Q1000401,奶酥面包,奶酥麪包|奶酥麵包|Bread,奶酥麵包,377.0,9.1,15.7,49.8
+R2300101,冷冻叉烧包,冷凍叉燒包,冷凍叉燒包,266.0,8.8,4.8,47.0
+Q0500501,凤梨酥,鳳梨酥|Pineapple cake,鳳梨酥,484.0,4.2,24.4,62.0
+R0300201,糯米饭团,糯米飯糰,糯米飯糰,335.0,5.9,17.6,38.3
+R7101201,糖渍花生仁,糖漬花生仁|土豆|長生果|长生果|落花生|Peanut,糖漬花生仁,382.0,14.2,23.3,28.8
+R7101101,腌渍花生仁,醃漬花生仁|土豆|長生果|长生果|落花生|Peanut: pickled,醃漬花生仁,288.0,10.6,26.0,2.9
+R2000401,通心面,通心麪|通心麵|Pasta: macaroni,通心麵,359.0,13.8,1.4,72.6
+R3100101,冷冻可乐饼(奶汁),冷凍可樂餅(奶汁),冷凍可樂餅(奶汁),114.0,3.6,2.3,19.8
+R6600301,冷冻蛋饺,冷凍蛋餃,冷凍蛋餃,183.0,12.1,14.1,2.1
+Q6800101,维生素C口含锭(柠檬),維生素C口含錠(檸檬),維生素C口含錠(檸檬),399.0,0.2,0.6,98.3
+Q6100101,牛奶巧克力,Chocolate,牛奶巧克力,546.0,9.4,32.6,54.0
+Q6100501,白巧克力风味糖,白巧克力風味糖|Chocolate,白巧克力風味糖,562.0,8.6,34.7,53.8
+R2300701,冷冻叉烧包子,冷凍叉燒包子,冷凍叉燒包子,267.0,7.1,6.1,46.0
+R4400501,冷冻洋葱圈,冷凍洋蔥圈|Onion ring,冷凍洋蔥圈,281.0,4.0,11.0,41.4
+R0600201,鸭血糕,鴨血糕|米血糕,鴨血糕,193.0,6.7,1.1,39.1
+R0800101,甜酒酿,甜酒釀|Fermented rice,甜酒釀,163.0,5.0,0.4,34.8
+M1500201,黑芝麻油,Sesame oil: black,黑芝麻油,881.0,0.1,99.7,0.2
+M1800101,芥花油,芥花籽油|菜籽油|Canola oil,芥花油,883.0,0.0,99.9,0.0
+C2305101,莲子(干),蓮子(幹)|蓮子(乾)|Lotus nut|Lotus seed,蓮子(乾),334.0,21.8,1.2,60.9
+P1002701,朝鲜酱,朝鮮醬,朝鮮醬,106.0,1.6,2.3,19.7
+P1003601,姜蓉酱,薑蓉醬|Ginger sauce,薑蓉醬,65.0,1.0,2.6,9.4
+P1100201,无蛋沙拉酱,無蛋沙拉醬,無蛋沙拉醬,479.0,1.8,44.0,19.0
+P1000401,素肉燥,,素肉燥,483.0,12.4,42.6,12.5
+P0201301,黄耆片,黃耆片,黃耆片,321.0,14.9,1.6,68.7
+C1705101,带膜花生仁(生)(1995年之前取样),帶膜花生仁(生)(1995年之前取樣)|土豆|長生果|长生果|落花生|Peanut: raw,帶膜花生仁(生)(1995年之前取樣),506.0,28.8,38.5,20.6
+P0101601,荳蔻粉,Nutmeg powder,荳蔻粉,448.0,6.7,26.2,50.6
+R2201301,温州馄饨,溫州餛飩|大餛飩|大馄饨|Wonton,溫州餛飩,145.0,6.5,7.9,11.9
+R0100101,广东粥,廣東粥|Catonese congee,廣東粥,81.0,4.9,2.8,9.1
+R6100601,冷冻虾丸,冷凍蝦丸|Shrimp ball,冷凍蝦丸,123.0,10.8,2.3,14.7
+R6500101,冷冻鱿鱼圈,冷凍魷魚圈|Squid ring,冷凍魷魚圈,143.0,15.7,0.4,19.2
+R0200201,冷冻虾仁炒饭,冷凍蝦仁炒飯|Fried rice,冷凍蝦仁炒飯,148.0,4.7,3.4,24.6
+R6600201,冷冻香菇饺,冷凍香菇餃,冷凍香菇餃,233.0,12.3,15.3,11.5
+R6600401,冷冻雪螺饺,冷凍雪螺餃,冷凍雪螺餃,204.0,11.6,10.0,16.7
+M0900101,"奶油(固态,不加盐)","奶油(固態,不加鹽)|動物性奶油(CNS命名""乳酪"")|动物性奶油(CNS命名""乳酪"")|Butter: unsalted","奶油(固態,不加鹽)",733.0,0.6,82.7,0.9
+M0900301,奶油(液态),"奶油(液態)|動物性奶油|动物性奶油|鮮奶油(CNS命名""乳油"")|鲜奶油(CNS命名""乳油"")|Cream",奶油(液態),340.0,2.0,39.1,0.0
+O0200801,黑麦汁,黑麥汁,黑麥汁,52.0,0.3,0.0,12.6
+O0901701,可可粉,Cocoa powder,可可粉,464.0,20.8,22.8,43.8
+P1001801,素沙茶酱,素沙茶醬,素沙茶醬,670.0,7.6,66.0,11.4
+P1004101,豆瓣酱,豆瓣醬|Bean paste,豆瓣醬,178.0,14.2,8.1,12.2
+P1002201,海鲜酱,海鮮醬,海鮮醬,228.0,1.8,2.2,50.3
+P0100801,花椒粉,,花椒粉,369.0,10.0,9.2,63.2
+P0100501,甘草粉,,甘草粉,341.0,9.2,3.6,73.4
+P1002001,山葵酱,山葵醬|芥茉醬|芥茉酱,山葵醬,338.0,1.1,5.9,70.2
+P0100601,肉桂粉,Cassia powder,肉桂粉,343.0,4.2,2.9,78.8
+P0200101,七味唐辛子,Shichimi togarashi,七味唐辛子,463.0,15.8,24.1,45.8
+R2400201,白馒头,白饅頭|馒头|饅頭|熟馒头|熟饅頭,白饅頭,248.0,8.1,1.2,51.3
+L0118101,脱脂强化鲜乳(钙强化),脫脂強化鮮乳(鈣強化)|牛乳|牛奶|Skimmed fortified fresh milk : calcium enriched,脫脂強化鮮乳(鈣強化),42.0,3.5,0.3,6.3
+L0207101,脱脂奶粉,脫脂奶粉|乳粉|Skimmed milk powder,脫脂奶粉,361.0,36.2,0.9,51.2
+L1200201,全脂羊奶粉(即溶),羊乳粉|Whole goat milk powder,全脂羊奶粉(即溶),517.0,25.9,30.8,35.1
+M2300101,高油酸棕榈油,高油酸棕櫚油|Palm kernel oil: high oleic acid,高油酸棕櫚油,883.0,0.0,99.9,0.0
+M2500201,葵花籽油(多种维生素强化),葵花籽油(多種維生素強化)|Sunflower oil: multi-vitamin enriched,葵花籽油(多種維生素強化),883.0,0.0,99.9,0.0
+L1154101,中脂调味保久羊乳(巧克力),中脂調味保久羊乳(巧克力)|羊奶|Reduced fat flavored composite and recombined sterilized goat milk: chocolate flavor,中脂調味保久羊乳(巧克力),59.0,1.1,1.5,10.3
+M1400101,亚麻仁油,亞麻仁油,亞麻仁油,820.0,0.2,92.8,6.9
+O0900301,咖啡冲泡包(三合一),咖啡沖泡包(三合一)|Instant coffee powder mix,咖啡沖泡包(三合一),437.0,4.8,9.5,83.0
+P0600701,乌醋,烏醋|Black vinegar,烏醋,37.0,0.5,0.0,8.7
+P1001701,沙茶酱,沙茶醬,沙茶醬,729.0,10.2,71.8,10.4
+R7100701,蜜汁腰果,Cashew nuts: honey roasted,蜜汁腰果,600.0,17.6,43.6,34.3
+P0600201,糯米醋,Rice vinegar,糯米醋,17.0,0.1,0.0,4.1
+P1301001,洋葱面包酱,洋蔥麪包醬|洋蔥麵包醬,洋蔥麵包醬,276.0,1.0,26.1,9.5
+P1004401,韭花酱,韭花醬,韭花醬,29.0,2.1,0.3,4.5
+P0100201,小茴香粉,孜然粉|Cumin powder,小茴香粉,411.0,19.5,25.8,37.0
+P0101501,迷迭香粉,Rosemary powder,迷迭香粉,432.0,5.9,21.9,59.8
+R2301101,小笼包,小籠包|Small meat bun,小籠包,242.0,9.6,15.5,15.9
+P1000901,麻酱,麻醬|芝麻醬|芝麻酱|Sesame sauce,麻醬,643.0,20.8,52.8,21.3
+R2800101,韭菜盒子,,韭菜盒子,217.0,7.5,12.1,19.5
+R6700401,天妇罗,天婦羅|甜不辣|Tempura,天婦羅,176.0,12.4,4.7,21.0
+R2100101,炒板条,炒板條,炒板條,149.0,4.2,4.2,23.7
+Q0300101,芋仔饼,芋仔餅,芋仔餅,354.0,4.6,12.1,56.6
+Q0300401,蕃薯饼,蕃薯餅,蕃薯餅,331.0,3.9,10.6,54.9
+R2800201,大饼包小饼(红豆),大餅包小餅(紅豆),大餅包小餅(紅豆),376.0,8.3,16.5,48.5
+Q4200301,鱼酥,魚酥,魚酥,564.0,8.3,36.6,50.3
+R2700401,烧饼,燒餅,燒餅,323.0,9.1,9.1,51.1
+R4900101,花生面筋罐头,花生面筋罐頭|花生麵筋罐頭|peanut gluten,花生麵筋罐頭,206.0,11.0,11.1,15.5
+R4900201,香菇面筋罐头,香菇麪筋罐頭|香菇麵筋罐頭|Mushroom gluten,香菇麵筋罐頭,192.0,10.7,10.0,14.9
+L0500401,干酪粉,"乾酪粉|起司粉|芝士粉(市售亦稱""乳酪粉"")|芝士粉(市售亦称""乳酪粉"")|Cheese powder",乾酪粉,480.0,40.4,34.0,3.1
+R7101401,蛋酥花生仁,土豆|長生果|长生果|落花生|Peanut,蛋酥花生仁,606.0,21.1,43.8,31.8
+N0700101,蜂蜜(冬蜜),Honey: winter,蜂蜜(冬蜜),315.0,0.1,0.1,81.5
+R7100601,糖炒栗子,Chestnut: parch w/ sugar|Marron glace,糖炒栗子,209.0,4.2,0.8,46.3
+C0710101,开心果,開心果|Pistachios,開心果,601.0,22.4,52.7,20.1
+O0200201,仙草蜜,,仙草蜜,35.0,0.0,0.0,8.8
+R9901101,鸡精,雞精,雞精,34.0,8.6,0.0,0.0
+P1003101,辣蒜蓉酱,辣蒜蓉醬|Garlic hot sauce,辣蒜蓉醬,78.0,2.3,4.2,7.8
+C0205101,松子仁(生),Pine-seed: raw,松子仁(生),678.0,16.6,69.5,9.4
+P0500501,素食高汤,素食高湯,素食高湯,17.0,0.3,0.0,4.0
+P1004001,豆酥酱,豆酥醬,豆酥醬,671.0,12.2,64.5,10.4
+P0200501,咖哩块,咖哩塊|Curry,咖哩塊,515.0,5.6,34.5,45.4
+P0800101,味醂,米醂|米霖|Mirin,味醂,220.0,0.5,0.0,54.5
+P0900101,红辣椒油,紅辣椒油,紅辣椒油,899.0,0.0,99.8,0.1
+R2900101,冷冻烧卖,冷凍燒賣,冷凍燒賣,188.0,9.9,9.7,15.3
+Q4100101,方块酥,方塊酥|恩典酥,方塊酥,509.0,7.1,24.1,66.1
+Q2106101,羊羹,,羊羹,289.0,3.0,0.7,67.6
+R5400201,冷冻贡丸,冷凍貢丸|Meatball,冷凍貢丸,244.0,16.6,20.3,0.0
+R6700601,冷冻花枝羹,冷凍花枝羹|Cuttlefish potage,冷凍花枝羹,126.0,11.4,4.7,9.4
+R6300501,冷冻旗鱼块,冷凍旗魚塊,冷凍旗魚塊,178.0,15.3,6.5,14.7
+R6100101,冷冻花枝丸,冷凍花枝丸,冷凍花枝丸,166.0,12.7,7.0,13.0
+Q0800101,冷冻马拉糕,冷凍馬拉糕,冷凍馬拉糕,320.0,7.1,12.9,44.0
+Q0900101,乳酪蛋糕,Cheese cake,乳酪蛋糕,296.0,7.0,21.3,19.1
+Q0100201,冷藏甜年糕,,冷藏甜年糕,242.0,2.3,0.4,57.2
+Q1000201,土司(含全谷粉),土司(含全穀粉),土司(含全穀粉),292.0,10.0,6.1,49.2
+P0101401,绿胡椒粒,綠胡椒粒,綠胡椒粒,379.0,11.3,7.3,68.4
+P1001101,白酱,白醬,白醬,61.0,1.2,3.2,6.8
+P1001201,青酱,青醬,青醬,83.0,0.9,5.4,7.7
+L0318201,脱脂浓稠发酵乳(低热量),脫脂濃稠發酵乳(低熱量)|優酪乳|优酪乳|Skimmed concentrated fermented milk: low calorie,脫脂濃稠發酵乳(低熱量),37.0,2.0,0.1,6.9
+L0324201,中脂凝态发酵乳(芦荟),中脂凝態發酵乳(蘆薈)|優格|优格|Medium fat yoghurt: aloe flavor,中脂凝態發酵乳(蘆薈),90.0,1.7,2.5,15.1
+L0118201,脱脂强化鲜乳(寡糖强化),脫脂強化鮮乳(寡糖強化)|脫脂強化鮮乳(寡醣強化)|牛乳|牛奶|Skimmed fortified fresh milk: oligo enriched,脫脂強化鮮乳(寡醣強化),36.0,3.1,0.4,5.2
+L0146101,低脂强化保久乳(寡糖强化),低脂強化保久乳(寡糖強化)|牛乳|牛奶|Low-fat fortified Sterilized milk: oligo enriched,低脂強化保久乳(寡糖強化),46.0,3.2,1.0,6.0
+M2500101,葵花籽油,Sunflower oil,葵花籽油,884.0,0.0,100.0,0.0
+M0200101,猪油,豬油|Lard,豬油,890.0,0.0,99.7,0.0
+M1900101,南瓜籽油,Pumpkin seed oil,南瓜籽油,883.0,0.0,99.9,0.0
+M2100101,核桃油,Walnut oil,核桃油,883.0,0.0,99.9,0.0
+O0701601,奶茶(三合一),Milk tea,奶茶(三合一),42.0,0.5,0.3,9.5
+R6300301,冷冻干贝酥,冷凍乾貝酥|冷凍干貝酥|冷凍幹貝酥,冷凍干貝酥,146.0,8.3,0.2,27.7
+R6400101,冷冻蚵卷,冷凍蚵卷|冷凍蚵捲,冷凍蚵捲,213.0,6.9,17.5,7.0
+Q0900401,蜂蜜蛋糕(原味),Honey cake,蜂蜜蛋糕(原味),346.0,6.5,14.5,47.4
+Q0900501,蜂蜜蛋糕(巧克力),Honey cake: chocolate,蜂蜜蛋糕(巧克力),341.0,6.9,15.6,43.1
+C1705201,去膜花生仁(生),土豆|長生果|长生果|落花生|Peanut,去膜花生仁(生),558.0,28.8,45.4,19.1
+P1100501,凯撒沙拉酱,凱撒沙拉醬,凱撒沙拉醬,337.0,1.4,29.1,17.3
+Q0100501,包馅甜麻糬(红豆),包餡甜麻糬(紅豆),包餡甜麻糬(紅豆),329.0,10.0,2.9,65.7
+Q4100501,煎饼,煎餅,煎餅,444.0,6.3,11.7,78.3
+D1900204,凤光西瓜,鳳光西瓜|水瓜|寒瓜|夏瓜,鳳光西瓜,27.0,0.7,0.2,6.5
+D3700401,黄皮葡萄柚,黃皮葡萄柚|西柚|朱欒|朱栾|Grapefruit|Pomelo,黃皮葡萄柚,37.0,0.7,0.2,9.2
+E7400701,香瓜茄,香瓜梨|南美香瓜梨|Pepino|Melon pear,香瓜茄,26.0,0.4,0.1,6.2
+D1500301,红心芭乐,紅心芭樂|番石榴|芭樂|芭乐|拔仔|扒仔|朳仔|那拔仔|藍拔|蓝拔|Guava,紅心芭樂,42.0,0.8,0.1,10.7
+D1800101,莲雾(红宝石),蓮霧(紅寶石)|璉霧|琏雾|輦霧|辇雾|洋蒲桃|水蓊|Wax(Java) apple|Wax gambuor|Wax jumbo|Bell fruit,蓮霧(紅寶石),33.0,0.3,0.3,8.1
+D2000102,状元瓜,狀元瓜|甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|洋香瓜|Melon|Honeydew melon,狀元瓜,27.0,0.7,0.1,6.6
+I0310301,猪颈肉,豬頸肉|松阪豬肉|松阪猪肉|Pork jowl meat,豬頸肉,284.0,17.2,23.3,0.8
+J3100101,竹蛏(冷冻),竹蟶(冷凍)|竹蛤|竹蚶|蟶仔|蛏仔|竹節蟶|竹节蛏|Gould's Jackknife Clam,竹蟶(冷凍),42.0,9.0,0.3,1.2
+R6700501,冷冻花枝浆,冷凍花枝漿,冷凍花枝漿,227.0,11.2,12.6,17.1
+R6100201,冷冻虱目鱼丸,冷凍蝨目魚丸|冷凍虱目魚丸|Milkfish ball,冷凍虱目魚丸,206.0,13.7,11.9,11.0
+R6100501,冷冻鳕鱼丸,冷凍鱈魚丸|Codfish ball,冷凍鱈魚丸,99.0,8.5,2.4,10.7
+R2200901,冷冻素食熟水饺,冷凍素食熟水餃|Dumpling: vegetarian|cooked,冷凍素食熟水餃,209.0,7.2,5.4,32.9
+R6600101,冷冻花枝饺,冷凍花枝餃,冷凍花枝餃,177.0,12.4,5.6,19.2
+Q6400501,姜糖,薑糖|Candy,薑糖,359.0,0.3,2.5,84.0
+Q6900301,红豆球,紅豆球,紅豆球,351.0,7.1,1.0,78.4
+Q6900101,乳酸球,,乳酸球,474.0,3.8,21.7,66.1
+R3000201,冷冻春卷,冷凍春捲|Spring roll,冷凍春捲,272.0,5.1,13.9,31.5
+R4701401,麻油辣腐乳,,麻油辣腐乳,107.0,9.0,5.8,4.8
+C1705301,带膜花生仁(生)(2004年取样),帶膜花生仁(生)(2004年取樣)|土豆|長生果|长生果|落花生|Raw peanut: dry,帶膜花生仁(生)(2004年取樣),516.0,23.6,38.1,28.4
+P1000101,干贝酱,乾貝醬|干貝醬|幹貝醬|XO醬|XO酱,干貝醬,558.0,16.7,51.0,8.0
+P1000201,牛肉酱,牛肉醬,牛肉醬,507.0,17.0,38.9,22.2
+Q1000501,肉松面包,肉鬆麪包|肉鬆麵包|Bread,肉鬆麵包,429.0,8.1,22.9,47.6
+Q0700301,蛋塔,,蛋塔,376.0,4.1,21.7,41.1
+Q0700401,蛋塔(葡式),,蛋塔(葡式),375.0,3.7,25.8,31.9
+Q6400301,枇杷糖,Candy,枇杷糖,394.0,0.2,0.1,98.0
+Q6400201,莲藕糖,蓮藕糖|Candy,蓮藕糖,395.0,0.2,0.4,97.8
+Q6200501,牛轧糖,牛軋糖|Candy,牛軋糖,477.0,9.7,21.7,60.8
+Q6200601,核枣糕,核棗糕,核棗糕,425.0,2.5,14.6,71.1
+R7100901,酱油西瓜子,醬油西瓜子|Watermelon seed: soysauce seasoned,醬油西瓜子,547.0,29.5,37.7,22.5
+P1300101,法式奶酥酱,法式奶酥醬,法式奶酥醬,596.0,6.7,46.5,37.6
+Q2104101,豆花(花生),,豆花(花生),60.0,2.0,0.9,10.9
+Q0900301,提拉米苏(圆形),提拉米蘇(圓形),提拉米蘇(圓形),328.0,4.4,25.1,21.1
+Q6100601,黑巧克力(85%),Chocolate,黑巧克力(85%),613.0,10.9,46.1,38.7
+Q4100601,营养口粮,營養口糧,營養口糧,424.0,6.8,8.7,79.7
+R2301301,竹笋包,竹筍包,竹筍包,209.0,6.9,5.5,32.9
+R2400401,花卷,花捲,花捲,227.0,5.7,1.9,47.0
+R2001301,冷冻乌龙面,冷凍烏龍麪|冷凍烏龍麵,冷凍烏龍麵,129.0,3.4,0.3,28.2
+A0510301,五谷米,五穀米,五穀米,358.0,8.7,2.9,72.9
+J0405002,青星九刺鮨鱼片,青星九刺鮨魚片|紅鱠|红鲙|紅格仔|红格仔|過魚|过鱼|石斑|條舅|条舅|紅條|红条|鱠仔(臺東)|鲙仔(台东)|Red coral perch|Red grouper|Vermillion seabass|Vermilion rock cod|Vermilion grouper|Blue-spotted rockcod|Coral grouper|Coral cod|Coral trout|Coral hind|Coral rockcod,青星九刺鮨魚片,104.0,22.6,0.8,0.0
+J0600401,鱼翅唇,魚翅脣|魚翅唇,魚翅唇,47.0,9.9,0.6,0.0
+L1000201,木瓜牛奶,,木瓜牛奶,42.0,1.7,0.6,7.7
+O0702701,多多绿茶(全糖),多多綠茶(全糖),多多綠茶(全糖),49.0,1.1,0.1,11.0
+Q1000701,糖粒甜甜圈(油炸),,糖粒甜甜圈(油炸),401.0,5.3,19.8,50.3
+Q1000601,蜜糖甜甜圈(波/摩堤),波(摩)堤,蜜糖甜甜圈(波/摩堤),396.0,2.0,20.7,50.6
+R2400601,黑糖馒头,黑糖饅頭,黑糖饅頭,235.0,6.8,0.9,50.0
+R2400301,芋头馒头,芋頭饅頭,芋頭饅頭,155.0,5.7,0.6,31.5
+D3400101,椪柑,橘子|蘆柑|芦柑|壼柑|壸柑|凸柑|乳柑|潮州柑|Tangerine|Ponkan,椪柑,40.0,0.8,0.2,10.0
+A0501104,发芽稉米(台稉9号）,發芽稉米(臺稉9號）|發芽稉米(台稉9號）|發芽糙米|发芽糙米|Sprout rice,發芽稉米(台稉9號）,353.0,8.2,1.9,74.1
+J2100501,日本玻璃虾,日本玻璃蝦|水晶蝦|水晶虾|白丁,日本玻璃蝦,83.0,16.2,1.5,2.0
+D3200301,美国五爪苹果,美國五爪蘋果|柰|林檎|紅蘋果(元帥)|红苹果(元帅)|Apple,美國五爪蘋果,51.0,0.2,0.1,13.8
+D1710101,葡萄干,葡萄乾|Raisin,葡萄乾,306.0,3.2,1.5,78.7
+B1000101,菱角(生),菱|芰|龍角|龙角|羊家|紅菱|红菱|Water singharnut|Water caltrops|Water chestnut,菱角(生),76.0,1.9,0.3,16.1
+C0110101,甘扁桃仁片(熟),杏仁片(熟)|Almond Slices  (Cooked),甘扁桃仁片(熟),618.0,23.4,56.9,14.8
+F0110101,红毛苔,紅毛苔|海發菜|海发菜|海髮菜|頭髮菜|头发菜|紅毛菜|红毛菜,紅毛苔,265.0,39.9,1.9,36.9
+F0910101,凤尾藻,鳳尾藻|紫晶藻,鳳尾藻,213.0,11.7,1.3,43.9
+R6900101,香笋鲔鱼罐头,香筍鮪魚罐頭,香筍鮪魚罐頭,261.0,10.0,24.1,0.9
+R2201401,猪肉锅贴,豬肉鍋貼,豬肉鍋貼,238.0,7.8,11.3,26.2
+R0900301,冷冻猪肉汤圆,冷凍豬肉湯圓,冷凍豬肉湯圓,281.0,6.5,12.1,36.6
+R6100301,冷冻文蛤丸,冷凍文蛤丸|Clam ball,冷凍文蛤丸,211.0,16.2,9.2,15.8
+R7101001,盐酥带壳花生(熟),鹽酥帶殼花生(熟)|土豆|長生果|长生果|落花生|Peanut with shell,鹽酥帶殼花生(熟),568.0,28.2,38.1,28.1
+R1300401,糙籼米浆,糙秈米漿,糙秈米漿,68.0,0.9,2.1,11.4
+R1500101,燕麦奶,燕麥奶,燕麥奶,44.0,1.0,0.8,8.1
+N0800101,黑糖蜜,,黑糖蜜,280.0,0.2,0.0,72.4
+Q9100101,豆干丁(五香),豆乾丁(五香),豆干丁(五香),383.0,35.4,18.1,19.6
+Q0900201,海绵蛋糕(圆形),海綿蛋糕(圓形),海綿蛋糕(圓形),344.0,5.1,18.1,40.2
+R6400301,冷冻虾卷,冷凍蝦卷|冷凍蝦捲,冷凍蝦捲,156.0,10.3,5.7,16.0
+R6200201,冷冻花枝排,冷凍花枝排,冷凍花枝排,187.0,5.5,7.3,24.9
+A0501001,胚芽稉米(台稉10号）,胚芽稉米(臺稉10號）|胚芽稉米(台稉10號）|Germ rice|Rice with germ|Milled rice with embryo,胚芽稉米(台稉10號）,360.0,7.3,1.7,77.2
+E7400603,橙蕃茄,柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,橙蕃茄,32.0,1.2,0.2,7.0
+E7400501,黄金小蕃茄,黃金小蕃茄|柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,黃金小蕃茄,31.0,0.8,0.2,6.8
+P1003001,蒜蓉酱,蒜蓉醬|Garlic sauce,蒜蓉醬,282.0,4.2,20.0,21.2
+P1003501,蕃茄酱,蕃茄醬|Catchup|Ketchup,蕃茄醬,114.0,1.6,0.1,26.7
+P1002101,金桔酱,金桔醬,金桔醬,84.0,0.5,0.4,19.5
+P1004301,红曲酱,紅曲醬|紅麴醬,紅麴醬,163.0,4.6,0.5,35.0
+P0500101,高汤块(排骨),高湯塊(排骨),高湯塊(排骨),363.0,12.5,23.9,24.5
+P1300701,白芝麻面包酱,白芝麻麪包醬|白芝麻麵包醬,白芝麻麵包醬,685.0,20.0,60.4,15.3
+R2300301,冷冻芋泥包,冷凍芋泥包|Taro paste bun,冷凍芋泥包,263.0,6.6,3.6,51.1
+Q0200101,咸麻糬,鹹麻糬,鹹麻糬,248.0,8.7,4.5,43.2
+R3000301,蚵仔煎,,蚵仔煎,192.0,4.9,10.4,19.7
+R3000401,棺材板,,棺材板,264.0,7.0,17.5,19.7
+Q4200201,洋芋片,Potato chips,洋芋片,553.0,5.2,34.3,55.8
+Q0700201,泡芙(巧克力),Chocolate puff,泡芙(巧克力),590.0,10.3,40.4,46.2
+R2201001,冷冻冬菜虾仁馄饨,冷凍冬菜蝦仁餛飩|雲吞|云吞|Wonton: cabbage and shrimp,冷凍冬菜蝦仁餛飩,191.0,9.1,6.3,24.5
+R0900101,冷冻芝麻汤圆,冷凍芝麻湯圓,冷凍芝麻湯圓,352.0,4.8,16.3,46.7
+O0701901,"乌龙奶茶(去冰,全糖)","烏龍奶茶(去冰,全糖)","烏龍奶茶(去冰,全糖)",75.0,0.2,2.8,12.3
+O0701801,"乌龙奶茶(去冰,半糖)","烏龍奶茶(去冰,半糖)","烏龍奶茶(去冰,半糖)",62.0,0.2,2.6,9.6
+P0100101,八角,大茴|茴香|Star anise,八角,360.0,4.9,3.9,76.2
+C0405101,生核桃,Walnut: raw,生核桃,667.0,15.4,67.9,11.2
+P1002401,排骨酱,排骨醬|Spare rib sauce,排骨醬,221.0,2.3,4.4,43.1
+P0200801,椰子粉,Coconut powder,椰子粉,629.0,7.2,60.3,27.8
+P0101701,蒜粉,Garlic powder,蒜粉,332.0,18.1,0.4,71.9
+P0201201,黄耆水,黃耆水,黃耆水,14.0,0.9,0.0,2.9
+R2300401,冷冻豆沙包,冷凍豆沙包|Red bean paste bun,冷凍豆沙包,247.0,7.4,1.1,51.8
+Q0600801,米粩,豬油粩|猪油粩,米粩,442.0,2.6,13.7,76.9
+R2100401,担仔面,擔仔麪|擔仔麵,擔仔麵,124.0,4.4,6.5,11.9
+Q6100401,糖衣牛奶巧克力,Chocolate,糖衣牛奶巧克力,481.0,4.8,18.6,73.6
+Q6100201,花生牛奶巧克力,Chocolate,花生牛奶巧克力,489.0,13.0,23.2,56.9
+R2200501,冷冻香菇鸡肉水饺,冷凍香菇雞肉水餃|Dumpling: marshroom|chicken,冷凍香菇雞肉水餃,221.0,9.5,10.2,22.7
+R2200701,冷冻鲔鱼水饺,冷凍鮪魚水餃|Dumpling: tuna,冷凍鮪魚水餃,196.0,9.0,8.5,20.8
+P0201001,糖粉,Sugar powder,糖粉,399.0,0.0,0.2,99.3
+P0900301,虾油,蝦油|Shrimp sauce,蝦油,56.0,7.4,0.1,6.4
+O0100501,乌梅汁,烏梅汁,烏梅汁,58.0,0.3,0.2,13.8
+O0600401,加盐沙士,加鹽沙士,加鹽沙士,41.0,0.8,0.0,9.4
+H0605201,黄仁黑豆,黃仁黑豆|烏豆|乌豆|枝仔豆|黑大豆|Black bean|Soya bean,黃仁黑豆,253.0,20.6,2.1,40.3
+I0110101,牛五花肉火锅片,牛五花肉火鍋片,牛五花肉火鍋片,430.0,15.7,40.3,0.0
+C1410101,咖啡豆(曼特宁),咖啡豆(曼特寧)|Coffee bean: Mandeling,咖啡豆(曼特寧),437.0,13.9,14.9,65.1
+R5000301,咸豆浆,鹹豆漿|Soy(bean) milk: salted,鹹豆漿,37.0,3.5,1.8,1.7
+D2000301,洋香瓜(新世纪),洋香瓜(新世紀)|網仔瓜|网仔瓜|哈密瓜,洋香瓜(新世紀),39.0,0.7,0.0,10.1
+D2400307,蜜枣李(进口),蜜棗李(進口)|李子|Prune,蜜棗李(進口),53.0,0.6,0.2,13.6
+D3800201,莱姆,萊姆|無子檸檬|无子柠檬|Lime,萊姆,38.0,0.5,1.0,7.7
+E4600201,日本茼蒿(有机),日本茼蒿(有機)|春菊|山茼蒿|小葉茼蒿|小叶茼蒿|Garland Chrysanthemum,日本茼蒿(有機),26.0,1.9,0.2,4.8
+E7700101,青花菜芽,青花椰苗|青花菜苗|花菜苔芽|花菜薹芽|Broccoli Sprouts,青花菜芽,35.0,2.8,1.0,4.9
+R7101801,盐酥葵瓜子(带壳),鹽酥葵瓜子(帶殼)|Salted sunflower seed,鹽酥葵瓜子(帶殼),619.0,25.9,49.3,17.8
+P0100901,洋香菜片,Parsley leaves,洋香菜片,312.0,24.4,7.5,47.7
+L1000101,鲜奶可可,鮮奶可可|巧克力牛奶|阿華田拿鐵|阿华田拿铁,鮮奶可可,80.0,2.1,2.7,11.6
+R7101501,盐酥花生仁,鹽酥花生仁|土豆|長生果|长生果|落花生|Peanut:salted,鹽酥花生仁,557.0,28.8,35.9,29.6
+D3500201,白柚,柚子|內紫|内紫|朱欒|朱栾|香欒|香栾|座凡|拋|抛|欒|栾|White shaddocks|White pummelo,白柚,37.0,0.6,0.1,9.6
+Q2100101,仙草冻,仙草凍,仙草凍,19.0,0.9,0.1,3.7
+R2800301,水煎包,,水煎包,166.0,4.3,5.4,25.2
+R2800501,猪肉馅饼,豬肉餡餅,豬肉餡餅,327.0,6.2,23.3,23.1
+D3600102,香吉士(进口),香吉士(進口)|甜橙|柳橙|柳丁|印子柑|廣柑|广柑|Orange: Sunkist,香吉士(進口),47.0,0.7,0.5,11.4
+A0320601,杂粮中筋面粉,雜糧中筋麪粉|雜糧中筋麵粉,雜糧中筋麵粉,361.0,13.1,2.3,72.0
+A0320702,杂粮高筋面粉,雜糧高筋麪粉|雜糧高筋麵粉,雜糧高筋麵粉,360.0,14.3,2.8,69.6
+C2110101,原味葵瓜子(去壳),原味葵瓜子(去殼)|Sunflower seeds,原味葵瓜子(去殼),586.0,22.0,51.9,18.7
+C0810101,原味腰果,Cashew nuts,原味腰果,566.0,16.4,43.7,35.2
+G1600201,华翠菇,華翠菇|滿天星菇|满天星菇|黃色金針菇(絨柄金錢菇)|黄色金针菇(绒柄金钱菇),華翠菇,29.0,2.5,0.2,5.1
+D3800101,柠檬,檸檬|Lemon,檸檬,33.0,0.7,0.5,7.4
+G1200201,天喜菇,,天喜菇,26.0,4.5,0.5,2.5
+H0705101,毛绿豆,毛綠豆|菉豆|綠小豆|绿小豆|輻莢豆|辐荚豆|Green bean|Chickasaw,毛綠豆,346.0,22.1,1.2,63.6
+Q6200201,黑芝麻糖,Candy,黑芝麻糖,536.0,8.5,30.4,57.0
+H1600101,鹰嘴豆,鷹嘴豆|雪蓮子|雪莲子|埃及豆|馬豆|马豆|桃爾豆|桃尔豆|雞心豆|鸡心豆|雞豆|鸡豆|雞屁股豆|鸡屁股豆|Chickpea,鷹嘴豆,364.0,19.4,5.8,61.0
+R1900401,鸡丝面,雞絲麪|雞絲麵|Noodle: shredded chicken flavored,雞絲麵,463.0,9.4,22.8,55.0
+O0101201,苹果汁(非原汁),蘋果汁(非原汁)|Apple juice,蘋果汁(非原汁),47.0,0.1,0.4,10.9
+R0600101,猪血糕,豬血糕|米血糕,豬血糕,194.0,8.6,0.9,37.8
+Q1001001,汉堡包,漢堡包,漢堡包,322.0,9.1,7.4,54.9
+Q4900101,沙其马,沙其馬,沙其馬,487.0,5.6,24.8,60.2
+R2900301,"冷冻,水晶饺","冷凍,水晶餃","冷凍,水晶餃",190.0,2.8,3.5,36.8
+R5900101,肉羹,,肉羹,247.0,9.7,14.7,18.9
+R2001501,荞麦面(干),蕎麥麪(幹)|蕎麥麵(乾)|Buckwheet noodles,蕎麥麵(乾),349.0,12.7,1.7,70.6
+A0500202,稉米(台南11号),稉米(臺南11號)|稉米(台南11號)|蓬萊米|蓬莱米|圓米|圆米|Short grain rice,稉米(台南11號),348.0,6.7,0.5,77.2
+G1300201,杏鲍菇(大),杏鮑菇(大)|鳳尾菇|凤尾菇|雪茸|帝王菇|平菇王|蠔菇王|蚝菇王|干貝菇|干贝菇|幹貝菇|刺芹側耳|刺芹侧耳|義大利側耳|义大利侧耳|義大利蠔菌|义大利蚝菌|杏鮑茸|杏鲍茸|西洋刺耳|King oyster mushroom|apricot mushroom|almond abalone mushroom,杏鮑菇(大),37.0,2.4,0.1,7.5
+G0200101,银耳,銀耳|白木耳|雪耳|white jelly fungi,銀耳,31.0,1.1,0.0,7.2
+D2100403,金煌芒果,檬果|檨仔|菴羅果|庵罗果|Mango,金煌芒果,52.0,0.8,0.2,13.0
+E2300103,日本甜葱,日本甜蔥|蔥|葱|大蔥|大葱|葉蔥|叶葱|蔥仔|葱仔|水蔥|水葱|漢蔥|汉葱|Welsh onion|Bunching onion|Green onion,日本甜蔥,33.0,1.0,0.1,7.6
+E3600101,明日叶,明日葉|鹹草|咸草|明日草|長壽草|长寿草|八丈草|還陽草|还阳草|珍立草|海峰人參|海峰人参|海峯人參|天賜草|天赐草,明日葉,57.0,1.4,0.8,11.9
+E3200901,珍珠小白菜,珍珠白菜|Pak-choi,珍珠小白菜,11.0,1.5,0.1,1.7
+R3000101,油条,油條|Cruller,油條,551.0,10.1,40.2,37.3
+R2200301,冷冻猪肉韭菜水饺,冷凍豬肉韭菜水餃|Dumpling: pork and leek,冷凍豬肉韭菜水餃,229.0,8.4,11.5,23.0
+C0105101,甘扁桃仁片(生),杏仁片(生)|Almond Slices (Raw),甘扁桃仁片(生),564.0,27.3,47.8,17.0
+P0700401,淡色酱油,淡色醬油|Soy sauce,淡色醬油,78.0,7.1,0.4,11.5
+P0102101,罗勒片,羅勒片|Basil leaves,羅勒片,289.0,23.3,5.8,46.1
+R1300601,黑糯米浆,黑糯米漿,黑糯米漿,50.0,0.4,0.2,11.6
+O0700101,美式咖啡(无糖),美式咖啡(無糖),美式咖啡(無糖),2.0,0.2,0.1,0.3
+P0100701,西洋芹菜片,Cliantro leaves,西洋芹菜片,315.0,24.4,6.8,49.9
+Q1001101,餐包,,餐包,365.0,7.2,14.9,50.5
+R8100201,玉米浓汤调理包,玉米濃湯調理包,玉米濃湯調理包,369.0,4.4,5.9,74.7
+R6900201,茄汁鲭鱼罐头,茄汁鯖魚罐頭,茄汁鯖魚罐頭,116.0,17.6,3.8,2.8
+Q9900301,起酥片,,起酥片,404.0,6.7,26.9,33.8
+P0600501,红醋,紅醋|紅酢|红酢|Red vinegar,紅醋,5.0,0.3,0.0,0.8
+P1300901,花生酱,花生醬|Peanut butter,花生醬,657.0,24.0,54.3,17.9
+R0500401,筒仔米糕,,筒仔米糕,246.0,6.6,8.6,35.5
+Q0300301,绿豆凸,綠豆凸|綠豆椪|绿豆椪|Mung bean cake,綠豆凸,394.0,6.9,15.9,55.8
+R0200101,冷冻火腿炒饭,冷凍火腿炒飯|Fried rice,冷凍火腿炒飯,189.0,5.0,5.6,29.7
+R2201201,冷冻菜肉馄饨,冷凍菜肉餛飩|雲吞|云吞|Wonton: vegetable and pork,冷凍菜肉餛飩,236.0,9.1,16.3,13.3
+R2700201,冷冻葱油饼,冷凍蔥油餅|蔥油派|葱油派,冷凍蔥油餅,258.0,9.1,3.1,48.5
+Q6200301,花生糖,Candy,花生糖,562.0,17.9,35.3,43.3
+Q6200401,花生贡糖,花生貢糖|Candy,花生貢糖,511.0,13.5,26.3,55.0
+R2300801,冷冻牛肉包子,冷凍牛肉包子|Beef bun,冷凍牛肉包子,269.0,10.8,4.6,46.1
+P1001301,蕃茄义大利面酱,蕃茄義大利麪醬|蕃茄義大利麵醬,蕃茄義大利麵醬,70.0,3.2,2.5,8.9
+P0101001,洋葱粉,洋蔥粉,洋蔥粉,377.0,8.1,1.8,82.1
+R6400201,冷冻鱼卷,冷凍魚卷|冷凍魚捲,冷凍魚捲,126.0,13.8,0.3,17.1
+C1720101,花生粉,Peanut powder,花生粉,516.0,28.5,33.8,33.0
+R2200101,冷冻牛肉水饺,冷凍牛肉水餃|Dumpling: beef,冷凍牛肉水餃,215.0,8.9,9.7,23.1
+A0400401,双色水果玉米,雙色水果玉米|玉米|黃玉米|黄玉米|Corn|Maize|Sweat corn (Organic),雙色水果玉米,105.0,3.1,2.6,17.5
+R4800201,冷冻素鸡块,冷凍素雞塊,冷凍素雞塊,206.0,14.2,8.1,19.0
+Q0800301,冷冻马蹄条,冷凍馬蹄條,冷凍馬蹄條,194.0,4.2,1.9,40.1
+R2400101,冷冻白馒头,冷凍白饅頭,冷凍白饅頭,279.0,7.4,2.4,57.0
+P1001401,五味酱,五味醬,五味醬,140.0,1.3,0.8,31.9
+P1002901,日式照烧酱,日式照燒醬,日式照燒醬,227.0,3.0,0.5,52.6
+O0200101,蕃茄汁(非原汁),Tomato juice,蕃茄汁(非原汁),22.0,0.7,0.2,4.4
+O0100901,凤梨汁(非原汁),鳳梨汁(非原汁)|Pineapple juice,鳳梨汁(非原汁),48.0,0.3,0.2,11.3
+Q2100201,咖啡冻,咖啡凍,咖啡凍,75.0,0.1,0.2,18.1
+R4400301,韩式泡菜,韓式泡菜,韓式泡菜,35.0,2.0,0.4,5.8
+R1900101,长面线,長面線|長麵線|壽麵線|寿面线|Noodle string|Wheat flour string,長麵線,310.0,10.7,1.1,64.3
+R9900201,陈年绍兴酒,陳年紹興酒|Shaohsiug wine,陳年紹興酒,133.0,1.8,0.0,19.1
+P0200701,梅子粉,,梅子粉,286.0,2.0,3.9,60.8
+P0102001,姜粉,薑粉,薑粉,333.0,10.4,3.6,70.5
+Q0100101,冷藏宁波年糕,冷藏寧波年糕,冷藏寧波年糕,220.0,3.9,0.6,49.7
+R3000501,油豆腐粉丝(阿给),油豆腐粉絲(阿給)|阿給|阿给,油豆腐粉絲(阿給),146.0,6.9,6.2,15.7
+Q4100201,夹心饼干(草莓),夾心餅乾(草莓)|Cookie,夾心餅乾(草莓),517.0,4.8,27.4,62.8
+R4400401,花瓜罐头,花瓜罐頭,花瓜罐頭,89.0,2.9,0.2,18.8
+R6700201,冷冻鱼卵卷,冷凍魚卵卷|Fish roe roll,冷凍魚卵卷,115.0,12.9,0.2,15.5
+Q6900501,棉花糖,Marshmallow,棉花糖,331.0,3.2,0.3,78.9
+R2900201,冷冻水晶包,冷凍水晶包,冷凍水晶包,211.0,4.8,7.8,30.4
+R5400301,冷冻鸡肉丸,冷凍雞肉丸,冷凍雞肉丸,202.0,10.5,12.3,12.3
+O0100301,柳橙汁(非原汁),Orange juice,柳橙汁(非原汁),50.0,0.1,0.1,12.3
+O0100801,葡萄柚汁(非原汁),Grapefruit juice,葡萄柚汁(非原汁),41.0,0.2,0.2,9.7
+P1001601,羊肉炉酱,羊肉爐醬,羊肉爐醬,130.0,7.3,7.2,8.9
+R4700701,豆枣,豆棗,豆棗,420.0,11.7,19.2,50.0
+P1500601,酵母粉,Yeast powder,酵母粉,347.0,46.3,0.0,40.4
+Q9900101,布丁粉,Pudding powder,布丁粉,419.0,2.7,7.1,86.1
+P1001001,速食干面麻酱包,速食乾麪麻醬包|速食乾麵麻醬包,速食乾麵麻醬包,676.0,13.2,64.0,11.8
+Q0400101,车轮饼(红豆),車輪餅(紅豆),車輪餅(紅豆),187.0,2.1,1.1,42.3
+Q0400201,车轮饼(菜脯),車輪餅(菜脯),車輪餅(菜脯),183.0,1.4,5.7,31.6
+Q0700101,可颂,可頌,可頌,452.0,7.3,26.1,47.1
+R9900101,生啤酒,Draught beer|Draft beer,生啤酒,50.0,0.4,0.0,8.2
+D3400302,圆果金柑,圓果金柑|金桔|金橘|桔子|Kumquat|Round kumquat,圓果金柑,32.0,0.7,0.2,7.6
+R2001201,金门黄面,金門黃面|金門黃麵,金門黃麵,158.0,6.4,0.5,31.9
+B0400101,白皮甘𫉄,白皮甘藷|甘薯|番薯|甜薯|地瓜|田薯|土薯|白薯|Sweet potato,白皮甘藷,119.0,1.3,0.1,27.5
+B0900202,熟莲藕切片(水煮),熟蓮藕切片(水煮)|蓮根|莲根|藕|芙蕖|荷花藕|Lotus root|Indian lotus tuber|East Indian lotus,熟蓮藕切片(水煮),73.0,0.8,0.0,16.9
+E3201202,青江菜(土植)(3月取样),青江菜(土植)(3月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese mustard,青江菜(土植)(3月取樣),13.0,1.2,0.1,2.2
+E5300202,本岛莴苣(土植)(3月取样),本島萵苣(土植)(3月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce,本島萵苣(土植)(3月取樣),18.0,0.3,0.3,3.8
+D3200404,富士苹果,富士蘋果|柰|林檎|Fu-Ji apple,富士蘋果,49.0,0.2,0.1,13.1
+D0800602,李林蕉(2012年取样),李林蕉(2012年取樣)|香蕉|芎蕉|弓蕉|甘蕉(牛角蕉|佛手蕉|美人蕉|樹蕉)|树蕉),李林蕉(2012年取樣),111.0,1.5,0.1,29.2
+D0800802,红皮蕉(2012年取样),紅皮蕉(2012年取樣)|香蕉|芎蕉|弓蕉|甘蕉|蘋果蕉|苹果蕉|banana,紅皮蕉(2012年取樣),98.0,1.3,0.2,25.5
+G1200401,玫瑰菇,紅側耳|红侧耳|桃紅平菇|桃红平菇|紅平菇|红平菇|粉紅菇|粉红菇,玫瑰菇,35.0,4.5,0.1,5.6
+G1300101,杏香菇,香微蘑|雪茸|帝王菇|平菇王|King Oyster Mushroom,杏香菇,26.0,2.7,0.1,4.6
+P0700301,黑豆酱油,黑豆醬油|黑豆蔭油|黑豆荫油|蔭油|荫油|Soy sauce,黑豆醬油,114.0,7.5,0.2,20.6
+P0800301,蚝油,蠔油,蠔油,156.0,6.5,0.1,32.2
+P1000301,肉燥,,肉燥,397.0,9.5,38.1,4.2
+P1004601,麻婆酱,麻婆醬,麻婆醬,190.0,2.9,9.5,23.1
+P0200401,咖哩粉,Curry powder,咖哩粉,417.0,13.9,14.1,58.5
+P0100301,山葵粉,,山葵粉,387.0,10.1,6.1,72.9
+P1003301,葱酱,蔥醬,蔥醬,149.0,2.2,6.8,19.5
+P0700801,黑豆油膏,蔭油膏|荫油膏,黑豆油膏,146.0,7.8,0.1,28.6
+P0200301,豆酥,,豆酥,540.0,30.1,38.1,19.2
+R8100101,冲泡浓汤(海鲜),沖泡濃湯(海鮮),沖泡濃湯(海鮮),355.0,11.2,6.9,62.0
+R2200601,冷冻素食水饺,冷凍素食水餃|Dumpling: vegetarian,冷凍素食水餃,175.0,8.7,4.1,25.8
+R6100401,冷冻旗鱼丸,冷凍旗魚丸|Swordfish ball,冷凍旗魚丸,160.0,12.8,6.7,12.0
+R0400201,碱粽,鹼糉|鹼粽,鹼粽,131.0,2.1,1.7,26.8
+R2700101,葱油饼,蔥油餅,蔥油餅,305.0,8.3,9.3,46.9
+R2600101,披萨(夏威夷),披薩(夏威夷),披薩(夏威夷),270.0,12.0,8.7,35.9
+P1002801,黑胡椒酱,黑胡椒醬,黑胡椒醬,117.0,2.5,0.5,25.5
+P0101901,姜黄粉,薑黃粉|curcuma powder,薑黃粉,358.0,14.6,2.7,69.0
+P0800401,鱼露,魚露,魚露,64.0,10.2,0.2,5.3
+R0300301,寿司(豆皮寿司),壽司(豆皮壽司)|稻禾壽司|稻禾寿司,壽司(豆皮壽司),194.0,6.3,4.7,31.7
+L0102108,全脂鲜乳(7月取样),全脂鮮乳(7月取樣)|牛乳|牛奶|Whole fresh milk,全脂鮮乳(7月取樣),65.0,3.7,3.7,4.2
+B0700202,马铃薯(2022年取样),馬鈴薯(2022年取樣)|洋芋|洋薯|洋山芋|荷蘭薯|荷兰薯|日本番薯|塊茄|块茄|Potato|White potato|Irish potato,馬鈴薯(2022年取樣),70.0,2.3,0.0,14.9
+A0500103,籼米(台中籼10号)(2024年取样),秈米(臺中秈10號)(2024年取樣)|秈米(台中秈10號)(2024年取樣)|在來米|在来米|長米|长米|Long grain rice|Taichung Sen No. 10,秈米(台中秈10號)(2024年取樣),357.0,6.1,0.6,79.8
+A0500302,越光米(台南16号)(2024年取样),越光米(臺南16號)(2024年取樣)|越光米(台南16號)(2024年取樣)|蓬萊米|蓬莱米|圓米|圆米|Rice Tainan 16,越光米(台南16號)(2024年取樣),356.0,6.9,0.3,79.1
+D1600101,杨桃(2月取样),楊桃(2月取樣)|羊桃|洋桃|陽桃|阳桃|五稜子|五棱子|五斂子|五敛子|Star fruit|Carambola,楊桃(2月取樣),29.0,0.4,0.1,7.6
+D1600103,杨桃(5月取样),楊桃(5月取樣)|羊桃|洋桃|陽桃|阳桃|五稜子|五棱子|五斂子|五敛子|Star fruit|Carambola,楊桃(5月取樣),34.0,0.6,0.1,8.7
+D1600105,杨桃(11月取样),楊桃(11月取樣)|羊桃|洋桃|陽桃|阳桃|五稜子|五棱子|五斂子|五敛子|Star fruit|Carambola,楊桃(11月取樣),31.0,0.4,0.0,8.0
+D2400306,桃接李(小),李子|Plum,桃接李(小),36.0,0.7,0.3,8.6
+D2400305,桃接李(大),李子|Plum,桃接李(大),38.0,0.6,0.3,9.2
+D2400102,翡翠李,李子|Plum,翡翠李,48.0,0.7,0.5,11.4
+D2200101,玉荷苞荔枝,丹荔|荔錦|荔锦|麗枝|丽枝|離枝|离枝|Lychee|Lichee|Litchi,玉荷苞荔枝,68.0,1.2,0.2,17.3
+D2200102,黑叶仔荔枝,黑葉仔荔枝|丹荔|荔錦|荔锦|麗枝|丽枝|離枝|离枝|Lychee|Lichee|Litchi,黑葉仔荔枝,62.0,0.9,0.2,15.8
+Q4100701,苏打饼干(蔬菜),蘇打餅乾(蔬菜),蘇打餅乾(蔬菜),512.0,7.8,24.7,64.5
+D2110101,芒果干,芒果乾|Preserved mango: dried,芒果乾,334.0,0.6,1.0,90.0
+Q8100201,芒果青,,芒果青,223.0,0.6,0.4,54.2
+E5100101,菾菜,葉用甜菜|叶用甜菜|莙薘菜|莙荙菜|牛皮菜|豬乸菜|猪乸菜,菾菜,21.0,2.0,0.1,3.7
+E7700301,紫甘蓝芽,紫甘藍芽,紫甘藍芽,32.0,0.2,0.7,6.6
+G0200201,白毛木耳,毛木耳(白化)|雪珍耳,白毛木耳,45.0,1.2,0.1,10.6
+G0600101,雪白菇(长),雪白菇(長)|美白菇|白精靈菇|白精灵菇|white beech mushroom,雪白菇(長),36.0,2.1,0.4,6.9
+J0405501,鞍带石斑鱼片,鞍帶石斑魚片|龍膽石斑|龙胆石斑|過魚|过鱼|槍頭石斑魚|枪头石斑鱼|倒吞鱟|倒吞鲎|鴛鴦鱠|鸳鸯鲙|龍躉(香港)|龙趸(香港)|Queensland grouper|Queensland groper|Bridlebass|Brindlebass|Brindle grouper|Brindle bass|Giant grouper,鞍帶石斑魚片,155.0,19.1,8.2,0.2
+D2800202,玫瑰桃,桃子|脆桃|甜桃|Peach,玫瑰桃,51.0,1.2,0.1,12.8
+R0300101,三角饭团(肉松),三角飯糰(肉鬆),三角飯糰(肉鬆),219.0,5.8,5.5,36.6
+P1300501,柚子果酱,柚子果醬,柚子果醬,268.0,0.6,0.8,64.5
+D0100101,山竹,鳳果|凤果|都捻子|倒稔子|羅漢果|罗汉果|莽吉柿|果中之后|果中之後|Mangosteen|Mangostan,山竹,69.0,0.6,0.3,18.1
+O0901601,抹茶粉,綠茶粉|绿茶粉,抹茶粉,361.0,23.4,6.4,63.0
+O0901801,小麦草粉,小麥草粉|小麥苗粉|小麦苗粉,小麥草粉,370.0,34.0,7.4,41.9
+C1305101,亚麻仁籽,亞麻仁籽|Flex seed,亞麻仁籽,524.0,20.8,40.3,28.1
+C0500202,栗子仁(生),Chestnut: raw,栗子仁(生),176.0,3.7,0.7,38.7
+D2000401,七股香洋香瓜,甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|洋香瓜|網仔瓜|网仔瓜|哈蜜瓜|Melon|Honeydew melon,七股香洋香瓜,40.0,0.6,0.1,10.5
+E5100201,黄金菾菜,黃金菾菜|黃金火焰菜|黄金火焰菜|君達菜|君达菜|甜菜|Garden Beet|Table Beet|Swiss Chard|Spinach Beet|Chard|White Beet,黃金菾菜,18.0,2.4,0.2,2.6
+E3201601,广岛野菜,廣島野菜|廣島菜|广岛菜,廣島野菜,16.0,1.7,0.0,2.9
+R8200101,寒天脆藻,水晶脆藻,寒天脆藻,11.0,0.0,0.0,2.5
+G1200301,白蚝菇,白蠔菇|White Oyster Mushroom,白蠔菇,33.0,2.2,0.3,6.4
+C1700101,带壳花生(生),帶殼花生(生)|土豆|長生果|长生果|落花生|Peanut,帶殼花生(生),331.0,15.3,27.2,12.2
+H1505101,红扁豆仁,紅扁豆仁|Red lentils,紅扁豆仁,343.0,25.3,2.1,58.3
+P1100401,和风沙拉酱,和風沙拉醬,和風沙拉醬,129.0,2.1,1.7,26.3
+R2500101,火腿蛋三明治,,火腿蛋三明治,275.0,10.9,13.2,28.2
+J0400603,魩仔鱼(加工),魩仔魚(加工),魩仔魚(加工),105.0,23.0,0.8,0.0
+H0900201,莱豆仁(去膜),萊豆仁(去膜)|皇帝豆|皇格豆|白扁豆|觀音豆|观音豆|雪豆|大馬萊豆|大马莱豆|細綿豆|细绵豆|Lima bean,萊豆仁(去膜),137.0,7.4,1.4,24.7
+E3800501,抱子芥菜,娃娃菜|Brassica juncea var.,抱子芥菜,21.0,2.1,0.1,3.8
+D1500204,泰国芭乐,泰國芭樂|番石榴|芭樂|芭乐|拔仔|扒仔|朳仔|那拔仔|藍拔|蓝拔|Thailand guava,泰國芭樂,38.0,0.8,0.1,9.7
+D4500101,黄金果,黃金果|黃晶果|黄晶果|Abiu|Caimito,黃金果,44.0,0.9,0.2,11.0
+J2101901,正樱虾(熟),正櫻蝦(熟)|櫻花蝦|樱花虾|花殼仔|花壳仔|櫻桃蝦|樱桃虾|玫瑰蝦|玫瑰虾|火焰蝦|火焰虾|Sergestid shrimp,正櫻蝦(熟),97.0,19.6,1.4,0.0
+J3200101,干贝(冷冻),乾貝(冷凍)|干貝(冷凍)|幹貝(冷凍)|元貝|元贝|瑤柱|瑶柱|Scallop,干貝(冷凍),57.0,12.7,0.4,1.7
+O0900201,咖啡冲泡包(二合一),咖啡沖泡包(二合一)|Instant coffee powder mix,咖啡沖泡包(二合一),491.0,6.8,23.3,63.6
+P0400401,鲣鱼粉,鰹魚粉,鰹魚粉,240.0,21.9,1.0,35.8
+Q8100501,凤梨果干,鳳梨果乾,鳳梨果乾,348.0,2.0,0.3,84.6
+Q8100601,柠檬果干,檸檬果乾,檸檬果乾,344.0,0.8,0.2,84.6
+I0520701,鸭头,鴨頭,鴨頭,199.0,16.5,14.3,0.0
+I0520801,鸭舌,鴨舌,鴨舌,187.0,16.0,13.2,0.0
+I0100103,无骨牛小排(美牛),無骨牛小排(美牛),無骨牛小排(美牛),335.0,15.6,29.8,0.2
+D2500101,枇杷,琶琵果|Loquat,枇杷,38.0,0.3,0.2,9.8
+R7500402,鲭鱼(腌制)(2022年取样),鯖魚(醃製)(2022年取樣)|鹹鯖魚|咸鲭鱼|Mackerel|salted,鯖魚(醃製)(2022年取樣),296.0,17.0,21.0,9.8
+K0100202,土鸡蛋(2022年取样),土雞蛋(2022年取樣)|Egg|whole|raw|fresh,土雞蛋(2022年取樣),137.0,12.2,9.3,1.8
+M0200102,猪油(2022年取样),豬油(2022年取樣)|Lard,豬油(2022年取樣),892.0,0.0,99.9,0.0
+E6200103,冬瓜(2022年取样),冬瓜(2022年取樣)|白瓜|東瓜|东瓜|枕瓜|水芝|地芝|Wax gourd|White gourd|winter melon,冬瓜(2022年取樣),21.0,0.4,0.0,5.1
+D2000405,香华洋香瓜,香華洋香瓜|甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|洋香瓜|網仔瓜|网仔瓜|哈蜜瓜|Melon|Honeydew melon,香華洋香瓜,30.0,0.7,0.0,7.7
+D2100101,土芒果,檬果|檨仔|菴羅果(柴檨|庵罗果(柴檨|土檨仔)|Mango,土芒果,54.0,0.6,0.3,13.8
+E5000201,菠菜(叶)(有机),菠菜(葉)(有機)|菠菱菜|赤根菜|飛龍菜|飞龙菜|角菜|波斯草|波斯菜|波菱菜,菠菜(葉)(有機),26.0,3.3,0.4,3.6
+E3201501,塔菇菜(有机),塔菇菜(有機)|塌棵菜|塔菜|瓢兒芥|瓢儿芥|Chinese savoy|Chinese flat cabbage,塔菇菜(有機),14.0,1.9,0.0,2.3
+R4700301,黑豆干,黑豆乾,黑豆干,197.0,19.0,12.5,2.1
+R4600301,宽粉,寬粉|寬條冬粉|宽条冬粉,寬粉,349.0,0.1,0.1,86.9
+J0600501,翻车鲀鱼皮,翻車魨魚皮|曼波魚皮|曼波鱼皮|翻車魚皮|翻车鱼皮|Ocean sunfish|Sun-fish|Sunfish|Headfish|Giant sunfish|Moonfish|Mola ocean sunfish,翻車魨魚皮,28.0,6.5,0.0,0.0
+J2101801,正樱虾(生),正櫻蝦(生)|櫻花蝦|樱花虾|花殼仔|花壳仔|櫻桃蝦|樱桃虾|玫瑰蝦|玫瑰虾|火焰蝦|火焰虾|Sergestid shrimp,正櫻蝦(生),88.0,17.9,1.3,0.0
+C1505101,奇亚子,奇亞子|Chia seed,奇亞子,483.0,21.7,31.8,34.8
+R8101001,综合坚果谷物冲泡包,綜合堅果穀物沖泡包,綜合堅果穀物沖泡包,453.0,13.3,15.4,65.4
+O9900301,椰奶,coconut milk,椰奶,49.0,0.2,2.1,7.4
+R8100701,植物燕麦奶粉(营养强化),植物燕麥奶粉(營養強化),植物燕麥奶粉(營養強化),437.0,12.0,13.2,67.5
+R4400601,腌辣椒,醃辣椒|剝皮辣椒|剥皮辣椒,醃辣椒,53.0,1.9,0.3,10.6
+D0400101,百香果(台农一号),百香果(臺農一號)|百香果(台農一號)|時計果|时计果|西番果|Passion fruit,百香果(台農一號),102.0,2.0,2.2,21.3
+A0320405,高筋面粉(2021年取样),高筋麪粉(2021年取樣)|高筋麵粉(2021年取樣)|強力粉|强力粉|High-gluten flour,高筋麵粉(2021年取樣),362.0,13.8,1.3,72.2
+E3000104,甘蓝(圆球形)(2021年取样),甘藍(圓球形)(2021年取樣)|高麗菜|高丽菜|Cabbage,甘藍(圓球形)(2021年取樣),20.0,0.8,0.0,4.6
+R6600701,冷冻燕饺,冷凍燕餃,冷凍燕餃,321.0,12.8,23.6,14.5
+R2201101,冷冻猪肉馄饨,冷凍豬肉餛飩|雲吞|云吞|Wonton: pork,冷凍豬肉餛飩,240.0,11.1,12.6,20.5
+Q6300101,水果软糖,水果軟糖|Candy,水果軟糖,411.0,1.3,8.4,82.6
+Q6400601,巧克力夹心糖,巧克力夾心糖|Candy,巧克力夾心糖,403.0,0.7,2.8,93.7
+Q6100301,榛果牛奶巧克力,Chocolate,榛果牛奶巧克力,590.0,9.0,40.4,47.5
+Q0500301,蛋黄芋头酥,蛋黃芋頭酥,蛋黃芋頭酥,217.0,3.1,3.0,44.2
+O0100101,西瓜汁(非原汁),,西瓜汁(非原汁),30.0,1.1,0.1,6.1
+O0101101,柠檬汁(非原汁),檸檬汁(非原汁)|Lemon juice,檸檬汁(非原汁),33.0,0.8,0.1,7.1
+Q4300101,雪饼,雪餅,雪餅,487.0,5.8,19.4,72.3
+Q9100202,豆干片(沙茶),豆乾片(沙茶),豆干片(沙茶),464.0,16.2,28.2,36.4
+R5500101,冷冻牛肉汉堡肉,冷凍牛肉漢堡肉,冷凍牛肉漢堡肉,249.0,14.4,18.5,6.3
+C0110201,甘扁桃仁(熟),杏仁果(熟)|Almonds (Cooked),甘扁桃仁(熟),588.0,21.9,49.8,23.2
+C0210101,原味松子仁,Pine-seed,原味松子仁,680.0,14.5,69.0,13.0
+Q4100401,蛋卷(芝麻),蛋捲(芝麻)|Egg roll,蛋捲(芝麻),549.0,6.8,33.3,55.5
+R2200201,冷冻猪肉水饺,冷凍豬肉水餃|Dumpling: pork,冷凍豬肉水餃,208.0,8.1,9.7,22.1
+R2600201,冷冻披萨(黑胡椒火腿),冷凍披薩(黑胡椒火腿)|Pizza,冷凍披薩(黑胡椒火腿),210.0,9.3,6.9,27.7
+Q6310201,巧克力牛奶软糖,巧克力牛奶軟糖|Candy,巧克力牛奶軟糖,422.0,3.4,11.3,76.7
+Q6300201,水果QQ软糖,水果QQ軟糖|Candy,水果QQ軟糖,343.0,6.8,0.2,78.3
+R2400501,冷藏坚果馒头,冷藏堅果饅頭,冷藏堅果饅頭,307.0,9.6,8.8,47.3
+R2300201,冷冻酸菜焢肉包子,冷凍酸菜焢肉包子,冷凍酸菜焢肉包子,301.0,8.6,13.1,37.2
+R1300301,糙米浆,糙米漿,糙米漿,71.0,1.3,2.2,11.6
+P1500101,炸排粉,,炸排粉,344.0,11.9,1.8,70.0
+P1500201,炸鸡粉,炸雞粉,炸雞粉,333.0,8.3,1.7,71.0
+O0700301,拿铁咖啡(无糖),拿鐵咖啡(無糖)|咖啡牛奶,拿鐵咖啡(無糖),43.0,3.0,2.0,3.4
+O0701501,鲜奶茶(无糖),鮮奶茶(無糖)|紅茶拿鐵|红茶拿铁,鮮奶茶(無糖),27.0,2.0,1.4,1.4
+E7500503,糯米椒,辣椒|番椒|番仔薑|番仔姜|臘椒(伏見甘長辣椒)|腊椒(伏见甘长辣椒)|Hot pepper|Long pepper|Pepper,糯米椒,28.0,1.2,0.3,5.6
+F9900201,寿司海苔片,壽司海苔片,壽司海苔片,278.0,46.5,3.7,32.1
+J0400201,日本鳗鲡鱼片(生),日本鰻鱺魚片(生)|白鰻|白鳗|日本鰻|日本鳗|正鰻|正鳗|白鱔|白鳝|鰻鱺|鳗鲡|土鰻(澎湖)|土鳗(澎湖)|淡水鰻(澎湖)|淡水鳗(澎湖)|Japanese eel|Freshwater eel|Eel,日本鰻鱺魚片(生),254.0,18.1,19.6,0.0
+R7500201,日本鳗鲡鱼片(蒲烧),日本鰻鱺魚片(蒲燒)|白鰻|白鳗|日本鰻|日本鳗|正鰻|正鳗|白鱔|白鳝|鰻鱺|鳗鲡|土鰻(澎湖)|土鳗(澎湖)|淡水鰻(澎湖)|淡水鳗(澎湖)|Japanese eel|Freshwater eel|Eel,日本鰻鱺魚片(蒲燒),272.0,25.0,18.7,0.9
+O0700201,无糖咖啡饮料,無糖咖啡飲料,無糖咖啡飲料,4.0,0.2,0.1,0.5
+O0100401,柳橙汁(100%),,柳橙汁(100%),48.0,0.6,0.3,10.7
+R4400201,黄金泡菜,黃金泡菜,黃金泡菜,111.0,2.4,5.7,12.5
+R8100401,三合一麦片(野菜蘑菇),三合一麥片(野菜蘑菇),三合一麥片(野菜蘑菇),399.0,6.8,9.0,72.7
+R1700101,面筋(未调味),麪筋(未調味)|麵筋(未調味)|Gluten|Wheat gluten,麵筋(未調味),643.0,42.5,53.0,0.0
+A0300101,小麦,小麥|Wheat,小麥,362.0,14.1,2.6,69.2
+R2201501,熟水饺(高丽菜水饺),熟水餃(高麗菜水餃)|熟包菜水饺|熟包菜水餃|熟卷心菜水饺|熟捲心菜水餃|熟高丽菜水饺|熟高麗菜水餃,熟水餃(高麗菜水餃),199.0,7.4,10.1,19.7
+Q0900701,黑森林蛋糕,巧克力鮮奶油蛋糕|巧克力鲜奶油蛋糕,黑森林蛋糕,277.0,4.2,17.8,25.0
+E3200102,蚵仔白菜(2022年取样),蚵仔白菜(2022年取樣)|白菜|青菜|散葉白菜|散叶白菜|無心菜|无心菜|菘|不結球白菜|不结球白菜|尼龍白菜|尼龙白菜|皺(碎/曲)葉白菜|皱(碎/曲)叶白菜|皺葉中蕓苔|皱叶中芸苔|Chinese mustard|Chinese cabbage,蚵仔白菜(2022年取樣),13.0,1.4,0.3,1.8
+H1800101,翼豆,四角豆|翅豆|羊角豆|楊桃豆|杨桃豆|四稜豆|四棱豆|Four-angled bean|Winged bean|Goa bean,翼豆,31.0,2.5,0.4,4.7
+D2100401,四季芒果,檬果|檨仔|菴羅果(四季檨)|庵罗果(四季檨)|Mango,四季芒果,60.0,0.6,0.2,15.6
+D2100407,莲花芒果,蓮花芒果|檬果|檨仔|菴羅果|庵罗果|Mango,蓮花芒果,47.0,0.4,0.2,12.2
+E6300103,栗子南瓜,金瓜|飯瓜|饭瓜|番(翻)瓜|倭(窩)瓜|倭(窝)瓜|紅(冬/西洋)南瓜|红(冬/西洋)南瓜|南瓜|北瓜|玉瓜|筍瓜|笋瓜|Pumpkin,栗子南瓜,86.0,1.4,0.2,20.7
+K0320101,鹌鹑卤蛋,鵪鶉滷蛋|鳥蛋|鸟蛋|Quail's egg,鵪鶉滷蛋,238.0,16.2,14.3,11.1
+I0321301,猪油渣,豬油渣,豬油渣,837.0,17.4,84.5,0.0
+R7500101,鲨鱼烟,鯊魚煙,鯊魚煙,68.0,22.3,0.4,0.0
+Q2200301,红豆牛奶冰棒,紅豆牛奶冰棒|Red bean milk ice bar,紅豆牛奶冰棒,155.0,3.5,4.9,24.3
+Q2104201,传统豆花(未加糖),傳統豆花(未加糖),傳統豆花(未加糖),39.0,3.2,1.9,2.1
+I0520601,鸭翅,鴨翅,鴨翅,170.0,22.8,8.1,0.0
+D0600101,红毛丹,紅毛丹|韶子|毛龍眼|毛龙眼|毛荔枝|Tanjong Rambutan,紅毛丹,73.0,1.0,0.7,17.9
+P0201401,陈皮,陳皮|Tangerine peel|chenpi,陳皮,349.0,6.9,2.4,74.8
+P0201501,山楂,,山楂,345.0,1.9,2.5,78.7
+M1000102,人造奶油(2021年取样),人造奶油(2021年取樣)|乳瑪琳|乳玛琳|Milkmarrine|Margarine,人造奶油(2021年取樣),722.0,0.1,81.7,1.7
+P1100102,沙拉酱(2021年取样),沙拉醬(2021年取樣)|蛋黃醬|蛋黄酱|Salad dressing,沙拉醬(2021年取樣),630.0,1.9,61.7,16.8
+B0500302,槟榔心芋(2021年取样),檳榔心芋(2021年取樣)|芋頭|芋头|芋艿|芋乃|芋仔|青芋|土芝|Taro,檳榔心芋(2021年取樣),107.0,1.1,0.0,24.8
+J0412003,台湾鲷鱼片(生)(2021年),臺灣鯛魚片(生)(2021年)|台灣鯛魚片(生)(2021年)|Tilapia,台灣鯛魚片(生)(2021年),109.0,17.9,3.7,1.5
+D4600101,菠萝蜜,菠蘿蜜|天波羅|天波罗|樹波羅|树波罗|Jack Fruit,菠蘿蜜,108.0,1.0,0.2,28.4
+E9900701,面包果,麪包果|麵包果|釋迦果|释迦果|馬檳榔|马槟榔|Bread-fruit Tree,麵包果,61.0,1.0,1.8,11.2
+G1300203,杏鲍菇(小),杏鮑菇(小)|鳳尾菇|凤尾菇|雪茸|帝王菇|平菇王|蠔菇王|蚝菇王|干貝菇|干贝菇|幹貝菇|刺芹側耳|刺芹侧耳|義大利側耳|义大利侧耳|義大利蠔菌|义大利蚝菌|杏鮑茸|杏鲍茸|西洋刺耳|King oyster mushroom|apricot mushroom|almond abalone mushroom,杏鮑菇(小),47.0,3.2,0.3,9.2
+J2300301,金钩虾干,金鉤蝦乾|海米|扁米|開洋|开洋,金鉤蝦乾,257.0,54.6,2.6,0.0
+I0321501,猪软骨,豬軟骨,豬軟骨,332.0,15.6,29.4,0.0
+D3300101,樱桃,櫻桃|中國櫻桃又稱鶯桃|中国樱桃又称莺桃|荊桃|荆桃|Cherry,櫻桃,75.0,1.2,0.3,19.1
+Q1000901,葡萄干奶酥面包,葡萄乾奶酥麪包|葡萄乾奶酥麵包,葡萄乾奶酥麵包,306.0,8.4,7.9,50.4
+Q4200101,玉米饼干(原味),玉米餅乾(原味),玉米餅乾(原味),504.0,7.6,24.3,63.8
+D2700203,国产甜柿,國產甜柿|柿子|柹|香柿|Persimmon,國產甜柿,47.0,0.4,0.1,12.7
+J0416601,毛鳞鱼,毛鱗魚|喜相逢|多春魚|多春鱼|樺太柳葉魚（日文）|桦太柳叶鱼（日文）|Capelin,毛鱗魚,145.0,14.1,9.4,0.4
+D5000101,蓝莓(台湾),藍莓(臺灣)|藍莓(台灣)|Blueberries,藍莓(台灣),53.0,0.5,0.3,13.6
+D1900202,红铃西瓜,紅鈴西瓜|水瓜|寒瓜|夏瓜|Watermelon,紅鈴西瓜,34.0,0.8,0.1,8.5
+A0600101,高梁,Sorghum|Kao-lian,高梁,372.0,11.0,3.0,73.6
+D1900203,黑美人西瓜,水瓜|寒瓜|夏瓜|Watermelon,黑美人西瓜,36.0,0.9,0.1,9.1
+D2100201,肯特芒果,檬果|檨仔|菴羅果|庵罗果|Mango,肯特芒果,49.0,0.5,0.2,12.7
+D2100301,黑香芒果,檬果|檨仔|菴羅果|庵罗果|Mango,黑香芒果,66.0,0.8,0.3,16.9
+A0500203,稉米(台稉2号),稉米(臺稉2號)|稉米(台稉2號)|蓬萊米|蓬莱米|圓米|圆米|Short grain rice,稉米(台稉2號),357.0,7.2,0.5,78.7
+R7101601,调味南瓜子(去壳),調味南瓜子(去殼)|白瓜子|Pumpkin seeds: spiced|cooked,調味南瓜子(去殼),607.0,30.4,47.9,13.5
+D3400203,海梨桶柑,年柑|草山柑|焦柑|蜜桶|漳柑|草山桔(海梨)|Tankan|Tankan orange,海梨桶柑,44.0,0.9,0.2,11.0
+E0200201,黄胡萝卜,黃胡蘿蔔|紅蘿蔔|红萝卜|紅菜頭|红菜头|黃蘿蔔|黄萝卜|丁香蘿蔔|丁香萝卜|人參|人参|金筍|金笋|Carrot,黃胡蘿蔔,42.0,1.1,0.3,9.4
+D2000404,红宝石洋香瓜,紅寶石洋香瓜|甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|洋香瓜|網仔瓜|网仔瓜|哈蜜瓜|Melon|Honeydew melon,紅寶石洋香瓜,39.0,1.2,0.0,9.6
+D2900101,青梅(胭脂梅),梅子|Yentsu Mei|Japanese Apricot,青梅(胭脂梅),35.0,0.5,0.1,8.8
+D3200501,富士苹果(带皮),富士蘋果(帶皮)|柰|林檎|Fu-Ji apple,富士蘋果(帶皮),45.0,0.2,0.1,11.9
+D3200201,翠玉青苹果(带皮),翠玉青蘋果(帶皮)|柰|林檎|青蘋果(翡翠|青苹果(翡翠|青玉|史蜜斯)|Apple,翠玉青蘋果(帶皮),54.0,0.4,0.2,14.1
+E7510101,干长辣椒(红皮),幹長辣椒(紅皮)|乾長辣椒(紅皮)|辣椒|番椒|番仔薑|番仔姜|臘椒|腊椒|Hot pepper|Long pepper|Pepper,乾長辣椒(紅皮),382.0,19.9,17.2,47.6
+E6010101,洛神花干,洛神花幹|洛神花乾|玫瑰茄|洛神葵|洛神果|洛濟葵|洛济葵,洛神花乾,306.0,9.0,0.6,71.2
+I0520301,去骨鸭掌,去骨鴨掌,去骨鴨掌,113.0,12.6,6.6,0.0
+I0404403,鸡排(肉鸡)(2021年取样),雞排(肉雞)(2021年取樣),雞排(肉雞)(2021年取樣),251.0,14.9,20.8,0.0
+E6600102,隼人瓜(2023年取样),隼人瓜(2023年取樣)|梨瓜|壽瓜|寿瓜|合掌瓜|安南瓜|香瓜仔|拳頭瓜|拳头瓜|佛掌瓜|香圓瓜|香圆瓜|香櫞瓜|香橼瓜|佛手瓜|瓦瓜|Chayote,隼人瓜(2023年取樣),22.0,0.7,0.2,4.5
+H2000101,天贝(黄豆),天貝(黃豆)|Soybean Fresh Tempeh,天貝(黃豆),187.0,23.6,9.0,7.4
+R2700301,冷冻蛋饼皮,冷凍蛋餅皮,冷凍蛋餅皮,231.0,5.7,3.7,43.7
+P1300601,桑葚果酱,桑葚果醬,桑葚果醬,227.0,0.9,0.4,54.9
+E3300102,迷你竹笋白菜,迷你竹筍白菜|大白菜|黃芽菜|黄芽菜|包心白菜|卷心白菜|捲心白菜|山東白菜|山东白菜|結球白菜|结球白菜|Chinese cabbage,迷你竹筍白菜,19.0,1.3,0.1,3.8
+R4100101,芋圆,芋圓,芋圓,214.0,0.9,0.2,52.1
+R4400101,台式泡菜,臺式泡菜,台式泡菜,59.0,0.9,0.3,13.1
+R7500501,毛鳞鱼(柳叶鱼)(裹粉未炸),毛鱗魚(柳葉魚)(裹粉未炸)|柳葉魚|柳叶鱼,毛鱗魚(柳葉魚)(裹粉未炸),171.0,12.9,4.9,19.0
+H1120102,黄豆粉(有机),黃豆粉(有機)|大豆粉(有機)|大豆粉(有机),黃豆粉(有機),434.0,42.0,21.9,25.9
+Q2100601,粉粿,,粉粿,65.0,0.0,0.1,15.5
+R7500901,腌渍鲑鱼卵,醃漬鮭魚卵,醃漬鮭魚卵,218.0,24.9,10.2,6.7
+I0100202,牛肋条(2021年取样),牛肋條(2021年取樣)|Beef Ribs,牛肋條(2021年取樣),358.0,15.7,32.3,0.3
+I0420102,鸡心(肉鸡)(2021年取样),雞心(肉雞)(2021年取樣)|chicken heart,雞心(肉雞)(2021年取樣),204.0,14.4,15.8,1.2
+H1700101,树豆(白),樹豆(白)|木豆|白樹豆|白树豆|柳豆|米豆|放屁豆|番仔豆|蒲姜豆|Pigeon pea,樹豆(白),325.0,22.1,0.8,59.4
+E5600401,水蕹菜,,水蕹菜,24.0,2.6,0.5,3.3
+E5800601,青花菜笋,青花菜筍,青花菜筍,32.0,3.0,0.5,5.1
+D0800501,北蕉(7天),香蕉|芎蕉|弓蕉|甘蕉|Banana,北蕉(7天),68.0,1.3,0.2,17.1
+E0200102,向阳二号胡萝卜,向陽二號胡蘿蔔|紅蘿蔔|红萝卜|紅菜頭|红菜头|黃蘿蔔|黄萝卜|丁香蘿蔔|丁香萝卜|人參|人参|金筍|金笋|Carrot,向陽二號胡蘿蔔,44.0,0.6,0.1,10.6
+E2800101,小麦苗,小麥苗,小麥苗,34.0,3.3,0.5,5.5
+E9400101,参须,參須|蔘鬚,蔘鬚,330.0,7.0,1.8,76.2
+G1800101,舞菇,舞茸|灰樹花|灰树花|葉多孔菌|叶多孔菌|栗子蘑|千佛菌|蓮花菌|莲花菌,舞菇,28.0,1.4,0.1,5.8
+D1900401,小玉西瓜,水瓜|寒瓜|夏瓜|Watermelon,小玉西瓜,34.0,0.8,0.1,8.7
+I0420201,鸡尾椎,雞尾椎|雞屁股|鸡屁股,雞尾椎,452.0,9.0,45.9,0.1
+J2200701,须赤虾仁,須赤蝦仁|鬚赤蝦仁|火燒蝦仁|火烧虾仁,鬚赤蝦仁,80.0,17.1,0.7,0.0
+D2000302,新疆哈密瓜,網仔瓜|网仔瓜|哈密瓜|Melon|Cantaloupe|Musk melon,新疆哈密瓜,28.0,0.7,0.1,6.9
+D1600102,杨桃(4月取样),楊桃(4月取樣)|羊桃|洋桃|陽桃|阳桃|五稜子|五棱子|五斂子|五敛子|Star fruit|Carambola,楊桃(4月取樣),32.0,0.7,0.1,8.1
+A1100101,红藜麦,紅藜麥|Red quinoa,紅藜麥,379.0,12.1,6.7,66.8
+E7210101,枸杞干,枸杞幹|枸杞乾|枸杞|地骨子|甘杞|杞子|枸忌|苦杞|血杞|天精子,枸杞乾,347.0,12.3,1.3,77.8
+P0102201,花椒粒,,花椒粒,359.0,10.3,12.5,53.6
+D4400101,无花果,無花果|Fig,無花果,67.0,1.2,0.4,16.5
+O0100201,芭乐汁(非原汁),芭樂汁(非原汁)|Guava juice,芭樂汁(非原汁),45.0,0.2,0.1,11.0
+O0100701,杨桃汁(非原汁),楊桃汁(非原汁)|Star fruit juice,楊桃汁(非原汁),49.0,0.0,0.1,12.0
+Q0800201,铜锣烧,銅鑼燒,銅鑼燒,332.0,3.4,9.9,57.2
+B9900201,蒟蒻粉,,蒟蒻粉,351.0,0.2,0.2,87.2
+D0800301,北蕉(1天),香蕉|芎蕉|弓蕉|甘蕉|Banana,北蕉(1天),87.0,1.4,0.3,22.2
+D0800401,北蕉(3天),香蕉|芎蕉|弓蕉|甘蕉|Banana,北蕉(3天),84.0,1.4,0.3,21.3
+E1900102,粉姜,粉薑|薑仔|姜仔|生薑|生姜|羌|蘘荷|茗荷|甘露子|紫薑|紫姜|Ginger,粉薑,28.0,1.0,0.3,6.1
+G0400101,鸡腿菇,雞腿菇|雞腿(蘑)菇|鸡腿(蘑)菇|雞髀菇|鸡髀菇|墨水菇|一夜菇(毛頭鬼傘)|一夜菇(毛头鬼伞)|Lawyer's wig|Shappy mane mushroom|Shappy ink cap,雞腿菇,36.0,2.1,0.1,7.5
+B0400501,金时甘𫉄,金時甘藷|甘薯|番薯|甜薯|地瓜|田薯|土薯|Sweet potato,金時甘藷,138.0,1.6,0.4,31.3
+B0400201,菱角牛奶甘𫉄,菱角牛奶甘藷|甘薯|番薯|甜薯|地瓜|田薯|土薯|白薯|Sweet potato,菱角牛奶甘藷,133.0,1.9,0.3,29.9
+R6700301,鱼板,魚板,魚板,128.0,10.0,2.0,17.6
+R4100201,粉圆,粉圓,粉圓,346.0,0.2,0.0,86.2
+K0200101,鸭蛋,鴨蛋|Duck's egg,鴨蛋,187.0,13.1,14.4,0.2
+Q1000301,红豆土司,紅豆土司,紅豆土司,319.0,9.2,10.2,47.7
+Q4100301,卷心酥,捲心酥,捲心酥,490.0,6.1,19.9,71.7
+Q4200401,零食泡面,零食泡麪|零食泡麵,零食泡麵,484.0,11.3,21.5,61.3
+I1000101,山猪肉片,山豬肉片|山豬肉|山猪肉|Sus scrofa,山豬肉片,466.0,11.9,46.0,0.0
+D4300101,蛋黄果,蛋黃果|仙桃|Peach|Egg apple|Egg-fruit|Canistel,蛋黃果,106.0,1.4,0.3,27.3
+D3930102,"红甘蔗汁(有机,2023年取样)","紅甘蔗汁(有機,2023年取樣)|甘蔗汁|高貴蔗汁|高贵蔗汁|果蔗汁|干蔗汁|幹蔗汁|薯蔗汁|竹蔗汁|Sugarcane|Noble sugar cane","紅甘蔗汁(有機,2023年取樣)",72.0,0.2,0.4,18.8
+A0500206,稉米(台农71号),稉米(臺農71號)|稉米(台農71號)|蓬萊米|蓬莱米|圓米|圆米|益全香米|Short grain rice: Yih-Chuan aromatic rice,稉米(台農71號),357.0,7.9,0.6,77.8
+A0501301,糙稉米(台稉71号),糙稉米(臺稉71號)|糙稉米(台稉71號)|益全香米糙米|Brown rice,糙稉米(台稉71號),360.0,9.0,2.6,73.6
+A0800101,燕麦,燕麥|Oat,燕麥,406.0,10.9,10.2,67.4
+D0900201,酪梨(室温存放0天),酪梨(室溫存放0天)|牛油果(梨)|黃油果(梨)|黄油果(梨)|油梨|鰐(鱷)梨|鳄(鳄)梨|幸福果|樂天果|乐天果|Avocado|Aligator-pear|Avocado pear,酪梨(室溫存放0天),80.0,1.5,5.9,7.1
+D0900301,酪梨(室温存放3天),酪梨(室溫存放3天)|牛油果(梨)|黃油果(梨)|黄油果(梨)|油梨|鰐(鱷)梨|鳄(鳄)梨|幸福果|樂天果|乐天果|Avocado|Aligator-pear|Avocado pear,酪梨(室溫存放3天),84.0,1.4,6.8,6.3
+D3400205,柠檬柑,檸檬柑|三寶柑|三宝柑|甜檸檬|甜柠檬|Citrus sulcata Hort. ex Takahashi,檸檬柑,48.0,1.1,0.1,12.2
+D3400204,高墙桶柑,高牆桶柑|年柑|草山柑|焦柑|蜜桶|漳柑|草山桔(桶柑)|Tankan|Tankan orange,高牆桶柑,45.0,0.8,0.0,11.8
+A0501201,糙籼米,糙秈米|糙米|Brown rice,糙秈米,359.0,7.3,3.2,73.6
+R6600601,冷冻虾饺,冷凍蝦餃,冷凍蝦餃,273.0,11.4,19.3,13.5
+R6600501,冷冻鱼饺,冷凍魚餃,冷凍魚餃,277.0,12.5,19.5,12.9
+R0500301,冷冻筒仔米糕,冷凍筒仔米糕,冷凍筒仔米糕,212.0,6.5,5.8,33.6
+Q0900601,蜂蜜蛋糕(起司),Honey cake: Cheese,蜂蜜蛋糕(起司),352.0,7.4,18.1,39.9
+P0101201,红胡椒粒,紅胡椒粒,紅胡椒粒,376.0,5.9,13.7,59.3
+P0201101,椰浆,椰漿,椰漿,208.0,1.1,23.1,0.0
+P1004501,香椿酱,香椿醬,香椿醬,507.0,8.1,51.7,2.3
+D3400301,长果金柑,長果金柑|金棗|金枣|羅浮柑|罗浮柑|Kumquat|Oval kumquat,長果金柑,56.0,1.0,0.2,14.1
+D3600101,柳橙,甜橙|柳丁|印子柑|廣柑|广柑|Orange,柳橙,44.0,0.8,0.1,11.0
+Q0700501,松饼,鬆餅,鬆餅,257.0,3.2,2.6,55.1
+R9900301,白葡萄酒,White grape wine,白葡萄酒,90.0,0.1,0.0,14.2
+R9900302,红葡萄酒,紅葡萄酒|Red grape wine,紅葡萄酒,93.0,0.1,0.0,14.8
+D1700302,意大利葡萄,蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃|Grape,意大利葡萄,52.0,0.5,0.1,13.7
+D1700401,美国红葡萄(含皮),美國紅葡萄(含皮)|蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃|Grape,美國紅葡萄(含皮),61.0,0.4,0.1,16.3
+E0300101,根菾菜根,甜菜根|火焰菜根|Beet|Beetroot,根菾菜根,27.0,1.2,0.1,6.0
+E0100101,牛蒡,吳帽|吴帽|吳某|吴某|牛菜|蒡翁菜|鼠黏|Great burdock|edible burdock,牛蒡,84.0,2.5,0.4,19.1
+A0320505,全麦面粉,全麥麪粉|全麥麵粉|Whole wheat flour,全麥麵粉,359.0,13.0,1.7,71.4
+E3201203,青江菜(土植)(4月取样),青江菜(土植)(4月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese mustard,青江菜(土植)(4月取樣),11.0,1.0,0.1,1.8
+E3200804,小白菜(有机)(10月取样),小白菜(有機)(10月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi:organic,小白菜(有機)(10月取樣),13.0,1.3,0.2,1.9
+E3200601,小白菜(土植)(1月取样),小白菜(土植)(1月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi,小白菜(土植)(1月取樣),10.0,1.2,0.2,1.5
+E3200701,小白菜(水耕)(1月取样),小白菜(水耕)(1月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi,小白菜(水耕)(1月取樣),13.0,1.5,0.1,2.1
+E3900101,芥蓝菜,芥藍菜|芥蘭菜|芥兰菜|格藍菜|格蓝菜|綠葉甘藍|绿叶甘蓝|佛光菜|隔暝仔菜|Chinese kale,芥藍菜,20.0,1.7,0.3,3.2
+R1600201,玉米酱罐头,玉米醬罐頭|Cream style sweat corn|Sweat cream style corn,玉米醬罐頭,66.0,1.4,0.4,14.0
+E3900201,芥蓝芽,芥藍芽|菜嬰|菜婴|格藍菜嬰|格蓝菜婴,芥藍芽,26.0,2.2,0.3,4.5
+E5300404,本岛莴苣(有机)(10月取样),本島萵苣(有機)(10月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce:organic,本島萵苣(有機)(10月取樣),15.0,1.3,0.3,2.3
+E5300201,本岛莴苣(土植)(1月取样),本島萵苣(土植)(1月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce,本島萵苣(土植)(1月取樣),17.0,1.6,0.4,2.5
+E5300501,水耕波士顿莴苣,水耕波士頓萵苣|Lettuce,水耕波士頓萵苣,14.0,1.3,0.7,1.2
+E5300102,红叶莴苣(荷兰种）,紅葉萵苣(荷蘭種）|彩葉萵苣|彩叶莴苣|彩色媚仔菜|紅色萵苣菜|红色莴苣菜|紅萵仔菜|红莴仔菜|Lettuce,紅葉萵苣(荷蘭種）,16.0,1.4,0.3,2.5
+E5800201,冷冻花椰菜,冷凍花椰菜|花菜|菜花|白花菜|白菜花|Cauliflower: frozen,冷凍花椰菜,21.0,1.3,0.1,4.5
+R1100401,浊水米粉,濁水米粉|Rice noodle,濁水米粉,357.0,5.3,1.3,81.1
+E5800402,青花菜(2021年取样),青花菜(2021年取樣)|(青花菜非綠色花椰菜)青(綠)花菜|(青花菜非绿色花椰菜)青(绿)花菜|美國花菜|美国花菜|青花苔|花(青)菜苔|花(青)菜薹|菜苔|菜薹|花菜苞|Broccoli,青花菜(2021年取樣),38.0,3.4,0.4,6.5
+D1000101,榴梿,榴槤|榴蓮|榴莲|流連|流连|山韶子|Durian,榴槤,132.0,2.7,1.9,29.7
+J2100903,白对虾(小)(2022年取样),白對蝦(小)(2022年取樣)|南美白蝦|南美白虾|美洲白蝦|美洲白虾|南美白對蝦|南美白对虾|白蝦|白虾|Pacific white shrimp|raw,白對蝦(小)(2022年取樣),93.0,20.3,0.7,1.3
+G0110201,干川耳,幹川耳|乾川耳,乾川耳,336.0,9.0,0.3,79.4
+A0501401,黑籼糙米,黑秈糙米|黑米|black kerneled rice,黑秈糙米,363.0,7.5,3.5,74.0
+D0801101,蛋蕉(2023年取样),蛋蕉(2023年取樣)|旦蕉|一口蕉|Banana|Kluai Khai(泰),蛋蕉(2023年取樣),87.0,1.1,0.0,23.3
+D3500102,文旦(2023年取样),文旦(2023年取樣)|麻豆文旦|文旦柚|Pummelo|Pomelo|Shaddock,文旦(2023年取樣),48.0,0.6,0.0,12.7
+D0200103,木瓜(8月取样),木瓜(8月取樣)|番木瓜|番瓜|Papaya|Pawpaw,木瓜(8月取樣),33.0,0.5,0.0,8.8
+D0800103,北蕉(9月取样),北蕉(9月取樣)|香蕉|芎蕉|弓蕉|甘蕉|Banana,北蕉(9月取樣),65.0,1.3,0.0,16.6
+D0800101,北蕉(2月取样),北蕉(2月取樣)|香蕉|芎蕉|弓蕉|甘蕉|Banana,北蕉(2月取樣),93.0,1.3,0.0,24.6
+D2000202,黄香瓜,黃香瓜|甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|Melon|Honeydew melon,黃香瓜,30.0,0.6,0.2,7.5
+D1500202,世纪芭乐,世紀芭樂|番石榴|芭樂|芭乐|拔仔|扒仔|朳仔|那拔仔|藍拔|蓝拔|Guava,世紀芭樂,40.0,0.7,0.1,10.3
+A0500101,籼米(台中在来2号),秈米(臺中在來2號)|秈米(台中在來2號)|在來米|在来米|長米|长米|Long grain rice,秈米(台中在來2號),355.0,8.2,1.0,76.3
+D1100204,牛奶凤梨,牛奶鳳梨|旺來|旺来|波羅|波罗|黃萊|黄莱|黃梨|黄梨|王萊(台農20號)|王莱(台农20号)|王萊(臺農20號)|Pineapple,牛奶鳳梨,60.0,0.8,0.3,15.4
+D1600104,杨桃(9月取样),楊桃(9月取樣)|羊桃|洋桃|陽桃|阳桃|五稜子|五棱子|五斂子|五敛子|Star fruit|Carambola,楊桃(9月取樣),33.0,0.5,0.0,8.8
+D1700701,美国绿葡萄(含皮),美國綠葡萄(含皮)|蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃(青葡萄|白葡萄)|Grape,美國綠葡萄(含皮),87.0,0.6,0.4,22.7
+D1700601,美国黑葡萄(含皮),美國黑葡萄(含皮)|蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃|Grape,美國黑葡萄(含皮),63.0,0.6,0.2,16.4
+A0500102,籼米(台中籼10号),秈米(臺中秈10號)|秈米(台中秈10號)|在來米|在来米|長米|长米|Long grain rice|Taichung Sen No. 10,秈米(台中秈10號),358.0,7.4,0.7,78.5
+D1100201,甘蔗凤梨,甘蔗鳳梨|旺來|旺来|波羅|波罗|黃萊|黄莱|黃梨|黄梨|王萊(台農13號|王莱(台农13号|王萊(臺農13號|冬蜜鳳梨)|冬蜜凤梨)|Pineapple,甘蔗鳳梨,57.0,0.7,0.1,15.1
+D2400101,加州青李,李子|California plum,加州青李,47.0,0.6,0.2,12.0
+D2400201,红肉李(大),紅肉李(大)|李子|Plum,紅肉李(大),41.0,0.5,0.3,10.0
+C1800101,芡实,芡實|雞頭米|鸡头米|雞頭|鸡头,芡實,343.0,9.9,0.1,75.4
+B0100101,淮山,山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam,淮山,363.0,5.3,0.3,82.4
+D3000101,西洋梨(青皮),梨子|水梨|山褵|快果|果宗|Pear,西洋梨(青皮),62.0,0.3,0.2,16.5
+D3000203,新世纪梨,新世紀梨|梨子|水梨|山褵|快果|果宗|Pear,新世紀梨,42.0,0.4,0.2,10.7
+D2400303,加州蜜李(进口),加州蜜李(進口)|李子|California plum,加州蜜李(進口),66.0,1.3,0.1,17.1
+A0500401,籼型糯米(台中糯70号),秈型糯米(臺中糯70號)|秈型糯米(台中糯70號)|長糯米|长糯米|White glutinous rice: long-grain,秈型糯米(台中糯70號),361.0,7.9,0.9,78.4
+E1100101,熟桂竹笋,熟桂竹筍|桂竹仔筍|桂竹仔笋|石竹仔筍|石竹仔笋|簍竹|篓竹|筀竹筍|筀竹笋|Bamboo shoot|Bamboo sprout|Makino bamboo,熟桂竹筍,21.0,2.1,0.2,3.5
+R4400701,桂竹笋片,桂竹筍片,桂竹筍片,19.0,1.0,0.2,3.3
+E1500101,绿竹笋,綠竹筍|甜竹|甜竹筍|甜竹笋|綠仔筍|绿仔笋|綠仔笋|綠竹笋|Bamboo shoot|Bamboo sprout|Green bamboo,綠竹筍,25.0,1.7,0.2,4.7
+E3200704,小白菜(水耕)(10月取样),小白菜(水耕)(10月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi,小白菜(水耕)(10月取樣),12.0,1.1,0.3,1.8
+E3800201,大芥菜,芥菜|大心芥菜|大葉芥菜|大叶芥菜|長年菜|长年菜|孤腰菜|Chinese mustard|Leaf mustard|Mustard,大芥菜,19.0,0.8,0.5,3.4
+E3800402,雪里蕻,雪裏蕻|雪裡蕻|雪裡(裏)紅|雪里(里)红|雪菜|多葉藺蕓苔|多叶蔺芸苔|千筋葉菜|千筋叶菜|春不老|Leaf mustard,雪裡蕻,20.0,1.5,0.2,3.8
+D4600201,榴梿蜜,榴槤蜜|尖百達|尖百达|尖蜜拉|小樹菠蘿|小树菠萝|小波羅蜜|小波罗蜜|Chempedak,榴槤蜜,124.0,1.6,0.1,32.6
+E3201701,日本油菜(有机),日本油菜(有機)|鶯菜|莺菜|小松菜|komutsuna,日本油菜(有機),20.0,1.5,0.4,3.3
+D0200104,木瓜(11月取样),木瓜(11月取樣)|番木瓜|番瓜|Papaya|Pawpaw,木瓜(11月取樣),44.0,0.4,0.1,11.8
+D1900101,华宝大西瓜(花莲),華寶大西瓜(花蓮)|水瓜|寒瓜|夏瓜|Watermelon,華寶大西瓜(花蓮),33.0,0.7,0.1,8.4
+D2800102,甜蜜桃,毛桃|白桃|Peach,甜蜜桃,39.0,0.9,0.2,9.6
+D1701001,金香葡萄(含皮),蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃|Grape,金香葡萄(含皮),60.0,0.6,0.1,16.0
+D2400304,香水李,李子|Plum,香水李,36.0,0.7,0.3,8.8
+D2400401,黄肉李,黃肉李|李子|Plum,黃肉李,35.0,0.4,0.2,8.9
+D2400202,红肉李(小),紅肉李(小)|李子|Plum,紅肉李(小),38.0,0.7,0.3,9.2
+D1700201,巨峰葡萄,巨峯葡萄|蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃|Grape,巨峰葡萄,64.0,0.5,0.3,16.6
+D1700901,黑美人葡萄(含皮),蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃|Grape,黑美人葡萄(含皮),66.0,0.5,0.1,17.4
+E0420101,萝卜干,蘿蔔乾|菜脯乾|菜脯干|菜脯|Radish: dried,蘿蔔乾,58.0,2.2,1.2,10.8
+E0200101,胡萝卜,胡蘿蔔|紅蘿蔔|红萝卜|紅菜頭|红菜头|黃蘿蔔|黄萝卜|丁香蘿蔔|丁香萝卜|人參|人参|金筍|金笋|Carrot,胡蘿蔔,37.0,1.0,0.2,8.5
+E0200103,澳洲胡萝卜(细长型),澳洲胡蘿蔔(細長型)|紅蘿蔔|红萝卜|紅菜頭|红菜头|黃蘿蔔|黄萝卜|丁香蘿蔔|丁香萝卜|人參|人参|金筍|金笋|Carrot,澳洲胡蘿蔔(細長型),34.0,1.7,0.1,7.5
+E1000101,孟宗竹笋,孟宗竹筍|毛竹|茅竹|茅茹竹|江南竹|貓竹|猫竹|貓兒竹|猫儿竹|楠竹|南竹|至竹|斑竹(冬筍)|斑竹(冬笋)|Bamboo shoot|Bamboo sprout|Moso bamboo,孟宗竹筍,40.0,4.0,0.2,7.3
+A0410101,干玉米粒,幹玉米粒|乾玉米粒|Corn kernal|Maize kernal|for popcorn,乾玉米粒,373.0,10.9,3.9,72.2
+E3200605,小白菜(土植)(10月取样),小白菜(土植)(10月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi,小白菜(土植)(10月取樣),11.0,1.1,0.2,1.7
+P1400102,液体奶精(2021年),液體奶精(2021年)|奶精|Creamer(liquid),液體奶精(2021年),242.0,2.2,24.0,4.2
+D2300101,龙眼,龍眼|桂圓|桂圆|龍目|龙目|圓眼|圆眼|Longan|Longana Longan,龍眼,72.0,1.1,0.4,18.0
+E3000501,羽衣甘蓝(有机),羽衣甘藍(有機)|Kale,羽衣甘藍(有機),35.0,3.0,0.9,5.1
+D1200101,释迦,釋迦|番荔枝|釋迦果|释迦果|佛頭果|佛头果|番梨|Sugar apple|Sweet sop|Custard apple,釋迦,104.0,2.2,0.1,26.6
+D2000403,秋香洋香瓜,甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|洋香瓜|網仔瓜|网仔瓜|哈蜜瓜|Melon|Honeydew melon,秋香洋香瓜,34.0,1.0,0.0,8.4
+D1100101,开英种1号凤梨,開英種1號鳳梨|旺來|旺来|波羅|波罗|黃萊|黄莱|黃梨|黄梨|王萊(開英種1號|王莱(开英种1号|1號仔|1号仔|突目仔)|Pineapple,開英種1號鳳梨,56.0,0.6,0.2,14.5
+D1330101,桑葚汁,桑果|桑葚兒|桑葚儿|Mulberry juice,桑葚汁,25.0,0.8,0.2,5.9
+R4100501,西谷米,Sago|Sago pearl|Tapioca,西谷米,360.0,0.1,0.1,89.7
+D3000202,大雪梨,梨子|水梨|山褵|快果|果宗|Pear,大雪梨,42.0,0.3,0.1,11.1
+D3000102,西洋梨(红皮),西洋梨(紅皮)|梨子|水梨|山褵|快果|果宗|Pear,西洋梨(紅皮),53.0,0.3,0.2,13.9
+D2310201,带壳龙眼干,帶殼龍眼乾|桂圓乾|桂圆干|龍目乾|龙目干|圓眼乾|圆眼干|Longan: dried,帶殼龍眼乾,278.0,4.6,0.1,72.9
+D2800203,福寿桃,福壽桃|桃子|脆桃|甜桃|Peach,福壽桃,47.0,0.9,0.2,11.9
+A0520301,糙米粉,Brown rice powder,糙米粉,393.0,11.3,3.2,78.1
+D1700101,美国红葡萄,美國紅葡萄|蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃|Grape,美國紅葡萄,69.0,0.4,0.4,17.7
+R7100501,甜核桃,Walnut,甜核桃,723.0,14.4,67.4,14.7
+C0905101,原味榛果,,原味榛果,672.0,13.0,66.5,17.2
+I0110102,牛纽约客火锅片,牛紐約客火鍋片,牛紐約客火鍋片,263.0,20.1,19.6,0.0
+I0110104,牛嫩肩里肌火锅片,牛嫩肩里肌火鍋片,牛嫩肩里肌火鍋片,188.0,20.0,11.4,1.8
+R0800201,紫米酒酿,紫米酒釀,紫米酒釀,155.0,4.2,0.4,33.6
+B1000201,菱角仁(生),,菱角仁(生),118.0,4.1,0.3,24.1
+D2100204,爱文芒果,愛文芒果|檬果|檨仔|菴羅果(蘋果芒果)|庵罗果(苹果芒果)|Mango,愛文芒果,42.0,0.4,0.2,11.0
+R2000101,干面条,乾麪條|乾麵條|Noodle: dried,乾麵條,350.0,11.6,1.5,72.5
+H0505101,红云豆(大红豆),紅雲豆(大紅豆)|紅菜豆|红菜豆|大紅豆|大红豆|Red kidney bean,紅雲豆(大紅豆),328.0,20.2,1.4,60.4
+R4700101,佃煮黑豆,,佃煮黑豆,271.0,10.5,6.2,43.5
+D2000201,美浓瓜,美濃瓜|甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|Melon|Honeydew melon,美濃瓜,37.0,1.1,0.2,8.8
+O0101301,苹果汁(100%),蘋果汁(100%),蘋果汁(100%),51.0,0.1,0.2,12.2
+O0101001,蔓越莓汁(非原汁),,蔓越莓汁(非原汁),45.0,0.9,0.1,10.0
+B0100214,山药(白肉),山藥(白肉)|日本山藥|日本山药,山藥(白肉),69.0,2.1,0.1,14.4
+R1900301,面线,面線|麵線|Shou noodle/Vermicelli/-,麵線,350.0,11.7,1.5,72.4
+R1100501,米粄条,米粄條|美濃粄條|美浓粄条,米粄條,129.0,1.1,0.9,29.2
+C0310101,原味夏威夷豆,夏威夷火山豆|Hawaii nut|Macadamia nut,原味夏威夷豆,700.0,7.5,71.6,18.2
+E7400302,黑柿番茄,柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,黑柿番茄,23.0,0.4,0.1,5.6
+R4401101,酸甘蓝菜,酸甘藍菜|酸高麗菜|酸高丽菜,酸甘藍菜,24.0,1.4,0.2,4.2
+J0416201,翻车鲀腹肉,翻車魨腹肉|翻車魚|翻车鱼|蜇魴|蜇鲂|蜇魚|蜇鱼|海蟲(澎湖)|海虫(澎湖)|曼波(成功)|Ocean sunfish|Sun-fish|Sunfish|Headfish|Giant sunfish|Moonfish|Mola ocean sunfish,翻車魨腹肉,47.0,10.2,0.4,0.7
+J0408301,赤鳍笛鲷,赤鰭笛鯛|紅雞仔|红鸡仔|赤海雞|赤海鸡|赤筆仔(臺東)|赤笔仔(台东)|赤筆|赤笔|赤海|紅魚|红鱼|紅鰭赤海/鐵汕婆(澎湖)|红鳍赤海/铁汕婆(澎湖)|Small-mouthed nannygai|Saddle-tailed sea-perch|Pink snapper|Red bream|Red jew|Redfish|Red snapper|Scarlet snapper|Black|Crimson snapper|High brow sea perch,赤鰭笛鯛,88.0,20.4,0.1,0.0
+Q8100401,芭乐果干,芭樂果乾,芭樂果乾,347.0,1.1,0.2,85.2
+D1500101,土芭乐,土芭樂|番石榴|芭樂|芭乐|拔仔|扒仔|朳仔|那拔仔|藍拔|蓝拔|Guava,土芭樂,39.0,0.7,0.1,10.0
+P1400202,奶精粉(2021年),奶精|Non-Dairy Creamer|Creamer(powder),奶精粉(2021年),550.0,2.1,34.6,57.6
+D3930101,红甘蔗汁,紅甘蔗汁|甘蔗汁|高貴蔗汁|高贵蔗汁|果蔗汁|干蔗汁|幹蔗汁|薯蔗汁|竹蔗汁|Sugarcane|Noble sugar cane,紅甘蔗汁,76.0,0.5,0.2,20.2
+D2800204,莺哥桃,鶯哥桃|桃子|脆桃|甜桃|Peach,鶯哥桃,42.0,1.0,0.2,10.5
+D2400501,黑李,李子|California plum,黑李,57.0,0.7,0.2,14.7
+R1100601,米苔目,Rice noodle: thick,米苔目,121.0,0.6,0.1,29.6
+D3000204,新兴梨,新興梨|梨子|水梨|山褵|快果|果宗|Pear,新興梨,44.0,0.2,0.1,11.9
+D3000205,横山梨,橫山梨|梨子|水梨|山褵|快果|果宗(三灣冬梨|果宗(三湾冬梨|粗梨)|Pear,橫山梨,47.0,0.4,0.1,12.4
+D3000301,将军蜜梨,將軍蜜梨|梨子|水梨|山褵|快果|果宗(三星上將梨)|果宗(三星上将梨)|Pear,將軍蜜梨,50.0,0.4,0.1,13.3
+D3100402,黑枣(干),黑棗(幹)|黑棗(乾)|大棗|大枣|棗仔|枣仔|Chinese jujube: smoked,黑棗(乾),230.0,2.7,0.2,60.9
+D0700101,红龙果(白肉),紅龍果(白肉)|火龍果|火龙果|仙蜜果|Pitaya|Dragon fruit,紅龍果(白肉),51.0,0.9,0.4,12.4
+E7400102,红番茄,紅番茄|柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,紅番茄,20.0,0.9,0.0,4.4
+E7400103,桃太郎番茄,柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,桃太郎番茄,17.0,0.7,0.0,4.0
+D3200101,青龙苹果,青龍蘋果|柰|林檎|青蘋果|青苹果|Apple,青龍蘋果,54.0,0.3,0.3,14.0
+D3200601,金冠苹果,金冠蘋果|柰|林檎|黃蘋果(黃元帥)|黄苹果(黄元帅)|Apple,金冠蘋果,49.0,0.4,0.1,13.0
+E0400102,白萝卜(长形),白蘿蔔(長形)|蘿蔔|萝卜|菜頭|菜头|萊菔|莱菔|蘆萉|芦萉|仙人骨|大菜|大根|Radish|Chinese radish,白蘿蔔(長形),19.0,0.4,0.1,4.4
+E0400301,青萝卜,青蘿蔔|蘿蔔|萝卜|菜頭|菜头|萊菔|莱菔|綠蘿蔔|绿萝卜|綠長蘿蔔|绿长萝卜|青菜頭|青菜头|青大根|Radish|Chinese radish,青蘿蔔,33.0,1.8,0.1,7.0
+E2300104,宜兰粉葱,宜蘭粉蔥|蔥|葱|葉蔥|叶葱|蔥仔|葱仔|水蔥|水葱|漢蔥|汉葱|Welsh onion|Bunching onion|Green onion,宜蘭粉蔥,27.0,1.6,0.2,5.4
+E2500101,红葱头,紅蔥頭|油蔥頭|油葱头|珠蔥頭|珠葱头|分蔥頭|分葱头|大頭蔥頭|大头葱头|四季蔥頭|四季葱头|Shallot,紅蔥頭,75.0,3.4,0.3,16.4
+D4800101,余甘子,餘甘子|油柑|油甘,餘甘子,43.0,0.3,0.3,10.8
+D3400206,砂糖橘,十月桔|沙糖桔|沙糖橘|砂糖桔|Shatangju|Mandarin,砂糖橘,50.0,0.7,0.3,12.6
+D2000303,洋香瓜(卡蜜拉),網仔瓜|网仔瓜|哈密瓜|Aurora melon|Muskmelon|Cantaloupe,洋香瓜(卡蜜拉),38.0,0.6,0.2,9.5
+D0200102,木瓜(5月取样),木瓜(5月取樣)|番木瓜|番瓜|Papaya|Pawpaw,木瓜(5月取樣),44.0,0.7,0.1,11.3
+A0500208,稉米(高雄142号),稉米(高雄142號)|蓬萊米|蓬莱米|圓米|圆米|Short grain rice,稉米(高雄142號),353.0,7.0,0.6,77.7
+D2000101,太阳洋香瓜,太陽洋香瓜|甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|洋香瓜|Melon|Honeydew melon,太陽洋香瓜,32.0,1.2,0.0,7.8
+D2000406,蓝宝石洋香瓜,藍寶石洋香瓜|甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|洋香瓜|網仔瓜|网仔瓜|哈蜜瓜|Melon|Honeydew melon,藍寶石洋香瓜,34.0,1.1,0.0,8.2
+D4130102,可可椰子汁(进口),可可椰子汁(進口)|椰子汁|越王頭汁|越王头汁|Coconut juice|Coco palm juice|Coconut terr juice,可可椰子汁(進口),19.0,0.2,0.0,5.0
+D4130101,可可椰子汁(屏东),可可椰子汁(屏東)|椰子汁|越王頭汁|越王头汁|Coconut juice|Coco palm juice|Coconut terr juice,可可椰子汁(屏東),16.0,0.1,0.2,3.8
+D1700801,无子红葡萄(含皮),無子紅葡萄(含皮)|蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃|Grape,無子紅葡萄(含皮),72.0,0.5,0.1,19.2
+R1100301,细米粉,細米粉|Rice noodle,細米粉,355.0,0.4,0.6,87.2
+D2400301,加州红李(台湾),加州紅李(臺灣)|加州紅李(台灣)|李子|Plum,加州紅李(台灣),45.0,0.3,0.6,10.6
+D2400302,加州红李(进口),加州紅李(進口)|李子|California plum,加州紅李(進口),60.0,0.8,0.3,15.3
+D3000201,幸水梨,梨子|水梨|山褵|快果|果宗|Pear,幸水梨,34.0,0.4,0.0,9.0
+D3000206,丰水梨,豐水梨|梨子|水梨|山褵|快果|果宗|Pear,豐水梨,36.0,0.5,0.1,9.4
+D3800301,柠檬汁(黄皮),檸檬汁(黃皮)|Lemon juice,檸檬汁(黃皮),30.0,0.5,0.3,7.2
+D3100301,国产红枣,國產紅棗|紅棗|红枣|Chinese jujube,國產紅棗,87.0,0.9,0.1,23.1
+D3100401,红枣(干),紅棗(幹)|紅棗(乾)|大棗|大枣|棗仔|枣仔|Chinese jujube,紅棗(乾),227.0,3.2,0.3,59.5
+D3200102,翠玉青苹果,翠玉青蘋果|柰|林檎|青蘋果(翡翠|青苹果(翡翠|青玉|史蜜斯)|Apple,翠玉青蘋果,46.0,0.3,0.1,12.2
+D3200403,秋香苹果,秋香蘋果|柰|林檎|Apple,秋香蘋果,45.0,0.3,0.0,12.3
+E1700301,芦笋花,蘆筍花,蘆筍花,21.0,2.9,0.3,2.7
+E0900101,球茎甘蓝,球莖甘藍|大頭菜|大头菜|結頭菜|结头菜|芥頭|芥头|菜菜鵠|菜菜鹄|菜叩|莖藍|茎蓝|蕪菁蕓苔|芜菁芸苔|Kohlrabi,球莖甘藍,20.0,1.6,0.2,3.6
+E1900101,嫩姜,嫩薑|薑仔|姜仔|生薑|生姜|羌|蘘荷|茗荷|甘露子|紫薑|紫姜|Ginger,嫩薑,21.0,0.0,0.3,4.8
+E2300101,青葱(有机),青蔥(有機)|蔥|葱|葉蔥|叶葱|蔥仔|葱仔|Welsh onion|Bunching onion|Green onion,青蔥(有機),31.0,1.1,0.2,6.8
+E2300102,山东大葱,山東大蔥|蔥|葱|大蔥|大葱|葉蔥|叶葱|蔥仔|葱仔|水蔥|水葱|漢蔥|汉葱|Welsh onion|Bunching onion|Green onion,山東大蔥,31.0,1.3,0.1,6.7
+E3000102,甘蓝(扁圆形),甘藍(扁圓形)|高麗菜|高丽菜|包菜|洋白菜|玻璃菜|玉菜|捲心菜|卷心菜|球葉甘藍|球叶甘蓝|結球甘藍|结球甘蓝|蕃芥藍|蕃芥蓝|Cabbage|White cabbage,甘藍(扁圓形),21.0,1.1,0.2,4.3
+E3000401,冷冻甘蓝,冷凍甘藍|高麗菜|高丽菜|包菜|洋白菜|玻璃菜|玉菜|捲心菜|卷心菜|球葉甘藍|球叶甘蓝|結球甘藍|结球甘蓝|蕃芥藍|蕃芥蓝|Cabbage: frozen,冷凍甘藍,20.0,1.3,0.1,4.2
+R4401001,甘蓝干,甘藍幹|甘藍乾|高麗菜乾|高丽菜干|Cabbage: dried,甘藍乾,194.0,7.2,1.1,38.9
+E5300103,广东莴苣,廣東萵苣|皺葉萵苣|皱叶莴苣|縮葉萵苣|缩叶莴苣|皺萵仔菜|皱莴仔菜|皺妹菜|皱妹菜|Lettuce,廣東萵苣,20.0,1.0,0.2,4.0
+E5300204,本岛莴苣(土植)(7月取样),本島萵苣(土植)(7月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce,本島萵苣(土植)(7月取樣),23.0,1.4,0.3,4.4
+E5600203,蕹菜(水耕)(7月取样),蕹菜(水耕)(7月取樣)|空心菜|應菜|应菜|壅菜|甕菜|瓮菜|草菜|無心菜|无心菜|藤藤菜|竹葉菜|竹叶菜|葛菜|Water convolvulus|Water spinach:organic,蕹菜(水耕)(7月取樣),17.0,1.9,0.2,2.7
+E2600201,韮菜,韮|塊莖蒜|块茎蒜|起陽草(韮/韭通用)|起阳草(韮/韭通用)|Chinese chive|Chinese leek,韮菜,23.0,1.9,0.4,3.9
+E5200101,落葵,皇宮菜|皇宫菜|蟳菜|𫊻菜|胭(臙)脂菜|紅落葵|红落葵|潺菜|蔠菜|藤葵|藤菜|天葵|御菜|牛皮凍|牛皮冻|Malaber spinach|Ceylon spinach|malabar nightshade,落葵,33.0,2.7,0.3,6.0
+F1000101,葛仙米藻,雨來菇|雨来菇|地木耳|地軟兒|地软儿|地皮菜|草皮菇|情人的眼淚|情人的眼泪|Star jelly,葛仙米藻,24.0,1.3,0.0,5.2
+D4900101,嘉宝果,嘉寶果|樹葡萄|树葡萄|Jaboticaba,嘉寶果,59.0,0.3,0.3,15.3
+D0800104,北蕉(11月取样),北蕉(11月取樣)|香蕉|芎蕉|弓蕉|甘蕉|Banana,北蕉(11月取樣),90.0,1.6,0.1,23.4
+D0800801,红皮蕉(2004年取样),紅皮蕉(2004年取樣)|香蕉|芎蕉|弓蕉|甘蕉|蘋果蕉|苹果蕉|Banana,紅皮蕉(2004年取樣),93.0,1.3,0.3,24.0
+D0200101,木瓜(2月取样),木瓜(2月取樣)|番木瓜|番瓜|Papaya|Pawpaw,木瓜(2月取樣),31.0,0.7,0.1,7.7
+D3800302,柠檬汁(绿皮),檸檬汁(綠皮)|Lemon juice,檸檬汁(綠皮),31.0,0.4,0.6,6.9
+D3830102,莱姆汁,萊姆汁|無子檸檬|无子柠檬|Lime,萊姆汁,34.0,0.3,0.5,8.1
+D3100201,珍珠蜜枣,珍珠蜜棗|棗子|枣子|棗仔|枣仔|Indian jujube,珍珠蜜棗,46.0,1.1,0.0,11.7
+D3100102,蜜枣(圆形),蜜棗(圓形)|棗子|枣子|棗仔(蜜絲棗)|枣仔(蜜丝枣)|Indian jujube,蜜棗(圓形),44.0,0.9,0.1,11.0
+E7400401,圣女小番茄,聖女小番茄|柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,聖女小番茄,34.0,1.1,0.5,6.9
+E7400301,粉柿番茄,柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果(粉柿仔)|毛腊果(粉柿仔)|Tomato,粉柿番茄,18.0,0.8,0.0,4.0
+E1700202,澳洲绿芦笋(粗短型),澳洲綠蘆筍(粗短型)|野天門冬|野天门冬|松葉土當歸|松叶土当归|石刁柏|龍鬚菜|龙须菜|Asparagus,澳洲綠蘆筍(粗短型),20.0,2.5,0.2,3.1
+E1700203,绿芦笋(细短型),綠蘆筍(細短型)|野天門冬|野天门冬|松葉土當歸|松叶土当归|石刁柏|龍鬚菜|龙须菜|Asparagus,綠蘆筍(細短型),23.0,3.3,0.2,3.2
+E2100101,大蒜,蒜頭|蒜头|大蒜頭|大蒜头|蒜球|蒜瓣|蒜仔頭|蒜仔头|Garlic,大蒜,122.0,6.7,0.2,26.4
+E2100301,蒜苗,蒜黃|蒜黄,蒜苗,54.0,2.2,0.1,12.0
+E3201302,青江菜(水耕)(4月取样),青江菜(水耕)(4月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese mustard,青江菜(水耕)(4月取樣),14.0,1.4,0.2,2.4
+E3201303,青江菜(水耕)(7月取样),青江菜(水耕)(7月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese mustard,青江菜(水耕)(7月取樣),14.0,1.7,0.1,2.2
+E3201404,青江菜(有机)(10月取样),青江菜(有機)(10月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese Mustard:organic,青江菜(有機)(10月取樣),15.0,1.6,0.1,2.7
+J0411802,尼罗口孵非鲫(含皮)(2022年取样),尼羅口孵非鯽(含皮)(2022年取樣)|南洋鯽仔|南洋鲫仔|尼羅吳郭魚|尼罗吴郭鱼|Nile tilapia|Nilotica|Cichlid|Edward tilapia|Mozambique tilapia|Mango fish,尼羅口孵非鯽(含皮)(2022年取樣),122.0,20.4,3.9,3.0
+E0300102,根菾菜根(2023年取样),根菾菜根(2023年取樣)|甜菜根|火焰菜根|Beetroot,根菾菜根(2023年取樣),37.0,1.2,0.0,8.6
+E9900801,冰花,冰菜|水晶冰花|冰葉日中花|冰叶日中花|Ice plant,冰花,7.0,0.8,0.1,1.0
+D1500203,珍珠芭乐,珍珠芭樂|番石榴|芭樂|芭乐|拔仔|扒仔|朳仔|那拔仔|藍拔|蓝拔|Guava,珍珠芭樂,42.0,0.7,0.2,10.6
+D1500201,番石榴(珍珠拔)(有机),番石榴(珍珠拔)(有機)|牛乳芭樂|牛乳芭乐|牛奶芭樂|牛奶芭乐|芭樂|芭乐|拔仔|扒仔|朳仔|那拔仔|藍拔|蓝拔|Guavas,番石榴(珍珠拔)(有機),40.0,0.6,0.1,10.4
+D2100402,玉文芒果,檬果|檨仔|菴羅果|庵罗果|Mango,玉文芒果,62.0,0.5,0.3,16.1
+D2100203,凯特芒果,凱特芒果|檬果|檨仔|菴羅果|庵罗果|Mango,凱特芒果,50.0,1.1,0.2,12.5
+D0900401,酪梨(室温存放6天),酪梨(室溫存放6天)|牛油果(梨)|黃油果(梨)|黄油果(梨)|油梨|鰐(鱷)梨|鳄(鳄)梨|幸福果|樂天果|乐天果|Avocado|Aligator-pear|Avocado pear,酪梨(室溫存放6天),92.0,1.5,7.6,6.6
+D3100101,蜜枣(长形),蜜棗(長形)|棗子|枣子|棗仔|枣仔|Indian jujube,蜜棗(長形),43.0,1.2,0.2,10.4
+E7400201,黄番茄,黃番茄|柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,黃番茄,23.0,0.9,0.0,5.3
+E7400601,金女小番茄,柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,金女小番茄,30.0,1.1,0.1,6.6
+A0500801,黑籼糯糙米,黑秈糯糙米|黑糯米|紫糯米|紫米|貢米|贡米|長生米|长生米|Black glutinous rice|long-grain,黑秈糯糙米,357.0,10.1,3.5,70.1
+D3400303,圆果金柑汁(绿皮),圓果金柑汁(綠皮)|金桔|金橘|桔子|Kumquat juice|Round kumquat juice,圓果金柑汁(綠皮),32.0,0.9,0.1,8.0
+E7400402,试交二号小番茄,試交二號小番茄|柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,試交二號小番茄,30.0,0.7,0.0,7.2
+D1400101,草莓,Strawberry,草莓,39.0,1.0,0.2,9.3
+J0405102,龙虎石斑鱼,龍虎石斑魚|龍虎斑|龙虎斑|巴龍膽|巴龙胆|珍珠龍膽|珍珠龙胆|虎膽|虎胆|Epinephelus fuscoguttayus x Epinephelus lanceolatus|Tiger grouper,龍虎石斑魚,122.0,20.6,3.8,1.2
+A0500210,稉米(高雄139号)(2021年取样),稉米(高雄139號)(2021年取樣)|蓬萊米|蓬莱米|圓米|圆米|Rice (Kaohsiung 139),稉米(高雄139號)(2021年取樣),352.0,5.7,0.5,79.2
+D1900402,金兰西瓜,金蘭西瓜|水瓜|寒瓜|夏瓜|Watermelon,金蘭西瓜,24.0,0.6,0.0,6.0
+D2000103,蜜世界洋香瓜,甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|洋香瓜|Melon|Honeydew melon,蜜世界洋香瓜,29.0,0.7,0.1,7.1
+D2000402,天香洋香瓜,甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|洋香瓜|網仔瓜|网仔瓜|哈蜜瓜|Melon|Honeydew melon,天香洋香瓜,44.0,0.8,0.0,11.6
+D1800102,莲雾(黑金刚),蓮霧(黑金剛)|璉霧|琏雾|輦霧|辇雾|洋蒲桃|水蓊|Wax(Java) apple|Wax gambuor|Wax jumbo|Bell fruit,蓮霧(黑金剛),34.0,0.5,0.1,8.8
+D3700101,青皮葡萄柚,西柚|朱欒|朱栾|Grapefruit|Pomelo,青皮葡萄柚,33.0,0.8,0.1,8.3
+D2100205,圣心芒果,聖心芒果|檬果|檨仔|菴羅果|庵罗果|Mango,聖心芒果,50.0,0.5,0.2,12.9
+D0500101,金黄奇异果,金黃奇異果|彌猴桃|弥猴桃|猴桃|猴梨|藤梨|毛桃|羊桃|紅藤梨|红藤梨|金桃|楊桃|杨桃|Kiwi fruit|Chinese gooseberry,金黃奇異果,59.0,0.8,0.3,15.0
+D3700301,黄皮葡萄柚(进口),黃皮葡萄柚(進口)|西柚|朱欒|朱栾|Grapefruit|Pomelo,黃皮葡萄柚(進口),38.0,0.7,0.1,9.7
+D2600101,笔柿,筆柿|柿子|柹|香柿(長柿|香柿(长柿|珍寶柿|珍宝柿|筆干柿)|笔干柿)|筆幹柿)|Persimmon,筆柿,69.0,0.6,0.1,18.3
+D1200201,凤梨释迦,鳳梨釋迦|旺來釋迦|旺来释迦|奇美釋迦|奇美释迦|蜜釋迦|蜜释迦|Atemoya|custard apple,鳳梨釋迦,102.0,1.5,0.4,26.0
+E1700201,绿芦笋,綠蘆筍|野天門冬|野天门冬|松葉土當歸|松叶土当归|石刁柏|龍鬚菜|龙须菜|Asparagus,綠蘆筍,22.0,1.3,0.2,4.5
+I0421001,鸡皮(肉鸡),雞皮(肉雞),雞皮(肉雞),442.0,11.7,43.4,0.0
+Q1001201,双胞胎面包,雙胞胎面包|雙胞胎麵包,雙胞胎麵包,341.0,8.4,7.7,59.6
+J0407202,长鳍𫚕鱼,長鰭鰤魚|油甘|黃尾鰺|黄尾鲹|甘仔|扁午|扁甘|柴魽|柴𫠐|Seriola rivoliana,長鰭鰤魚,114.0,22.8,1.9,2.7
+I0108302,牛后腿腱子心(2022年取样),牛後腿腱子心(2022年取樣)|牛腱|腱子|Hind shank|Heel muscle|Beef shank,牛後腿腱子心(2022年取樣),151.0,23.7,5.5,4.0
+I0310202,猪颊肉(2022年取样),豬頰肉(2022年取樣)|豬舌肉|猪舌肉|菊花肉|Pork: cheek meat,豬頰肉(2022年取樣),157.0,18.9,8.4,2.1
+J0401102,虱目鱼(2022年取样),蝨目魚(2022年取樣)|虱目魚(2022年取樣)|海草魚|海草鱼|遮目魚|遮目鱼|殺目魚|杀目鱼|安平魚|安平鱼|國姓魚|国姓鱼|麻虱目仔|麻蝨目仔|虱目/麻虱目(澎湖)|蝨目/麻蝨目(澎湖)|Salmon herring|Bangos|Bony salmon|Milkfish|Milk fish,虱目魚(2022年取樣),243.0,20.1,17.4,1.4
+C1700301,黑金刚花生(生),黑金剛花生(生)|花生|土豆|長壽果|长寿果|Peanut,黑金剛花生(生),553.0,27.6,46.6,16.6
+D4700101,牛奶果,星蘋果|星苹果|star apple,牛奶果,62.0,0.8,0.3,15.8
+E7700402,"黄豆芽(有机,2023年取样)","黃豆芽(有機,2023年取樣)|大豆芽|Soybean sprout:organic","黃豆芽(有機,2023年取樣)",41.0,5.1,1.0,5.0
+D1500205,无子芭乐,無子芭樂|番石榴|芭樂|芭乐|拔仔|扒仔|朳仔|那拔仔|藍拔|蓝拔|Guava: seedless,無子芭樂,33.0,0.7,0.0,8.6
+A0501103,发芽稉米(台稉71号),發芽稉米(臺稉71號)|發芽稉米(台稉71號)|發芽糙米|发芽糙米|益全香米發芽米|益全香米发芽米|Sprout rice,發芽稉米(台稉71號),357.0,7.4,2.8,73.9
+D0500201,奇异果,奇異果|彌猴桃|弥猴桃|猴桃|猴梨|藤梨|毛桃|羊桃|紅藤梨|红藤梨|金桃|楊桃|杨桃|Kiwi fruit|Chinese gooseberry,奇異果,56.0,1.1,0.3,14.0
+D2700202,甜柿(进口),甜柿(進口)|柿子|柹|香柿|Persimmon,甜柿(進口),57.0,0.6,0.1,15.3
+D2700501,柿饼,柿餅|Persimmon,柿餅,196.0,1.7,0.2,52.2
+E1300101,茭白笋,茭白筍|茭白|茭筍|茭笋|茭草|水筍|水笋|腳白筍|脚白笋|加白筍|加白笋|菰|菰菜|菰筍|菰笋|菰蔣|菰蒋|Water bamboo,茭白筍,20.0,1.3,0.2,4.0
+E1700101,白芦笋,白蘆筍|野天門冬|野天门冬|松葉土當歸|松叶土当归|石刁柏|龍鬚菜|龙须菜|Asparagus,白蘆筍,25.0,1.8,0.2,4.9
+R2001401,锅烧面,鍋燒面|鍋燒麵|Wu-lohg noodle,鍋燒麵,120.0,4.5,0.4,24.6
+E2400201,紫洋葱,紫洋蔥|玉蔥|玉葱|蔥頭|葱头|球蔥|球葱|胡蔥|胡葱|日本蔥頭|日本葱头|大粒蔥頭|大粒葱头|洋蔥頭|洋葱头|大蔥頭|大葱头|Onion,紫洋蔥,32.0,0.9,0.1,7.3
+E3201204,青江菜(土植)(7月取样),青江菜(土植)(7月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese mustard,青江菜(土植)(7月取樣),15.0,1.5,0.1,2.5
+E3201304,青江菜(水耕)(10月取样),青江菜(水耕)(10月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese mustard,青江菜(水耕)(10月取樣),11.0,1.4,0.2,1.4
+E3200801,小白菜(有机)(1月取样),小白菜(有機)(1月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi:organic,小白菜(有機)(1月取樣),9.0,1.8,0.2,0.8
+E3200603,小白菜(土植)(4月取样),小白菜(土植)(4月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi,小白菜(土植)(4月取樣),13.0,1.1,0.2,2.2
+E3000101,梨山甘蓝(尖球形),梨山甘藍(尖球形)|高麗菜|高丽菜|包菜|洋白菜|玻璃菜|玉菜|捲心菜|卷心菜|球葉甘藍|球叶甘蓝|結球甘藍|结球甘蓝|蕃芥藍|蕃芥蓝|Cabbage|White cabbage,梨山甘藍(尖球形),24.0,1.4,0.1,5.1
+E3010101,脱水甘蓝,脫水甘藍,脫水甘藍,341.0,6.9,0.1,82.6
+E3000301,甘蓝芽,甘藍芽|高麗菜芽|高丽菜芽,甘藍芽,33.0,2.7,0.6,5.4
+E5600101,蕹菜(土植)(1月取样),蕹菜(土植)(1月取樣)|空心菜|應菜|应菜|壅菜|甕菜|瓮菜|草菜|無心菜|无心菜|藤藤菜|竹葉菜|竹叶菜|葛菜|Water convolvulus|Water spinach,蕹菜(土植)(1月取樣),22.0,2.0,0.3,3.5
+E5600201,蕹菜(水耕)(1月取样),蕹菜(水耕)(1月取樣)|空心菜|應菜|应菜|壅菜|甕菜|瓮菜|草菜|無心菜|无心菜|藤藤菜|竹葉菜|竹叶菜|葛菜|Water convolvulus|Water spinach,蕹菜(水耕)(1月取樣),27.0,2.7,0.3,4.5
+R2001502,荞麦面(湿),蕎麥麪(溼)|蕎麥麵(濕)|Buckwheat noodle,蕎麥麵(濕),153.0,6.3,1.5,28.6
+E3200602,小白菜(土植)(3月取样),小白菜(土植)(3月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi,小白菜(土植)(3月取樣),14.0,1.2,0.1,2.4
+C1320101,亚麻仁籽粉,亞麻仁籽粉|Flex seed powder,亞麻仁籽粉,557.0,21.7,43.6,28.6
+D0800201,"北蕉(0天,绿皮)","北蕉(0天,綠皮)|香蕉|芎蕉|弓蕉|甘蕉|Banana","北蕉(0天,綠皮)",90.0,1.3,0.3,23.3
+D2100202,海顿芒果,海頓芒果|檬果|檨仔|菴羅果|庵罗果|Mango,海頓芒果,60.0,0.4,0.2,15.7
+C2200101,银杏果,銀杏果|白果|銀杏核|银杏核|公孫樹子|公孙树子|鴨腳樹子|鸭脚树子|靈眼|灵眼|Gingko nuts|Ginkgo Seed,銀杏果,142.0,4.1,1.2,28.9
+I0804101,鸵鸟沙朗肉排,鴕鳥沙朗肉排,鴕鳥沙朗肉排,97.0,20.9,0.8,6.1
+I0320301,猪皮,豬皮,豬皮,491.0,22.1,44.0,0.0
+R4800101,素肉,,素肉,210.0,23.9,10.1,6.0
+P1301201,无糖黑芝麻酱,無糖黑芝麻醬|Black Sesame Sauce,無糖黑芝麻醬,612.0,20.7,56.0,17.7
+R5000601,DHA豆奶,Soybean milk: DHA enriched,DHA豆奶,44.0,1.7,0.5,8.0
+A0510101,加钙米,加鈣米|Short grain rice: calcium enriched,加鈣米,355.0,7.4,0.7,77.7
+E6200101,冬瓜,白瓜|東瓜|东瓜|枕瓜|水芝|地芝|Wax gourd|White gourd|winter melon,冬瓜,13.0,0.4,0.1,2.7
+E5200201,藤三七,洋落葵|蔓安迪|落葵安迪|藤子三七|雲南白藥|云南白药|小年藥|小年药|馬德拉藤|马德拉藤|金錢珠|金钱珠|中枝蓮(習以川七誤稱)|中枝莲(习以川七误称)|Madeira vine,藤三七,21.0,1.6,0.5,3.2
+E3201101,油菜(有机),油菜(有機)|蕓苔|芸苔|Edible Rape|cole,油菜(有機),13.0,1.3,0.1,2.2
+D0200201,青木瓜,青番木瓜|青番瓜|Papaya|Pawpaw,青木瓜,29.0,0.6,0.1,7.2
+E0500101,百合鳞片,百合鱗片|百合|百合花鱗片|百合花鳞片|蒜腦藷|蒜脑𫉄|Fresh lily bulb,百合鱗片,137.0,3.8,0.1,32.3
+D2100406,香水芒果,檬果|檨仔|菴羅果|庵罗果|Mango,香水芒果,65.0,0.6,0.2,17.1
+F0800101,裙带菜,裙帶菜|海帶芽|海带芽|嫩海帶|嫩海带,裙帶菜,58.0,5.0,0.0,11.6
+F0700102,海带茸,海帶茸|江白菜茸|昆布茸|海昆布茸,海帶茸,29.0,1.1,0.0,6.5
+F0210102,熟紫菜,海苔|Laver|nori,熟紫菜,294.0,18.1,0.4,62.4
+F0700101,海带卷,海帶卷|江白菜卷|昆布卷|海昆布卷|Kelp|Sea weed,海帶卷,14.0,0.7,0.2,2.8
+F0610101,干海茸芯,幹海茸芯|乾海茸芯|海海洋竹笙|乾素蹄筋|干素蹄筋,乾海茸芯,254.0,8.4,0.2,59.1
+G0100201,冷冻木耳,冷凍木耳|黑木耳|桑耳|白背毛木耳|木樟(檽/菌/茸/蛾/樅)|木樟(檽/菌/茸/蛾/枞)|樹雞(毛木耳)|树鸡(毛木耳)|Juda's ear: frozen|Agaric: frozen|Jew's ear:froz,冷凍木耳,51.0,0.9,0.1,12.4
+G0110102,干木耳(黑耳仔),幹木耳(黑耳仔)|乾木耳(黑耳仔)|黑木耳|桑耳|白背毛木耳|木樟(檽/菌/茸/蛾/樅)|木樟(檽/菌/茸/蛾/枞)|樹雞(毛木耳)|树鸡(毛木耳)|Jew's ear: dry|Juda's ear: dry|Agaric: dry,乾木耳(黑耳仔),338.0,21.4,1.2,69.6
+G1400301,珊瑚菇,金頂鮑魚菇|金顶鲍鱼菇|金頂蘑|金顶蘑|榆黃蘑|榆黄蘑|榆(黃)蘑|榆(黄)蘑|黃金菇|黄金菇|玉皇(米)菇|粗口黃|粗口黄|楊柳菌|杨柳菌|黃樹窩(金頂側耳)|黄树窝(金顶侧耳),珊瑚菇,33.0,4.0,0.2,5.2
+G1900201,雪白菇,美白菇|白玉菇|white beech mushroom,雪白菇,31.0,2.2,0.0,6.4
+R4701001,冷冻豆腐,冷凍豆腐|凍豆腐|冻豆腐|Bean curd: frozen,冷凍豆腐,131.0,12.9,7.1,3.9
+R4700901,传统豆腐,傳統豆腐|板豆腐|Tofu|Bean curd|Soy bean cheese,傳統豆腐,88.0,8.5,3.4,6.0
+B1000301,菱角(熟),菱|芰|龍角|龙角|羊家|紅菱|红菱|Water singharnut|Water caltrops|Water chestnut,菱角(熟),146.0,4.2,0.3,31.0
+D3000302,梨山蜜梨,梨子|水梨|山褵|快果|果宗|Pear,梨山蜜梨,47.0,0.3,0.0,12.7
+D1100203,金钻凤梨,金鑽鳳梨|旺來|旺来|波羅|波罗|黃萊|黄莱|黃梨|黄梨|王萊(台農17號|王莱(台农17号|王萊(臺農17號|春蜜鳳梨)|春蜜凤梨)|Pineapple,金鑽鳳梨,50.0,0.5,0.1,13.2
+D3500101,文旦,柚子|內紫|内紫|朱欒|朱栾|香欒|香栾|座凡|拋|抛|欒|栾|Shaddocks|Pomelo|Pummelo,文旦,34.0,0.7,0.1,8.8
+D3500301,西施蜜柚,柚子|內紫|内紫|朱欒|朱栾|香欒|香栾|座凡|拋|抛|欒(西施柚)|栾(西施柚)|Shaddocks|Pomelo|Pummelo,西施蜜柚,40.0,0.8,0.2,10.1
+E0200301,冷冻胡萝卜,冷凍胡蘿蔔|紅蘿蔔|红萝卜|紅菜頭|红菜头|黃蘿蔔|黄萝卜|丁香蘿蔔|丁香萝卜|人參|人参|金筍|金笋|Carrot: frozen,冷凍胡蘿蔔,13.0,0.5,0.1,3.0
+E1500301,沙拉笋块,沙拉筍塊|涼筍|凉笋,沙拉筍塊,24.0,1.6,0.1,4.8
+E3300201,白菜芽,娃娃菜,白菜芽,21.0,3.1,0.1,3.2
+E3400201,红凤菜,紅鳳菜|紅蓊菜|红蓊菜|紅菜|红菜|紅葉|红叶|紫背天葵|雙色三七草|双色三七草|天青地紅|天青地红|地黃菜|地黄菜|腳目草|脚目草|Edible Gynura,紅鳳菜,22.0,2.1,0.4,3.5
+A0500201,稉米(台中189号),稉米(臺中189號)|稉米(台中189號)|蓬萊米|蓬莱米|圓米|圆米|Short grain rice,稉米(台中189號),356.0,7.5,0.6,78.1
+E7000301,葫芦瓜,葫蘆瓜|扁蒲|蒲仔|瓠瓜|匏瓜|瓢簞|瓢箪|天瓜|龍蛋瓜|龙蛋瓜|蒲(葫/壺)蘆|蒲(葫/壶)芦|white-flowered gourd.|Lagenaria vulgaris Ser.,葫蘆瓜,20.0,0.5,0.3,4.1
+E6800201,棱角丝瓜,棱角絲瓜|稜角絲瓜|澎湖絲瓜|澎湖丝瓜|十角絲瓜|十角丝瓜|十捻菜瓜|角瓜|廣東絲瓜|广东丝瓜|雨傘絲瓜|雨伞丝瓜|金門絲瓜|金门丝瓜|香港絲瓜|香港丝瓜|Angled luffa,稜角絲瓜,20.0,0.9,0.2,4.1
+E5300205,本岛莴苣(土植)(10月取样),本島萵苣(土植)(10月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce,本島萵苣(土植)(10月取樣),14.0,1.1,0.3,2.2
+E5300304,本岛莴苣(水耕)(10月取样),本島萵苣(水耕)(10月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce,本島萵苣(水耕)(10月取樣),12.0,1.1,0.3,1.6
+E5600104,蕹菜(土植)(10月取样),蕹菜(土植)(10月取樣)|空心菜|應菜|应菜|壅菜|甕菜|瓮菜|草菜|無心菜|无心菜|藤藤菜|竹葉菜|竹叶菜|葛菜|Water convolvulus|Water spinach,蕹菜(土植)(10月取樣),17.0,1.8,0.3,2.6
+E5600204,蕹菜(水耕)(10月取样),蕹菜(水耕)(10月取樣)|空心菜|應菜|应菜|壅菜|甕菜|瓮菜|草菜|無心菜|无心菜|藤藤菜|竹葉菜|竹叶菜|葛菜|Water convolvulus|Water spinach,蕹菜(水耕)(10月取樣),23.0,2.2,0.3,3.8
+E5800401,青花菜(1999年取样),青花菜(1999年取樣)|(青花菜非綠色花椰菜)青(綠)花菜|(青花菜非绿色花椰菜)青(绿)花菜|美國花菜|美国花菜|青花苔|花(青)菜苔|花(青)菜薹|菜苔|菜薹|花菜苞|Broccoli,青花菜(1999年取樣),28.0,3.7,0.2,4.4
+E5800501,冷冻青花菜,冷凍青花菜|(青花菜非綠色花椰菜)青(綠)花菜|(青花菜非绿色花椰菜)青(绿)花菜|美國花菜|美国花菜|青花苔|花(青)菜苔|花(青)菜薹|菜苔|菜薹|花菜苞|Broccoli:frozen,冷凍青花菜,25.0,2.5,0.2,4.4
+F0410101,干麒麟菜,幹麒麟菜|乾麒麟菜|乾麒麟草|干麒麟草|乾海麒麟草|干海麒麟草|乾海珊湖|干海珊湖|乾珊湖藻(草)|干珊湖藻(草)|乾鹹(鹽/神/福)草|干咸(盐/神/福)草,乾麒麟菜,189.0,1.2,0.5,46.7
+F0400101,麒麟菜,麒麟草|海麒麟草|海珊湖|珊湖藻(草)|鹹(鹽/神/福)草|咸(盐/神/福)草,麒麟菜,41.0,1.0,0.0,9.9
+G0810101,干香菇,幹香菇|乾香菇|冬(北/花/厚/毛)菇|椎茸|香蕈(信/椹)|合蕈|Mushroom: dry|Champignon: dry|Shiitake: dry,乾香菇,333.0,23.3,1.4,66.6
+G2410101,干竹笙,幹竹笙|乾竹笙|竹蓀|竹荪|竹參(長裙竹蓀)|竹参(长裙竹荪)|Basket stinkhorn(籃框臭角菌)|Basket stinkhorn(篮框臭角菌),乾竹笙,312.0,17.5,2.0,64.1
+R4700501,日式炸豆皮,Yuba: fried,日式炸豆皮,388.0,19.2,32.4,4.9
+R4700401,豆腐皮,豆皮|Dried beancurd skin|Soy (bean) milk film,豆腐皮,209.0,25.3,11.0,2.4
+H0205101,米豆,飯豆|饭豆|蛋白豆|赤山豆|繖形豇豆|島田豇豆|岛田豇豆|Rice bean,米豆,349.0,21.7,2.4,62.2
+H1100101,毛豆仁,大豆|青大豆|青皮豆|Vegetable soy bean,毛豆仁,129.0,14.6,3.3,12.5
+G1010101,干姬松茸,乾姬松茸|姬松菇|巴西蘑菇|柏氏蘑菇|小松菇|Agaricus blazei Murill: dry,乾姬松茸,294.0,34.0,2.7,46.7
+R5000101,豆浆,豆漿|豆奶|Soy milk|Bean milk,豆漿,60.0,3.2,1.3,9.0
+E3300101,烟台白菜,煙臺白菜|煙台白菜|大白菜|黃芽菜|黄芽菜|包心白菜|卷心白菜|捲心白菜|山東白菜|山东白菜|結球白菜(包頭蓮)|结球白菜(包头莲)|Chinese cabbage,煙台白菜,14.0,1.3,0.3,2.2
+E3300104,包心白菜,大白菜|黃芽菜|黄芽菜|卷心白菜|捲心白菜|山東白菜|山东白菜|結球白菜|结球白菜|Chinese cabbage,包心白菜,14.0,1.2,0.1,2.6
+E5000101,菠菜,菠菱菜|赤根菜|飛龍菜|飞龙菜|角菜|波斯草|波斯菜|波菱菜|Spinach,菠菜,18.0,2.2,0.3,2.4
+E5000301,冷冻菠菜,冷凍菠菜|菠菱菜|赤根菜|飛龍菜|飞龙菜|角菜|波斯草|波斯菜|波菱菜|Spinach: frozen,冷凍菠菜,17.0,2.1,0.0,2.9
+E5300403,本岛莴苣(有机)(7月取样),本島萵苣(有機)(7月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce:organic,本島萵苣(有機)(7月取樣),17.0,1.5,0.3,2.7
+A0520401,白糯米粉,White- glutinous rice powder,白糯米粉,360.0,4.5,0.4,82.3
+E4500101,马齿苋,馬齒莧|豬母乳(菜/草)|猪母乳(菜/草)|寶釧菜|宝钏菜|長命菜|长命菜|荷蘭菜|荷兰菜|馬尺莧|马尺苋|瓜子菜|五行(才)草|馬子菜|马子菜|地馬菜|地马菜|醬瓣頭草|酱瓣头草|Purslane,馬齒莧,14.0,1.2,0.4,1.9
+E4800301,野苋菜,野莧菜|野莧(杏)|野苋(杏)|綠莧|绿苋|豬莧|猪苋|鳥仔莧(杏)|鸟仔苋(杏)|假莧(杏)菜|假苋(杏)菜|山荇(杏|莧)菜|苋)菜|Edible amaranth|Chinese amaranth,野莧菜,41.0,6.3,0.6,4.9
+E2700101,九层塔,九層塔|千層塔|千层塔|羅勒|罗勒|家佩蘭|家佩兰|零陵菜|香菜(草)|薰草|西王母菜|塞香菜|光明子|醒頭香|醒头香|Basil|Common basil|Sweet basil,九層塔,27.0,2.9,0.3,4.4
+E4000101,芫荽,香菜|香荽|胡荽|蒝荽|芫蓑|松鬚菜|松须菜|Chinese parsley,芫荽,26.0,2.3,0.3,4.5
+E7000201,花蒲瓜(圆形),花蒲瓜(圓形)|扁蒲|蒲仔|瓠瓜|匏瓜|葫蘆瓜|葫芦瓜|瓢簞|瓢箪|天瓜|龍蛋瓜|龙蛋瓜|蒲(葫/壺)蘆|蒲(葫/壶)芦|Calabash gourd,花蒲瓜(圓形),15.0,0.3,0.0,3.5
+E7700701,绿豆芽,綠豆芽|豆芽菜|豆菜|綠豆菜|绿豆菜|Mung bean sprout|bean sprout|Green gram,綠豆芽,24.0,2.3,0.2,4.1
+E7700401,黄豆芽,黃豆芽|大豆芽|Soybean sprout:organic,黃豆芽,47.0,5.3,1.6,5.0
+E7700501,黑豆芽,Black bean sprout:organic,黑豆芽,52.0,6.6,1.1,6.4
+E3200501,千宝菜,千寶菜|Winter mustard,千寶菜,20.0,1.7,0.2,3.6
+E6300102,台湾南瓜,臺灣南瓜|台灣南瓜|金瓜|飯瓜|饭瓜|番(翻)瓜|倭(窩)瓜|倭(窝)瓜|紅(冬/西洋)南瓜|红(冬/西洋)南瓜|南瓜|北瓜|玉瓜|筍瓜|笋瓜|Pumpkin,台灣南瓜,49.0,1.7,0.2,11.1
+E6300104,菊花南瓜,金瓜|飯瓜|饭瓜|番(翻)瓜|倭(窩)瓜|倭(窝)瓜|紅(冬/西洋)南瓜|红(冬/西洋)南瓜|南瓜|北瓜|玉瓜|筍瓜|笋瓜|Pumpkin,菊花南瓜,76.0,3.8,0.1,16.8
+D0300101,安石榴,石榴|榭榴|謝榴|谢榴|樹榴|树榴|Pomegranate|Delima,安石榴,67.0,1.7,0.1,16.8
+D3600103,澳洲甜橙(进口),澳洲甜橙(進口)|甜橙|柳橙|柳丁|印子柑|廣柑|广柑|Orange: Australia,澳洲甜橙(進口),46.0,0.9,0.1,11.6
+E3201402,青江菜(有机)(4月取样),青江菜(有機)(4月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese Mustard:organic,青江菜(有機)(4月取樣),15.0,1.4,0.2,2.5
+E3201403,青江菜(有机)(7月取样),青江菜(有機)(7月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese Mustard:organic,青江菜(有機)(7月取樣),21.0,1.9,0.2,3.5
+E5300303,本岛莴苣(水耕)(7月取样),本島萵苣(水耕)(7月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce,本島萵苣(水耕)(7月取樣),13.0,1.4,0.2,1.9
+E4800101,白苋菜,白莧菜|杏菜|荇菜|莕菜|茵菜|白杏菜|白荇菜|Edible amaranth|Chinese amaranth,白莧菜,17.0,1.9,0.3,2.6
+E4800201,红苋菜,紅莧菜|紅莧|红苋|虎菜|紅虎莧|红虎苋|赤莧|赤苋|紅杏(荇)菜|红杏(荇)菜|赤杏菜|紫杏(莧)菜|紫杏(苋)菜|Edible amaranth|Chinese amaranth,紅莧菜,22.0,2.6,0.3,3.3
+E7000101,蒲瓜(长形),蒲瓜(長形)|扁蒲|蒲仔|瓠瓜|匏瓜|葫蘆瓜|葫芦瓜|瓢簞|瓢箪|天瓜|龍蛋瓜|龙蛋瓜|蒲(葫/壺)蘆|蒲(葫/壶)芦,蒲瓜(長形),19.0,0.5,0.1,4.2
+E7000102,蒲瓜(圆形),蒲瓜(圓形)|扁蒲|蒲仔|瓠瓜|匏瓜|葫蘆瓜|葫芦瓜|瓢簞|瓢箪|天瓜|龍蛋瓜|龙蛋瓜|蒲(葫/壺)蘆|蒲(葫/壶)芦|Bottle(hairy) gourd|White flowered gourd|Calabash,蒲瓜(圓形),18.0,0.6,0.1,4.0
+E7600101,黄秋葵,黃秋葵|秋葵|羊角豆|黃蜀葵|黄蜀葵|食香槿|假三念|黃葵|黄葵|okra|okro|bamia|bamies|bamya|gumbo,黃秋葵,36.0,2.1,0.1,7.5
+E7701001,萝卜芽,蘿蔔芽|蘿蔔嬰|萝卜婴|菜頭嬰(苗/芽)|菜头婴(苗/芽)|菜頭苗|菜头苗|貝芽菜|贝芽菜|Radish sprout|Chinese radish sprout:Organic,蘿蔔芽,24.0,2.1,0.4,3.9
+R4401301,榨菜,榨菜藺蕓苔|榨菜蔺芸苔|四川榨菜|疙瘩菜|稜角菜|棱角菜|筆架菜|笔架菜|香爐菜|香炉菜|瘤菜|tsatsai|tza-tsai,榨菜,27.0,1.3,0.4,4.6
+R4401401,酸菜,鹹菜|咸菜|鹼菜|碱菜|醃(大/鹹)酸菜|腌(大/咸)酸菜|大鹹菜|大咸菜|鹹菜仁|咸菜仁|kraut|sourkrout|sourcrout|sauerkraut,酸菜,19.0,0.8,0.3,3.2
+J0600701,鱼浆(旗鱼),魚漿(旗魚),魚漿(旗魚),110.0,16.8,1.3,7.8
+D1900201,皇宫西瓜,皇宮西瓜|水瓜|寒瓜|夏瓜|Watermelon,皇宮西瓜,32.0,0.7,0.1,8.1
+D2800101,水蜜桃,毛桃|白桃|Peach,水蜜桃,40.0,0.9,0.1,9.9
+D2800201,白油桃,桃子|脆桃|甜桃|Peach,白油桃,37.0,0.6,0.1,9.3
+D4000101,人心果,吳鳳柿|吴凤柿|沙漠吉拉|查某囝仔|人蔘果|人参果|Sapodilla,人心果,83.0,0.6,0.8,20.5
+D1300101,桑葚,桑果|桑葚兒|桑葚儿|Mulberry,桑葚,32.0,1.1,0.4,7.0
+D0700201,红龙果(红肉),紅龍果(紅肉)|火龍果|火龙果|仙蜜果|Pitaya|Dragon fruit,紅龍果(紅肉),50.0,1.1,0.2,12.3
+E7400303,绿番茄,綠番茄|柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,綠番茄,25.0,0.9,0.1,5.4
+E7400403,樱桃小番茄,櫻桃小番茄|柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,櫻桃小番茄,34.0,0.9,0.1,8.1
+E0400201,樱桃萝卜,櫻桃蘿蔔|蘿蔔|萝卜|菜頭|菜头|萊菔|莱菔|小根蘿蔔|小根萝卜|二十日蘿蔔|二十日萝卜|小粒菜頭|小粒菜头|Radish|Chinese radish|Radicula radish,櫻桃蘿蔔,11.0,0.6,0.0,2.3
+E1200101,乌壳绿竹笋,烏殼綠竹筍|烏殼筍|乌壳笋|烏殼綠|乌壳绿|烏綠竹|乌绿竹|烏腳綠竹筍|乌脚绿竹笋|烏腳綠仔|乌脚绿仔|四季竹|南洋竹|食用刺竹|Bamboo shoot|Bamboo sprout|Edible bamboo,烏殼綠竹筍,21.0,1.8,0.2,3.8
+D2310101,龙眼干,龍眼乾|桂圓乾|桂圆干|龍目乾|龙目干|圓眼乾|圆眼干|Longan: dried,龍眼乾,276.0,5.1,0.5,70.9
+R4700902,传统豆腐(2022年取样),傳統豆腐(2022年取樣)|板豆腐|Tofu|Bean curd|Soy bean cheese,傳統豆腐(2022年取樣),96.0,9.6,5.5,1.9
+D0800701,南华蕉,南華蕉|香蕉|芎蕉|弓蕉|甘蕉(芭蕉)|Plantain,南華蕉,124.0,1.1,0.1,33.2
+D2100405,金兴芒果,金興芒果|檬果|檨仔|菴羅果|庵罗果|Mango,金興芒果,41.0,0.6,0.1,10.6
+D1100202,甜蜜蜜凤梨,甜蜜蜜鳳梨|旺來|旺来|波羅|波罗|黃萊|黄莱|黃梨|黄梨|王萊(台農16號)|王莱(台农16号)|王萊(臺農16號)|Pineapple,甜蜜蜜鳳梨,42.0,1.0,0.1,10.6
+A0810101,燕麦片,燕麥片|Oatmeal,燕麥片,393.0,12.3,9.7,64.1
+D3000103,西洋梨(黄皮),西洋梨(黃皮)|梨子|水梨|山褵|快果|果宗|Pear,西洋梨(黃皮),44.0,0.2,0.1,11.8
+D3200401,加拉苹果,加拉蘋果|柰|林檎|Apple: Gala,加拉蘋果,55.0,0.2,0.1,15.0
+D3300201,白樱桃,白櫻桃|中國櫻桃又稱鶯桃|中国樱桃又称莺桃|荊桃|荆桃|Cherry,白櫻桃,69.0,0.7,0.1,18.4
+R2000901,拉面,拉麪|拉麵|Noodle: Ramen,拉麵,292.0,9.1,0.8,62.1
+E1400101,麻竹笋,麻竹筍|蔴竹|甜竹|巨竹|坭竹|大綠竹|大绿竹|瓦坭竹|巨麻竹|美濃麻竹|美浓麻竹|吊絲麻竹|吊丝麻竹|Bamboo shoot|Bamboo sprout|Ma bamboo,麻竹筍,22.0,1.4,0.1,4.4
+E3201205,青江菜(土植)(10月取样),青江菜(土植)(10月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese mustard,青江菜(土植)(10月取樣),18.0,1.7,0.1,3.4
+E3200401,黑叶白菜(短梗),黑葉白菜(短梗)|白菜|青菜|散葉白菜|散叶白菜|無心菜|无心菜|菘|不結球白菜|不结球白菜|Chinese mustard|Chinese cabbage,黑葉白菜(短梗),15.0,1.3,0.0,2.9
+E3200301,葵扇白菜,白菜|青菜|散葉白菜|散叶白菜|無心菜|无心菜|菘|不結球白菜|不结球白菜|江戶(門)白菜|江户(门)白菜|黑葉白菜|黑叶白菜|扇子白菜|黑芥菜|排菜|Chinese mustard|Chinese cabbage,葵扇白菜,14.0,1.6,0.1,2.4
+E3200803,小白菜(有机)(7月取样),小白菜(有機)(7月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi:organic,小白菜(有機)(7月取樣),11.0,1.3,0.1,1.7
+E3200201,荷叶白菜,荷葉白菜|白菜|青菜|散葉白菜|散叶白菜|無心菜|无心菜|菘|不結球白菜|不结球白菜|Chinese mustard|Chinese cabbage,荷葉白菜,14.0,1.4,0.1,2.5
+E4600101,茼蒿,茼蒿菜|春菊|打某(妻)菜|苳蒿菜|花冠菊|艾菜|蓬蒿|菊蒿菜|菊花菜|實盡菜|实尽菜|Garland Chrysanthemum,茼蒿,16.0,1.7,0.3,2.2
+E9900501,义大利茼蒿,義大利茼蒿,義大利茼蒿,15.0,1.6,0.4,1.9
+E7500101,甜椒(青皮),甜椒|甜番椒|大同仔|番羌仔|燈籠椒|灯笼椒|生番薑|生番姜|獅子椒|狮子椒|甘椒|生椒(青椒|青辣椒)|Sweet pepper|Bell pepper,甜椒(青皮),23.0,0.8,0.3,4.9
+E7500501,角椒,辣椒|番椒|番仔薑|番仔姜|臘椒|腊椒|Hot pepper|Long pepper|Pepper,角椒,22.0,0.9,0.2,4.7
+E5400101,豌豆苗,豆苗|豆鬚|豆须|荷蘭豆苗(鬚)|荷兰豆苗(须)|飛龍豆苗|飞龙豆苗|sweet pea sprout,豌豆苗,31.0,3.7,0.5,4.4
+E0700101,金针菜嫩茎,金針菜嫩莖|碧玉筍|碧玉笋|金針筍|金针笋|金針菜梗|金针菜梗|軟化金針菜|软化金针菜|金針嫩菜芽|金针嫩菜芽|萱草菜嫩芽|Day-lily|Common orange Day-lily,金針菜嫩莖,24.0,0.7,0.2,5.3
+E6100101,丝瓜花,絲瓜花|菜瓜花|Vegetable sponge flower,絲瓜花,31.0,3.9,0.3,4.8
+E3201001,油菜心,,油菜心,31.0,3.2,0.9,4.0
+R2000501,菠菜面,菠菜麵|Noodle: spinach flavored,菠菜麵,356.0,11.8,1.2,74.4
+D2000203,嘉玉甜瓜,甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|Melon|Honeydew melon,嘉玉甜瓜,43.0,1.3,0.1,10.4
+E6500201,苦瓜(青皮),錦荔枝|锦荔枝|癩蒲萄|癞蒲萄|涼瓜|凉瓜|癩瓜|癞瓜|紅姑娘|红姑娘|Bitter gourd|Balsam pear|Bitter melon,苦瓜(青皮),20.0,0.9,0.1,4.2
+R4500401,秀珍菇罐头,秀珍菇罐頭|平菇|小平菇|側耳平菇|侧耳平菇|蠔菇|蚝菇|袖珍(鮑魚)菇(側耳)|袖珍(鲍鱼)菇(侧耳)|(Common) Oyster mushroom: canned|Obalonus: canned,秀珍菇罐頭,30.0,1.7,0.5,4.7
+R2001001,意面,意麪|意麵|Noodle:fried,意麵,290.0,10.1,1.0,60.1
+R4500601,洋菇罐头,洋菇罐頭|西洋蘑菇(蘑菇|雙孢蘑菇)|双孢蘑菇)|Mushroom: canned,洋菇罐頭,31.0,2.9,0.3,4.3
+E7400101,牛番茄,柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,牛番茄,19.0,0.7,0.1,4.0
+A0500502,稉型糯米(台稉糯1号),稉型糯米(臺稉糯1號)|稉型糯米(台稉糯1號)|圓糯米|圆糯米|White glutinous rice|short-grain,稉型糯米(台稉糯1號),358.0,8.2,1.1,76.8
+E0400101,白萝卜,白蘿蔔|蘿蔔|萝卜|菜頭|菜头|萊菔|莱菔|蘆萉|芦萉|仙人骨|大菜|大根|Radish|Chinese radish,白蘿蔔,16.0,0.7,0.1,3.3
+E1900103,老姜,老薑|薑仔|姜仔|生薑|生姜|羌|蘘荷|茗荷|甘露子|紫薑|紫姜|Ginger,老薑,53.0,1.1,0.5,11.7
+E3700201,芹菜(青梗),旱芹|藥芹|药芹|洋芹|白芹|塘蒿|和蘭鴨兒芹|和兰鸭儿芹|Celery,芹菜(青梗),12.0,0.8,0.1,2.4
+E3700101,山芹菜,鴨兒芹|鸭儿芹|三葉芹|三叶芹|三葉山芹菜|三叶山芹菜|Japanese parsley|Japanese honewort|Shaddock,山芹菜,28.0,2.1,0.3,5.2
+E2600301,韮黄,韮黃|黃韮菜|黄韮菜|白韮菜|軟化韮菜(韮/韭通用)|软化韮菜(韮/韭通用)|Etiolated Chinese chive|Etiolated Chinese leek,韮黃,16.0,1.5,0.1,2.9
+E7500601,长辣椒(红皮),長辣椒(紅皮)|辣椒|番椒|番仔薑|番仔姜|臘椒|腊椒|Hot pepper|Long pepper|Pepper,長辣椒(紅皮),48.0,2.4,0.7,9.3
+E7500603,朝天椒(圆果),朝天椒(圓果)|辣椒|番椒|番仔薑|番仔姜|臘椒|腊椒|指(向)天椒|赤穗生番椒|叢果番椒|丛果番椒|海椒(雞心椒)|海椒(鸡心椒)|Hot pepper|Long pepper|Pepper,朝天椒(圓果),103.0,4.9,0.5,21.9
+E6500301,珍珠苦瓜,錦荔枝|锦荔枝|癩蒲萄|癞蒲萄|涼瓜|凉瓜|癩瓜|癞瓜|紅姑娘(青苦瓜)|红姑娘(青苦瓜)|Bitter gourd|Balsam pear|Bitter melon,珍珠苦瓜,19.0,0.7,0.1,4.2
+R1100101,免煮饭,免煮飯|Instant rice,免煮飯,168.0,3.2,0.3,37.1
+E7300101,长茄子,長茄子|茄|茄仔|紅皮菜|红皮菜|紅茄(菜)|红茄(菜)|紅茄仔|红茄仔|落蘇|落苏|崑崙瓜|昆仑瓜|紫瓜|酪酥|小蓏|長茄|长茄|Eggplant,長茄子,25.0,1.2,0.2,5.3
+E4400101,茴香,蘹香|小茴香|茴香子|臭蒝荽|客人蒝荽|香絲菜|香丝菜|茴香八角珠|蒝荽|Fennel,茴香,24.0,2.2,0.2,4.1
+E5800101,花椰菜,花菜|菜花|白花菜|白菜花|Cauliflower,花椰菜,23.0,1.8,0.1,4.5
+E5800301,紫色花椰菜,Cauliflower(purple),紫色花椰菜,40.0,3.1,0.3,7.6
+E5900101,金针菜,金針菜|萱草|金針花|金针花|金針|金针|黃花(菜)|黄花(菜)|萱花|Day-lily|Common orange Day-lily,金針菜,40.0,2.4,0.5,7.4
+E6500401,野苦瓜,山苦瓜|青小苦瓜|小苦瓜|野生苦瓜|短苦瓜|野癩瓜|野癞瓜|Bitter gourd|Balsam pear|Bitter melon,野苦瓜,30.0,1.7,0.6,5.3
+E1800101,嫩茎莴苣,嫩莖萵苣|鵝菜心|鹅菜心|莖用萵苣|茎用莴苣|萵(鵝)仔菜心|莴(鹅)仔菜心|大心萵(媚)仔菜|大心莴(媚)仔菜|萵苣筍(莖)|莴苣笋(茎)|妹仔菜筍|妹仔菜笋|Stem lettuce|Asparagus lettuce,嫩莖萵苣,16.0,1.0,0.2,3.1
+E5500101,龙葵,龍葵|黑甜菜|烏甜(田)菜|乌甜(田)菜|烏甜仔|乌甜仔|烏子(克)菜|乌子(克)菜|烏子茄|乌子茄|苦葵(菜)|天茄子|天泡草|老鴉酸漿草|老鸦酸浆草|morelle,龍葵,26.0,3.8,0.3,3.4
+D1900501,嘉宝瓜,嘉寶瓜|水瓜|寒瓜|夏瓜(嘉寶兵瓜)|夏瓜(嘉宝兵瓜),嘉寶瓜,40.0,0.8,0.2,10.0
+E4300101,香桩,香樁|椿|紅椿(樹)|红椿(树)|椿樹|椿树|杶|春芽(陽)樹|春芽(阳)树|椿樗|櫄|虎目樹|虎目树|大眼桐|栲|大紅椿樹|大红椿树,香樁,99.0,4.3,1.5,19.4
+G1500201,鲍鱼菇,鮑魚菇|夏季鮑魚菇|夏季鲍鱼菇|高溫平菇|高温平菇|台灣平菇|台湾平菇|臺灣平菇|黑美人菇|人工口蘑(囊狀側耳)|人工口蘑(囊状侧耳)|Obalonus|Cystidiate Pleurotus|The Abalone Mushroom,鮑魚菇,22.0,1.7,0.2,4.0
+R4900301,花豆罐头(糖渍),花豆罐頭(糖漬)|紅花豆|红花豆|紅(赤)花菜豆|红(赤)花菜豆|花仔(阿/柳)豆|Kidney beans: canned|White dutch runner bean: canned|Scarlet runner bean: canned|multiflora bean: canned,花豆罐頭(糖漬),204.0,7.6,0.0,43.5
+H0705102,绿豆,綠豆|菉豆|綠小豆|绿小豆|輻莢豆|辐荚豆|Green bean|Chickasaw,綠豆,344.0,22.8,1.1,63.0
+H0710101,绿豆仁,綠豆仁|菉豆|綠小豆|绿小豆|輻莢豆|辐荚豆|Green bean: skin removed,綠豆仁,339.0,24.6,1.3,59.6
+H1000101,粉豆荚,粉豆莢|菜豆莢|菜豆荚|四季豆|雲藕豆|云藕豆|隱之(元)豆|隐之(元)豆|白(花)雲豆|白(花)云豆|敏(雲/芸/粉/醜)豆|敏(云/芸/粉/丑)豆|French bean|Snap bean|Kindey bean|Green bean|common bean,粉豆莢,27.0,1.7,0.1,5.0
+H1000201,敏豆荚,敏豆莢|菜豆莢|菜豆荚|四季豆|雲藕豆|云藕豆|隱之(元)豆|隐之(元)豆|白(花)雲豆|白(花)云豆|敏(雲/芸/粉/醜)豆|敏(云/芸/粉/丑)豆|French bean|Snap bean|Kindey bean|Green bean|common bean|Kidney bean: pod|Common bean,敏豆莢,30.0,1.7,0.2,5.3
+R1600101,玉米粒罐头,玉米粒罐頭|Corn kernal: canned,玉米粒罐頭,90.0,2.3,1.4,16.9
+E3200703,小白菜(水耕)(7月取样),小白菜(水耕)(7月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi,小白菜(水耕)(7月取樣),12.0,0.9,0.1,2.4
+E5300402,本岛莴苣(有机)(4月取样),本島萵苣(有機)(4月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce:organic,本島萵苣(有機)(4月取樣),19.0,1.1,0.3,3.5
+E5300601,结球莴苣,結球萵苣|球萵苣|球莴苣|包心萵苣|包心莴苣|捲心萵苣|卷心莴苣|生菜|包心媚仔菜|結球妹仔菜|结球妹仔菜|Head lettuce,結球萵苣,13.0,0.7,0.1,2.8
+E5600301,蕹菜(有机)(4月取样),蕹菜(有機)(4月取樣)|空心菜|應菜|应菜|壅菜|甕菜|瓮菜|草菜|無心菜|无心菜|藤藤菜|竹葉菜|竹叶菜|葛菜|Water convolvulus|Water spinach:organic,蕹菜(有機)(4月取樣),26.0,1.9,0.3,4.7
+E5600103,蕹菜(土植)(7月取样),蕹菜(土植)(7月取樣)|空心菜|應菜|应菜|壅菜|甕菜|瓮菜|草菜|無心菜|无心菜|藤藤菜|竹葉菜|竹叶菜|葛菜|Water convolvulus|Water spinach,蕹菜(土植)(7月取樣),17.0,1.9,0.1,2.8
+R1100201,埔里米粉,Pure rice noodle,埔里米粉,358.0,0.5,0.5,87.7
+E7500502,长辣椒(青皮),長辣椒(青皮)|辣椒|番椒|番仔薑|番仔姜|臘椒|腊椒|Hot pepper|Long pepper|Pepper,長辣椒(青皮),49.0,1.9,0.4,10.3
+R4401601,腌渍花胡瓜,醃漬花胡瓜|小黃瓜|小黄瓜|花瓜|小胡瓜|小瓜|小刺瓜|水胡瓜|Cucumber:pickeled,醃漬花胡瓜,89.0,3.0,0.5,18.1
+E6500101,苦瓜(白皮),錦荔枝|锦荔枝|癩蒲萄|癞蒲萄|涼瓜|凉瓜|癩瓜|癞瓜|紅姑娘|红姑娘|Bitter gourd|Balsam pear|Bitter melon,苦瓜(白皮),19.0,0.9,0.1,4.1
+E9500101,龙骨瓣莕菜,龍骨瓣莕菜|水蓮菜|水莲菜|野蓮|野莲|銀蓮花|银莲花|水皮蓮|水皮莲|刺種莕菜|刺种莕菜|捲瓣莕菜|卷瓣莕菜|White water snowflake,龍骨瓣莕菜,17.0,1.1,0.3,3.1
+E1400201,冷冻麻竹笋,冷凍麻竹筍|蔴竹|甜竹|巨竹|坭竹|大綠竹|大绿竹|瓦坭竹|巨麻竹|美濃麻竹|美浓麻竹|吊絲麻竹|吊丝麻竹|Bamboo shoot: frozen|Bamboo sprout: frozen,冷凍麻竹筍,17.0,0.9,0.0,3.8
+E9000101,青葙,野雞冠|野鸡冠|雞冠莧|鸡冠苋|筆雞冠|笔鸡冠|草決明|草决明|Amarnthus argenta L.,青葙,50.0,2.5,1.6,7.7
+E4200101,食茱萸,刺楤|紅刺楤|红刺楤|刺江某|越椒|艾子|茱萸|刺公牡|Fagara ailanthoides Engl. Zanthoxylum ailanthoides S. et Z.,食茱萸,127.0,11.9,0.3,23.8
+E9700101,蕺菜,魚腥草|鱼腥草|臭腥草|臭臊草|臭瘥草|手藥|手药,蕺菜,46.0,3.2,0.9,7.7
+E6700201,绿皮蛇瓜,綠皮蛇瓜|蛇王瓜|毛烏瓜|毛乌瓜|Snake gourd,綠皮蛇瓜,32.0,1.9,0.6,5.6
+E6700101,白皮蛇瓜,蛇王瓜|毛烏瓜|毛乌瓜|Snake gourd,白皮蛇瓜,19.0,1.4,0.3,3.2
+A0500501,稉型糯米,圓糯米|圆糯米|White glutinous rice|short-grain,稉型糯米,359.0,8.4,0.5,78.0
+A1020101,薏仁粉,Adlay powder|Job's tears powder,薏仁粉,395.0,10.9,3.5,80.0
+E5600202,蕹菜(水耕)(4月取样),蕹菜(水耕)(4月取樣)|空心菜|應菜|应菜|壅菜|甕菜|瓮菜|草菜|無心菜|无心菜|藤藤菜|竹葉菜|竹叶菜|葛菜|Water convolvulus|Water spinach,蕹菜(水耕)(4月取樣),24.0,2.2,0.1,4.3
+E7100101,黄栉瓜,黃櫛瓜|Zucchini,黃櫛瓜,15.0,1.5,0.1,2.7
+E7100201,绿栉瓜,綠櫛瓜|Zucchini,綠櫛瓜,13.0,2.2,0.0,1.8
+E0800101,草石蚕,草石蠶|甘露兒|甘露儿|甘露菜|寶塔菜|宝塔菜|地蠶|地蚕|螺獅菜|螺狮菜|土蛹(坊間誤稱為冬蟲夏草)|土蛹(坊间误称为冬虫夏草)|Chinese artichoke,草石蠶,75.0,1.7,0.0,18.0
+E2900101,水菜(日本种),水菜(日本種)|Mizuna,水菜(日本種),11.0,1.2,0.2,1.6
+E9900201,香芫荽,,香芫荽,23.0,2.4,0.2,3.9
+R2000801,刀削面,刀削麪|刀削麵|Noodle: sliced,刀削麵,267.0,8.4,0.9,56.2
+E7400602,黄金圣女小番茄,黃金聖女小番茄|柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,黃金聖女小番茄,31.0,1.0,0.1,7.0
+D2800301,蟠桃,餅桃|饼桃|Peach,蟠桃,45.0,0.9,0.2,11.3
+G0110101,干木耳(红耳仔),幹木耳(紅耳仔)|乾木耳(紅耳仔)|黑木耳|桑耳|白背毛木耳|木樟(檽/菌/茸/蛾/樅)|木樟(檽/菌/茸/蛾/枞)|樹雞(毛木耳)|树鸡(毛木耳)|Jew's ear: dry|Juda's ear: dry|Agaric: dry,乾木耳(紅耳仔),329.0,6.1,0.2,79.8
+G0210101,干银耳,幹銀耳|乾銀耳|白木耳|雪耳,乾銀耳,310.0,9.3,1.2,70.8
+G1300202,杏鲍菇(中),杏鮑菇(中)|鳳尾菇|凤尾菇|雪茸|帝王菇|平菇王|蠔菇王|蚝菇王|干貝菇|干贝菇|幹貝菇|刺芹側耳|刺芹侧耳|義大利側耳|义大利侧耳|義大利蠔菌|义大利蚝菌|杏鮑茸|杏鲍茸|西洋刺耳|King oyster mushroom|apricot mushroom|almond abalone mushroom,杏鮑菇(中),40.0,2.5,0.2,8.2
+R4500201,草菇罐头,草菇罐頭|蘭花菇|兰花菇|美味草菇|包腳菇|包脚菇|中國蘑菇|中国蘑菇|稈(麻/貢)菇|秆(麻/贡)菇|南華菇|南华菇|家生菇(小包腳菇)|家生菇(小包脚菇)|(Paddy) Straw mushroom: canned,草菇罐頭,36.0,3.3,0.1,5.4
+G1100101,酒杯菇,大杯傘|大杯伞|大杯菇|葉松茸|叶松茸|豬肚菇|猪肚菇,酒杯菇,50.0,4.6,0.3,9.0
+E2100201,青蒜,蒜仔|葫|胡蒜|洋蒜|韭蔥|韭葱|Garlic,青蒜,33.0,2.1,0.3,6.4
+E3200802,小白菜(有机)(4月取样),小白菜(有機)(4月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi:organic,小白菜(有機)(4月取樣),14.0,1.3,0.2,2.4
+E3200604,小白菜(土植)(7月取样),小白菜(土植)(7月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi,小白菜(土植)(7月取樣),10.0,1.0,0.1,1.8
+E3800301,包心芥菜,包心刈菜|捲心芥菜|卷心芥菜|Leaf mustard,包心芥菜,17.0,1.0,0.5,2.7
+E3800101,大心芥菜,大心菜|菜心|大骨芥菜|大莖菜|大茎菜|Big stem mustard,大心芥菜,13.0,1.0,0.0,2.5
+E5300203,本岛莴苣(土植)(4月取样),本島萵苣(土植)(4月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce,本島萵苣(土植)(4月取樣),17.0,0.9,0.2,3.3
+E5300302,本岛莴苣(水耕)(4月取样),本島萵苣(水耕)(4月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce,本島萵苣(水耕)(4月取樣),15.0,1.0,0.2,2.7
+E3700301,西洋芹菜,美國芹菜|美国芹菜|洋芹菜|金白芹菜|巨無霸芹菜|巨无霸芹菜|Celery|American celery|Celeriac,西洋芹菜,11.0,0.4,0.2,2.2
+E5600102,蕹菜(土植)(4月取样),蕹菜(土植)(4月取樣)|空心菜|應菜|应菜|壅菜|甕菜|瓮菜|草菜|無心菜|无心菜|藤藤菜|竹葉菜|竹叶菜|葛菜|Water convolvulus|Water spinach,蕹菜(土植)(4月取樣),20.0,1.7,0.2,3.5
+A0320301,中筋面粉,中筋麪粉|中筋麵粉|Medium-gluten flour|Wheat flour: medium protein,中筋麵粉,361.0,11.5,1.3,74.1
+E5910101,金针菜干,金針菜幹|金針菜乾|萱草|金針花|金针花|金針|金针|黃花(菜)|黄花(菜)|萱花|Dried day-lily|dried common orange Day-lily,金針菜乾,307.0,14.3,1.8,65.4
+E6400101,胡瓜,大黃瓜|大黄瓜|刺瓜|黃瓜|黄瓜|生瓜|王瓜|花瓜|黑瓜|大瓜|Cucumber,胡瓜,14.0,0.7,0.1,2.9
+E6400201,花胡瓜(有机),花胡瓜(有機)|小黃瓜|小黄瓜|花瓜|小胡瓜|小刺瓜|Cucumber,花胡瓜(有機),15.0,0.8,0.1,3.1
+A0310101,小麦胚芽,小麥胚芽|Wheat germ,小麥胚芽,417.0,31.4,11.6,47.9
+D3400201,红柑,紅柑|美人(女)柑|明尼吉柚|葡萄蜜柑|迷你葡萄柚|Tangerine,紅柑,42.0,0.8,0.1,10.6
+E3201301,青江菜(水耕)(1月取样),青江菜(水耕)(1月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese mustard,青江菜(水耕)(1月取樣),12.0,1.2,0.0,2.4
+E3200702,小白菜(水耕)(4月取样),小白菜(水耕)(4月取樣)|土白菜|青菜|白菜|不結球白菜|不结球白菜|水白菜|Pak-choi,小白菜(水耕)(4月取樣),13.0,1.0,0.2,2.4
+E5300301,本岛莴苣(水耕)(1月取样),本島萵苣(水耕)(1月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce,本島萵苣(水耕)(1月取樣),14.0,1.6,0.2,2.1
+E5300401,本岛莴苣(有机)(1月取样),本島萵苣(有機)(1月取樣)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce:organic,本島萵苣(有機)(1月取樣),15.0,1.8,0.0,2.6
+E5300101,奶油莴苣(日本种),奶油萵苣(日本種)|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce,奶油萵苣(日本種),16.0,1.1,0.3,2.6
+E3700202,芹菜,旱芹|藥芹|药芹|洋芹|白芹|塘蒿|和蘭鴨兒芹|和兰鸭儿芹|Celery,芹菜,18.0,0.8,0.2,3.8
+E3100101,甘𫉄叶,甘藷葉|地瓜葉|地瓜叶|番藷葉|番𫉄叶|過溝菜(藷同薯)|过沟菜(𫉄同薯)|Sweet potato vine,甘藷葉,28.0,3.2,0.3,4.4
+E7500102,小甜椒(青皮),甜椒|甜番椒|大同仔|番羌仔|燈籠椒|灯笼椒|生番薑|生番姜|獅子椒|狮子椒|甘椒|生椒(青椒|青辣椒)|Sweet pepper|Bell pepper,小甜椒(青皮),35.0,1.4,0.5,6.8
+E7500602,朝天椒(长果),朝天椒(長果)|辣椒|番椒|番仔薑|番仔姜|臘椒|腊椒|指(向)天椒|赤穗生番椒|叢果番椒|丛果番椒|海椒|Hot pepper|Pepper|Red cluster pepper,朝天椒(長果),90.0,3.4,1.3,17.9
+E6200102,香芋冬瓜,白瓜|東瓜|东瓜|枕瓜|水芝|地芝|Wax gourd|White gourd|winter melon,香芋冬瓜,9.0,0.4,0.0,2.0
+E6900101,越瓜,醃瓜|腌瓜|菴瓜|庵瓜|梢瓜|酥瓜|甜瓜|羊角瓜|稍瓜|生瓜|白瓜|青瓜|百香胡瓜|Oriental pickling melon,越瓜,18.0,0.6,0.1,4.1
+R1310101,米浆粉,米漿粉|Rice milk powder,米漿粉,444.0,9.1,12.3,74.3
+E8700101,山苏菜,山蘇菜|山蘇花|山苏花|鳥巢蕨|鸟巢蕨|山翅菜|雀(鳥)巢羊齒|雀(鸟)巢羊齿|歪頭 菜|歪头 菜|巢鐵角蕨|巢铁角蕨|掌草|Asplenium antiguum Mak.,山蘇菜,26.0,3.0,0.2,4.4
+R2000701,鸡蛋面,雞蛋麪|雞蛋麵|Noodle: egg flavored,雞蛋麵,358.0,12.5,0.9,74.8
+E8900101,石莲花,石蓮花|蓮座草|莲座草,石蓮花,11.0,0.4,0.1,2.2
+E3500101,豆瓣菜,西洋菜|水芥(田/應/蕹)菜|水芥(田/应/蕹)菜|無心芥(菜)|无心芥(菜)|廣東芥菜|广东芥菜|微子蔊菜|風花菜|风花菜|水生山葵菜|麥藍菜|麦蓝菜|角菜|Watercress,豆瓣菜,21.0,2.2,0.3,3.2
+E9100101,假人参,假人蔘|土人參|土人参|參仔葉(草)|参仔叶(草)|土高麗參|土高丽参|臺灣(野)參|台湾(野)参|櫨蘭|栌兰|東洋參|东洋参|參草|参草,假人蔘,32.0,1.6,2.2,2.2
+R4400901,薤,蕗蕎|蕗荞|薤頭|薤头|火蔥|火葱|蕎蔥|荞葱|大韭(韮)|露京|蕎頭|荞头|叫頭|叫头|Allium bakeri Regel|Baker's garlic,薤,11.0,0.5,0.2,1.9
+E9900101,皇宫菜,皇宮菜|U.S.water spinach|ipom(o)ea|water convolvulus,皇宮菜,22.0,2.2,0.3,3.5
+F0810101,干裙带菜,幹裙帶菜|乾裙帶菜|乾海帶芽|干海带芽|乾嫩海帶|干嫩海带,乾裙帶菜,225.0,22.9,0.7,40.8
+F0810201,干裙带菜根,幹裙帶菜根|乾裙帶菜根|乾海帶芽根|干海带芽根|乾嫩海帶根|干嫩海带根,乾裙帶菜根,201.0,6.2,0.6,46.1
+R2000601,锅烧意面,鍋燒意麪|鍋燒意麵|Noodle: pot-burn fried noodle,鍋燒意麵,479.0,10.0,22.8,58.5
+F0700104,海带结,海帶結|江白菜結|江白菜结|昆布結|昆布结|海昆布結|海昆布结,海帶結,17.0,0.8,0.1,3.6
+F0700103,海带梗,海帶梗|海帶根|海带根,海帶梗,14.0,0.4,0.0,3.2
+R4500101,银耳罐头,銀耳罐頭|白木耳|雪耳,銀耳罐頭,49.0,0.1,0.1,12.0
+G0700101,柳松菇,柳松茸|茶樹菇|茶树菇|楊樹菇|杨树菇|田頭菇(柱狀田頭菇)|田头菇(柱状田头菇)|Poplar field-cap|brown swordbelt,柳松菇,36.0,3.7,0.3,6.0
+E1700204,绿芦笋(短型),綠蘆筍(短型)|野天門冬|野天门冬|松葉土當歸|松叶土当归|石刁柏|龍鬚菜|龙须菜,綠蘆筍(短型),22.0,3.5,0.1,3.0
+Q2100102,仙草冻(2020取样),仙草凍(2020取樣),仙草凍(2020取樣),19.0,0.3,0.2,4.1
+P1100202,无蛋沙拉酱(2021年取样),無蛋沙拉醬(2021年取樣)|Eggless salad dressing,無蛋沙拉醬(2021年取樣),631.0,0.3,59.8,22.9
+R7500802,鲻鱼卵(加工)(2022年取样),鯔魚卵(加工)(2022年取樣)|烏魚卵|乌鱼卵|烏魚子|乌鱼子|Mullet roe,鯔魚卵(加工)(2022年取樣),431.0,38.9,28.7,4.4
+A1100201,台湾藜(红)(带壳),臺灣藜(紅)(帶殼)|台灣藜(紅)(帶殼)|藜|赤藜|紫藜|紅心藜|红心藜|紅藜|红藜|食用藜|Red Quinoa,台灣藜(紅)(帶殼),386.0,14.9,8.5,62.3
+D0800102,北蕉(5月取样),北蕉(5月取樣)|香蕉|芎蕉|弓蕉|甘蕉|Banana,北蕉(5月取樣),92.0,1.6,0.2,23.7
+D1900301,无籽西瓜,無籽西瓜|水瓜|寒瓜|夏瓜|Watermelon,無籽西瓜,33.0,0.9,0.0,8.2
+D1800103,莲雾(黑珍珠),蓮霧(黑珍珠)|璉霧|琏雾|輦霧|辇雾|洋蒲桃|水蓊|Wax(Java) apple|Wax gambuor|Wax jumbo|Bell fruit,蓮霧(黑珍珠),51.0,0.3,0.4,13.0
+D0900101,酪梨(绿皮),酪梨(綠皮)|牛油果(梨)|黃油果(梨)|黄油果(梨)|油梨|鰐(鱷)梨|鳄(鳄)梨|幸福果|樂天果|乐天果|Avocado|Aligator-pear|Avocado pear,酪梨(綠皮),65.0,1.6,3.7,7.9
+H1100301,冷冻毛豆仁,冷凍毛豆仁|大豆|青大豆|青皮豆|Vegetable soy bean: frozen,冷凍毛豆仁,135.0,12.5,6.1,9.8
+H1100201,毛豆荚(高雄13号),毛豆莢(高雄13號)|大豆|青大豆|青皮豆|Vegetable soy bean,毛豆莢(高雄13號),137.0,11.6,5.1,13.2
+R5000501,豆浆优酪乳,豆漿優酪乳|豆奶優酪乳|豆奶优酪乳|Soya yogurt,豆漿優酪乳,70.0,2.0,1.2,12.9
+R4900501,甘纳豆,甘納豆,甘納豆,333.0,6.6,1.0,74.5
+R5100601,条状火腿(猪肉),條狀火腿(豬肉)|Ham,條狀火腿(豬肉),145.0,16.2,3.8,11.5
+R5600201,猪肉酥,豬肉酥|豬肉鬆|猪肉松|Pork: dried and crushed,豬肉酥,513.0,33.0,28.3,31.6
+R5600101,猪肉脯,豬肉脯|豬肉絨|猪肉绒|Pork: dried and crushed,豬肉脯,441.0,33.4,25.1,20.3
+I0404302,棒棒腿(肉鸡),棒棒腿(肉雞)|雞腿|鸡腿|Chicken: drumstick|feed,棒棒腿(肉雞),159.0,16.8,9.7,0.3
+I0404201,清腿(土鸡),清腿(土雞)|雞腿|鸡腿|Chicken: whole leg|wild,清腿(土雞),142.0,20.4,6.1,0.0
+I0300601,猪前腿外腱肉,豬前腿外腱肉|豬腱|猪腱|腱子肉|Foreshank,豬前腿外腱肉,146.0,20.7,6.5,0.0
+A0510401,米胚芽,Rice germ,米胚芽,391.0,17.0,12.7,52.9
+I0310101,猪肝连,豬肝連|肝連|肝连|隔胸肉|條仔肉(橫隔肌)|条仔肉(横隔肌)|Pork diaphragm,豬肝連,220.0,14.6,17.5,0.0
+R5100401,切片火腿(鸡肉),切片火腿(雞肉)|三明治火腿|火腿片|Chicken: sandwich meat,切片火腿(雞肉),148.0,15.3,5.3,10.0
+A0420101,玉米粉,Corn starch|Maize starch,玉米粉,369.0,0.3,0.4,88.3
+I0322001,猪空肠,豬空腸|粉腸|粉肠|Pork jejunum,豬空腸,186.0,10.9,15.4,8.6
+I0322101,猪前脚,豬前腳|豬腳|猪脚|豬蹄|猪蹄|短腳|短脚|Pork: feet|front,豬前腳,252.0,21.9,17.6,0.0
+I0300501,猪肩胛排,豬肩胛排|中排|Shoulder ribs,豬肩胛排,191.0,17.9,12.7,0.0
+R7300201,冷冻烤鸡翅,冷凍烤雞翅|Chicken: wing|frozen|roasted,冷凍烤雞翅,217.0,18.8,14.2,3.6
+I0308301,猪腹脇排,豬腹脇排|腩排|肉排|小排|Spareribs,豬腹脇排,267.0,18.7,20.7,0.0
+E7700801,豌豆芽,豌豆嬰|豌豆婴|荷蘭豆芽(嬰)|荷兰豆芽(婴)|Pea sprouts,豌豆芽,25.0,4.0,0.4,2.9
+E6300101,日本南瓜,金瓜|飯瓜|饭瓜|番(翻)瓜|倭(窩)瓜|倭(窝)瓜|紅(冬/西洋)南瓜|红(冬/西洋)南瓜|南瓜|北瓜|玉瓜|筍瓜|笋瓜|Pumpkin,日本南瓜,86.0,0.6,0.4,20.8
+E9900601,龙延草,龍延草,龍延草,79.0,3.9,2.3,12.7
+D0430101,百香果汁,時計果汁|时计果汁|西番果汁|西番蓮汁|西番莲汁|美里瓜汁|Passion fruit juice,百香果汁,73.0,0.9,0.4,18.6
+F0310101,发菜,髮菜|頭髮菜|头发菜|紅毛菜|红毛菜|發菜|Black moss|Hair-like seaw,髮菜,302.0,10.3,0.5,69.5
+G1000101,姬松茸,姬松菇|巴西蘑菇|柏氏蘑菇|小松菇|Agaricus blazei Murill,姬松茸,40.0,4.0,0.4,6.9
+G0410101,鸡腿菇(干),雞腿菇(幹)|雞腿菇(乾)|雞腿(蘑)菇|鸡腿(蘑)菇|雞髀菇|鸡髀菇|墨水菇|一夜菇(毛頭鬼傘)|一夜菇(毛头鬼伞)|Lawyer's wig|Shappy mane mushroom|Shappy ink cap,雞腿菇(乾),298.0,20.1,1.4,59.8
+R4701101,小三角油豆腐,Bean curd: oil fried,小三角油豆腐,160.0,12.7,13.3,0.0
+R4701301,鸡蛋豆腐,雞蛋豆腐|Bean curd with egg,雞蛋豆腐,79.0,6.9,4.6,2.7
+R5010101,豆浆粉,豆漿粉|豆奶粉|Soy milk powder,豆漿粉,434.0,37.4,17.1,32.5
+R5000201,鸡蛋豆浆,雞蛋豆漿|雞蛋豆奶|鸡蛋豆奶|Soy milk: egg flavor,雞蛋豆漿,56.0,1.9,1.3,9.2
+A0500901,胚芽籼米(台中籼10号),胚芽秈米(臺中秈10號)|胚芽秈米(台中秈10號)|Germ rice|Rice with germ|Milled rice with embryo,胚芽秈米(台中秈10號),363.0,8.3,2.1,76.1
+I0322601,猪脑,豬腦|Pork: brain,豬腦,125.0,10.8,8.7,0.0
+I0321601,猪肾,豬腎|腰子|Pork: kidney,豬腎,82.0,15.0,1.9,1.7
+I0404402,鸡排(肉鸡),雞排(肉雞)|Chicken cutlets: feed,雞排(肉雞),208.0,15.3,15.8,0.0
+I0404301,棒棒腿(土鸡),棒棒腿(土雞)|雞腿|鸡腿|Chicken: drumstick|wild,棒棒腿(土雞),143.0,21.0,5.9,0.0
+I0604101,鹅腿肉,鵝腿肉|Goose: whole legs,鵝腿肉,130.0,21.7,4.2,0.0
+I0620101,鹅心,鵝心|Goose: heart,鵝心,241.0,14.5,19.9,0.0
+I0120301,牛筋,蹄筋|Beef Tendons,牛筋,157.0,21.7,7.2,3.3
+I0402201,带骨去皮对切胸(肉鸡),帶骨去皮對切胸(肉雞)|Chicken: skinned breast halves with ribs|feed,帶骨去皮對切胸(肉雞),104.0,22.4,0.9,0.0
+J0411801,尼罗口孵非鲫(含皮),尼羅口孵非鯽(含皮)|南洋鯽仔|南洋鲫仔|尼羅吳郭魚|尼罗吴郭鱼|Nile tilapia|Nilotica|Cichlid|Edward tilapia|Mozambique tilapia|Mango fish,尼羅口孵非鯽(含皮),125.0,19.4,4.7,0.0
+J2101701,日本龙虾,日本龍蝦|龍蝦|龙虾|台灣龍蝦|台湾龙虾|臺灣龍蝦|紅腳蝦|红脚虾|紅殼仔|红壳仔|正龍蝦|正龙虾|紅龍蝦|红龙虾|Japanese spiny lobster|Spiny lobster,日本龍蝦,93.0,21.5,0.1,1.0
+J3501201,九孔螺,九孔|雜色鮑|杂色鲍|石決明|石决明|Abalone|Japanese abalone|Ormer|Sea ear,九孔螺,73.0,15.0,1.0,5.8
+J0401501,鲤,鯉|鮘仔|在來鯉|在来鲤|財神魚|财神鱼|Scale carp|Wild carp|Wild common carp|Aischgrund carp|Carp|Common carp|Asian carp|European carp|Leather carp|Grass carp|German carp|Koi|Mirror carp|Wild Common Carp,鯉,91.0,14.5,3.2,2.1
+J0600301,鲨鱼翅,鯊魚翅|魚翅|鱼翅|Shark's fin,鯊魚翅,186.0,43.5,0.0,0.0
+J0414101,花腹鲭,花腹鯖|花飛|花飞|青輝|青辉|飛威/青飛/胡麻鯖|飞威/青飞/胡麻鲭|Southern mackerel|Pacific mackerel|Slimy mackerel|Spotted chub mackerel|Spotted mackerel|Chub mackerel|Common mackerel|Blue mackerel|Japanese mackerel,花腹鯖,138.0,23.9,4.0,0.1
+J0411601,花尾唇指翁(翁加鱼边),花尾脣指翁(翁加魚邊)|花尾唇指翁(翁加魚邊)|咬破布|三康|金花|萬年瘦|万年瘦|瘦仔/蝨鬢(澎湖)|瘦仔/虱鬓(澎湖)|White-spot-tail morwong|Spottedtail morwong|Flagfish|Flag fish|Morwong,花尾唇指翁(翁加魚邊),116.0,19.8,3.4,0.6
+G0800101,香菇(大),冬(北/花/厚/毛)菇|椎茸|香蕈(信/椹)|合蕈|Mushroom|Champignon|Shiitake,香菇(大),37.0,3.0,0.2,7.1
+G1900101,鸿喜菇,鴻喜菇|紅喜菇|红喜菇|真姬菇|斑玉蕈|玉蕈|膠玉蘑|胶玉蘑|蟹味菇|海鮮菇|海鲜菇|假松茸|松茸菇|榆菇|靈芝菇|灵芝菇|黑真珠|Bunashimeji|Hon-shimeji|small oyster mushroom,鴻喜菇,30.0,2.9,0.1,5.3
+R4700201,豆干丝,豆乾絲|豆干絲|Beancurd noodles,豆干絲,170.0,18.3,8.6,4.8
+R4700203,小方豆干,小方豆乾|Hard bean curd,小方豆干,161.0,17.4,8.6,3.5
+H0610201,烘烤黑豆,烏豆|乌豆|枝仔豆|黑大豆|Black bean: baked,烘烤黑豆,435.0,39.0,20.1,32.4
+R4900701,盐酥蚕豆,鹽酥蠶豆|蠶豆酥|蚕豆酥|蠶豆子|蚕豆子|蠶豆花|蚕豆花|Broad bean: salted|Field bean: salted,鹽酥蠶豆,481.0,26.9,20.9,46.3
+H0105102,白凤豆(进口),白鳳豆(進口)|矮性刀豆|洋刀豆|立刀豆|Jack bean,白鳳豆(進口),325.0,20.1,1.3,60.0
+I0404401,鸡排(土鸡),雞排(土雞)|Chicken cutlets: wild,雞排(土雞),158.0,18.9,8.6,0.0
+A0710101,黑麦片,黑麥片|Rye,黑麥片,359.0,7.8,1.2,77.3
+I0500201,番鸭,番鴨|麝番鴨|麝番鸭|紅面鴨|红面鸭|紅面(正)番鴨|红面(正)番鸭|Muscovy duck|Cairina moschate,番鴨,229.0,18.2,16.7,0.0
+R7300401,茶鹅,茶鵝,茶鵝,352.0,15.6,32.6,0.0
+I9900101,虎皮蛙,虎斑蛙|虎紋蛙|虎纹蛙|水雞|水鸡|田雞|田鸡|台灣青蛙|台湾青蛙|臺灣青蛙|Frog|Chinese bullfrog,虎皮蛙,94.0,21.1,0.4,0.6
+I0308201,猪带皮腹脇肉,豬帶皮腹脇肉|帶皮五花肉|带皮五花肉|帶皮三層肉|带皮三层肉|Pork belly meat: lean and fat|Shoulder (boston),豬帶皮腹脇肉,368.0,14.5,33.9,0.0
+E2400101,白洋葱,白洋蔥|玉蔥|玉葱|蔥頭|葱头|球蔥|球葱|胡蔥|胡葱|日本蔥頭|日本葱头|大粒蔥頭|大粒葱头|洋蔥頭|洋葱头|大蔥頭|大葱头|Onion,白洋蔥,42.0,1.0,0.1,10.0
+E0510101,干百合鳞片,幹百合鱗片|乾百合鱗片|乾百合|干百合|乾百合花鱗片|干百合花鳞片|乾蒜腦藷|干蒜脑𫉄|Dry lily bulb,乾百合鱗片,304.0,11.8,0.7,68.4
+G0810102,干花菇,乾花菇|冬(北/花/厚/毛)菇|椎茸|香蕈(信/椹)|合蕈|Mushroom: dry|Champignon: dry|Shiitake: dry,乾花菇,317.0,17.0,1.1,67.4
+G0800103,花菇,冬(北/花/厚/毛)菇|椎茸|香蕈(信/椹)|合蕈|Mushroom|Champignon|Shiitake,花菇,52.0,3.6,0.1,10.7
+H0620101,黑豆粉,烏豆|乌豆|枝仔豆|黑大豆|Black bean powder,黑豆粉,431.0,36.0,17.6,39.0
+R4700601,豆豉,蔭豉|荫豉|Fermented black bean,豆豉,237.0,20.4,11.5,12.8
+H1300101,鹊豆荚,鵲豆莢|肉(扁/藊)豆|峨(蛾/花)眉豆|沿(延)籬豆|沿(延)篱豆|隱元豆|隐元豆|膨皮豆|Hyacinth bean|Lablab,鵲豆莢,31.0,2.4,0.3,5.1
+H0105101,白凤豆(台湾),白鳳豆(臺灣)|白鳳豆(台灣)|矮性刀豆|洋刀豆|立刀豆|Jack bean,白鳳豆(台灣),348.0,27.4,2.8,56.4
+I0321101,猪肚,豬肚|豬胃|猪胃|Pork: stomach,豬肚,152.0,12.4,11.0,0.0
+I0322201,猪后脚,豬後腳|豬腳|猪脚|豬蹄|猪蹄|長腳|长脚|Pork: feet|hind,豬後腳,253.0,19.5,18.8,0.0
+I0402401,去皮清肉(土鸡),去皮清肉(土雞)|去皮雞胸肉|去皮鸡胸肉|Chicken: skinned breast halves without ribs|wild,去皮清肉(土雞),121.0,23.4,2.3,0.0
+I0402402,去皮清肉(肉鸡),去皮清肉(肉雞)|去皮雞胸肉|去皮鸡胸肉|Chicken: skinned breast halves without ribs|feed,去皮清肉(肉雞),117.0,23.3,1.9,0.6
+R1800201,春卷皮,春捲皮|Spring roll skin,春捲皮,241.0,8.3,0.7,50.4
+I0310201,猪颊肉,豬頰肉|豬舌肉|猪舌肉|菊花肉|Pork: cheek meat,豬頰肉,182.0,17.5,11.9,1.4
+R5100201,切片火腿(牛肉),三明治火腿|火腿片|Beef: sandwich meat,切片火腿(牛肉),121.0,15.9,2.2,9.4
+R5300402,鸡肉香肠(小),雞肉香腸(小)|Chicken: sausage|small,雞肉香腸(小),459.0,13.9,37.7,15.9
+E3201201,青江菜(土植)(1月取样),青江菜(土植)(1月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese mustard,青江菜(土植)(1月取樣),10.0,1.3,0.0,1.6
+A0410201,玉米胚芽,玉米仁|珍珠米|Corn germ,玉米胚芽,366.0,7.0,0.9,80.3
+E3201401,青江菜(有机)(1月取样),青江菜(有機)(1月取樣)|江門白菜|江门白菜|湯匙菜|汤匙菜|青梗白菜|Pak-choi|Chinese Mustard:organic,青江菜(有機)(1月取樣),10.0,1.5,0.0,1.5
+E3300103,翠玉白菜,天津白菜|直筒白菜|長筒白菜|长筒白菜|竹筒白菜|Chinese cabbage,翠玉白菜,19.0,1.0,0.7,2.8
+E3000201,紫色甘蓝,紫色甘藍|紫甘藍|紫甘蓝|紫色高麗菜|紫色高丽菜|紅色高麗菜|红色高丽菜|紅玻璃菜|红玻璃菜|紅玉菜|红玉菜|Purple cabbage|Red cabbage,紫色甘藍,28.0,1.5,0.2,5.9
+R8100501,糙米麸,糙米麩,糙米麩,387.0,7.8,3.3,81.4
+E2600101,韮菜花,花韮菜|韮花|韭菜苔(韮/韭通用)|韭菜薹(韮/韭通用)|Chinese chive flower|Chinese leek flower,韮菜花,28.0,1.8,0.2,5.6
+E1300201,玉米笋,玉米筍|番麥筍|番麦笋|珍珠筍|珍珠笋|Baby corn,玉米筍,33.0,1.8,0.2,7.0
+E6600101,隼人瓜,梨瓜|壽瓜|寿瓜|合掌瓜|安南瓜|香瓜仔|拳頭瓜|拳头瓜|佛掌瓜|香圓瓜|香圆瓜|香櫞瓜|香橼瓜|佛手瓜|瓦瓜|chayote,隼人瓜,23.0,0.7,0.1,5.2
+E5810101,花椰菜干,花椰菜乾|Cauliflower:dried,花椰菜乾,291.0,16.0,0.6,62.5
+A0550601,白饭,白飯|Cooked rice,白飯,183.0,3.1,0.3,41.0
+E7700201,苜蓿芽,苜蓿嬰|苜蓿婴|Alfalfa sprout:organic,苜蓿芽,20.0,3.2,0.2,2.5
+E9200101,野苦瓜嫩梢,,野苦瓜嫩梢,77.0,5.7,1.7,12.2
+E4100101,红梗珍珠菜,紅梗珍珠菜|角菜|香芹(甜)菜|山芹菜|甜菜|乳白艾|香甜菜|納艾香|纳艾香|Lysimachia fortunei Maxim.,紅梗珍珠菜,37.0,2.6,1.0,5.6
+E4600301,昭和草,山茼蒿|野茼蒿|太子原|飛機草|飞机草|神仙草,昭和草,26.0,2.2,0.7,3.8
+A0510201,高纤米,高纖米|高纖蓬萊米|高纤蓬莱米|Short grain rice,高纖米,363.0,8.3,2.5,75.2
+G1600101,金针菇,金針菇|金(冬/榎/朴)菇|金(冬/榎/樸)菇|金絲菇|金丝菇|金菇菜|秋葷|秋荤|樸蕈構菌|朴蕈构菌|毛柄金線菇|毛柄金线菇|菌子(絨柄金錢菇)|菌子(绒柄金钱菇)|Velvet foot|Gold mushroom|Enokitake|Winter Mushroom|Snow Mushroom,金針菇,37.0,2.6,0.3,7.2
+G2300101,猴头菇,猴頭菇|猴頭蘑|猴头蘑|刺蝟菌|刺猬菌|蝟菌|猬菌|花菜菇|圓頭菇|圆头菇|陰陽蘑|阴阳蘑|對臉蘑|对脸蘑|Monkey's mane|Lion's mane|Old man's beard,猴頭菇,30.0,2.1,0.2,5.9
+R4500701,猴头菇罐头,猴頭菇罐頭|猴頭蘑|猴头蘑|刺蝟菌|刺猬菌|蝟菌|猬菌|花菜菇|圓頭菇|圆头菇|陰陽蘑|阴阳蘑|對臉蘑|对脸蘑,猴頭菇罐頭,31.0,1.0,0.1,6.5
+A0400301,甜玉米,玉米|黃玉米|黄玉米|Corn|Maize|Sweat corn,甜玉米,107.0,3.3,2.5,17.8
+H1120101,黄豆粉,黃豆粉|大豆|Soy bean powder,黃豆粉,401.0,37.4,16.7,32.2
+R4600201,冬粉,粉絲|粉丝|Mung bean thread|Water flour,冬粉,351.0,0.1,0.1,87.5
+A0400101,白玉米,White corn,白玉米,66.0,3.4,0.6,11.5
+R4600101,高纤胚芽冬粉,高纖胚芽冬粉|粉絲|粉丝|Bean thread: green bean w/ germ,高纖胚芽冬粉,364.0,0.6,0.2,90.0
+G2100101,白茯苓,松(雲/安/閩)苓|松(云/安/闽)苓|玉(茯)靈|玉(茯)灵|茯兔(龜)|茯兔(龟)|松柏芋|松薯|不死麵|不死面|萬靈桂(精)|万灵桂(精)|更生|金翁|Poria,白茯苓,316.0,1.0,0.2,79.9
+H1105101,黄豆,黃豆|大豆|菽|Soy bean,黃豆,389.0,35.6,15.7,33.0
+H1200301,高山大豌豆荚,高山大豌豆莢|荷蓮豆|荷莲豆|荷仁豆|荷蘭豆|荷兰豆|花蓮豆|花莲豆|飛龍豆|飞龙豆|青豆莢|青豆荚|胡豆莢|胡豆荚|畢豆莢|毕豆荚|宛豆莢|宛豆荚|孫豆莢|孙豆荚|丸豆莢|丸豆荚|留豆莢|留豆荚|戎菽|Pea|Garden pea,高山大豌豆莢,49.0,2.4,0.0,9.9
+R1100701,粿仔条,粿仔條|Rice noodle,粿仔條,193.0,0.5,1.2,45.0
+I0320101,猪心,豬心|Pork: heart,豬心,128.0,13.6,7.8,1.0
+I0322301,猪蹄膀,豬蹄膀|豬腳|猪脚|蹄膀|圓蹄|圆蹄|Pork hock,豬蹄膀,331.0,17.1,28.6,0.0
+I0320501,猪舌,豬舌|Pork: tongue,豬舌,185.0,18.5,11.8,0.0
+I0420801,鸡脚(肉鸡),雞腳(肉雞)|雞爪|鸡爪|鳳爪|凤爪|Chicken: feet,雞腳(肉雞),209.0,20.7,13.3,1.2
+I0420101,鸡心(肉鸡),雞心(肉雞)|Chicken: heart,雞心(肉雞),190.0,13.3,14.8,0.1
+I0100102,带骨牛小排,帶骨牛小排|牛仔骨|Bone-in short rib,帶骨牛小排,360.0,13.1,33.7,0.4
+I0108101,牛后腿肉,牛後腿肉|Beef round|Beef ham,牛後腿肉,122.0,19.4,4.3,3.7
+R5100901,腊肉(五花肉),臘肉(五花肉)|Pork: lean and fat|salted|cured and smoked,臘肉(五花肉),525.0,18.5,49.0,2.4
+I0400201,肉鸡,肉雞|飼料雞|饲料鸡|Chicken: broiler|feed,肉雞,248.0,16.1,19.9,0.0
+I0106201,腓力牛排,菲力牛排|牛柳|小里肌|腰內肉|腰内肉|去脂腰里肌肉|去脂腰裏肌肉|全修清去膜腰裡脊肉|全修清去膜腰里脊肉|Filet mignon|Tenderloin|side muscle off|skinned,腓力牛排,184.0,20.6,10.7,0.1
+I0106101,去骨纽约克牛排,去骨紐約克牛排|外條|外条|西冷|去骨前腰脊肉|New York steak(cut)|Steak ready strip loin|Boneless strip loin,去骨紐約克牛排,200.0,21.3,12.0,0.0
+R5300401,鸡肉香肠(大),雞肉香腸(大)|Chicken: sausage|large,雞肉香腸(大),283.0,22.4,16.3,11.8
+I0420601,鸡胸骨汤,雞胸骨湯|雞高湯|鸡高汤|Chicken broth,雞胸骨湯,9.0,1.5,0.3,0.2
+R2000301,红萝卜面,紅蘿蔔面|紅蘿蔔麵|Noodle: carrot flavored,紅蘿蔔麵,352.0,12.1,1.0,73.8
+E9900301,荷兰豆菜心,荷蘭豆菜心|Pea bud,荷蘭豆菜心,30.0,3.9,0.6,3.9
+E9900401,厥子,Fern bud,厥子,23.0,2.3,0.2,3.9
+D2700201,富有甜柿(大雪山),柿子|柹|香柿|Persimmon,富有甜柿(大雪山),57.0,0.4,0.1,15.1
+D3700201,红宝石葡萄柚(古坑),紅寶石葡萄柚(古坑)|西柚|朱欒|朱栾|Ruby Grapefruit|Pomelo|Ruby Red,紅寶石葡萄柚(古坑),37.0,0.7,0.3,8.9
+G1200101,秀珍菇,平菇|小平菇|側耳平菇|侧耳平菇|蠔菇|蚝菇|袖珍(鮑魚)菇(側耳)|袖珍(鲍鱼)菇(侧耳)|(Common) Oyster mushroom|Obalonus,秀珍菇,28.0,3.3,0.1,4.6
+A0600201,糯高梁,Sorghum: glutinous|Kao-lian: glutinous,糯高梁,362.0,10.7,1.0,75.7
+G2000101,洋菇,西洋蘑菇(蘑菇|雙孢蘑菇)|双孢蘑菇)|Mushroom|Button|Champignon,洋菇,25.0,3.0,0.2,3.8
+G2000201,冷冻洋菇,冷凍洋菇|西洋蘑菇(蘑菇|雙孢蘑菇)|双孢蘑菇)|Marshroom: frozen,冷凍洋菇,39.0,3.8,1.5,4.3
+G9000301,喜来菇,喜來菇,喜來菇,37.0,3.5,0.4,6.3
+G0810103,干白花菇,乾白花菇|冬(北/花/厚/毛)菇|椎茸|香蕈(信/椹)|合蕈|Mushroom: dry|Champignon: dry|Shiitake: dry,乾白花菇,310.0,18.7,1.1,64.5
+H0720101,绿豆粉,綠豆粉|菉豆|綠小豆|绿小豆|輻莢豆|辐荚豆|Green bean powder,綠豆粉,344.0,21.7,1.5,62.9
+H1000301,冷冻菜豆(荚),冷凍菜豆(莢)|四季豆|雲藕豆|云藕豆|隱之(元)豆|隐之(元)豆|白(花)雲豆|白(花)云豆|敏(雲/芸/粉/醜)豆|敏(云/芸/粉/丑)豆|Yard-long bean: frozen,冷凍菜豆(莢),57.0,3.4,0.1,10.8
+I0321901,猪小肠,豬小腸|Pork: small intestine|Chitterlings,豬小腸,156.0,12.5,11.4,0.6
+I0321801,猪大肠,豬大腸|Pork: large intestine,豬大腸,198.0,6.6,18.9,1.9
+A0500207,稉米(高雄139号),稉米(高雄139號)|蓬萊米|蓬莱米|圓米|圆米|Short grain rice,稉米(高雄139號),357.0,6.1,1.2,78.5
+I0406201,三节翅(土鸡),三節翅(土雞)|Chicken: whole wings|wild|Chicken: three joint wings,三節翅(土雞),198.0,19.0,13.0,0.0
+I0500401,土番鸭,土番鴨|Mule duck,土番鴨,111.0,20.9,2.4,0.0
+I9900201,蛇肉,Snake flesh,蛇肉,85.0,19.0,0.4,0.0
+I0600101,鹅肉,鵝肉|Goose meat,鵝肉,187.0,15.6,13.4,2.4
+A0501302,糙稉米(台稉9号),糙稉米(臺稉9號)|糙稉米(台稉9號)|糙米|Brown rice,糙稉米(台稉9號),364.0,7.4,2.3,76.6
+P1500501,面包粉,麪包粉|麵包粉|Bread crumb,麵包粉,370.0,14.4,1.5,74.6
+I0100301,沙朗牛排,里肌|大里肌|肋眼|修清肋眼肉|修清肉眼|Ribeye roll|lip-on|Cube roll,沙朗牛排,162.0,20.4,8.3,1.5
+I0404102,骨腿(肉鸡),骨腿(肉雞)|雞腿|鸡腿|Chicken: leg quarters|feed,骨腿(肉雞),196.0,14.4,14.9,1.7
+I0400101,土鸡,土雞|放山雞|放山鸡|走地雞|走地鸡|Taiwan native chicken,土雞,196.0,19.0,12.7,0.0
+J0401601,鳙,鱅|黑鰱|黑鲢|大頭鰱(魚)|大头鲢(鱼)|花鰱|花鲢|胖頭鰱|胖头鲢|Big head|Bighead|Bighead carp|Black silver carp,鱅,145.0,18.7,7.2,0.0
+J0407801,双带鲹,雙帶鰺|海草|拉侖|拉仑|拉崙/柴魚/青甘(澎湖)|拉仑/柴鱼/青甘(澎湖)|Rainbow runner,雙帶鰺,118.0,22.6,2.4,0.0
+J0405901,日本红目大眼鲷,日本紅目大眼鯛|紅目鰱|红目鲢|嚴公仔|严公仔|大目仔(臺東)|大目仔(台东)|紅目孔(澎湖)|红目孔(澎湖)|嚴公舅(澎湖)|严公舅(澎湖)|Red big eye|Bigeye|Bulleye|Deepwater bullseye|Longfinned bullseye|Long-finned bullseye,日本紅目大眼鯛,97.0,19.6,1.5,0.0
+J0409001,松鲷,松鯛|打鐵婆|打铁婆|枯葉|枯叶|石鯽|石鲫|睡魚|睡鱼|庫羅黛|库罗黛|睏魚|困鱼|海南洋仔|南洋鱸魚|南洋鲈鱼|海吳郭|海吴郭|流魚/柴魚/打鐵鱸(澎湖)|流鱼/柴鱼/打铁鲈(澎湖)|Sleepfish|Triple-tail|Triple tail|Tripletail|Brown triple tail|Conchy leaf|Atlantic tripletail|Bouyfish|Black grunt|Dusky tripletail|Black perch|Dusky triple-tail|Flasher,松鯛,98.0,18.2,2.3,0.1
+D0800601,李林蕉(2007年取样),李林蕉(2007年取樣)|香蕉|芎蕉|弓蕉|甘蕉(牛角蕉|佛手蕉|美人蕉|樹蕉)|树蕉),李林蕉(2007年取樣),102.0,1.4,0.3,26.3
+D3200402,津轻蜜苹果,津輕蜜蘋果|柰|林檎|Apple,津輕蜜蘋果,56.0,0.2,0.2,15.1
+R4500301,腌渍香菇,醃漬香菇|冬(北/花/厚/毛)菇|椎茸|香蕈(信/椹)|合蕈|Mushroom: pickled|Champignon: pickled|Shiitake: pickled,醃漬香菇,56.0,3.0,0.1,10.6
+G1500101,蚝菇,蠔菇|平菇|日本蠔菇|日本蚝菇|糙皮側耳|糙皮侧耳|黑牡丹菇|黑美人菇|人工口蘑(囊狀側耳)|人工口蘑(囊状侧耳)|Obalonus|Cystidiate Pleurotus|The Abalone Mushroom,蠔菇,26.0,2.1,0.3,4.8
+H0305101,花豆,紅花豆|红花豆|紅(赤)花菜豆|红(赤)花菜豆|花仔(阿/柳)豆|Kidney beans|White dutch runner bean|Scarlet runner bean|multiflora bean,花豆,328.0,21.2,1.7,59.0
+H1200401,甜豌豆荚,甜豌豆莢|甜脆豌豆|甜荷蘭豆|甜荷兰豆|甜荷仁豆|Sugar pea|Edible podded pea,甜豌豆莢,42.0,3.0,0.2,7.4
+I0304201,猪大排,豬大排|背脊|帶骨里肌|带骨里肌|Center cut loin|Large sparerib|Loin: bone-in,豬大排,214.0,19.1,14.7,0.0
+I0304301,猪小排,豬小排|里肌小排|肋小排|肋骨排|Back ribs|Small sparerib,豬小排,287.0,18.0,23.3,0.0
+I0406101,二节翅(土鸡),二節翅(土雞)|Chicken : mid-joint and tip|wild,二節翅(土雞),228.0,19.8,15.9,0.0
+I0406102,二节翅(肉鸡),二節翅(肉雞)|Chicken : mid-joint and tip|feed,二節翅(肉雞),223.0,16.4,17.0,0.6
+I0700101,火鸡肉,火雞肉|七面鳥|七面鸟|吐綬雞|吐绶鸡|Turkey meat,火雞肉,141.0,21.1,5.6,0.0
+G9000101,松茸白菇,,松茸白菇,38.0,5.1,0.5,5.3
+R4900401,红豆罐头(糖渍),紅豆罐頭(糖漬)|小豆|赤小豆|赤豆|通常小豆|小紅豆|小红豆|紅小豆|红小豆|Red bean: canned|Rice bean: canned|Small red bean: canned|Adzuki bean: canned,紅豆罐頭(糖漬),233.0,8.0,0.3,49.5
+R4900601,豌豆仁罐头,豌豆仁罐頭|荷蓮豆仁|荷莲豆仁|荷仁豆仁|荷蘭豆仁|荷兰豆仁|花蓮豆仁|花莲豆仁|飛龍豆仁|飞龙豆仁|青豆仁|胡豆仁|畢豆仁|毕豆仁|宛豆仁|孫豆仁|孙豆仁|丸豆仁|留|Pea: canned,豌豆仁罐頭,126.0,7.2,0.9,22.1
+H0900101,莱豆仁(带膜),萊豆仁(帶膜)|皇帝豆|皇格豆|白扁豆|觀音豆|观音豆|雪豆|大馬萊豆|大马莱豆|細綿豆|细绵豆|Lima bean|Duffin bean|Butter bean,萊豆仁(帶膜),112.0,7.8,0.4,20.1
+R5101201,腌熏猪肝,醃燻豬肝|Pork: liver|pickled and smoked,醃燻豬肝,167.0,26.8,4.7,4.2
+R5200102,"片状肉干(牛肉,辣味)","片狀肉乾(牛肉,辣味)|辣味牛肉干|辣味牛肉乾|Beef: baked|sliced and spiced|Spicy flavored beef jerky","片狀肉乾(牛肉,辣味)",335.0,38.0,7.0,29.9
+I0120101,牛肚(瘤胃),百葉胃|百叶胃|毛肚|牛百葉|牛百叶|牛百頁|牛百页|牛草肚(牛之第一胃|山鏈狀)|山链状)|Beef paunch|Rumen|Mountain chain tripe,牛肚(瘤胃),44.0,7.5,1.4,0.0
+I0504101,鸭腿,鴨腿|Ducks: drumsticks,鴨腿,282.0,14.4,24.5,3.4
+I0402301,带骨带皮对切胸(肉鸡),帶骨帶皮對切胸(肉雞)|Chicken: breast halves with ribs|feed,帶骨帶皮對切胸(肉雞),219.0,19.3,15.1,0.0
+J2101101,草对虾,草對蝦|草蝦|草虾|烏斑節仔|乌斑节仔|Ghost prawn|Giant tiger prawn|Grass shrimp|Jumbo prawn|Leader prawn|Panda,草對蝦,100.0,22.0,0.7,1.0
+J2300201,虾米,蝦米|Shrimp,蝦米,264.0,57.1,2.2,0.0
+I0200101,山羊带皮羊肉块,山羊帶皮羊肉塊|Goat meat,山羊帶皮羊肉塊,164.0,20.3,8.6,3.4
+I0102101,板腱,板腱牛排|白蘭地牛排|白兰地牛排|上肩胛脊底肌|Top blade muscle,板腱,166.0,19.8,9.0,0.2
+J0200202,双髻鲨腹肉,雙髻鯊腹肉|丫髻鯊(鮫)|丫髻鲨(鲛)|犛頭沙|牦头沙|雙髻鯊|双髻鲨|雙過仔|双过仔|Hammerhead|Hammerhead shark,雙髻鯊腹肉,110.0,25.8,0.0,0.0
+R7500401,鲭鱼(腌制),鯖魚(醃製)|鹹鯖魚|咸鲭鱼|Mackerel,鯖魚(醃製),281.0,14.9,24.0,1.3
+E9300101,过沟菜蕨,過溝菜蕨|過貓(溝)|过猫(沟)|過貓(溝)菜|过猫(沟)菜|蕨山貓|蕨山猫|食用雙囊蕨|食用双囊蕨|Common bracken,過溝菜蕨,27.0,3.1,0.8,3.2
+R4401201,梅干菜,梅乾菜,梅乾菜,116.0,5.5,1.1,20.8
+E4900101,紫苏,紫蘇|蘇草|苏草|紅(赤/綠/青)紫蘇|红(赤/绿/青)紫苏|桂荏|perilla,紫蘇,71.0,5.5,1.2,11.9
+E2000101,槟榔嫩茎,檳榔嫩莖|半天筍|半天笋|檳榔樹心|槟榔树心|Betel-nut stem,檳榔嫩莖,31.0,2.2,0.4,5.6
+F0210101,紫菜,海苔|Laver|nori,紫菜,268.0,28.1,0.9,47.9
+D2100404,金蜜芒果,檬果|檨仔|菴羅果|庵罗果|Mango,金蜜芒果,64.0,0.6,0.4,16.3
+G0100101,木耳,黑木耳|桑耳|白背毛木耳|木樟(檽/菌/茸/蛾/樅)|木樟(檽/菌/茸/蛾/枞)|樹雞(毛木耳)|树鸡(毛木耳)|Jew's ear|Juda's ear|Agaric,木耳,38.0,0.9,0.1,8.8
+G0810104,干钮扣菇,幹鈕釦菇|乾鈕釦菇|冬(北/花/厚/毛)菇|椎茸|香蕈(信/椹)|合蕈|Mushroom: dry|Champignon: dry|Shiitake: dry,乾鈕釦菇,325.0,24.6,2.7,60.9
+G0500101,松茸,台灣松茸|台湾松茸|臺灣松茸|松口蘑|大花菌|松蕈|剝皮菌(台灣松口蘑)|剥皮菌(台湾松口蘑)|剝皮菌(臺灣松口蘑),松茸,36.0,3.1,0.5,5.9
+G9000401,富珍茸,,富珍茸,37.0,3.0,0.4,6.8
+H0405101,红豆,紅豆|小豆|赤小豆|赤豆|通常小豆|小紅豆|小红豆|紅小豆|红小豆|Red bean|Rice bean|Small red bean|Adzuki bean,紅豆,328.0,20.9,0.6,61.5
+H1200501,冷冻豌豆仁,冷凍豌豆仁|荷蓮豆仁|荷莲豆仁|荷仁豆仁|荷蘭豆仁|荷兰豆仁|花蓮豆仁|花莲豆仁|飛龍豆仁|飞龙豆仁|青豆仁|胡豆仁|畢豆仁|毕豆仁|宛豆仁|孫豆仁|孙豆仁|丸豆仁|留|Common peas: frozen|Edible podded pea: frozen,冷凍豌豆仁,96.0,6.1,0.6,17.1
+R4401701,腌渍越瓜,醃漬越瓜|醃瓜|腌瓜|菴瓜|庵瓜|梢瓜|酥瓜|甜瓜|羊角瓜|稍瓜|生瓜|白瓜|青瓜|百香胡瓜|Oriental pickling melon,醃漬越瓜,18.0,1.1,0.2,3.1
+E8800101,火炭母草,川七|清飯藤|清饭藤|冷飯藤|冷饭藤|雞糞(屎)藤|鸡粪(屎)藤|烏炭子|乌炭子|Notoginseng Radix,火炭母草,12.0,1.6,0.4,1.2
+A0320202,低筋面粉,低筋麪粉|低筋麵粉|Low-gluten flour|Cake flour|Patent flour,低筋麵粉,364.0,8.1,1.2,78.2
+F0700105,海带丝,海帶絲|江白菜絲|江白菜丝|昆布絲|昆布丝|海昆布絲|海昆布丝,海帶絲,22.0,0.7,0.1,5.0
+G0710101,干柳松菇,幹柳松菇|乾柳松菇|柳松茸|茶樹菇|茶树菇|楊樹菇|杨树菇|田頭菇(柱狀田頭菇)|田头菇(柱状田头菇)|Poplar field-cap: dry,乾柳松菇,286.0,23.5,1.9,53.5
+G0800102,香菇(小),冬(北/花/厚/毛)菇|椎茸|香蕈(信/椹)|合蕈|Mushroom|Champignon|Shiitake,香菇(小),26.0,2.4,0.1,4.9
+R1900201,红面线,紅面線|紅麵線|Noodle string|Wheat flour string,紅麵線,307.0,11.3,1.4,62.3
+G9000201,金喜菇,brown needle mushroom,金喜菇,39.0,2.7,0.2,7.7
+R4701201,嫩豆腐,,嫩豆腐,53.0,4.9,3.0,1.6
+R4700801,百页豆腐,百頁豆腐|千張豆腐|千张豆腐|Beancurd sheets,百頁豆腐,196.0,13.4,13.1,6.3
+H1200201,豌豆荚,豌豆莢|荷蓮豆|荷莲豆|荷仁豆|荷蘭豆|荷兰豆|花蓮豆|花莲豆|飛龍豆|飞龙豆|青豆莢|青豆荚|胡豆莢|胡豆荚|畢豆莢|毕豆荚|宛豆莢|宛豆荚|孫豆莢|孙豆荚|丸豆莢|丸豆荚|留豆莢|留豆荚|戎菽|Pea|Garden pea,豌豆莢,41.0,2.9,0.2,7.1
+H1200101,豌豆仁,荷蓮豆仁|荷莲豆仁|荷仁豆仁|荷蘭豆仁|荷兰豆仁|花蓮豆仁|花莲豆仁|飛龍豆仁|飞龙豆仁|青豆仁|胡豆仁|畢豆仁|毕豆仁|宛豆仁|孫豆仁|孙豆仁|丸豆仁|留|Pea|Garden pea|Sweet pea,豌豆仁,123.0,9.2,0.4,21.7
+A0320404,高筋面粉,高筋麪粉|高筋麵粉|High-gluten flour|Seat of honor flour,高筋麵粉,362.0,12.9,1.2,73.1
+R5200101,片状肉干(牛肉),片狀肉乾(牛肉)|牛肉干|牛肉乾|Beef: sliced|baked|dried,片狀肉乾(牛肉),335.0,30.3,5.2,41.8
+I0120201,牛肚(蜂巢胃),蜂巢肚|金錢肚(牛之第二胃)|金钱肚(牛之第二胃)|Honeycomb tripe|Reticulum tripe,牛肚(蜂巢胃),107.0,19.0,2.8,0.0
+R5300202,香肠(蒜味),香腸(蒜味)|Pork: sausage|garlic flavor,香腸(蒜味),387.0,16.6,27.8,17.7
+R5100801,培根,三層煙肉|三层烟肉|Pork: bacon,培根,372.0,13.5,35.6,0.0
+I0420401,鸡胗(肉鸡),雞胗(肉雞)|雞肫|鸡肫|Chicken: gizzard,雞胗(肉雞),89.0,16.6,2.0,0.3
+R7300501,熟鹅腿肉,熟鵝腿肉|Goose: whole legs|cooked,熟鵝腿肉,285.0,18.5,23.6,0.0
+R5300203,蒟蒻香肠(蒜味),蒟蒻香腸(蒜味)|Pork: sausage|koniac|garlic flavor,蒟蒻香腸(蒜味),289.0,19.4,14.9,19.3
+R5300301,小巧香肠,小巧香腸|小香腸|小香肠|Mini-sausage,小巧香腸,362.0,15.1,28.2,11.9
+I0321201,熟猪肚,熟豬肚|豬胃|猪胃|Pork: stomach|cooked,熟豬肚,137.0,16.0,7.6,2.7
+I0302101,猪后腿外腱肉,豬後腿外腱肉|豬腱|猪腱|外腱|Shank: hind,豬後腿外腱肉,184.0,19.0,11.4,0.8
+A0500301,越光米,蓬萊米|蓬莱米|圓米|圆米|Rice Tainan 16,越光米,340.0,7.6,1.0,73.3
+A1000201,糙薏仁,紅薏仁|红薏仁|Adlay|Job's tears,糙薏仁,387.0,13.7,7.4,65.9
+I0404101,骨腿(土鸡),骨腿(土雞)|雞腿|鸡腿|Chicken: leg quarters|wild,骨腿(土雞),130.0,21.7,4.1,0.0
+D2200201,冷冻荔枝,冷凍荔枝|丹荔|荔錦|荔锦|麗枝|丽枝|離枝|离枝|Frozen Lychee|Lichee|Litchi,冷凍荔枝,28.0,0.4,0.1,7.2
+D1700501,美国紫葡萄(含皮),美國紫葡萄(含皮)|蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃|Grape,美國紫葡萄(含皮),80.0,0.4,0.0,21.9
+D1700301,美国绿葡萄,美國綠葡萄|蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃(青葡萄|白葡萄)|Grape,美國綠葡萄,64.0,0.5,0.2,16.8
+D2700301,牛心柿,柿子|柹|香柿(水柿|浸柿|硬柿|脆柿)|Persimmon,牛心柿,62.0,0.5,0.2,16.5
+D2700401,四周柿,柿子|柹|香柿(紅柿|香柿(红柿|軟柿)|软柿)|Persimmon,四周柿,66.0,0.5,0.1,17.6
+A0110101,大麦片,大麥片|Barley flake|Barley chip,大麥片,365.0,8.6,1.8,76.7
+E0600101,芋茎,芋莖|芋拐|芋橫|芋横|芋葉梗|芋叶梗|Taro shoot|Dasheen stalk|Taro petiole,芋莖,20.0,1.1,0.5,3.4
+E1600101,熟箭竹笋,熟箭竹筍|箭筍|箭笋|台灣箭竹|台湾箭竹|臺灣箭竹|矢竹仔|玉山箭竹|Kunishi cane|Usawa cane:cooked,熟箭竹筍,20.0,2.1,0.3,2.9
+E2400301,黄洋葱,黃洋蔥|玉蔥|玉葱|蔥頭|葱头|球蔥|球葱|胡蔥|胡葱|日本蔥頭|日本葱头|大粒蔥頭|大粒葱头|洋蔥頭|洋葱头|大蔥頭|大葱头|Onion,黃洋蔥,42.0,1.0,0.2,9.5
+E3800401,芥菜,刈菜|大菜|芥葉菜|芥叶菜|雞冠菜|鸡冠菜|孤腰菜|Mustard green,芥菜,18.0,1.6,0.1,3.2
+E3000103,甘蓝(圆球形),甘藍(圓球形)|高麗菜|高丽菜|包菜|洋白菜|玻璃菜|玉菜|捲心菜|卷心菜|球葉甘藍|球叶甘蓝|結球甘藍|结球甘蓝|蕃芥藍|蕃芥蓝|Cabbage|White cabbage,甘藍(圓球形),24.0,1.4,0.2,4.9
+A0520201,籼米粉,秈米粉|在來米粉|在来米粉|Long-grain rice powder,秈米粉,363.0,4.2,0.4,83.4
+J0411701,尼罗口孵非鲫(去皮),尼羅口孵非鯽(去皮)|南洋鯽仔|南洋鲫仔|尼羅吳郭魚|尼罗吴郭鱼|Nile tilapia|Nilotica|Cichlid|Edward tilapia|Mozambique tilapia|Mango fish,尼羅口孵非鯽(去皮),113.0,20.4,2.9,0.0
+J0407901,眼眶鱼,眼眶魚|皮刀|庖刀魚|庖刀鱼|皮鞋刀|菜刀魚|菜刀鱼|剃頭刀(澎湖)|剃头刀(澎湖)|Razor trevally|Moonfish,眼眶魚,113.0,20.3,2.9,0.2
+J2300101,虾皮,蝦皮|Small shrimp shell,蝦皮,155.0,33.6,1.3,2.7
+J0406601,海鲡,海鱺|海麗仔|海丽仔|軍曹魚|军曹鱼|海龍魚|海龙鱼|黑魽|黑𫠐|海麗(臺東)|海丽(台东)|海魚戾魚|海鱼戾鱼|錫臘白|锡腊白|海鱺/鱺魚/紅目鱺(澎湖)|海鲡/鲡鱼/红目鲡(澎湖)|Runner|Prodigal son|Sergeant fish|Sergeantfish|Crabeater|Black salmon|Cubby yew|Cabio|Black king fish|Cobia|Black kingfish|Cod|Kingfish,海鱺,106.0,20.4,2.1,0.0
+J3501301,鲍鱼,鮑魚|鰒魚|鳆鱼|石決明|石决明|石決明貝|石决明贝|Abalone|Ear-shell|Ormer|Sea ear,鮑魚,69.0,15.8,0.1,9.5
+J0411201,鳞鳍叫姑鱼,鱗鰭叫姑魚|春子|油口/臭肚仔/金線加網(澎湖)|油口/臭肚仔/金线加网(澎湖)|Croaker,鱗鰭叫姑魚,99.0,18.4,2.3,0.3
+J0402405,大西洋鲑鱼腹肉,大西洋鮭魚腹肉|Atlantic salmon,大西洋鮭魚腹肉,349.0,16.4,31.0,0.0
+J2500101,红𫊻,紅蟳|青蟳(蟹)(交配後卵巢成熟雌蟹)|青𫊻(蟹)(交配后卵巢成熟雌蟹)|菜蟳|菜𫊻|Indo-pacific swamp carb|Mangrove carb|Mud carb,紅蟳,122.0,20.9,3.6,6.5
+J0401701,胡鲶,胡鯰|鬍鯰|鬍子鯰|胡子鲶|土殺|土杀|本土土虱|本土土蝨|塘虱魚|塘虱鱼|塘蝨魚|Puntat|Walking catfish|Whitespotted freshwater catfish|Whitespotted clarias|Cat-fish|Chinese catfish,鬍鯰,194.0,16.3,13.8,0.0
+J3500801,香螺,小天狗剌螺|雪螺|Melon conchs|Swamp Conchs|Whelks,香螺,86.0,19.9,0.1,0.0
+J2100801,日本对虾(大),日本對蝦(大)|斑節蝦|斑节虾|雷公蝦|雷公虾|明蝦|明虾|九節蝦|九节虾|Japanese king prawn|Japanese tiger prawn|Kuruma prawn|Striped prawn,日本對蝦(大),97.0,21.6,0.5,0.0
+I0400301,乌骨鸡,烏骨雞|竹絲雞|竹丝鸡|絲羽烏骨雞|丝羽乌骨鸡|武山雞|武山鸡|烏雞|乌鸡|Silkie bantam|Silky fowl,烏骨雞,212.0,17.9,15.1,0.9
+I0306101,猪小里肌,豬小里肌|腰內肉|腰内肉|Tenderloin,豬小里肌,139.0,21.1,5.4,0.0
+I0321403,猪肩骨汤,豬肩骨湯|高湯|高汤|Pork stock,豬肩骨湯,8.0,1.1,0.4,0.2
+I0321402,猪肋骨汤,豬肋骨湯|高湯|高汤|小骨湯|小骨汤|籤仔骨湯|签仔骨汤|冰仔骨湯|冰仔骨汤|支骨湯|支骨汤|Pork stock,豬肋骨湯,9.0,0.7,0.6,0.0
+I0620201,鹅肝,鵝肝|Goose: liver,鵝肝,123.0,20.5,3.9,0.6
+I0620301,鹅胗,鵝胗|鵝肫|鹅肫|Goose: gizzard,鵝胗,95.0,17.4,2.3,2.8
+J0400401,灰海鳗,灰海鰻|虎鰻|虎鳗|海鰻|海鳗|錢鰻(臺東)|钱鳗(台东)|Shape-toothed eel|Conger pike|Daggertooth pike conger|Dagger tooth pikeconger|Arabian pike eel,灰海鰻,97.0,20.5,1.0,0.0
+J0415701,鲽鱼切片,鰈魚切片|大比目魚(扁鱈)|大比目鱼(扁鳕),鰈魚切片,201.0,13.2,16.1,0.0
+J3500101,真乌贼(大),真烏賊(大)|花枝|墨魚|墨鱼|金烏賊|金乌贼|烏鰂|乌鲗|墨鬥魚|墨斗鱼|Cuttlefish,真烏賊(大),61.0,13.9,0.3,0.8
+J3500201,章鱼,章魚|厚嘴仔|石居|八爪魚|八爪鱼|坐蛸|石吸|望潮|死牛|Octopus,章魚,61.0,13.0,0.6,0.9
+J3200201,干贝(干),乾貝(幹)|干貝(乾)|幹貝(乾)|元貝|元贝|瑤柱|瑶柱|Scallop,干貝(乾),256.0,58.5,0.7,15.5
+J0410201,黑棘鲷(含皮),黑棘鯛(含皮)|黑鯛|黑鲷|烏格|乌格|黑格|厚唇|厚脣|烏毛|乌毛|烏鱠|乌鲙|黑頰(澎湖)|黑颊(澎湖)|Black sea bream|Blackhead seabream|Black porgy,黑棘鯛(含皮),165.0,19.5,9.0,0.0
+R4100401,冷冻马铃薯条,冷凍馬鈴薯條|薯條|薯条|French fries: potato,冷凍馬鈴薯條,151.0,2.2,4.5,25.5
+J2100601,相模后海螯虾,相模後海螯蝦|相模角蝦|相模角虾|小龍蝦|小龙虾|鐵甲蝦|铁甲虾|角蝦|角虾|蝦猴|虾猴|Sagami lobster,相模後海螯蝦,79.0,17.9,0.3,0.0
+I0200301,山羊后腿肉火锅片,山羊後腿肉火鍋片|Goat: shore leg,山羊後腿肉火鍋片,170.0,18.9,9.9,0.1
+I0321401,猪大骨汤,豬大骨湯|高湯|高汤|Pork stock,豬大骨湯,7.0,1.0,0.3,0.4
+I0802101,鸵鸟菲力肉排,鴕鳥菲力肉排|鴕鳥腓力|鸵鸟腓力|鴕鳥里肌肉|鸵鸟里肌肉|Ostrich: tenderloin|sliced,鴕鳥菲力肉排,105.0,22.8,0.8,0.8
+I0602101,鹅胸肉,鵝胸肉|Goose: brcast halves without drummtte,鵝胸肉,120.0,23.5,2.2,0.2
+A0320101,去筋面粉,去筋麪粉|去筋麵粉|澄粉|Non-glutinous flour,去筋麵粉,355.0,0.2,0.1,85.7
+I0210301,去骨肩颈眼羊肉,去骨肩頸眼羊肉,去骨肩頸眼羊肉,198.0,17.8,13.5,0.0
+J0401101,虱目鱼(含皮),蝨目魚(含皮)|虱目魚(含皮)|海草魚|海草鱼|遮目魚|遮目鱼|殺目魚|杀目鱼|安平魚|安平鱼|國姓魚|国姓鱼|麻虱目仔|麻蝨目仔|虱目/麻虱目(澎湖)|蝨目/麻蝨目(澎湖)|Salmon herring|Bangos|Bony salmon|Milkfish|Milk fish,虱目魚(含皮),200.0,21.8,11.9,0.0
+J0413501,大眼金梭鱼,大眼金梭魚|針梭|针梭|竹梭|巴拉庫答|巴拉库答|Blackspot barracuda|Bigeye barracuda|Forster's sea-pike,大眼金梭魚,157.0,21.8,7.1,0.0
+B0420101,甘𫉄粉,甘藷粉|甘薯粉|蕃薯粉|甜薯粉|地瓜粉|Sweet potato starch,甘藷粉,358.0,1.0,0.2,85.5
+R7501301,咸小卷,鹹小卷|鹹鎖管|咸锁管|鹽漬小卷|盐渍小卷|Loligo|Neritic squid,鹹小卷,100.0,20.1,1.3,1.9
+J4100101,白海参,白海蔘|白海參|海蚯蚓|沙糞|沙粪|White sea cucumber,白海參,32.0,7.4,0.1,0.0
+B0450101,油炸脱水甘𫉄,油炸脫水甘藷|Sweet potato: fried|dried,油炸脫水甘藷,525.0,2.3,30.1,61.2
+J2100701,中国对虾,中國對蝦|對蝦|对虾|明蝦|明虾|大蝦|大虾|黃蝦|黄虾|青蝦|青虾|大正蝦|大正虾|Kuruma shrimp|Flesh prawn,中國對蝦,84.0,19.3,0.2,1.0
+J0406701,大口逆钩鲹,大口逆鉤鰺|大口逆鈎鰺|七星仔|棘蔥仔|棘葱仔|鬼平|龜濱|龟滨|龜柄|龟柄|油面仔(臺東)|油面仔(台东)|油麪仔(臺東)|歸秉/龜秉/肥柄(澎湖)|归秉/龟秉/肥柄(澎湖)|Queenfish|Talang queenfish|Talang queen fish|Largemouth queenfish,大口逆鈎鰺,103.0,21.8,1.1,0.1
+I0210201,法式羊排,羊肋排|羊小排|Shoulder Frenched Rack,法式羊排,260.0,18.8,20.0,0.0
+I0321701,猪脾脏,豬脾臟|腰尺|Pork: spleen,豬脾臟,79.0,15.0,1.6,2.0
+J0413801,白带鱼,白帶魚|白魚|白鱼|裙帶|裙带|肥帶|肥带|油帶|油带|天竺帶魚|天竺带鱼|黃稜油帶(澎湖)|黄棱油带(澎湖)|Silverfish|Ribbon fish|Common hairtail|Cutlassfish|Atlantic cutlassfish|Cutlass fish|Australian hairtail|Hairtail|Largehead hairtail|Largeheaded ribbonfish|Hair tail,白帶魚,102.0,19.6,2.0,0.0
+J0403201,鲻(含皮),鯔(含皮)|青頭仔(幼魚)|青头仔(幼鱼)|奇目仔(成魚)|奇目仔(成鱼)|信魚|信鱼|正烏|正乌|烏魚|乌鱼|正頭烏|正头乌|回頭烏|回头乌|大烏(澎湖)|大乌(澎湖)|Sea mullet|River mullet|Springer|Striped mullet|Common grey mullet|Common mullet|Black mullet|Bright mullet|Black true mullet|Bully mullet|Callifaver mullet|Flathead grey mullet|Mullet,鯔(含皮),155.0,20.6,7.4,0.0
+R6800301,鱼肉松,魚肉鬆|魚肉酥|鱼肉酥|Stir fried fish floss,魚肉鬆,470.0,28.2,20.2,43.8
+J0408601,马拉巴笛鲷,馬拉巴笛鯛|赤海|赤筆仔|赤笔仔|Saddletail snapper|Redfish|Red jew|Saddle-tailed sea-perch|Red emperor|Red snapper|Silver|Scarlet sea-perch|Red bream|Saddle-tail snapper|Big-mouth nannygai|Large-mouthed nannygai,馬拉巴笛鯛,86.0,20.2,0.0,0.0
+J0414601,鲔鱼生鱼片,鮪魚生魚片|Tuna sashimi,鮪魚生魚片,100.0,23.3,0.1,0.0
+J0409101,三线矶鲈,三線磯鱸|三線雞魚|三线鸡鱼|黃雞仔|黄鸡仔|雞仔魚|鸡仔鱼|番仔加誌|番仔加志|黃公仔魚|黄公仔鱼|黃雞魚|黄鸡鱼|三爪仔|雞魚(澎湖)|鸡鱼(澎湖)|青筆|青笔|Chicken grunt|Grunt,三線磯鱸,130.0,19.0,5.4,0.6
+E7700601,葵花芽,Sunflower sprout:organic,葵花芽,26.0,2.5,0.4,4.3
+E7700901,荞麦芽,蕎麥芽|烏麥芽|乌麦芽|花蕎芽|花荞芽|荍麥芽|荍麦芽|Buckwheat sprout :Organic,蕎麥芽,20.0,1.9,0.2,3.4
+R4401501,腌渍冬瓜,醃漬冬瓜|白瓜|東瓜|东瓜|枕瓜|水芝|地芝|Wax gourd: pickled,醃漬冬瓜,28.0,2.5,0.2,4.1
+E1500201,带壳熟绿竹笋,帶殼熟綠竹筍|甜竹|甜竹筍|甜竹笋|綠仔筍|绿仔笋|綠仔笋|綠竹笋|绿竹笋|綠竹筍|Bamboo shoot|Bamboo sprout|Green bamboo,帶殼熟綠竹筍,25.0,2.0,0.1,4.9
+E5700101,萝卜叶,蘿蔔葉|葉蘿蔔|叶萝卜,蘿蔔葉,14.0,1.7,0.2,2.0
+R4500501,金针菇罐头,金針菇罐頭|金(冬/榎/朴)菇|金(冬/榎/樸)菇|金絲菇|金丝菇|金菇菜|秋葷|秋荤|樸蕈構菌|朴蕈构菌|毛柄金線菇|毛柄金线菇|菌子(絨柄金錢菇)|菌子(绒柄金钱菇)|Velvet foot: canned|Gold mushroom: canned|Enokitake: canned|Winter Mushroom: canned|Snow Mushroom: canned,金針菇罐頭,27.0,1.7,0.2,4.5
+G2310101,干猴头菇,幹猴頭菇|乾猴頭菇|猴頭蘑|猴头蘑|刺蝟菌|刺猬菌|蝟菌|猬菌|花菜菇|圓頭菇|圆头菇|陰陽蘑|阴阳蘑|對臉蘑|对脸蘑,乾猴頭菇,311.0,12.3,3.4,64.3
+R4700202,五香豆干,五香豆乾|Soy bean curd cake: spiced|Spiced fried beancurd,五香豆干,197.0,19.3,10.6,6.2
+H0605101,青仁黑豆,烏豆|乌豆|枝仔豆|黑大豆|Black bean|Soya bean,青仁黑豆,385.0,37.0,14.2,33.7
+H0800101,豇豆(荚),豇豆(莢)|長豇豆|长豇豆|長莢豇豆|长荚豇豆|豆角|菜(筷/江/長/角)豆|菜(筷/江/长/角)豆|Asparagus bean|Yard long bean|Kidney bean|Common bean|Cowpea,豇豆(莢),35.0,2.4,0.1,6.2
+I0320601,猪血,豬血|Pork: blood,豬血,29.0,6.3,0.3,0.5
+I0320801,猪肝,豬肝|Pork: liver,豬肝,137.0,20.8,5.3,1.7
+I0402101,里肌肉(土鸡),里肌肉(土雞)|Chicken: tenderloin|wild,里肌肉(土雞),112.0,24.8,0.6,0.0
+I0402102,里肌肉(肉鸡),里肌肉(肉雞)|Chicken: tenderloin|feed,里肌肉(肉雞),106.0,23.7,0.6,0.0
+I0108201,牛后腿股肉,牛後腿股肉|和尚頭|和尚头|牛霖|Knuckle,牛後腿股肉,153.0,20.6,7.2,0.8
+I0108301,牛后腿腱子心,牛後腿腱子心|牛腱|腱子|Hind shank|Heel muscle|Beef shank,牛後腿腱子心,139.0,19.8,6.0,0.0
+A0120101,大麦仁粉,大麥仁粉|小薏仁粉|洋薏仁粉|珍珠薏仁粉,大麥仁粉,389.0,7.1,1.3,85.0
+A0500701,红糯糙米,紅糯糙米|Red glutinous rice,紅糯糙米,362.0,9.9,2.8,72.6
+I0520201,鸭胗,鴨胗|鴨肫|鸭肫|Ducks: gizzards,鴨胗,97.0,20.5,1.1,0.3
+I0310401,猪绞肉(70％瘦肉率),豬絞肉(70％瘦肉率)|Ground pork (70% lean),豬絞肉(70％瘦肉率),218.0,19.0,15.2,0.0
+I0320201,猪白管,豬白管|豬管庭(廷)|猪管庭(廷)|皇管(豬之胸大動脈)|皇管(猪之胸大动脉)|Pork: aorta,豬白管,93.0,14.1,3.6,0.0
+I0520401,鸭肠,鴨腸|Ducks: intestines,鴨腸,94.0,13.8,3.9,0.0
+J3300101,牡蛎干,牡蠣幹|牡蠣干|蚵干|蚵幹|Oyster,牡蠣干,243.0,41.0,7.5,26.2
+J0416501,秋刀鱼,秋刀魚|竹刀魚|竹刀鱼|山瑪魚|山玛鱼|Pacific saury,秋刀魚,277.0,18.8,21.8,4.1
+I0210401,小羊腰脊肉,去骨腰脊肉|Boneless loin,小羊腰脊肉,143.0,26.5,3.3,0.0
+I0310402,猪绞肉(90％瘦肉率),豬絞肉(90％瘦肉率)|Ground pork (90% lean),豬絞肉(90％瘦肉率),205.0,18.5,14.0,0.0
+J3101001,文蛤,粉蟯|粉蛲|蚶仔|麗文蛤|丽文蛤|普通文蛤|Hard clam,文蛤,37.0,7.6,0.5,2.7
+J3100301,黑齿牡蛎,黑齒牡蠣|石蚵|Oyster,黑齒牡蠣,55.0,9.7,1.5,3.1
+I0810101,鸵腱肉,鴕腱肉|屈肌|伸肌|Ostrich: shank,鴕腱肉,107.0,18.7,3.1,0.2
+J0409401,金线鱼,金線魚|金線鰱|金线鲢|黃線|黄线|紅杉|红杉|Golden threadfin bream|Golden thread,金線魚,119.0,20.9,3.3,0.0
+B0720101,马铃薯粉,馬鈴薯粉|太白粉|Potato starch|Tapioca,馬鈴薯粉,346.0,0.1,0.1,83.8
+R8100601,面茶粉,麪茶粉|麵茶粉|Seasoned millet mush,麵茶粉,423.0,7.2,7.0,82.9
+J0403501,鳄形叉尾鹤鱵,鱷形叉尾鶴鱵|青旗|學仔|学仔|白天青旗|圓學(澎湖)|圆学(澎湖)|Needle fish|Needlefish|Ocean piper|Crocodile needlefish|Crocodile longtom|Houndfish|Hound needlefish|Longjaw|Giant long-tom|Fork tail alligator gar|Gar|Hound|Garfish|Guardfish,鱷形叉尾鶴鱵,98.0,22.4,0.3,0.2
+J0409601,网纹龙占鱼,網紋龍佔魚|網紋龍占魚|龍尖|龙尖|龍占(臺東)|龙占(台东)|龍佔(臺東)|Red snout emperor,網紋龍占魚,101.0,21.7,1.0,0.0
+J0414501,台湾马加䲠,臺灣馬加鰆|白北|白腹仔|Spotted tangingi|Spotted seerfish|Spotted seer|Spotted Spanish mackerel|Indo-Pacific king mackerel|Indian Spanish mackerel|Indo-Pacific Spanish mackerel,臺灣馬加鰆,180.0,20.2,10.4,0.0
+J0410701,白姑鱼,白姑魚|白口|帕頭|帕头|黃順|黄顺|加網(澎湖)|加网(澎湖)|Silver sea meagre|Silver croaker|White croaker|Croaker,白姑魚,97.0,18.8,1.8,0.0
+J0409301,密点少棘胡椒鲷,密點少棘胡椒鯛|雞仔魚|鸡仔鱼|加志|少棘石鱸|少棘石鲈|圭誌/烏嘉誌(澎湖)|圭志/乌嘉志(澎湖)|Sailfin rubberlip|Painted sweetlips|Painted sweetlip|Pointed sweet lip|Slatey sweetlips|Sweetlip,密點少棘胡椒鯛,94.0,19.5,1.2,0.0
+J3500901,象牙凤螺,象牙鳳螺|鳳(花/風/皇)螺|凤(花/风/皇)螺|象牙螺|Areola Babylon|Maculated ivory shell,象牙鳳螺,78.0,16.9,0.7,3.6
+A0500205,稉米(台稉9号),稉米(臺稉9號)|稉米(台稉9號)|蓬萊米|蓬莱米|圓米|圆米|Short grain rice,稉米(台稉9號),353.0,6.6,0.6,78.2
+I0406202,三节翅(肉鸡),三節翅(肉雞)|Chicken: whole wings|feed|Chicken: three joint wings,三節翅(肉雞),222.0,17.7,16.3,0.0
+R5101101,卤猪脚,滷豬腳|Pork hock: stewed in soy sauce,滷豬腳,237.0,28.4,15.4,0.0
+I0520101,鸭血,鴨血|Ducks: blood,鴨血,29.0,6.0,0.3,0.0
+I0406301,翅腿(肉鸡),翅腿(肉雞)|小雞腿|小鸡腿|Chicken: wing drummettes|feed,翅腿(肉雞),210.0,17.8,14.8,1.0
+A0500601,野生红米,野生紅米|Red rice,野生紅米,360.0,7.7,2.6,74.7
+I0420901,鸡膝软骨(肉鸡),雞膝軟骨(肉雞)|雞軟骨|鸡软骨,雞膝軟骨(肉雞),107.0,20.4,2.2,0.5
+I0810201,鸵腩肉,鴕腩肉|Ostrich: flank,鴕腩肉,144.0,21.2,5.9,0.7
+J0414001,正鲣,正鰹|煙仔虎|烟仔虎|煙仔|烟仔|小串|柴魚|柴鱼|肥煙|肥烟|鯤(臺東)|鲲(台东)|煙仔魚|烟仔鱼|卓鮶/大煙(澎湖)|卓鲪/大烟(澎湖)|Skipjack|Skipjack tuna|Skipjack tuna fish|Skipper|Oceanic skipjack|Oceanic bonito|Skippy|Skiy jack|Ocean bonito|Striped bellied tunny|White bonito|Striped tuna|Victor fish|Striped bonito,正鰹,149.0,23.1,5.6,0.0
+J0410301,多鳞四指马鲅,多鱗四指馬鮁|四絲馬鮁|四丝马鲅|四指馬鮁|四指马鲅|竹午|大午|午仔|鬚午仔/發鬚午仔(澎湖)|须午仔/发须午仔(澎湖)|East Asian fourfinger threadfin,多鱗四指馬鮁,146.0,19.0,7.2,0.0
+J0404001,环纹蓑鲉,環紋蓑鮋|環紋簑鮋|龍鬚簑鮋|龙须蓑鲉|獅子魚|狮子鱼|長獅|长狮|魔鬼|國公|国公|石狗敢|虎魚|虎鱼|雞公|鸡公|紅虎|红虎|火烘|石頭魚|石头鱼|Luna lion fish,環紋簑鮋,79.0,18.4,0.1,0.0
+J0406201,日本马头鱼,日本馬頭魚|馬頭|马头|方頭魚|方头鱼|吧唄|吧呗|紅尾|红尾|吧口弄|紅馬頭|红马头|紅甘鯛|红甘鲷|Red tilefish|Horse-head fish|Horse head|Japanese horsehead fish,日本馬頭魚,85.0,18.7,0.6,0.0
+J0414809,鲭鱼(煎),鯖魚(煎)|Mackerel,鯖魚(煎),403.0,20.0,35.9,0.0
+J0414802,鲭鱼(炸),鯖魚(炸)|Mackerel,鯖魚(炸),555.0,17.2,53.4,0.1
+J0414808,鲭鱼(煮),鯖魚(煮)|Mackerel,鯖魚(煮),375.0,14.9,34.5,0.4
+R5200301,条状肉干(猪肉),條狀肉乾(豬肉)|豬肉乾|猪肉干|豬肉干|Pork: striped|dried,條狀肉乾(豬肉),345.0,43.2,7.9,25.1
+I0120102,牛肚切片(瘤胃),百葉胃|百叶胃|毛肚|牛百葉|牛百叶|牛百頁|牛百页|牛草肚(牛之第一胃)|Beef paunch: sliced|Rumen: sliced|Mountain chain tripe: sliced,牛肚切片(瘤胃),67.0,15.3,0.2,0.3
+I0102201,牛去骨肩胛小排,肥牛肉|Boneless chuck (short) rib,牛去骨肩胛小排,233.0,16.9,17.9,1.2
+R5100101,叉烧肉,叉燒肉|Basted meat,叉燒肉,253.0,17.2,13.1,16.5
+R7500301,盐渍小鳞脂眼鲱(咸馧仔),鹽漬小鱗脂眼鯡(鹹馧仔)|臭肉鰮|臭肉鳁|鰮仔|鳁仔|圓眼仔|圆眼仔|鰮魚|鳁鱼|鰮仔魚|鳁仔鱼|圓仔魚(幼魚)|圆仔鱼(幼鱼)|脂眼鯡|脂眼鲱|臭肉|臭肉魚/肉鰮(澎湖)|臭肉鱼/肉鳁(澎湖)|Round herring,鹽漬小鱗脂眼鯡(鹹馧仔),224.0,17.4,17.0,0.3
+J0415801,双线须鳎,雙線須鰨|雙線鬚鰨|牛舌|龍舌|龙舌|扁魚|扁鱼|皇帝魚|皇帝鱼|比目魚|比目鱼|Patterned tongue-sole|Doublelined tonguesole|Double-lined tongue sole|Fingerlip tonguesole|Fringelip tonguefish,雙線鬚鰨,92.0,19.9,0.8,0.3
+J0404601,白鲈,白鱸,白鱸,76.0,17.7,0.1,1.0
+J0407701,蓝圆鲹,藍圓鰺|硬尾|廣仔|广仔|甘廣|甘广|四破|巴攏|巴拢|金鼓|吧弄|巴弄/孔仔(澎湖)|Round scad|White-tipped mackerel scad|Whitetip scad|Deep-bodied round scad|Japanese scad|Mackerel scad,藍圓鰺,114.0,24.0,1.3,0.0
+J0402901,狗母鱼(蛇鲻),狗母魚(蛇鯔)|狗母梭|狗母|Lizardfish|Dog-head fish,狗母魚(蛇鯔),103.0,20.8,1.6,0.1
+B0500401,冷冻芋头块,冷凍芋頭塊|Taro: Frozen|chunk,冷凍芋頭塊,147.0,2.2,4.3,24.9
+J0411301,黑斑海绯鲤,黑斑海緋鯉|秋姑|鬚哥|须哥|黑點秋哥/外海秋哥(澎湖)|黑点秋哥/外海秋哥(澎湖)|Sidespot goatfish|Sidedspot goatfish|Spotted goatfish|Whitespot goatfish|Blackspot goatfish,黑斑海緋鯉,97.0,18.8,1.8,0.0
+J0416001,单角革单棘鲀(含皮),單角革單棘魨(含皮)|白達仔|白达仔|一角剝|一角剥|薄葉剝|薄叶剥|光復魚|光复鱼|剝皮魚|剥皮鱼|狄仔魚(興達)|狄仔鱼(兴达)|掃帚|扫帚|Rough leatherjacket|Unicorn leatherjacket|Unicorn leather jacket|Unicorn filefish|Triggerfish|Batfish|Filefish,單角革單棘魨(含皮),76.0,17.9,0.0,0.0
+B0520101,芋头粉,芋頭粉|Taro starch|Dasheen starch|Cocoyam starch,芋頭粉,333.0,0.1,0.0,83.1
+J0402601,麦奇钩吻鲑(含皮),麥奇鉤吻鮭(含皮)|麥奇鈎吻鮭(含皮)|鱒魚|鳟鱼|虹鱒|虹鳟|麥奇鉤吻鱒|麦奇钩吻鳟|Rainbow trout,麥奇鈎吻鮭(含皮),147.0,20.1,6.8,0.4
+J0414201,高丽马加䲠,高麗馬加鰆|破北|闊北|阔北|闊腹仔|阔腹仔|高麗鰆|高丽䲠|破腹|Compressed mackerel|Korean seerfish|Korean mackerel,高麗馬加鰆,119.0,19.4,4.0,0.3
+J0413901,大目鲔,大目鮪|大目仔|大眼鮪|大眼鲔|大目串|短墩|串仔(澎湖)|短鮪|短鲔|Tuna|Bigeye tunny|Big eye tunny|Big-eye tunny|Coffrey|Bigeye tuna fish|Big-eye tuna|Bigeye tuna|Bigeye|Big eye|Big eye tuna|Bigeyed tuna|Bigeye Tuna,大目鮪,103.0,23.9,0.1,0.0
+J0410901,黄姑鱼,黃姑魚|春子|假黃魚|假黄鱼|黃婆|黄婆|紅花(臺南安平)|红花(台南安平)|White flower croaker|Flower croaker,黃姑魚,89.0,19.4,0.7,0.0
+I0304101,猪大里肌,豬大里肌|背脊肉|里肌肉|Lean pork: fillet|Boneless loin|loin,豬大里肌,212.0,19.2,14.4,0.0
+R5100902,腊肉(腿肉),臘肉(腿肉)|Pork: salted|cured and smoked,臘肉(腿肉),377.0,26.7,27.2,6.4
+I0200201,山羊前腿肉片,Goat: foreleg,山羊前腿肉片,123.0,21.3,3.5,0.0
+R1800301,馄饨皮,餛飩皮|Wonton skin,餛飩皮,271.0,8.3,0.5,58.2
+R5600301,鸡肉酥,雞肉酥|雞肉鬆|鸡肉松|Chicken: dried|crushed,雞肉酥,451.0,26.7,14.6,53.2
+R5100701,酱肘子,醬肘子|醬肘花|酱肘花|醬汁燒蹄膀|酱汁烧蹄膀,醬肘子,134.0,19.0,6.6,0.0
+I0320701,猪尾,豬尾|Pork: tail,豬尾,295.0,16.2,25.0,7.1
+I0500101,太空鸭,太空鴨|Whole duck without neck|wings ＆ feet,太空鴨,319.0,16.0,27.8,0.0
+I0410101,鸡绞肉,雞絞肉|Chicken: ground meat,雞絞肉,131.0,27.4,1.6,0.0
+R5300601,德国香肠,德國香腸|Pork: German sausage|bratwurst,德國香腸,275.0,15.9,21.4,4.6
+I0210501,绵羊腹胁肉火锅片,綿羊腹脅肉火鍋片|五花肉火鍋片|五花肉火锅片|Boneless flap: sliced,綿羊腹脅肉火鍋片,252.0,16.9,20.0,2.5
+B0920101,莲藕粉,蓮藕粉|East indian lotus starch,蓮藕粉,365.0,0.1,0.1,88.3
+J0409905,真鲷(9月),真鯛(9月)|嘉鱲魚|嘉𫚭鱼|正鯛|正鲷|加臘|加腊|加蚋|加魶|真鯛|真鲷|加幾魚|加几鱼|銅盆魚|铜盆鱼|棘鬣魚|棘鬣鱼|Red seabream|Red tail|Red porgy|Silver seabream|Red sea bream|Red pargo|Genuine porgy|Japanese seabream|Madai|Japanese porgy,真鯛(9月),92.0,21.6,0.0,0.0
+I0210101,绵羊肉切片,綿羊肉切片|Mutton,綿羊肉切片,198.0,18.8,13.0,0.0
+I0308101,猪去皮腹脇肉,豬去皮腹脇肉|去皮五花肉|去皮三層肉|去皮三层肉|Pork belly meat: lean and fat|Shoulder (boston): skin-off,豬去皮腹脇肉,360.0,14.9,32.9,0.5
+R5300501,热狗,熱狗|Pork: hot dog,熱狗,257.0,13.3,18.1,10.2
+R5101301,胆肝,膽肝|鹹豬肝|咸猪肝|粉肝|柴肝|Pork: liver|salted,膽肝,252.0,31.2,7.9,13.9
+R7300301,鸭赏,鴨賞|Duck: smoked,鴨賞,304.0,31.1,17.6,5.3
+R5100501,"条状火腿(牛肉,黑胡椒)","條狀火腿(牛肉,黑胡椒)|Beef: ham|black pepper","條狀火腿(牛肉,黑胡椒)",113.0,18.9,2.3,4.1
+I0100101,去骨牛小排,肥牛肉|小肋排|Boneless short rib,去骨牛小排,290.0,17.1,24.0,0.0
+I0100201,牛肋条,牛肋條|腩條|腩条|條肉|条肉|Rib fingers|Intercostal meat,牛肋條,225.0,18.6,16.2,1.1
+I0320401,猪耳,豬耳|Pork: ear,豬耳,219.0,24.2,12.8,0.9
+I0110103,牛梅花肉火锅片,牛梅花肉火鍋片,牛梅花肉火鍋片,120.0,20.3,3.7,0.9
+J0412301,莫三比克口孵非鲫,莫三比克口孵非鯽|非洲仔|南洋鯽仔|南洋鲫仔|在來吳郭魚|在来吴郭鱼|吳郭魚/鹹水吳郭(澎湖)|吴郭鱼/咸水吴郭(澎湖)|Tilapia|Common tilapia|African mouthbrooder|Largemouth kurper|Mozambique mouthbrooder|Kurper bream|Mozambique cichlid|Java tilapia|Mozambique tilapia,莫三比克口孵非鯽,112.0,19.5,3.2,0.0
+J0407501,乌鲳,烏鯧|烏昌|乌昌|三角昌|昌鼠魚|昌鼠鱼|黑鯧|黑鲳|暗鯧|暗鲳|黑鰭|黑鳍|燕尾鯧|燕尾鲳|Pompano|Pomfret|Slade|Sweep|Blue skate|Butterfish|Black batfish|Brown pomfret|Black pompano|Black pomfret|Halibut|False butterfish,烏鯧,94.0,20.4,0.8,0.0
+J0407601,无斑圆鲹,無斑圓鰺|紅瓜魚|红瓜鱼|巴攏|巴拢|紅扁鰺|红扁鲹|赤尾仔(臺東)|赤尾仔(台东)|赤尾|馬尾冬|马尾冬|紅瓜鰺|红瓜鲹|紅尾巴弄(澎湖)|红尾巴弄(澎湖)|Red tail scad|Redtail scad|Pacific redtail scad,無斑圓鰺,119.0,23.9,1.9,0.0
+J0415401,银鲳(含皮),銀鯧(含皮)|白鯧|白鲳|正鯧|正鲳|銀鯧|银鲳|支子|Silver pomfret|White pomfret,銀鯧(含皮),124.0,16.8,5.8,1.1
+J0400501,魩仔鱼,魩仔魚|魩仔|Anchovy,魩仔魚,56.0,11.1,0.9,0.0
+J0415501,斑鳢,斑鱧|鮕鮘|雷魚|雷鱼|南鱧|南鳢|臺灣雷魚|台湾雷鱼|臺灣魚虎|台湾鱼虎|Snakehead,斑鱧,119.0,18.3,4.5,0.0
+R7501201,蝾螺(加工),蠑螺(加工)|Turban shell,蠑螺(加工),105.0,14.8,0.2,11.0
+J3100701,西施舌,紫貝|紫贝|西肚舌|西刀舌(蚶)|紫晃肉|雙線血蚶|双线血蚶|獅刀舌|狮刀舌|西施貝|西施贝|Diphos sanguin|Purple clam,西施舌,53.0,8.9,1.6,5.4
+J0414401,康氏马加䲠切片(含皮),康氏馬加鰆切片(含皮)|土魠|馬加|马加|馬鮫|马鲛|梭齒|梭齿|頭魠|头魠|鰆|䲠|土托|土託|康氏馬發|康氏马发|塗魠(澎湖)|涂魠(澎湖)|Spaniard|Spanish mackerel|Seer|Snook|Striped seer|Doggie|Cybium|Barred mackerel|Barred Spanish mackerel|Commerson's mackerel|Narrowbarred mackerel|King seer|Katonkel barracuda kuda,康氏馬加鰆切片(含皮),176.0,19.3,10.4,1.5
+Q8100101,甘薯蜜饯,甘薯蜜餞,甘薯蜜餞,347.0,0.9,0.6,84.3
+J0402701,姬鱼,姬魚|仙女魚|仙女鱼|狗母|汕狗母|Aulopus,姬魚,104.0,24.1,0.2,0.0
+J0413401,锯尾鲷,鋸尾鯛|黑豬哥|黑猪哥|黑將軍|黑将军|打鐵婆|打铁婆|剝皮仔|剥皮仔|老娘(澎湖)|老孃(澎湖)|Scalpel sawtail,鋸尾鯛,93.0,19.0,1.4,0.3
+E5600302,蕹菜(有机)(10月取样),蕹菜(有機)(10月取樣)|空心菜|應菜|应菜|壅菜|甕菜|瓮菜|草菜|無心菜|无心菜|藤藤菜|竹葉菜|竹叶菜|葛菜|Water convolvulus|Water spinach:organic,蕹菜(有機)(10月取樣),19.0,1.7,0.4,3.0
+E3400101,白凤菜,白鳳菜|白蓊菜|Edible Gynura,白鳳菜,27.0,2.0,0.4,4.8
+E4700101,隼人瓜苗,隼人瓜鬚|隼人瓜须|佛手瓜苗(鬚)|佛手瓜苗(须)|香櫞瓜苗(鬚)|香橼瓜苗(须)|梨瓜苗(鬚)|梨瓜苗(须)|番瓜鬚(龍鬚菜是誤用)|番瓜须(龙须菜是误用),隼人瓜苗,24.0,3.3,0.2,3.5
+E7500103,高山甜椒(青皮),甜椒|甜番椒|大同仔|番羌仔|燈籠椒|灯笼椒|生番薑|生番姜|獅子椒|狮子椒|甘椒|生椒(青椒|青辣椒)|Sweet pepper|Bell pepper,高山甜椒(青皮),30.0,0.9,0.6,6.0
+E9800101,芦荟,蘆薈|盧會|卢会|Aloe,蘆薈,4.0,0.1,0.4,0.2
+E9600101,薄荷,仁丹草|升陽藥|升阳药|南薄荷|夜息花|野薄荷|新卜荷|Mint|Unicorn leather jacket,薄荷,55.0,3.1,0.6,10.9
+F0710101,干海带,幹海帶|乾海帶|乾江白菜|干江白菜|乾昆布|干昆布|乾海昆布|干海昆布|Kelp|Sea weed: dried,乾海帶,220.0,10.0,1.1,47.3
+A0810201,即食燕麦片,即食燕麥片|Instant oatmeal,即食燕麥片,406.0,11.9,9.6,67.9
+F0500101,礁膜,海菜(澎湖人稱)|海菜(澎湖人称),礁膜,16.0,0.3,0.1,3.7
+A0200201,糯小米,Glutinous foxtail-millet|Glutinous millet,糯小米,360.0,12.5,1.5,72.5
+G1700101,滑菇,珍珠菇|滑子|滑子蘑|光蓋鱗傘|光盖鳞伞|光帽黃傘(滑鱗傘)|光帽黄伞(滑鳞伞)|Pholiota nameko,滑菇,27.0,2.6,0.2,4.7
+J0405601,驼背鲈,駝背鱸|老鼠斑|鰵魚|鳘鱼|烏丸稅|乌丸税|尖嘴鱠仔|尖嘴鲙仔|觀音鱠|观音鲙|斟鰻鱠(澎湖)|斟鳗鲙(澎湖)|Panther grouper|Pantherfish|Red fish|Polka-dot grouper|Polkadot grouper|Barramundi cod|Baramundi cod|Barrimundi cod|Hump-back rock-cod|Flatfish grouper|Highfinned grouper|Humpback rockcod,駝背鱸,83.0,18.1,0.6,0.0
+J2101401,大管鞭虾,大管鞭蝦|憂鬱管鞭蝦|忧郁管鞭虾|大頭紅蝦|大头红虾|大頭蝦|大头虾|紅中蝦|红中虾|蔥頭蝦|葱头虾|Big head prawn,大管鞭蝦,88.0,19.8,0.3,0.6
+J2101601,螳螂虾,螳螂蝦|蝦蛄|虾蛄|蝦猴|虾猴|蝦姑仔|虾姑仔|攋尿蝦(常誤寫為瀨或賴)|𪮶尿虾(常误写为濑或赖)|Edible mantis shrimp,螳螂蝦,67.0,14.7,0.5,0.0
+J0403901,石狗公,石頭魚|石头鱼|獅甕(澎湖)|狮瓮(澎湖)|紅鱠仔|红鲙仔|Rockfish|Scorpionfish|Filefish,石狗公,80.0,18.3,0.2,0.0
+J0408801,黄拟乌尾鮗,黃擬烏尾鮗|黃雞仔|黄鸡仔|包公雞|包公鸡|貢仔|贡仔|黃腳佳仔|黄脚佳仔|黃加甲(臺東)|黄加甲(台东)|烏尾冬/青雞仔(澎湖)|乌尾冬/青鸡仔(澎湖)|Snapper,黃擬烏尾鮗,80.0,18.7,0.1,0.3
+J0405001,青星九刺鮨,紅鱠|红鲙|紅格仔|红格仔|過魚|过鱼|石斑|條舅|条舅|紅條|红条|鱠仔(臺東)|鲙仔(台东)|Red coral perch|Red grouper|Vermillion seabass|Vermilion rock cod|Vermilion grouper|Blue-spotted rockcod|Coral grouper|Coral cod|Coral trout|Coral hind|Coral rockcod,青星九刺鮨,83.0,19.3,0.1,0.5
+J0413201,杜氏刺尾鲷,杜氏刺尾鯛|眼紋倒吊|眼纹倒吊|粗皮仔|倒吊(臺東)|倒吊(台东)|Ornate surgeonfish|Pencilled surgeon|Pencilled surgeonfish|Palani|Penciled surgeonfish|Ornate sturgeonfish|Dussumier's surgeonfish|Eyestripe surgeonfish|Eye-stripe surgeonfish,杜氏刺尾鯛,137.0,19.1,6.2,0.6
+R1800101,水饺皮,水餃皮|Dumpling skin,水餃皮,264.0,7.8,0.5,57.0
+R5200201,片状肉干(猪肉),片狀肉乾(豬肉)|豬肉干|猪肉干|豬肉乾|Pork: baked,片狀肉乾(豬肉),329.0,30.0,5.0,41.0
+I0420301,鸡肝(肉鸡),雞肝(肉雞)|Chicken: liver,雞肝(肉雞),111.0,18.8,3.5,2.7
+I0104101,牛前胸肉,去骨前胸肉|牛腩|Brisket|boneless|deckle-off,牛前胸肉,331.0,14.8,29.7,0.0
+R7300101,烤鸡,烤雞|手扒雞|手扒鸡|Chicken: roasted|whole,烤雞,233.0,22.8,14.2,3.6
+I0104201,牛修清前胸肉,修清牛腩|修清前胸腋肌|Pectoral meat|Brisket|nose-off,牛修清前胸肉,120.0,22.3,2.8,0.9
+R5300101,牛肉香肠,牛肉香腸|Beef: sausage,牛肉香腸,298.0,20.7,20.5,7.8
+R5101001,卤牛筋,滷牛筋|滷蹄筋|卤蹄筋|Beef Tendons: stewed,滷牛筋,119.0,21.1,2.8,2.6
+J0406001,血斑异大眼鲷,血斑異大眼鯛|紅目鰱|红目鲢|嚴公仔|严公仔|Rock bullseye|Red big-eye|Bullseye|Dusky-finned bullseye|Bigeye|Balarton|Catalufa|Glasseye snapper|Glass bigeye|Glasseye|Moonshine conga|Moonshine snapper,血斑異大眼鯛,93.0,20.6,0.6,0.0
+J0800101,小鱼干,小魚乾|小魚干|小魚幹,小魚干,335.0,69.2,4.4,0.0
+J0415101,刺鲳(含皮),刺鯧(含皮)|肉魚|肉鱼|肉鯽仔|肉鲫仔|土肉|肉鯽|肉鲫|瓜仔鯧|瓜仔鲳|刺鯧|刺鲳|Japanese butterfish|Melon seed,刺鯧(含皮),155.0,17.8,8.7,0.0
+J0404301,尖嘴鲈(含皮),尖嘴鱸(含皮)|金目鱸|金目鲈|盲槽|扁紅目鱸|扁红目鲈|Palmer|Sea bass|Silver perch|Silver barramundi|White sea bass|Asian seabass|Cock-up|Barramundi perch|Barramundi|Giant seaperch|Giant perch|Giant sea-perch|Giant sea perch,尖嘴鱸(含皮),107.0,19.6,2.6,0.0
+J0412801,横纹鹦哥鱼(含皮),橫紋鸚哥魚(含皮)|鸚哥|鹦哥|Lunate parrotfish|Festive parrotfish,橫紋鸚哥魚(含皮),81.0,18.9,0.0,0.0
+J0401401,草鱼(含皮),草魚(含皮)|鯇|鲩|鯤|鲲|池魚|池鱼|草根魚|草根鱼|草鰱(高屏地區)|草鲢(高屏地区)|White amur|Grass carp|Gardd carp,草魚(含皮),91.0,17.2,2.0,0.8
+J0406801,大甲鲹,大甲鰺|鐵甲|铁甲|扁甲|大目巴攏|大目巴拢|Torpedo scad|Torpedo trevally|Cordyla scad|Finletted mackerel|Finny scad|Hardtail scad,大甲鰺,105.0,21.2,1.6,0.4
+R4100301,冷冻甘薯条,冷凍甘薯條|薯條|薯条|French fries: sweet potato,冷凍甘薯條,182.0,1.8,6.5,29.0
+J0412601,蓝猪齿鱼,藍豬齒魚|石老|四齒仔|四齿仔|西齒|西齿|簾仔|帘仔|寒鯛|寒鲷|鰱仔(澎湖)|鲢仔(澎湖)|Scarbreast tuskfin,藍豬齒魚,81.0,18.5,0.2,0.2
+J0416101,克氏兔头鲀,克氏兔頭魨|鯖河魨|鲭河鲀|煙仔規|烟仔规|黃魚規|黄鱼规|烏魚規|乌鱼规|青皮魚規|青皮鱼规|金紙規|金纸规|規仔|规仔|金規(澎湖)|金规(澎湖)|Blowfish,克氏兔頭魨,77.0,17.8,0.1,0.0
+J0414801,鲭鱼(炒),鯖魚(炒)|Mackerel,鯖魚(炒),410.0,16.7,37.6,0.1
+B0500101,芋头,芋頭|芋艿|芋乃|芋仔|青芋|土芝|Taro|Dasheen|Cocoyam|Eddoe,芋頭,128.0,2.5,1.1,26.4
+J0408201,希氏姬鲷,希氏姬鯛|鎖吾|锁吾|散午|紅魚仔|红鱼仔|紅臭魚仔|红臭鱼仔|紅臭魚(臺東)|红臭鱼(台东)|白肉蒜|Snapper|Von Siebold's snapper fish|Jobfish|Lavender jobfish,希氏姬鯛,91.0,21.1,0.1,0.5
+J0414810,鲭鱼(蒸),鯖魚(蒸)|Mackerel,鯖魚(蒸),392.0,14.6,36.5,0.7
+J0406301,白马头鱼,白馬頭魚|馬頭|马头|方頭魚|方头鱼|白馬頭|白马头|拉崙(澎湖)|拉仑(澎湖)|白甘鯛|白甘鲷|Tilefish|White horsehead,白馬頭魚,91.0,19.2,1.0,0.1
+B0600101,豆薯,刈薯|涼薯|凉薯|葛薯|沙葛|地瓜|三角薯|Jicama|Yam bean,豆薯,31.0,0.7,0.1,6.8
+J0404101,深海鳞角鱼,深海鱗角魚|深海角魚|深海角鱼|雞角|鸡角|角仔魚|角仔鱼|Gurnard|Searobin,深海鱗角魚,80.0,17.7,0.5,0.0
+J0414701,鲭鱼(生),鯖魚(生)|Mackerel,鯖魚(生),417.0,14.4,39.4,0.2
+J0404501,日本花鲈(含皮),日本花鱸(含皮)|七星鱸|七星鲈|花鱸|花鲈|青鱸|青鲈|鱸魚|鲈鱼|日本真鱸|日本真鲈|Perch|Sea bass|Japanese seaperch|Japanese sea bass|Japan sea bass,日本花鱸(含皮),111.0,19.2,3.2,0.8
+J0411501,花身𬶟,花身鯻|花身仔|斑吾|雞仔魚|鸡仔鱼|三抓仔|邦五/斑午/兵舅仔/斑龜仔(澎湖)|邦五/斑午/兵舅仔/斑龟仔(澎湖)|Thornfish|Three-striped tiger fish|Cresent grunter|Crescent perch|Crescent-banded grunter|Crescent-banded tiger-fish|Jarbua terapon,花身鯻,157.0,19.5,8.2,0.0
+J0407101,布氏鲳鲹(含皮),布氏鯧鰺(含皮)|金槍|金枪|金鯧|金鲳|紅杉|红杉|紅沙瓜仔|红沙瓜仔|長鰭黃臘鰺|长鳍黄腊鲹|甘仔魚(臺東)|甘仔鱼(台东)|紅紗(澎湖)|红纱(澎湖)|Snubnose pompano|Silver pampano|Silver pompano|Snub-nosed dart|Snub-nosed swallowtail|Permit|Pompio|Ovate pompano|Round pompano|Pompano|Snubnose dart|Spinous dory,布氏鯧鰺(含皮),190.0,17.5,12.8,0.0
+J0412501,蔷薇项鳍鱼(含皮),薔薇項鰭魚(含皮)|薔薇連鰭唇魚|蔷薇连鳍唇鱼|薔薇連鰭脣魚|扁礫仔|扁砾仔|紅姑娘仔|红姑娘仔|紅新娘|红新娘|豎停仔|竖停仔|胭脂冷|角龍|角龙|平倍良|薔薇楔鯛|蔷薇楔鲷|薔薇離鰭鯛|蔷薇离鳍鲷|薔薇虹彩|蔷薇虹彩|Rosed razorfish,薔薇項鰭魚(含皮),93.0,17.9,1.8,0.0
+R7501001,香鱼片,香魚片|Dried sweetfish,香魚片,307.0,36.1,0.7,39.1
+J2101501,隆脊管鞭虾,隆脊管鞭蝦|大頭紅蝦|大头红虾|大頭蝦|大头虾|紅蝦|红虾|蔥頭蝦|葱头虾|Big head prawn,隆脊管鞭蝦,96.0,22.1,0.2,0.6
+J0406501,鬼头刀,鬼頭刀|鱰魚|鱰鱼|萬魚|万鱼|飛烏虎|飞乌虎|鬼頭刀(臺東)|鬼头刀(台东)|鱰|萬引|万引|扁頭刀(澎湖)|扁头刀(澎湖)|九萬仔(澎湖)|九万仔(澎湖)|Common dolphifish|Dolphinfish|Dolphin fish|Common dolphin|Dolphin|Dorado|Common dolphinfish|Common dolphin fish|Mahimahi|Green dolphin|Mahi-mahi|Mahi mahi,鬼頭刀,107.0,21.8,1.5,0.0
+J0406101,多鳞沙鮻,多鱗沙鮻|沙腸仔|沙肠仔|kiss 魚|kiss 鱼|Silver sillago,多鱗沙鮻,90.0,18.6,1.2,0.6
+A0400601,冷冻玉米粒,冷凍玉米粒|Corn kernal|Maize kernal|Sweat whole kernal corn,冷凍玉米粒,174.0,3.1,8.2,22.5
+A0501002,胚芽稉米(台稉9号),胚芽稉米(臺稉9號)|胚芽稉米(台稉9號)|Germ rice|Rice with germ|Milled rice with embryo,胚芽稉米(台稉9號),363.0,9.1,1.5,76.5
+A0500204,稉米(台稉8号),稉米(臺稉8號)|稉米(台稉8號)|蓬萊米|蓬莱米|圓米|圆米|Short grain rice,稉米(台稉8號),355.0,6.9,0.4,78.8
+R5300201,香肠,香腸|Pork: sausage,香腸,354.0,17.0,26.3,12.3
+I0404202,清腿(肉鸡),清腿(肉雞)|雞腿|鸡腿|Chicken: whole leg|feed,清腿(肉雞),173.0,16.6,11.3,0.0
+R5100301,切片火腿(猪肉),切片火腿(豬肉)|三明治火腿|火腿片|Sandwich ham,切片火腿(豬肉),147.0,16.5,4.9,9.0
+I0620401,鹅肠,鵝腸|Goose: intestines,鵝腸,63.0,9.2,2.6,0.7
+I0322501,猪脚筋,豬腳筋|蹄筋|長筋|长筋,豬腳筋,72.0,14.4,1.1,0.0
+I0304401,僧帽肌,離緣肉|离缘肉|Trapicius muscle,僧帽肌,209.0,20.4,13.5,0.0
+J0407201,杜氏𫚕,杜氏鰤|紅甘|红甘|紅甘鰺|红甘鲹|竹午|汕午|紅頭午|红头午|Purplish amberjack|Rock salmon|Sailor's choice|Yellow tail|Amberjack|Allied kingfish|Greater yellowtail|Greater amberjack|Great yellowtail|Great amberfish|Jenny lind,杜氏鰤,115.0,21.9,2.4,0.2
+J0800401,柴鱼片,柴魚片|Dried bonito flakes,柴魚片,383.0,76.5,6.2,2.6
+J0408001,斯氏长鳍乌鲂,斯氏長鰭烏魴|深海三角仔|黑飛刀|黑飞刀|黑皮刀|三角仔(臺東)|三角仔(台东)|大鱗烏鯧(澎湖)|大鳞乌鲳(澎湖)|Pomfret|Sickle pomfret,斯氏長鰭烏魴,97.0,22.4,0.1,0.0
+J0407401,泰勃圆鲹,泰勃圓鰺|硬尾|Redtail scad|Robin|Scad|Round robin|Roughear scad|Jack|Kingston|Greater Kingston,泰勃圓鰺,113.0,22.8,1.7,1.4
+J0410501,小黄鱼(去皮),小黃魚(去皮)|黃魚|黄鱼|小黃瓜|小黄瓜|厚鱗仔|厚鳞仔|黃口|黄口|黃順|黄顺|黃瓜|黄瓜|紅瓜|红瓜|Yellow croaker|Yellowfish|Croaker|Little yellow croaker,小黃魚(去皮),100.0,20.0,1.6,0.0
+B0320101,木薯粉,樹薯粉|树薯粉|Cassava starch|Tapioca,木薯粉,362.0,0.1,0.2,87.3
+J3500501,台湾锁管,臺灣鎖管|台灣鎖管|鎖管|锁管|小卷|Inshore squids|Loligo|Neritic squid,台灣鎖管,72.0,16.0,0.4,1.6
+J0408701,单斑笛鲷,單斑笛鯛|點記|点记|黑點仔|黑点仔|黃翅|黄翅|赤筆仔|赤笔仔|點誌仔|点志仔|龍王(臺東)|龙王(台东)|Onespot snapper|One-spot snapper|Onespot perch|One-spot seaperch|Black spot snapper,單斑笛鯛,106.0,20.7,1.9,0.0
+J2101001,哈氏彷对虾,哈氏彷對蝦|長角仿對蝦|长角仿对虾|劍蝦|剑虾|紅(正)劍|红(正)剑|硬槍蝦|硬枪虾|Hard spear prawn|Spear shrimp|Sword prawn,哈氏彷對蝦,82.0,18.7,0.2,0.6
+J0413701,鳞网带䲠(含皮),鱗網帶鰆(含皮)|油魚|油鱼|細鱗仔|细鳞仔|玉梭魚|玉梭鱼|白玉豚|Escolar,鱗網帶鰆(含皮),263.0,18.0,20.7,0.0
+A1000102,薏仁(2025年取样),薏仁(2025年取樣)|薏仁米|薏苡|薏米|Job’s Tears|Adlay|Coix,薏仁(2025年取樣),392.0,15.0,7.1,66.5
+I0106202,腓力牛排(美牛)(2025年取样),腓力牛排(美牛)(2025年取樣)|菲力牛排|牛柳|小里肌|腰內肉|腰内肉|去脂腰里肌肉|去脂腰裏肌肉|全修清去膜腰里脊肉|全修清去膜腰裏脊肉|TenderLoin,腓力牛排(美牛)(2025年取樣),143.0,20.7,6.0,0.2
+D21002,芒果平均值(西洋种),芒果平均值(西洋種)|檬果|檨仔|菴羅果|庵罗果|Mango,芒果平均值(西洋種),50.0,0.6,0.2,13.0
+D21004,芒果平均值(新兴种),芒果平均值(新興種)|檬果|檨仔|菴羅果|庵罗果|Mango,芒果平均值(新興種),56.0,0.6,0.2,14.4
+D36001,甜橙平均值(普遍系),甜橙|柳橙|柳丁|印子柑|廣柑|广柑|Mandarin orange|Sweet orange|Lin-cheng (orange),甜橙平均值(普遍系),46.0,0.8,0.2,11.3
+D28001,水蜜桃平均值,毛桃|白桃|Peach,水蜜桃平均值,39.0,0.9,0.2,9.7
+I0300401,猪肩胛肉,豬肩胛肉|胛心肉|Boston butt|Boston butt and picnic shoulder|Pork shoulder|Pork: forefeet,豬肩胛肉,295.0,16.5,24.8,0.0
+I0300101,猪下肩肉,豬下肩肉|前腿肉|Pork: forefeet,豬下肩肉,200.0,18.1,13.6,0.0
+J0400101,𫚉鱼,魟魚|魴仔|鲂仔|Stingray,魟魚,106.0,24.8,0.1,0.0
+B0800101,荸荠,荸薺|馬蹄|马蹄|Chinese water chestnut|Water chestnut,荸薺,67.0,1.7,0.1,14.5
+A0500402,籼型糯米(2025年取样),秈型糯米(2025年取樣)|長糯米|长糯米|Glutinous Rice,秈型糯米(2025年取樣),362.0,7.0,0.8,79.6
+A0500503,稉型糯米(2025年取样),稉型糯米(2025年取樣)|圓糯米|圆糯米|Glutinous Rice,稉型糯米(2025年取樣),361.0,6.8,0.9,79.4
+D22001,荔枝平均值,丹荔|荔錦|荔锦|麗枝|丽枝|離枝|离枝|Lychee|Lichee|Litchi,荔枝平均值,65.0,1.0,0.2,16.5
+D30001,西洋梨平均值,梨子|水梨|山褵|快果|果宗|Pear,西洋梨平均值,53.0,0.3,0.2,14.1
+E02001,胡萝卜平均值,胡蘿蔔平均值|紅蘿蔔|红萝卜|紅菜頭|红菜头|黃蘿蔔|黄萝卜|丁香蘿蔔|丁香萝卜|人參|人参|金筍|金笋|Carrot,胡蘿蔔平均值,39.0,1.1,0.1,8.9
+E04001,白萝卜平均值,白蘿蔔平均值|蘿蔔|萝卜|菜頭|菜头|萊菔|莱菔|蘆萉|芦萉|仙人骨|大菜|大根|Radish|Chinese radish,白蘿蔔平均值,18.0,0.5,0.1,3.9
+I04062,三节翅平均值,三節翅平均值,三節翅平均值,210.0,18.3,14.6,0.0
+A0400501,糯玉米(双色),糯玉米(雙色)|Corn|Maize,糯玉米(雙色),172.0,4.7,1.9,33.4
+A0900101,荞麦(甜荞),蕎麥(甜蕎)|烏麥|乌麦|甜蕎|甜荞|三角麥|三角麦|Buckwheat,蕎麥(甜蕎),361.0,11.0,2.9,71.3
+J0600201,潮鲷鱼下巴,潮鯛魚下巴,潮鯛魚下巴,245.0,16.1,19.6,0.0
+A0200101,小米,狐尾粟|谷子|穀子|粟|粱|稷|Foxtail-millet|Millet,小米,370.0,11.3,3.7,71.7
+G0300102,草菇(2025年取样),草菇(2025年取樣)|貢菇|贡菇|南華菇|南华菇|廣東菇|广东菇|Straw mushroom|Paddy straw mushroom|Chinese mushroom,草菇(2025年取樣),31.0,3.5,0.3,5.1
+E7300202,圆茄子(2025年取样),圓茄子(2025年取樣)|紅皮菜|红皮菜|紅茄仔|红茄仔|茄仔|落蘇|落苏|昆侖紫瓜|昆仑紫瓜|Eggplant,圓茄子(2025年取樣),25.0,1.4,0.2,5.0
+D20001,甜瓜平均值(光皮洋香瓜),甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|洋香瓜|Melon|Cantaloupe|Honeydew melon|Maskmelon,甜瓜平均值(光皮洋香瓜),30.0,0.9,0.1,7.2
+D41301,可可椰子汁平均值,椰子汁|越王頭汁|越王头汁|Coconut juice|Coco palm juice|Coconut terr juice,可可椰子汁平均值,17.0,0.1,0.1,4.4
+F07001,海带平均值,海帶平均值|江白菜|昆布|海昆布|Kelp|Sea weed,海帶平均值,19.0,0.7,0.1,4.2
+I0302201,猪后腿肉,豬後腿肉|Pork: hind leg|ham|Fresh ham,豬後腿肉,123.0,20.4,4.0,0.4
+I0500301,太空鸭(去皮),太空鴨(去皮)|Whole duck without neck|wings ＆ feet|skinned,太空鴨(去皮),102.0,20.1,1.8,0.0
+C1605101,白芝麻(生),胡麻|烏麻|乌麻|油麻|脂麻|White seasame seed,白芝麻(生),598.0,22.3,54.9,15.0
+C1605102,黑芝麻(生),胡麻|烏麻|乌麻|油麻|脂麻|Black seasame seed,黑芝麻(生),551.0,22.2,48.1,17.6
+E3300105,包心白菜(2025年取样),包心白菜(2025年取樣)|大白菜|黃芽菜|黄芽菜|包心白菜|卷心白菜|捲心白菜|山東白菜|山东白菜|結球白菜|结球白菜|Chinese cabbage / pe-tsai,包心白菜(2025年取樣),12.0,1.0,0.1,2.3
+I0406203,三节翅(肉鸡)(2025年取样),三節翅(肉雞)(2025年取樣)|whole wing,三節翅(肉雞)(2025年取樣),177.0,18.9,10.6,0.6
+J0413802,白带鱼(油带)(2025年取样),白帶魚(油帶)(2025年取樣)|白魚|白鱼|裙帶|裙带|肥帶|肥带|油帶|油带|天竺帶魚|天竺带鱼|白帶魚|白带鱼|黃稜油帶(澎湖)|黄棱油带(澎湖)|Hairtail|cutlassfish|silverfish,白帶魚(油帶)(2025年取樣),218.0,19.2,15.0,0.0
+E9900901,木虌果,木虌子|刺苦瓜|夫妻果|木鱉瓜|木鳖瓜|Spiny bitter gourd,木虌果,70.0,1.1,3.1,10.5
+D20002,甜瓜平均值(东洋系脆瓜),甜瓜平均值(東洋系脆瓜)|甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|Melon|Cantaloupe|Honeydew melon|Maskmelon,甜瓜平均值(東洋系脆瓜),37.0,1.0,0.2,8.9
+D20004,甜瓜平均值(网纹洋香瓜),甜瓜平均值(網紋洋香瓜)|甜瓜|甘瓜|果瓜|香瓜|梨仔瓜|澎湖瓜|洋香瓜|網仔瓜|网仔瓜|哈蜜瓜|Melon|Cantaloupe|Honeydew melon|Maskmelon,甜瓜平均值(網紋洋香瓜),37.0,0.9,0.0,9.3
+G01101,干木耳平均值,幹木耳平均值|乾木耳平均值|黑木耳|桑耳|白背毛木耳|木樟(檽/菌/茸/蛾/樅)|木樟(檽/菌/茸/蛾/枞)|樹雞(毛木耳)|树鸡(毛木耳)|Jew's ear: dry|Juda's ear: dry|Agaric: dry,乾木耳平均值,333.0,13.8,0.7,74.7
+G08001,香菇平均值,冬(北/花/厚/毛)菇|椎茸|香蕈(信/椹)|合蕈|Mushroom|Champignon|Shiitake,香菇平均值,39.0,3.0,0.1,7.6
+I0420701,鸡睪丸,雞睪丸|雞子|鸡子|雞弗|鸡弗|雞胇|鸡胇|雞佛|鸡佛|Chicken: testicles,雞睪丸,71.0,10.6,2.8,0.2
+B0820101,荸荠粉,荸薺粉|馬蹄粉|马蹄粉|Chinese water chestnut starch,荸薺粉,365.0,0.4,0.2,87.8
+A0400201,糯玉米(紫色),Corn|Maize,糯玉米(紫色),168.0,4.5,1.0,34.4
+B0800102,荸荠(2025年取样),荸薺(2025年取樣)|馬蹄|马蹄|Water chestnut,荸薺(2025年取樣),48.0,1.2,0.2,10.1
+J0200401,鲟龙鱼片,鱘龍魚片|Amur sturgeon,鱘龍魚片,157.0,20.1,7.9,0.1
+D31001,蜜枣平均值(大),蜜棗平均值(大)|棗子|枣子|棗仔|枣仔|Indian jujube,蜜棗平均值(大),43.0,1.1,0.1,10.7
+E23001,青葱平均值,青蔥平均值|Welsh onion|Bunching onion|Green onion,青蔥平均值,31.0,1.3,0.2,6.6
+E30001,甘蓝平均值,甘藍平均值|高麗菜|高丽菜|包菜|洋白菜|玻璃菜|玉菜|捲心菜|卷心菜|球葉甘藍|球叶甘蓝|結球甘藍|结球甘蓝|蕃芥藍|蕃芥蓝|Cabbage|White cabbage,甘藍平均值,23.0,1.3,0.1,4.8
+G08101,干香菇平均值,幹香菇平均值|乾香菇平均值|冬(北/花/厚/毛)菇|椎茸|香蕈(信/椹)|合蕈|Mushroom: dry|Champignon: dry|Shiitake: dry,乾香菇平均值,321.0,20.9,1.6,64.9
+A1000101,薏仁,薏仁米|薏苡|薏米|Adlay|Job's tears,薏仁,378.0,14.1,6.1,66.2
+C1610101,白芝麻(熟),胡麻|烏麻|乌麻|油麻|脂麻|Sesame: white,白芝麻(熟),626.0,20.3,58.7,15.7
+C1610201,黑芝麻(熟),胡麻|烏麻|乌麻|油麻|脂麻|Sesame: black,黑芝麻(熟),599.0,17.3,54.4,20.6
+A0500211,稉米(高雄147),蓬萊米|蓬莱米|圓米|圆米|Rice|Kaohsiung 147,稉米(高雄147),358.0,5.5,0.9,79.8
+A05002,稉米平均值,蓬萊米|蓬莱米|圓米|圆米|Short grain rice,稉米平均值,354.0,7.0,0.7,77.8
+A05001,籼米平均值,秈米平均值|在來米|在来米|長米|长米|Long grain rice,秈米平均值,357.0,7.8,0.9,77.4
+E74003,大番茄平均值(绿色系),大番茄平均值(綠色系)|柑仔蜜|甘仔(阿)蜜|草柿|臭柿仔|西紅柿|西红柿|小金瓜|番柿|六月柿|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,大番茄平均值(綠色系),22.0,0.7,0.1,5.0
+E74004,小番茄平均值(红色系),小番茄平均值(紅色系)|柑仔蜜|甘仔(阿)蜜|草柿|臭柿仔|西紅柿|西红柿|小金瓜|番柿|六月柿|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,小番茄平均值(紅色系),33.0,0.9,0.2,7.4
+E33001,结球白菜平均值,結球白菜平均值|大白菜|黃芽菜|黄芽菜|包心白菜|卷心白菜|捲心白菜|山東白菜|山东白菜|結球白菜|结球白菜|Chinese cabbage|Celery cabbage,結球白菜平均值,17.0,1.2,0.3,2.9
+E37002,芹菜平均值,旱芹|藥芹|药芹|洋芹|白芹|塘蒿|和蘭鴨兒芹|和兰鸭儿芹|Celery,芹菜平均值,15.0,0.8,0.1,3.1
+E7500201,甜椒(红皮),甜椒(紅皮)|燈籠椒|灯笼椒|柿子椒|菜椒|大椒|Sweet pepper|Bell pepper,甜椒(紅皮),33.0,0.8,0.5,7.1
+E7500401,甜椒(橙皮),燈籠椒|灯笼椒|柿子椒|菜椒|大椒|Sweet pepper|Bell pepper,甜椒(橙皮),35.0,0.9,0.3,7.7
+A0500209,稉米(高雄145号),稉米(高雄145號)|蓬萊米|蓬莱米|圓米|圆米|Short grain rice,稉米(高雄145號),364.0,6.8,1.0,80.0
+H0610101,发芽黑豆(青仁),發芽黑豆(青仁)|Germinated black soybean,發芽黑豆(青仁),185.0,16.1,7.7,15.9
+H1105102,黄豆(有机)(2025年取样),黃豆(有機)(2025年取樣)|大豆|菽|soybean,黃豆(有機)(2025年取樣),390.0,38.7,15.4,31.1
+I0302202,猪后腿肉(2025年取样),豬後腿肉(2025年取樣)|Pork leg (ham) Boneless,豬後腿肉(2025年取樣),227.0,18.8,16.3,0.0
+E38004,芥菜平均值,刈菜|大菜|芥葉菜|芥叶菜|雞冠菜|鸡冠菜|孤腰菜|Mustard green,芥菜平均值,19.0,1.5,0.2,3.5
+H01051,白凤豆平均值,白鳳豆平均值|矮性刀豆|洋刀豆|立刀豆|Jack bean,白鳳豆平均值,337.0,23.8,2.1,58.2
+I01001,牛小排平均值,肥牛肉|小肋排|牛仔骨,牛小排平均值,325.0,15.1,28.9,0.0
+H1110101,发芽黄豆,發芽黃豆|發芽大豆|发芽大豆|Germinated soybean,發芽黃豆,169.0,16.6,5.4,16.4
+H1150201,豆浆(无糖),豆漿(無糖)|豆奶,豆漿(無糖),35.0,3.6,1.9,0.7
+I0300102,猪下肩肉(2025年取样),豬下肩肉(2025年取樣)|前腿肉|Pork Shoulder Boneless,豬下肩肉(2025年取樣),197.0,18.2,13.3,0.0
+J0415102,刺鲳(含皮)(2025年取样),刺鯧(含皮)(2025年取樣)|肉魚|肉鱼|肉鯽仔|肉鲫仔|土肉|肉鯽|肉鲫|瓜仔鯧|瓜仔鲳|刺鯧|刺鲳|Japanese butterfish|Melon seed,刺鯧(含皮)(2025年取樣),132.0,18.0,6.1,0.0
+B01002,山药平均值,山藥平均值|山芋|山薯|田薯|薯蕷|薯蓣|長薯|长薯|淮山(加工後)|淮山(加工后)|Chinese yam,山藥平均值,85.0,2.8,0.1,17.8
+D02001,木瓜平均值,番木瓜|番瓜|Papaya|Pawpaw,木瓜平均值,38.0,0.6,0.1,9.9
+D16001,杨桃平均值,楊桃平均值|羊桃|洋桃|陽桃|阳桃|五稜子|五棱子|五斂子|五敛子|Star fruit|Carambola,楊桃平均值,32.0,0.5,0.1,8.2
+D17003,绿葡萄平均值,綠葡萄平均值|葡萄|蒲桃|蒲萄|草龍珠|草龙珠|蒲陶|葡桃|Grape,綠葡萄平均值,58.0,0.5,0.2,15.3
+E53001,不结球莴苣平均值,不結球萵苣平均值|葉萵苣|叶莴苣|葉萵|叶莴|萵仔菜|莴仔菜|刈葉萵苣|刈叶莴苣|生菜|妹(媚)仔菜|鵝仔菜(草)|鹅仔菜(草)|春不老|印度萵苣|印度莴苣|Lettuce|(Chinese) Leaf lettuce|Gardon lettuce,不結球萵苣平均值,16.0,1.1,0.3,2.8
+E62001,冬瓜平均值,白瓜|東瓜|东瓜|枕瓜|水芝|地芝|Wax gourd|White gourd|Ash gourd|Chinese waterme,冬瓜平均值,11.0,0.4,0.1,2.4
+I01201,牛肚平均值,百葉胃|百叶胃|毛肚|牛百葉|牛百叶|牛百頁|牛百页|牛草肚(牛之第一胃)|蜂巢肚|金錢肚(牛之第二胃)|金钱肚(牛之第二胃),牛肚平均值,56.0,11.4,0.8,0.1
+I03214,猪骨汤平均值,豬骨湯平均值|高湯|高汤,豬骨湯平均值,8.0,0.9,0.4,0.0
+E7500301,甜椒(黄皮),甜椒(黃皮)|燈籠椒|灯笼椒|柿子椒|菜椒|大椒|Sweet pepper|Bell pepper,甜椒(黃皮),28.0,0.8,0.3,6.0
+E6800101,丝瓜,絲瓜|菜瓜|米管瓜|水瓜|Sponge gourd|Smooth loofah|dishcloth gourd,絲瓜,19.0,1.1,0.1,3.9
+I0502101,樱桃鸭胸肉片,櫻桃鴨胸肉片,櫻桃鴨胸肉片,227.0,16.7,17.2,4.7
+I0404501,去皮去骨鸡腿(肉鸡),去皮去骨雞腿(肉雞),去皮去骨雞腿(肉雞),165.0,19.8,8.9,0.0
+F1100101,长茎葡萄蕨藻,長莖葡萄蕨藻|海葡萄|Sea grape,長莖葡萄蕨藻,6.0,0.2,0.0,1.3
+D19002,西瓜平均值(红肉小瓜),西瓜平均值(紅肉小瓜)|水瓜|寒瓜|夏瓜|Watermelon,西瓜平均值(紅肉小瓜),33.0,0.8,0.1,8.0
+D11002,凤梨平均值(杂交种),鳳梨平均值(雜交種)|鳳梨|凤梨|旺來|旺来|波羅|波罗|黃萊|黄莱|黃梨|黄梨|王萊|王莱|Pineapple,鳳梨平均值(雜交種),53.0,0.7,0.1,13.6
+I04021,里肌肉平均值,,里肌肉平均值,109.0,24.2,0.6,0.0
+I04024,去皮清肉平均值,,去皮清肉平均值,119.0,23.3,2.1,0.0
+I0300502,猪肩胛排(2021年取样),豬肩胛排(2021年取樣)|中排|Pork shoulder steak,豬肩胛排(2021年取樣),244.0,17.8,18.7,0.0
+E6400301,水果小胡瓜,水果小黃瓜|水果小黄瓜|Cucumber,水果小胡瓜,13.0,0.6,0.0,3.0
+J0416701,斑驳尖塘鳢,斑駁尖塘鱧|黑咕嚕|黑咕噜|烏咕嚕仔|乌咕噜仔|筍殼魚|笋壳鱼|雲斑尖塘鱧|云斑尖塘鳢|土鮒|土鲋|竹殼仔|竹壳仔|Marble goby,斑駁尖塘鱧,88.0,19.1,0.7,0.8
+E7300201,圆茄子,圓茄子|紅皮菜|红皮菜|紅茄仔|红茄仔|茄仔|落蘇|落苏|昆侖紫瓜|昆仑紫瓜|Eggplant,圓茄子,21.0,1.0,0.0,4.5
+G0300101,草菇,貢菇|贡菇|南華菇|南华菇|廣東菇|广东菇|(Paddy) Straw mushroom|Agaricus|Button mushroom|Chinese mushroom,草菇,36.0,3.8,0.3,5.9
+C1610102,白芝麻(熟)2022年取样),白芝麻(熟)2022年取樣)|胡麻|烏麻|乌麻|油麻|脂麻|Sesame: white,白芝麻(熟)2022年取樣),601.0,21.7,52.4,21.2
+C1610202,黑芝麻(熟)(2022年取样),黑芝麻(熟)(2022年取樣)|胡麻|烏麻|乌麻|油麻|脂麻|Sesame: black,黑芝麻(熟)(2022年取樣),591.0,20.7,51.8,21.1
+D19004,西瓜平均值(黄肉小瓜),西瓜平均值(黃肉小瓜)|水瓜|寒瓜|夏瓜|Watermelon,西瓜平均值(黃肉小瓜),29.0,0.7,0.0,7.3
+D24001,李子平均值(青皮黄肉),李子平均值(青皮黃肉)|李子|Plum,李子平均值(青皮黃肉),48.0,0.7,0.4,11.7
+D18001,莲雾平均值(粉红色种),蓮霧平均值(粉紅色種)|璉霧|琏雾|輦霧|辇雾|洋蒲桃|Wax(Java) apple|Wax gambuor|Wax jumbo|Bell fruit,蓮霧平均值(粉紅色種),39.0,0.4,0.3,10.0
+D32001,苹果平均值(青皮),蘋果平均值(青皮)|柰|林檎|Apple,蘋果平均值(青皮),50.0,0.3,0.2,13.1
+E63001,南瓜平均值,金瓜|飯瓜|饭瓜|番(翻)瓜|倭(窩)瓜|倭(窝)瓜|紅(冬/西洋)南瓜|红(冬/西洋)南瓜|南瓜|北瓜|玉瓜|筍瓜|笋瓜|Pumkin|Chinese squash|Cashaw,南瓜平均值,74.0,1.9,0.2,17.3
+I04041,骨腿平均值,,骨腿平均值,163.0,18.0,9.5,0.2
+I04042,清腿平均值,,清腿平均值,157.0,18.5,8.7,0.0
+E5300105,萝蔓莴苣,蘿蔓萵苣|蘿蔓|萝蔓|蘿美生菜|萝美生菜|蘿美心|萝美心|凱薩萵苣|凯萨莴苣|Romaine Lettuce|Cos Lettuce|Manchester Lettuce,蘿蔓萵苣,19.0,1.1,0.2,3.7
+E6800301,苹果丝瓜(有机),蘋果絲瓜(有機)|菜瓜|米管瓜|水瓜|Sponge gourd,蘋果絲瓜(有機),20.0,0.6,0.1,4.5
+A0200102,小米(2025年取样),小米(2025年取樣)|狐尾粟|谷子|穀子|粟|粱|稷|Foxtail millet / Italic millet,小米(2025年取樣),379.0,11.0,3.9,73.6
+D32004,苹果平均值(混色),蘋果平均值(混色)|柰|林檎|Apple,蘋果平均值(混色),51.0,0.2,0.1,13.9
+E70001,蒲瓜平均值,扁蒲|蒲仔|瓠子(瓜/餔)|瓠子(瓜/𫗦)|匏仔(瓜)|葫蘆瓜|葫芦瓜|瓢簞|瓢箪|天瓜|龍蛋瓜|龙蛋瓜|蒲(葫/壺)蘆|蒲(葫/壶)芦|Bottle(hairy) gourd|White flowered gourd|Calabash,蒲瓜平均值,18.0,0.5,0.1,4.0
+I0300301,猪上肩肉,豬上肩肉|梅花肉|Pork: part fat,豬上肩肉,207.0,18.9,14.0,0.0
+C1605103,黑芝麻(生)(2025取样),黑芝麻(生)(2025取樣)|胡麻|烏麻|乌麻|油麻|脂麻|Sesame,黑芝麻(生)(2025取樣),562.0,19.1,49.4,20.4
+H0650101,黑豆浆(青仁)(无糖)(2025年取样),黑豆漿(青仁)(無糖)(2025年取樣)|豆奶|Black Soya Bean Milk|Black Bean Milk,黑豆漿(青仁)(無糖)(2025年取樣),33.0,3.2,1.9,1.6
+A0500802,黑籼糯糙米(2025年取样),黑秈糯糙米(2025年取樣)|黑糯米|紫糯米|紫米|貢米|贡米|長生米|长生米|Black Glutinous Brown Rice,黑秈糯糙米(2025年取樣),368.0,7.9,3.7,74.5
+D24002,李子平均值(红皮红肉),李子平均值(紅皮紅肉)|李子|Plum,李子平均值(紅皮紅肉),39.0,0.6,0.3,9.6
+D24003,李子平均值(红皮黄肉),李子平均值(紅皮黃肉)|李子|Plum,李子平均值(紅皮黃肉),48.0,0.7,0.3,11.9
+E75001,甜椒平均值(青皮),青椒|(甜)番椒|青辣椒|大同仔|番羌仔|燈籠椒|灯笼椒|生番薑|生番姜|獅子椒|狮子椒|甘椒|生椒|Sweet pepper|Bell pepper,甜椒平均值(青皮),29.0,1.0,0.4,5.9
+E75006,红辣椒平均值,紅辣椒平均值|辣椒|番椒|番仔薑|番仔姜|牛角辣椒|羊角辣椒|長辣(番)椒|长辣(番)椒|紅辣椒|红辣椒|臘椒|腊椒|Hot pepper|Long pepper|Pepper,紅辣椒平均值,80.0,3.6,0.9,16.4
+I04043,棒棒腿平均值,,棒棒腿平均值,151.0,18.9,7.8,0.0
+I04044,鸡排平均值,雞排平均值,雞排平均值,183.0,17.1,12.2,0.0
+I0300201,猪下肩瘦肉,豬下肩瘦肉|前腿瘦肉|Pork: forefeet|lean meat|Picnic shoulder,豬下肩瘦肉,131.0,20.1,5.0,0.0
+A0501303,糙稉米(台中194),糙稉米(臺中194)|糙米|Brown Rice|Taichung 194|TC194,糙稉米(台中194),367.0,6.6,3.1,76.4
+J3500502,台湾锁管(宜兰野生)(2025年取样),臺灣鎖管(宜蘭野生)(2025年取樣)|台灣鎖管(宜蘭野生)(2025年取樣)|小管|小卷|中卷|透抽|Neritic squid,台灣鎖管(宜蘭野生)(2025年取樣),80.0,15.0,1.8,3.8
+D38003,柠檬汁平均值,檸檬汁平均值|Lemon juice,檸檬汁平均值,31.0,0.5,0.4,7.0
+D08001,北蕉平均值,香蕉|芎蕉|弓蕉|甘蕉|Banana,北蕉平均值,85.0,1.5,0.1,22.1
+E75005,青辣椒平均值,辣椒|番椒|番仔薑|番仔姜|臘椒(牛角辣椒|腊椒(牛角辣椒|羊角辣椒|長辣(番)椒|长辣(番)椒|青辣椒)|Hot pepper|Long pepper|Pepper,青辣椒平均值,33.0,1.3,0.3,6.9
+I04061,二节翅平均值,二節翅平均值,二節翅平均值,226.0,18.1,16.4,0.0
+E3201801,青松菜(有机),青松菜(有機),青松菜(有機),19.0,0.9,0.2,3.8
+E3201901,青油菜(有机),青油菜(有機)|Chinese Mustard,青油菜(有機),14.0,1.5,0.2,2.2
+A0900102,荞麦(甜荞)(2025年取样),蕎麥(甜蕎)(2025年取樣)|烏麥|乌麦|甜蕎|甜荞|三角麥|三角麦|buckwheat,蕎麥(甜蕎)(2025年取樣),359.0,11.4,2.8,70.6
+E17002,绿芦笋平均值,綠蘆筍平均值|野天門冬|野天门冬|松葉土當歸|松叶土当归|石刁柏|龍鬚菜|龙须菜|Asparagus|Spargel|Asperge|Gardon asparagus,綠蘆筍平均值,22.0,2.7,0.2,3.5
+D27002,甜柿平均值,柿子|柹|香柿|Persimmon,甜柿平均值,57.0,0.5,0.1,15.2
+I0302301,猪后腿瘦肉,豬後腿瘦肉|Pork: hind leg|lean meat,豬後腿瘦肉,120.0,21.1,3.4,0.3
+E7500202,甜椒(红皮)(20205年取样),甜椒(紅皮)(20205年取樣)|燈籠椒|灯笼椒|柿子椒|菜椒|大椒|Sweet pepper|Bell pepper,甜椒(紅皮)(20205年取樣),34.0,1.1,0.4,7.0
+H1150301,全豆豆浆,全豆豆漿|高纖豆漿|高纤豆浆|全豆豆奶|Soy Milk no Sugar added,全豆豆漿,41.0,3.9,1.9,2.9
+D15002,芭乐平均值(白肉),芭樂平均值(白肉)|番石榴|芭樂|芭乐|拔仔|扒仔|朳仔|那拔仔|藍拔|蓝拔|Guava,芭樂平均值(白肉),40.0,0.7,0.1,10.2
+E74001,大番茄平均值(红色系),大番茄平均值(紅色系)|柑仔蜜|甘仔(阿)蜜|草柿|臭柿仔|西紅柿|西红柿|小金瓜|番柿|六月柿|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果|Tomato,大番茄平均值(紅色系),19.0,0.8,0.1,4.1
+D3400202,茂谷柑,茂谷|Murcott|Honey tangerine|Honey murcott,茂谷柑,44.0,0.6,0.1,11.5
+E5300104,福山莴苣,福山萵苣|大陸妹|大陆妹|大陸A菜|大陆A菜|劍菜|剑菜|鵝仔菜|鹅仔菜|媚仔菜|油麥菜|油麦菜|romaine lettuce: organic,福山萵苣,13.0,1.0,0.2,2.3
+J21009,白对虾平均值,白對蝦平均值|南美白蝦|南美白虾|美洲白蝦|美洲白虾|南美白對蝦|南美白对虾|白蝦|白虾|Pacific white shrimp,白對蝦平均值,99.0,21.3,0.9,0.0
+J31002,真牡蛎平均值,真牡蠣平均值|正(大/長/鑄大)牡蠣|正(大/长/铸大)牡蛎|正(青)蚵|蚵仔|蚵|蠔|蚝|Giant pacific oyster|Japanese oyster,真牡蠣平均值,54.0,9.4,1.6,4.2
+A05005,稉型糯米平均值,圓糯米|圆糯米|White glutinous rice|short-grain,稉型糯米平均值,358.0,8.3,0.8,77.4
+A05010,胚芽稉米平均值,Germ rice|Rice with germ|Milled rice with embryo,胚芽稉米平均值,362.0,8.2,1.6,76.8
+I03104,猪绞肉平均值,豬絞肉平均值,豬絞肉平均值,212.0,18.7,14.6,0.0
+J04006,魩仔鱼平均值(加工),魩仔魚平均值(加工)|魩仔|Anchovy,魩仔魚平均值(加工),124.0,26.2,1.3,1.0
+A05011,发芽稉米平均值,發芽稉米平均值|發芽糙米|发芽糙米|Sprout rice,發芽稉米平均值,355.0,7.8,2.3,74.0
+A05013,糙稉米平均值,糙米|Brown rice,糙稉米平均值,364.0,7.4,2.3,76.6
+J04010,虱目鱼平均值(去皮),蝨目魚平均值(去皮)|虱目魚平均值(去皮)|麻虱目仔|麻蝨目仔|麻虱(蝨)目|麻虱(虱)目|麻蝨(蝨)目|蝨(遮/塞)目魚|虱(遮/塞)目鱼|虱麻魚|虱麻鱼|蝨麻魚|海草魚|海草鱼|安平魚|安平鱼|國姓(聖)魚|国姓(圣)鱼|Bangos|Bony salmon|Giant herring|Milkfish|Salmon herring|White mullet,虱目魚平均值(去皮),179.0,21.8,9.5,0.2
+K01121,茶叶蛋平均值,茶葉蛋平均值|Hen's egg: hard-boiled with salt and tea leaves,茶葉蛋平均值,145.0,13.7,9.1,2.2
+K01201,卤蛋平均值,滷蛋平均值|Hen's egg: stewed,滷蛋平均值,184.0,16.4,11.1,4.6
+J04050,青星九刺鮨平均值,紅鱠(條/格)|红鲙(条/格)|七星斑|紅格仔|红格仔|過(鯌/髻/郭)魚|过(鯌/髻/郭)鱼|石斑|條舅|条舅|青星九棘鱸|青星九棘鲈|仔石斑|夕鱠|夕鲙|Blue-spotted rockcod|Coral hind|Coral rockcod|Vermillion seabass,青星九刺鮨平均值,94.0,20.9,0.5,0.0
+J04031,鲻平均值(去皮),鯔平均值(去皮)|烏(鯔/信/聖)魚|乌(鲻/信/圣)鱼|青頭仔(幼魚)|青头仔(幼鱼)|奇目仔(成魚)|奇目仔(成鱼)|正(大)烏|正(大)乌|正(回)頭烏|正(回)头乌|日本鯔|日本鲻|Common mullet|Flathead mullet|Grey mullet|Striped mullet,鯔平均值(去皮),152.0,20.6,7.1,0.3
+K01208,卤蛋黄平均值,滷蛋黃平均值|Hen's egg yolk: stewed,滷蛋黃平均值,379.0,17.0,33.7,1.9
+K01503,蒸蛋平均值,Hen's egg custard,蒸蛋平均值,64.0,5.3,4.6,2.2
+J04044,日本花鲈平均值,日本花鱸平均值|七星鱸|七星鲈|花鱸|花鲈|青鱸|青鲈|鱸魚|鲈鱼|日本真鱸|日本真鲈|Perch|Sea bass|Japanese seaperch|Japanese sea bass|Japan sea bass,日本花鱸平均值,98.0,19.9,1.5,0.9
+K01131,鸡皮蛋平均值,雞皮蛋平均值|Hen's egg: alkalized,雞皮蛋平均值,134.0,12.5,8.1,3.0
+J04099,真鲷平均值(去皮),真鯛平均值(去皮)|嘉鱲魚|嘉𫚭鱼|正鯛|正鲷|加臘|加腊|加蚋|加魶|真鯛|真鲷|加幾魚|加几鱼|銅盆魚|铜盆鱼|棘鬣魚|棘鬣鱼|Red seabream|Red tail|Red porgy|Silver seabream|Red sea bream|Red pargo|Genuine porgy|Japanese seabream|Madai|Japanese porgy,真鯛平均值(去皮),110.0,20.6,2.5,0.2
+J04153,银鲳平均值(去皮),銀鯧平均值(去皮)|白(正/暗)鯧|白(正/暗)鲳|白鯧魚|白鲳鱼|鯧仔魚|鲳仔鱼|黑鰭|黑鳍|車片魚|车片鱼|Harvest fish|Silver pomfret|White pomfret,銀鯧平均值(去皮),115.0,17.7,4.4,0.2
+J35001,真乌贼平均值,真烏賊平均值|花枝|墨魚|墨鱼|金烏賊|金乌贼|烏鰂|乌鲗|墨鬥魚|墨斗鱼|Cuttlefish,真烏賊平均值,57.0,12.2,0.6,3.7
+J04024,大西洋鲑鱼平均值(去皮),大西洋鮭魚平均值(去皮)|Atlantic salmon,大西洋鮭魚平均值(去皮),221.0,20.2,14.9,0.0
+J21008,日本对虾平均值,日本對蝦平均值|斑節蝦|斑节虾|雷公蝦|雷公虾|明蝦|明虾|九節蝦|九节虾|Japanese king prawn|Japanese tiger prawn|Kuruma prawn|Striped prawn,日本對蝦平均值,97.0,21.3,0.7,0.4
+D28002,脆桃平均值,桃子|甜桃,脆桃平均值,44.0,0.9,0.1,11.1
+E74006,小番茄平均值(橙色系),柑(甘)仔蜜|草(番|西紅|西红|六月)柿|臭柿仔|小金瓜|洋柿(茄)子|紅茄|红茄|毛臘果|毛腊果,小番茄平均值(橙色系),31.0,1.1,0.2,6.9
+J32002,干贝(干)平均值,乾貝(幹)平均值|干貝(乾)平均值|幹貝(乾)平均值|Scallop,干貝(乾)平均值,242.0,53.7,1.4,10.8
+K01001,鸡蛋平均值,雞蛋平均值|Hen's egg,雞蛋平均值,135.0,12.7,8.9,1.6
+G13002,杏鲍菇平均值,杏鮑菇平均值|鳳尾菇|凤尾菇|雪茸|帝王菇|平菇王|蠔菇王|蚝菇王|干貝菇|干贝菇|幹貝菇|刺芹側耳|刺芹侧耳|義大利側耳|义大利侧耳|義大利蠔菌|义大利蚝菌|杏鮑茸|杏鲍茸|西洋刺耳|King oyster mushroom|apricot mushroom|almond abalone mushroom,杏鮑菇平均值,41.0,2.7,0.2,8.3
+I01101,牛肉火锅片平均值,牛肉火鍋片平均值,牛肉火鍋片平均值,250.0,19.1,18.7,0.0
+K01061,鸡蛋白平均值,雞蛋白平均值|Hen's egg white,雞蛋白平均值,50.0,11.2,0.1,0.5
+K01081,鸡蛋黄平均值,雞蛋黃平均值|Hen's egg yolk,雞蛋黃平均值,308.0,15.2,26.8,3.6
+K01206,卤蛋白平均值,滷蛋白平均值|Hen's egg white: stewed,滷蛋白平均值,87.0,16.7,0.2,4.6
+K02141,鸭咸蛋平均值,鴨鹹蛋平均值|Duck's  egg: salted,鴨鹹蛋平均值,185.0,13.3,14.1,1.1
+L01021,全脂鲜乳平均值,全脂鮮乳平均值|牛乳|牛奶|Whole fresh milk,全脂鮮乳平均值,63.0,3.1,3.6,4.8

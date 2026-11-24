@@ -8,8 +8,9 @@ from typing import Literal
 from pydantic import BaseModel, Field
 
 
-DATA_PATH = Path(__file__).with_name("data") / "usda_sr_legacy.csv"
+DATA_DIR = Path(__file__).with_name("data")
 NUTRIENT_FIELDS = ("energy_kcal", "protein_g", "fat_g", "carbs_g")
+NutritionBasis = Literal["per_100g", "per_serving"]
 
 
 class Nutrients(BaseModel):
@@ -24,6 +25,7 @@ class RecognizedFood(BaseModel):
     category: str = Field(min_length=1, max_length=40)
     portion: str = Field(default="", max_length=60)
     reference_query: str | None = Field(default=None, max_length=70)
+    english_name: str | None = Field(default=None, max_length=120)
     estimated_grams: float | None = Field(default=None, gt=0, le=2000)
     uncertain: bool = True
 
@@ -35,7 +37,7 @@ class PhotoRecognition(BaseModel):
 
 class ReferenceChoice(BaseModel):
     food_index: int = Field(ge=0)
-    fdc_id: int
+    reference_id: str
 
 
 class ReferenceReview(BaseModel):
@@ -44,9 +46,13 @@ class ReferenceReview(BaseModel):
 
 
 class NutritionSource(BaseModel):
+    id: str
     name: str
-    fdc_id: int
+    label: str
     url: str
+    basis: NutritionBasis
+    nutrients: Nutrients
+    fdc_id: int | None = None
 
 
 class FoodEstimate(Nutrients):
@@ -55,7 +61,7 @@ class FoodEstimate(Nutrients):
     portion: str
     estimated_grams: float | None
     reference: NutritionSource | None
-    status: Literal["estimated", "missing_reference", "missing_portion", "needs_confirmation"]
+    status: Literal["estimated", "missing_reference", "missing_portion", "needs_confirmation", "recipe_reference"]
 
 
 class MealAnalysis(BaseModel):
@@ -66,17 +72,44 @@ class MealAnalysis(BaseModel):
 
 
 @dataclass(frozen=True)
+class ReferenceDataset:
+    key: str
+    filename: str
+    label: str
+    url: str
+    basis: NutritionBasis
+    id_column: str = "id"
+
+
+DATASETS = (
+    ReferenceDataset("tfda", "tfda_foods.csv", "食药署食品营养成分资料", "https://data.gov.tw/dataset/8543", "per_100g"),
+    ReferenceDataset("usda", "usda_sr_legacy.csv", "USDA", "https://fdc.nal.usda.gov/food-details/{id}/nutrients", "per_100g", "fdc_id"),
+    ReferenceDataset("chinese", "chinese_recipes.csv", "六大菜系参考配方", "https://doi.org/10.6084/m9.figshare.29977027.v2", "per_serving"),
+    ReferenceDataset("sc_gd", "sichuan_cantonese_recipes.csv", "川菜和粤菜参考配方", "https://doi.org/10.6084/m9.figshare.28457018.v4", "per_serving"),
+)
+
+
+@dataclass(frozen=True)
 class FoodReference:
-    fdc_id: int
+    source_id: str
     name: str
     source_name: str
-    per_100g: dict[str, float]
+    nutrients: dict[str, float]
+    dataset: ReferenceDataset
+
+    @property
+    def id(self) -> str:
+        return f"{self.dataset.key}:{self.source_id}"
 
     def citation(self) -> NutritionSource:
         return NutritionSource(
+            id=self.id,
             name=self.name,
-            fdc_id=self.fdc_id,
-            url=f"https://fdc.nal.usda.gov/food-details/{self.fdc_id}/nutrients",
+            label=self.dataset.label,
+            url=self.dataset.url.format(id=self.source_id),
+            basis=self.dataset.basis,
+            nutrients=Nutrients(**self.nutrients),
+            fdc_id=int(self.source_id) if self.dataset.key == "usda" else None,
         )
 
 
@@ -89,17 +122,19 @@ def normalize_term(value: str) -> str:
 @lru_cache(maxsize=1)
 def reference_index() -> dict[str, tuple[FoodReference, ...]]:
     index: dict[str, list[FoodReference]] = {}
-    with DATA_PATH.open(encoding="utf-8", newline="") as file:
-        for row in csv.DictReader(file):
-            reference = FoodReference(
-                fdc_id=int(row["fdc_id"]),
-                name=row["name"],
-                source_name=row["source_name"],
-                per_100g={key: float(row[key]) for key in NUTRIENT_FIELDS},
-            )
-            terms = {normalize_term(value) for value in [row["name"], *row["aliases"].split("|")]}
-            for term in terms - {""}:
-                index.setdefault(term, []).append(reference)
+    for dataset in DATASETS:
+        with (DATA_DIR / dataset.filename).open(encoding="utf-8", newline="") as file:
+            for row in csv.DictReader(file):
+                reference = FoodReference(
+                    source_id=row[dataset.id_column],
+                    name=row["name"],
+                    source_name=row["source_name"],
+                    nutrients={key: float(row[key]) for key in NUTRIENT_FIELDS},
+                    dataset=dataset,
+                )
+                terms = {normalize_term(value) for value in [row["name"], *row["aliases"].split("|")]}
+                for term in terms - {""}:
+                    index.setdefault(term, []).append(reference)
     return {term: tuple(entries) for term, entries in index.items()}
 
 
@@ -108,12 +143,15 @@ def retrieve_references(food: RecognizedFood) -> list[FoodReference]:
         return []
     index = reference_index()
     references = {}
-    labels = (food.name,) if food.category == "复合菜" else (food.reference_query, food.name)
+    labels = (food.name, food.english_name)
+    if food.category != "复合菜":
+        labels = (food.reference_query, *labels)
     for label in labels:
         if label:
             for entry in index.get(normalize_term(label), ()):
-                references[entry.fdc_id] = entry
-    return list(references.values())[:3]
+                references[entry.id] = entry
+    entries = sorted(references.values(), key=lambda entry: entry.dataset.basis != "per_100g")
+    return entries[:5]
 
 
 def estimate_food(food: RecognizedFood, reference: FoodReference | None) -> FoodEstimate:
@@ -123,11 +161,13 @@ def estimate_food(food: RecognizedFood, reference: FoodReference | None) -> Food
         status = "needs_confirmation"
     elif reference is None:
         status = "missing_reference"
+    elif reference.dataset.basis == "per_serving":
+        status = "recipe_reference"
     elif grams is None:
         status = "missing_portion"
     else:
         status = "estimated"
-        values = {key: value * grams / 100 for key, value in reference.per_100g.items()}
+        values = {key: value * grams / 100 for key, value in reference.nutrients.items()}
     return FoodEstimate(
         name=food.name,
         category=food.category,
