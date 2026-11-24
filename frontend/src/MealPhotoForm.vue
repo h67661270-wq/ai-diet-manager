@@ -152,13 +152,22 @@ function confirm() {
           <div v-if="food.reference || estimateLabels[food.status]" class="analysis-evidence">
             <span v-if="food.energy_kcal != null">约 {{ formatNutrient(food.energy_kcal) }} kcal</span>
             <span v-if="estimateLabels[food.status]">{{ estimateLabels[food.status] }}</span>
-            <a v-if="food.reference" :href="food.reference.url" target="_blank" rel="noreferrer">USDA · {{ food.reference.name }}</a>
+            <a v-if="food.reference" :href="food.reference.url" target="_blank" rel="noreferrer">
+              {{ food.reference.label || 'USDA' }} · {{ food.reference.name }}
+            </a>
+            <p v-if="food.reference?.basis === 'per_serving'" class="analysis-reference-serving">
+              <strong>参考配方每份</strong>
+              <span v-for="(metric, key) in nutrientLabels" :key="key">
+                {{ metric.label }} {{ formatNutrient(food.reference.nutrients[key]) }} {{ metric.unit }}
+              </span>
+            </p>
           </div>
         </li>
       </ul>
       <p v-if="result.follow_up" class="photo-question">{{ result.follow_up }}</p>
       <p v-if="result.notes && result.notes !== result.follow_up" class="photo-note">{{ result.notes }}</p>
       <p v-if="result.foods.some(food => estimateLabels[food.status])" class="photo-note">部分食物还无法换算。你可以先保存食物记录，整餐营养会标为未知。</p>
+      <p v-if="result.foods.some(food => food.status === 'recipe_reference')" class="photo-note">参考配方的每份用料和份量可能不同。你的实际营养摄入会标为未知。</p>
     </section>
 
     <div v-if="preview && !isExample && !busy && (result || error)" class="photo-refinement">
