@@ -1,16 +1,27 @@
 import csv
+import math
 import unicodedata
 from dataclasses import dataclass
 from functools import lru_cache
 from pathlib import Path
 from typing import Literal
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, ValidationError, field_validator
 
 
 DATA_DIR = Path(__file__).with_name("data")
 NUTRIENT_FIELDS = ("energy_kcal", "protein_g", "fat_g", "carbs_g")
 NutritionBasis = Literal["per_100g", "per_serving"]
+
+
+def nonnegative_number(value: object) -> float | None:
+    if not isinstance(value, (str, int, float)) or isinstance(value, bool):
+        return None
+    try:
+        number = float(value)
+    except (ValueError, OverflowError):
+        return None
+    return number if math.isfinite(number) and number >= 0 else None
 
 
 class Nutrients(BaseModel):
@@ -19,23 +30,70 @@ class Nutrients(BaseModel):
     fat_g: float | None = None
     carbs_g: float | None = None
 
+    @field_validator(*NUTRIENT_FIELDS, mode="before")
+    @classmethod
+    def parse_amount(cls, value: object) -> float | None:
+        return nonnegative_number(value)
 
-class RecognizedFood(BaseModel):
+
+class RecognizedFood(Nutrients):
     name: str = Field(min_length=1, max_length=50)
-    category: str = Field(min_length=1, max_length=40)
+    category: str = "其他"
     portion: str = Field(default="", max_length=60)
     reference_query: str | None = Field(default=None, max_length=70)
     english_name: str | None = Field(default=None, max_length=120)
-    estimated_grams: float | None = Field(default=None, gt=0, le=2000)
-    uncertain: bool = True
+    estimated_grams: float | None = None
+    uncertain: bool = False
+
+    @field_validator("name", "category", "portion", "reference_query", "english_name", mode="before")
+    @classmethod
+    def clean_text(cls, value: object, info):
+        text = value.strip() if isinstance(value, str) else ""
+        limits = {"name": 50, "category": 40, "portion": 60, "reference_query": 70, "english_name": 120}
+        if text:
+            return text[:limits[info.field_name]]
+        return {"name": "", "category": "其他", "portion": ""}.get(info.field_name)
+
+    @field_validator("estimated_grams", mode="before")
+    @classmethod
+    def parse_weight(cls, value: object) -> float | None:
+        return nonnegative_number(value) or None
+
+    @field_validator("uncertain", mode="before")
+    @classmethod
+    def parse_uncertainty(cls, value: object) -> bool:
+        return value in (True, "true", "True")
 
 
 class PhotoRecognition(BaseModel):
-    foods: list[RecognizedFood] = Field(max_length=12)
-    notes: str = Field(default="", max_length=240)
+    foods: list[RecognizedFood] = Field(default_factory=list)
+    notes: str = ""
+    totals: Nutrients = Field(default_factory=Nutrients)
+
+    @field_validator("foods", mode="before")
+    @classmethod
+    def keep_recognizable_foods(cls, value: object) -> list[RecognizedFood]:
+        foods = []
+        if isinstance(value, list):
+            for item in value:
+                try:
+                    foods.append(RecognizedFood.model_validate({"name": item} if isinstance(item, str) else item))
+                except ValidationError:
+                    continue
+        return foods
+
+    @field_validator("notes", mode="before")
+    @classmethod
+    def parse_notes(cls, value: object) -> str:
+        return value.strip() if isinstance(value, str) else ""
+
+    @field_validator("totals", mode="before")
+    @classmethod
+    def parse_totals(cls, value: object) -> object:
+        return value if isinstance(value, dict) else {}
 
 
-class ReferenceChoice(BaseModel):
+class ReferenceChoice(Nutrients):
     food_index: int = Field(ge=0)
     reference_id: str
 
@@ -61,7 +119,7 @@ class FoodEstimate(Nutrients):
     portion: str
     estimated_grams: float | None
     reference: NutritionSource | None
-    status: Literal["estimated", "missing_reference", "missing_portion", "needs_confirmation", "recipe_reference"]
+    status: Literal["estimated", "unestimated", "needs_confirmation"]
 
 
 class MealAnalysis(BaseModel):
@@ -139,8 +197,6 @@ def reference_index() -> dict[str, tuple[FoodReference, ...]]:
 
 
 def retrieve_references(food: RecognizedFood) -> list[FoodReference]:
-    if food.uncertain:
-        return []
     index = reference_index()
     references = {}
     labels = (food.name, food.english_name)
@@ -154,34 +210,35 @@ def retrieve_references(food: RecognizedFood) -> list[FoodReference]:
     return entries[:5]
 
 
-def estimate_food(food: RecognizedFood, reference: FoodReference | None) -> FoodEstimate:
-    grams = None if food.uncertain else food.estimated_grams
-    values = {}
+def estimate_food(
+    food: RecognizedFood,
+    reference: FoodReference | None,
+    adjustment: ReferenceChoice | None,
+) -> FoodEstimate:
+    values = {key: getattr(food, key) for key in NUTRIENT_FIELDS}
+    if reference and adjustment:
+        values.update(adjustment.model_dump(include=set(NUTRIENT_FIELDS), exclude_none=True))
     if food.uncertain:
         status = "needs_confirmation"
-    elif reference is None:
-        status = "missing_reference"
-    elif reference.dataset.basis == "per_serving":
-        status = "recipe_reference"
-    elif grams is None:
-        status = "missing_portion"
     else:
-        status = "estimated"
-        values = {key: value * grams / 100 for key, value in reference.nutrients.items()}
+        status = "estimated" if any(value is not None for value in values.values()) else "unestimated"
     return FoodEstimate(
         name=food.name,
         category=food.category,
         portion=food.portion,
-        estimated_grams=grams,
+        estimated_grams=food.estimated_grams,
         reference=reference.citation() if reference else None,
         status=status,
-        **{key: round(value, 1) for key, value in values.items()},
+        **{key: round(value, 1) for key, value in values.items() if value is not None},
     )
 
 
-def meal_totals(foods: list[FoodEstimate]) -> Nutrients:
+def meal_totals(foods: list[FoodEstimate], overall_estimate: Nutrients) -> Nutrients:
     totals = {}
     for key in NUTRIENT_FIELDS:
         values = [getattr(food, key) for food in foods]
-        totals[key] = round(sum(values), 1) if values and all(value is not None for value in values) else None
+        if values and all(value is not None for value in values):
+            totals[key] = round(sum(values), 1)
+        elif values:
+            totals[key] = getattr(overall_estimate, key)
     return Nutrients(**totals)

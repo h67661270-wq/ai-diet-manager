@@ -15,8 +15,7 @@ const busy = ref(false)
 let request
 const estimateLabels = {
   needs_confirmation: '菜名待确认',
-  missing_reference: '暂无匹配的营养资料',
-  missing_portion: '份量待确认',
+  unestimated: '营养暂未估出',
 }
 
 function setPhoto(blob) {
@@ -37,7 +36,7 @@ function beginRequest() {
 
 async function runAnalysis(blob, run) {
   run.signal.throwIfAborted()
-  const timeoutSignal = AbortSignal.timeout(80000)
+  const timeoutSignal = AbortSignal.timeout(100000)
   try {
     const data = await analyzeMeal(blob, AbortSignal.any([run.signal, timeoutSignal]), mealHint.value.trim())
     if (!run.signal.aborted) result.value = data
@@ -105,7 +104,7 @@ onUnmounted(() => {
 })
 
 function confirm() {
-  if (result.value && photo.value && !busy.value) {
+  if (result.value?.foods.length && photo.value && !busy.value) {
     emit('save', { photo: photo.value, analysis: result.value, isExample: isExample.value })
   }
 }
@@ -129,27 +128,27 @@ function confirm() {
       <ImageUp :size="17" />试用示例照片
     </button>
 
-    <p v-if="busy" class="photo-status" role="status"><LoaderCircle :size="18" class="spin" />正在识别食物并核对营养资料…</p>
+    <p v-if="busy" class="photo-status" role="status"><LoaderCircle :size="18" class="spin" />正在识别食物并估算营养…</p>
     <div v-if="error" class="photo-error" role="alert">
       <p>{{ error }}</p>
     </div>
 
     <section v-if="result" class="analysis" aria-label="照片分析结果">
       <div class="analysis-heading">
-        <span><Sparkles :size="17" />{{ isExample ? '示例分析' : 'AI 估算结果' }}</span>
-        <small>份量与营养为估算</small>
+        <span><Sparkles :size="17" />{{ isExample ? '示例分析' : '照片分析' }}</span>
+        <small v-if="result.foods.length">份量与营养为 AI 估算</small>
       </div>
-      <dl class="nutrient-grid">
+      <dl v-if="result.foods.length" class="nutrient-grid">
         <div v-for="(metric, key) in nutrientLabels" :key="key">
           <dt>{{ metric.label }}</dt>
           <dd>{{ formatNutrient(result.totals[key]) }} <small v-if="result.totals[key] != null">{{ metric.unit }}</small></dd>
         </div>
       </dl>
-      <ul class="analysis-foods">
+      <ul v-if="result.foods.length" class="analysis-foods">
         <li v-for="(food, index) in result.foods" :key="index">
           <strong>{{ food.name }}</strong><span>{{ food.category }}</span>
           <small>{{ food.estimated_grams != null ? `约 ${formatNutrient(food.estimated_grams)} g` : food.portion || '份量未知' }}</small>
-          <div v-if="food.reference || estimateLabels[food.status]" class="analysis-evidence">
+          <div v-if="food.energy_kcal != null || food.reference || estimateLabels[food.status]" class="analysis-evidence">
             <span v-if="food.energy_kcal != null">约 {{ formatNutrient(food.energy_kcal) }} kcal</span>
             <span v-if="estimateLabels[food.status]">{{ estimateLabels[food.status] }}</span>
             <a v-if="food.reference" :href="food.reference.url" target="_blank" rel="noreferrer">
@@ -166,8 +165,6 @@ function confirm() {
       </ul>
       <p v-if="result.follow_up" class="photo-question">{{ result.follow_up }}</p>
       <p v-if="result.notes && result.notes !== result.follow_up" class="photo-note">{{ result.notes }}</p>
-      <p v-if="result.foods.some(food => estimateLabels[food.status])" class="photo-note">部分食物还无法换算。你可以先保存食物记录，整餐营养会标为未知。</p>
-      <p v-if="result.foods.some(food => food.status === 'recipe_reference')" class="photo-note">参考配方的每份用料和份量可能不同。你的实际营养摄入会标为未知。</p>
     </section>
 
     <div v-if="preview && !isExample && !busy && (result || error)" class="photo-refinement">
@@ -179,7 +176,7 @@ function confirm() {
       <button class="button quiet" type="button" :disabled="saving" @click="retry"><RotateCcw :size="14" />重新分析</button>
     </div>
 
-    <button class="button primary" type="submit" :disabled="!result || busy || saving"><Check :size="17" />{{ saving ? '正在保存…' : '确认打卡' }}</button>
+    <button class="button primary" type="submit" :disabled="!result?.foods.length || busy || saving"><Check :size="17" />{{ saving ? '正在保存…' : '确认打卡' }}</button>
   </form>
 </template>
 

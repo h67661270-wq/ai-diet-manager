@@ -61,7 +61,7 @@ export async function analyzeMeal(photo, signal, mealHint = '') {
       ? data.detail
       : '未连接到照片分析服务。请检查后端是否启动。')
   }
-  if (!data?.foods?.length || !data.totals) throw new Error('未收到有效的餐食分析。')
+  if (!Array.isArray(data?.foods) || !data.totals) throw new Error('未收到有效的餐食分析。')
   return data
 }
 
